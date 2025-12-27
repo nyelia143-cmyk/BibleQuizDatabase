@@ -1,11 +1,20 @@
 [
   {
-    "question": "దేవుడు ఆకాశమును భూమిని ఎప్పుడు సృజించెను?",
-    "option1": "ఆదియందు",
-    "option2": "చివరలో",
-    "option3": "మధ్యలో",
-    "option4": "తెలియదు",
-    "answer": "ఆదియందు",
-    "book": "ఆదికాండము"
+    "question": "ఆదియందు దేవుడు దేనిని సృజించెను?",
+    "opt1": "ఆకాశమును భూమిని", "opt2": "సముద్రమును", "opt3": "మనుష్యులను", "opt4": "జంతువులను",
+    "correct": "ఆకాశమును భూమిని",
+    "explanation": "ఆదికాండము 1:1 ప్రకారం.",
+    "book": "Genesis",
+    "category": "OldTestament",
+    "chapter": 1
+  },
+  {
+    "question": "డైలీ క్విజ్ ప్రశ్న ఇక్కడ వస్తుంది",
+    "opt1": "A", "opt2": "B", "opt3": "C", "opt4": "D",
+    "correct": "A",
+    "explanation": "వివరణ",
+    "book": "Daily",
+    "category": "DailyQuiz",
+    "chapter": 0
   }
 ]
