@@ -46,5 +46,25 @@
   {
     "url": "https://raw.githubusercontent.com/nyelia143-cmyk/BibleQuizDatabase/main/wallpapers/cross3.jpg",
     "category": "Cross"
-  } 
+  },
+  {
+    "url": "https://raw.githubusercontent.com/nyelia143-cmyk/BibleQuizDatabase/main/wallpapers/nature1.jpg",
+    "category": "Nature"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/nyelia143-cmyk/BibleQuizDatabase/main/wallpapers/nature2.jpg",
+    "category": "Nature"
+  },
+ {
+    "url": "https://raw.githubusercontent.com/nyelia143-cmyk/BibleQuizDatabase/main/wallpapers/nature3.jpg",
+    "category": "Nature"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/nyelia143-cmyk/BibleQuizDatabase/main/wallpapers/nature4.jpg",
+    "category": "Nature"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/nyelia143-cmyk/BibleQuizDatabase/main/wallpapers/nature5.jpg",
+    "category": "Nature"
+  }
 ]
