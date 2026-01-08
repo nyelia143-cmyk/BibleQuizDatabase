@@ -34,5 +34,17 @@
   {
     "url": "https://raw.githubusercontent.com/nyelia143-cmyk/BibleQuizDatabase/main/wallpapers/bird5.jpg",
     "category": "Birds"
-  }
+  },
+ {
+    "url": "https://raw.githubusercontent.com/nyelia143-cmyk/BibleQuizDatabase/main/wallpapers/cross1.jpg",
+    "category": "Cross"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/nyelia143-cmyk/BibleQuizDatabase/main/wallpapers/cross2.jpg",
+    "category": "Cross"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/nyelia143-cmyk/BibleQuizDatabase/main/wallpapers/cross3.jpg",
+    "category": "Cross"
+  } 
 ]
