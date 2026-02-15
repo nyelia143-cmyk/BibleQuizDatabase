@@ -598,6 +598,7 @@
     "category": "NewTestament",
     "chapter": 2
   },
+  [
   {
     "question": "పేతురు తన రెండవ పత్రికను వ్రాయుటలో ముఖ్య ఉద్దేశ్యం ఏమిటి?",
     "opt1": "కొత్త ఆజ్ఞలు ఇచ్చుటకు",
@@ -897,5 +898,5 @@
     "book": "2 Peter",
     "category": "NewTestament",
     "chapter": 3
-  },
+  }
 ]
