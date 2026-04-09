@@ -1,0 +1,198 @@
+[
+  {
+    "id": "prem_quiz_en_01",
+    "title": "Life of Jesus Christ",
+    "diamondCost": 10,
+    "durationMins": 15,
+    "questions": [
+      {
+        "q": "Where was Jesus Christ born?",
+        "a": "Nazareth",
+        "b": "Bethlehem",
+        "c": "Jerusalem",
+        "d": "Capernaum",
+        "ans": "b",
+        "ref": "Matthew 2:1"
+      },
+      {
+        "q": "In which town did Jesus grow up?",
+        "a": "Cana",
+        "b": "Bethany",
+        "c": "Nazareth",
+        "d": "Samaria",
+        "ans": "c",
+        "ref": "Matthew 2:23"
+      },
+      {
+        "q": "With how many loaves and fishes did Jesus feed the five thousand?",
+        "a": "5 loaves, 2 fishes",
+        "b": "7 loaves, 2 fishes",
+        "c": "5 loaves, 5 fishes",
+        "d": "2 loaves, 5 fishes",
+        "ans": "a",
+        "ref": "Matthew 14:17"
+      },
+      {
+        "q": "On which sea did Jesus walk on water?",
+        "a": "Red Sea",
+        "b": "Dead Sea",
+        "c": "Sea of Galilee",
+        "d": "Mediterranean Sea",
+        "ans": "c",
+        "ref": "Matthew 14:25"
+      },
+      {
+        "q": "What is the name of the place where Jesus was crucified?",
+        "a": "Gethsemane",
+        "b": "Golgotha",
+        "c": "Zion",
+        "d": "Mount of Olives",
+        "ans": "b",
+        "ref": "Matthew 27:33"
+      },
+      {
+        "q": "On which day did Jesus rise from the dead?",
+        "a": "Second day",
+        "b": "Third day",
+        "c": "Fourth day",
+        "d": "Seventh day",
+        "ans": "b",
+        "ref": "Luke 24:7"
+      },
+      {
+        "q": "Where did Jesus perform his first miracle?",
+        "a": "Cana",
+        "b": "Nazareth",
+        "c": "Jericho",
+        "d": "Bethlehem",
+        "ans": "a",
+        "ref": "John 2:11"
+      },
+      {
+        "q": "Who anointed Jesus with perfume and wiped his feet with her hair?",
+        "a": "Martha",
+        "b": "Mary Magdalene",
+        "c": "Mary (sister of Lazarus)",
+        "d": "Salome",
+        "ans": "c",
+        "ref": "John 12:3"
+      },
+      {
+        "q": "Which of Jesus' disciples was a tax collector (publican)?",
+        "a": "Peter",
+        "b": "Matthew",
+        "c": "John",
+        "d": "Andrew",
+        "ans": "b",
+        "ref": "Matthew 9:9"
+      },
+      {
+        "q": "At whose tomb did Jesus weep?",
+        "a": "Jairus' daughter",
+        "b": "Lazarus",
+        "c": "John the Baptist",
+        "d": "The widow's son",
+        "ans": "b",
+        "ref": "John 11:35"
+      }
+    ]
+  },
+  {
+    "id": "prem_quiz_en_02",
+    "title": "Heroes of Faith (Old Testament)",
+    "diamondCost": 10,
+    "durationMins": 15,
+    "questions": [
+      {
+        "q": "Who led the Israelites out of the land of Egypt?",
+        "a": "Abraham",
+        "b": "Joseph",
+        "c": "Moses",
+        "d": "Joshua",
+        "ans": "c",
+        "ref": "Exodus 3:10"
+      },
+      {
+        "q": "Which prophet was thrown into the lions' den?",
+        "a": "Isaiah",
+        "b": "Jeremiah",
+        "c": "Daniel",
+        "d": "Ezekiel",
+        "ans": "c",
+        "ref": "Daniel 6:16"
+      },
+      {
+        "q": "Who is called the 'Friend of God' in the Bible?",
+        "a": "David",
+        "b": "Abraham",
+        "c": "Enoch",
+        "d": "Moses",
+        "ans": "b",
+        "ref": "James 2:23"
+      },
+      {
+        "q": "Who was David's closest spiritual friend?",
+        "a": "Saul",
+        "b": "Jonathan",
+        "c": "Absalom",
+        "d": "Samuel",
+        "ans": "b",
+        "ref": "1 Samuel 18:1"
+      },
+      {
+        "q": "When which prophet prayed, did fire come down from heaven?",
+        "a": "Elisha",
+        "b": "Elijah",
+        "c": "Samuel",
+        "d": "Nathan",
+        "ans": "b",
+        "ref": "1 Kings 18:38"
+      },
+      {
+        "q": "To whom did God give the Ten Commandments on Mount Sinai?",
+        "a": "Aaron",
+        "b": "Joshua",
+        "c": "Caleb",
+        "d": "Moses",
+        "ans": "d",
+        "ref": "Exodus 20:1"
+      },
+      {
+        "q": "Who was the first king of Israel?",
+        "a": "Saul",
+        "b": "David",
+        "c": "Solomon",
+        "d": "Samuel",
+        "ans": "a",
+        "ref": "1 Samuel 10:24"
+      },
+      {
+        "q": "Who killed the giant Goliath?",
+        "a": "Samson",
+        "b": "David",
+        "c": "Joab",
+        "d": "Saul",
+        "ans": "b",
+        "ref": "1 Samuel 17:50"
+      },
+      {
+        "q": "Whom did God keep in the belly of a great fish for three days?",
+        "a": "Job",
+        "b": "Jonah",
+        "c": "Micah",
+        "d": "Amos",
+        "ans": "b",
+        "ref": "Jonah 1:17"
+      },
+      {
+        "q": "Who was the leader of the Israelites when the walls of Jericho fell?",
+        "a": "Moses",
+        "b": "Gideon",
+        "c": "Joshua",
+        "d": "Barak",
+        "ans": "c",
+        "ref": "Joshua 6:20"
+      }
+    ]
+  }
+]
