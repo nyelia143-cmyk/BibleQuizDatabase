@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "question": "345 + 212 = ?",
+    "options": ["557", "567", "547", "558"],
+    "correctAnswer": "557",
+    "explanation": "345 + 212 = 557."
+  },
+  {
+    "id": 2,
+    "question": "489 + 123 = ?",
+    "options": ["602", "612", "622", "611"],
+    "correctAnswer": "612",
+    "explanation": "489 + 123 = 612."
+  },
+  {
+    "id": 3,
+    "question": "567 + 344 = ?",
+    "options": ["911", "901", "811", "921"],
+    "correctAnswer": "911",
+    "explanation": "567 + 344 = 911."
+  },
+  {
+    "id": 4,
+    "question": "298 + 456 = ?",
+    "options": ["744", "754", "764", "734"],
+    "correctAnswer": "754",
+    "explanation": "298 + 456 = 754."
+  },
+  {
+    "id": 5,
+    "question": "675 + 289 = ?",
+    "options": ["964", "954", "974", "864"],
+    "correctAnswer": "964",
+    "explanation": "675 + 289 = 964."
+  },
+  {
+    "id": 6,
+    "question": "159 + 782 = ?",
+    "options": ["941", "931", "951", "841"],
+    "correctAnswer": "941",
+    "explanation": "159 + 782 = 941."
+  },
+  {
+    "id": 7,
+    "question": "432 + 568 = ?",
+    "options": ["900", "1000", "990", "1100"],
+    "correctAnswer": "1000",
+    "explanation": "432 + 568 = 1000."
+  },
+  {
+    "id": 8,
+    "question": "824 + 176 = ?",
+    "options": ["990", "1000", "900", "1010"],
+    "correctAnswer": "1000",
+    "explanation": "824 + 176 = 1000."
+  },
+  {
+    "id": 9,
+    "question": "399 + 401 = ?",
+    "options": ["790", "800", "810", "780"],
+    "correctAnswer": "800",
+    "explanation": "399 + 401 = 800."
+  },
+  {
+    "id": 10,
+    "question": "555 + 445 = ?",
+    "options": ["900", "1000", "999", "1010"],
+    "correctAnswer": "1000",
+    "explanation": "555 + 445 = 1000."
+  }
+]
