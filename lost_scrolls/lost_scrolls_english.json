@@ -1,0 +1,427 @@
+[
+  {
+    "id": 1,
+    "scroll_title": "The Staff of the Red Sea",
+    "clue": "I grew up in the royal palace of Pharaoh, yet I parted the Red Sea to lead God's people out of Egypt. Who am I?",
+    "options": [
+      "Moses",
+      "Aaron",
+      "Joshua",
+      "David"
+    ],
+    "correct_answer": "Moses",
+    "reference": "Exodus 14:21",
+    "fact": "Moses stretched out his hand over the sea, and the Lord divided the waters.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 2,
+    "scroll_title": "Prayer in the Lion's Den",
+    "clue": "I prayed three times a day toward Jerusalem despite the king's decree. God shut the lions' mouths and saved me. Who am I?",
+    "options": [
+      "Daniel",
+      "Shadrach",
+      "Meshach",
+      "Abednego"
+    ],
+    "correct_answer": "Daniel",
+    "reference": "Daniel 6:10",
+    "fact": "Daniel trusted in God, and God sent an angel to shut the lions' mouths.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 3,
+    "scroll_title": "Victory by a Sling and Stone",
+    "clue": "With no armor or sword, I defeated the Philistine giant Goliath with just a sling and a smooth stone. Who am I?",
+    "options": [
+      "David",
+      "Saul",
+      "Solomon",
+      "Samuel"
+    ],
+    "correct_answer": "David",
+    "reference": "1 Samuel 17:50",
+    "fact": "David came in the name of the Lord of Hosts and defeated Goliath.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 4,
+    "scroll_title": "The Great Wooden Ark",
+    "clue": "When God warned of a global flood, I built a massive ark of gopher wood to save my family and the animals. Who am I?",
+    "options": [
+      "Noah",
+      "Abraham",
+      "Isaac",
+      "Jacob"
+    ],
+    "correct_answer": "Noah",
+    "reference": "Genesis 6:14",
+    "fact": "Noah walked with God and built the ark according to all that God commanded.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 5,
+    "scroll_title": "Fire on Mount Carmel",
+    "clue": "I challenged the prophets of Baal on Mount Carmel. When I prayed, fire fell from heaven and consumed the altar. Who am I?",
+    "options": [
+      "Elijah",
+      "Elisha",
+      "Isaiah",
+      "Jeremiah"
+    ],
+    "correct_answer": "Elijah",
+    "reference": "1 Kings 18:38",
+    "fact": "The fire of the Lord fell and proved that the Lord alone is God.",
+    "difficulty": "Medium",
+    "time_seconds": 60,
+    "reward_diamonds": 30
+  },
+  {
+    "id": 6,
+    "scroll_title": "Inside the Great Fish",
+    "clue": "I ran away from God's call to preach to Nineveh. After spending three days inside a great fish, I repented and obeyed. Who am I?",
+    "options": [
+      "Jonah",
+      "Habakkuk",
+      "Micah",
+      "Nahum"
+    ],
+    "correct_answer": "Jonah",
+    "reference": "Jonah 1:17",
+    "fact": "Jonah prayed to the Lord from the belly of the fish, and God delivered him.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 7,
+    "scroll_title": "Light on the Damascus Road",
+    "clue": "I once persecuted Christians, but a blinding light from heaven on the road to Damascus transformed me into an apostle. Who am I?",
+    "options": [
+      "Paul",
+      "Peter",
+      "Joshua",
+      "Timothy"
+    ],
+    "correct_answer": "Paul",
+    "reference": "Acts 9:3",
+    "fact": "Saul encountered the risen Christ and became Paul, the great apostle to the Gentiles.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 8,
+    "scroll_title": "Alive After Four Days",
+    "clue": "I had been dead and buried in a tomb for four days until Jesus wept and called out my name to come forth. Who am I?",
+    "options": [
+      "Lazarus",
+      "Jairus",
+      "Bartimaeus",
+      "Nicodemus"
+    ],
+    "correct_answer": "Lazarus",
+    "reference": "John 11:43",
+    "fact": "Jesus cried out, 'Lazarus, come forth!' and the man who had died came out alive.",
+    "difficulty": "Medium",
+    "time_seconds": 60,
+    "reward_diamonds": 30
+  },
+  {
+    "id": 9,
+    "scroll_title": "The King Who Asked for Wisdom",
+    "clue": "When God offered me any gift, I did not ask for riches or long life, but for wisdom to lead God's people. Who am I?",
+    "options": [
+      "Solomon",
+      "David",
+      "Hezekiah",
+      "Josiah"
+    ],
+    "correct_answer": "Solomon",
+    "reference": "1 Kings 3:9",
+    "fact": "God gave Solomon wisdom and understanding beyond measure.",
+    "difficulty": "Medium",
+    "time_seconds": 60,
+    "reward_diamonds": 30
+  },
+  {
+    "id": 10,
+    "scroll_title": "Walking on the Water",
+    "clue": "When I saw Jesus walking on the Sea of Galilee, I stepped out of the boat and walked on the water toward Him. Who am I?",
+    "options": [
+      "Peter",
+      "John",
+      "James",
+      "Andrew"
+    ],
+    "correct_answer": "Peter",
+    "reference": "Matthew 14:29",
+    "fact": "Peter walked on the water toward Jesus by faith.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 11,
+    "scroll_title": "The Birthplace of the Savior",
+    "clue": "In this humble city of Judea, the Savior of the world, Jesus Christ, was born in a manger as foretold by prophets. Which city is it?",
+    "options": [
+      "Bethlehem",
+      "Nazareth",
+      "Jerusalem",
+      "Capernaum"
+    ],
+    "correct_answer": "Bethlehem",
+    "reference": "Matthew 2:1",
+    "fact": "Bethlehem of Judea was prophesied by Micah as the birthplace of the Messiah.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 12,
+    "scroll_title": "The Falling City Walls",
+    "clue": "The walls of this great city collapsed after the Israelites marched around it for seven days and blew trumpets. Which city is it?",
+    "options": [
+      "Jericho",
+      "Ai",
+      "Gibeon",
+      "Shechem"
+    ],
+    "correct_answer": "Jericho",
+    "reference": "Joshua 6:20",
+    "fact": "When the people shouted with a great shout, the wall of Jericho fell flat.",
+    "difficulty": "Medium",
+    "time_seconds": 60,
+    "reward_diamonds": 30
+  },
+  {
+    "id": 13,
+    "scroll_title": "The Strength of the Nazirite",
+    "clue": "As long as I remained a Nazirite with uncut hair, I possessed supernatural strength to defeat lions and armies. Who am I?",
+    "options": [
+      "Samson",
+      "Gideon",
+      "Jephthah",
+      "Barak"
+    ],
+    "correct_answer": "Samson",
+    "reference": "Judges 16:17",
+    "fact": "Samson was chosen from birth to deliver Israel from the Philistines.",
+    "difficulty": "Medium",
+    "time_seconds": 60,
+    "reward_diamonds": 30
+  },
+  {
+    "id": 14,
+    "scroll_title": "The Coat of Many Colors",
+    "clue": "My father gave me a coat of many colors. After being sold into Egypt, God raised me to rule and save my family from famine. Who am I?",
+    "options": [
+      "Joseph",
+      "Reuben",
+      "Benjamin",
+      "Judah"
+    ],
+    "correct_answer": "Joseph",
+    "reference": "Genesis 37:3",
+    "fact": "Joseph forgave his brothers, saying God meant it for good to save lives.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 15,
+    "scroll_title": "The First Miracle at a Wedding",
+    "clue": "In which city of Galilee did Jesus perform His first recorded miracle by turning water into finest wine at a wedding?",
+    "options": [
+      "Cana",
+      "Bethlehem",
+      "Nazareth",
+      "Jerusalem"
+    ],
+    "correct_answer": "Cana",
+    "reference": "John 2:11",
+    "fact": "Jesus manifested His glory at Cana of Galilee, and His disciples believed in Him.",
+    "difficulty": "Medium",
+    "time_seconds": 60,
+    "reward_diamonds": 30
+  },
+  {
+    "id": 16,
+    "scroll_title": "The River of Baptism",
+    "clue": "In which famous river was Jesus baptized by John the Baptist as the Holy Spirit descended like a dove from heaven?",
+    "options": [
+      "Jordan",
+      "Nile",
+      "Euphrates",
+      "Tigris"
+    ],
+    "correct_answer": "Jordan",
+    "reference": "Matthew 3:13",
+    "fact": "The voice of the Father spoke from heaven at Jesus' baptism in the Jordan River.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 17,
+    "scroll_title": "The Mountain of the Commandments",
+    "clue": "On which holy mountain did God descend in fire and thunder to give Moses the Two Tablets of the Ten Commandments?",
+    "options": [
+      "Sinai",
+      "Carmel",
+      "Hermon",
+      "Olives"
+    ],
+    "correct_answer": "Sinai",
+    "reference": "Exodus 19:20",
+    "fact": "Mount Sinai was where God established His covenant with the children of Israel.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 18,
+    "scroll_title": "The Father of Faith",
+    "clue": "I believed God's promise that I would have a son at 100 years old. God accounted my faith for righteousness. Who am I?",
+    "options": [
+      "Abraham",
+      "Lot",
+      "Jacob",
+      "Isaac"
+    ],
+    "correct_answer": "Abraham",
+    "reference": "Genesis 21:5",
+    "fact": "Abraham is known as the father of all who believe in God's promises.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 19,
+    "scroll_title": "The Fiery Furnace",
+    "clue": "I refused to bow to a golden idol and was thrown into a fiery furnace heated seven times hotter, yet God saved me. Who am I?",
+    "options": [
+      "Shadrach",
+      "Daniel",
+      "Ezra",
+      "Nehemiah"
+    ],
+    "correct_answer": "Shadrach",
+    "reference": "Daniel 3:26",
+    "fact": "The Son of God walked with Shadrach, Meshach, and Abednego in the fire.",
+    "difficulty": "Medium",
+    "time_seconds": 60,
+    "reward_diamonds": 30
+  },
+  {
+    "id": 20,
+    "scroll_title": "The Midnight Visitor",
+    "clue": "I was a ruler of the Jews who came to Jesus by night to learn what it means to be born again of the Spirit. Who am I?",
+    "options": [
+      "Nicodemus",
+      "Zacchaeus",
+      "Gamaliel",
+      "Caiaphas"
+    ],
+    "correct_answer": "Nicodemus",
+    "reference": "John 3:1",
+    "fact": "Jesus told Nicodemus that God so loved the world that He gave His only Son.",
+    "difficulty": "Medium",
+    "time_seconds": 60,
+    "reward_diamonds": 30
+  },
+  {
+    "id": 21,
+    "scroll_title": "The Sun Stood Still",
+    "clue": "When I prayed during battle, the sun stood still over Gibeon and the moon over the Valley of Aijalon for a whole day. Who am I?",
+    "options": [
+      "Joshua",
+      "Caleb",
+      "Moses",
+      "Gideon"
+    ],
+    "correct_answer": "Joshua",
+    "reference": "Joshua 10:12",
+    "fact": "There has been no day like that before or since, when the Lord heeded the voice of a man.",
+    "difficulty": "Hard",
+    "time_seconds": 60,
+    "reward_diamonds": 35
+  },
+  {
+    "id": 22,
+    "scroll_title": "The Queen of Courage",
+    "clue": "I risked my royal crown and my life to approach the king uninvited in order to save my Jewish people from Haman's plot. Who am I?",
+    "options": [
+      "Esther",
+      "Ruth",
+      "Naomi",
+      "Deborah"
+    ],
+    "correct_answer": "Esther",
+    "reference": "Esther 4:16",
+    "fact": "Esther declared, 'If I perish, I perish,' and saved her people from destruction.",
+    "difficulty": "Medium",
+    "time_seconds": 60,
+    "reward_diamonds": 30
+  },
+  {
+    "id": 23,
+    "scroll_title": "The Sycamore Tree Climber",
+    "clue": "I was a short tax collector in Jericho who climbed a sycamore tree just to see Jesus pass by. Who am I?",
+    "options": [
+      "Zacchaeus",
+      "Matthew",
+      "Bartimaeus",
+      "Levi"
+    ],
+    "correct_answer": "Zacchaeus",
+    "reference": "Luke 19:4",
+    "fact": "Jesus stayed at Zacchaeus's house and proclaimed salvation had come to his home.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 24,
+    "scroll_title": "The Day of Tongues of Fire",
+    "clue": "On which feast day did the Holy Spirit descend with the sound of a rushing wind and tongues of fire upon 120 disciples?",
+    "options": [
+      "Pentecost",
+      "Passover",
+      "Tabernacles",
+      "Purim"
+    ],
+    "correct_answer": "Pentecost",
+    "reference": "Acts 2:1",
+    "fact": "Three thousand souls were saved on the Day of Pentecost when Peter preached.",
+    "difficulty": "Medium",
+    "time_seconds": 60,
+    "reward_diamonds": 30
+  },
+  {
+    "id": 25,
+    "scroll_title": "The Final Book of Prophecy",
+    "clue": "Which New Testament book was written by the apostle John on the Island of Patmos, revealing the glory of Christ and the end times?",
+    "options": [
+      "Revelation",
+      "Jude",
+      "Hebrews",
+      "James"
+    ],
+    "correct_answer": "Revelation",
+    "reference": "Revelation 1:1",
+    "fact": "Revelation promises a special blessing to everyone who reads and hears its prophetic words.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  }
+]
