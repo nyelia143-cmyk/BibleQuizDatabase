@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "category": "Bible Characters",
+    "clue": "Which prophet stretched out his rod over the Red Sea to divide the waters?",
+    "answer": "MOSES",
+    "scrambled_letters": [
+      "O",
+      "M",
+      "E",
+      "S",
+      "S",
+      "A",
+      "R"
+    ],
+    "reference": "Exodus 14:21",
+    "fact": "Moses led the children of Israel out of Egypt across the parted Red Sea.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 20
+  },
+  {
+    "id": 2,
+    "category": "Bible Places",
+    "clue": "In which holy town was Jesus Christ born?",
+    "answer": "BETHLEHEM",
+    "scrambled_letters": [
+      "E",
+      "B",
+      "T",
+      "H",
+      "L",
+      "E",
+      "H",
+      "E",
+      "M",
+      "A"
+    ],
+    "reference": "Matthew 2:1",
+    "fact": "Jesus was born in Bethlehem of Judea, fulfilling the ancient prophecy of Micah.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 20
+  },
+  {
+    "id": 3,
+    "category": "Bible Kings",
+    "clue": "Which shepherd boy defeated the giant Goliath with a sling and a stone?",
+    "answer": "DAVID",
+    "scrambled_letters": [
+      "A",
+      "D",
+      "I",
+      "V",
+      "D",
+      "S",
+      "O"
+    ],
+    "reference": "1 Samuel 17:50",
+    "fact": "David became Israel's greatest king and wrote many of the Psalms.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 20
+  },
+  {
+    "id": 4,
+    "category": "Bible Wood / Ark",
+    "clue": "What kind of wood did Noah use to build the Ark commanded by God?",
+    "answer": "GOPHER",
+    "scrambled_letters": [
+      "O",
+      "G",
+      "P",
+      "H",
+      "E",
+      "R",
+      "D",
+      "A"
+    ],
+    "reference": "Genesis 6:14",
+    "fact": "God instructed Noah to make rooms in the ark and cover it with pitch inside and out.",
+    "difficulty": "Medium",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 5,
+    "category": "Bible Characters",
+    "clue": "Who was thrown into the den of lions but was saved by an angel of God?",
+    "answer": "DANIEL",
+    "scrambled_letters": [
+      "A",
+      "D",
+      "N",
+      "I",
+      "E",
+      "L",
+      "O",
+      "M"
+    ],
+    "reference": "Daniel 6:22",
+    "fact": "Daniel prayed three times a day toward Jerusalem despite the king's decree.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 20
+  },
+  {
+    "id": 6,
+    "category": "Bible Rivers",
+    "clue": "In which river was Jesus baptized by John the Baptist?",
+    "answer": "JORDAN",
+    "scrambled_letters": [
+      "O",
+      "J",
+      "R",
+      "D",
+      "A",
+      "N",
+      "I",
+      "L"
+    ],
+    "reference": "Matthew 3:13",
+    "fact": "When Jesus came up out of the water, the Spirit of God descended like a dove upon Him.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 20
+  },
+  {
+    "id": 7,
+    "category": "Bible Characters",
+    "clue": "Who was the promised son born to Abraham and Sarah in their old age?",
+    "answer": "ISAAC",
+    "scrambled_letters": [
+      "S",
+      "I",
+      "A",
+      "A",
+      "C",
+      "J",
+      "O"
+    ],
+    "reference": "Genesis 21:3",
+    "fact": "The name Isaac means 'laughter' because both Abraham and Sarah laughed at God's promise.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 20
+  },
+  {
+    "id": 8,
+    "category": "Bible Women",
+    "clue": "Which brave queen fasted for three days and risked her life to save the Jewish people?",
+    "answer": "ESTHER",
+    "scrambled_letters": [
+      "S",
+      "E",
+      "T",
+      "H",
+      "E",
+      "R",
+      "R",
+      "U"
+    ],
+    "reference": "Esther 4:16",
+    "fact": "Esther famously declared, 'If I perish, I perish,' before approaching King Ahasuerus.",
+    "difficulty": "Medium",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 9,
+    "category": "Bible Prophets",
+    "clue": "Which prophet was taken up to heaven in a whirlwind with a chariot of fire?",
+    "answer": "ELIJAH",
+    "scrambled_letters": [
+      "L",
+      "E",
+      "I",
+      "J",
+      "A",
+      "H",
+      "M",
+      "O"
+    ],
+    "reference": "2 Kings 2:11",
+    "fact": "Elijah did not experience physical death on earth; God took him directly to heaven.",
+    "difficulty": "Medium",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 10,
+    "category": "Bible Mountains",
+    "clue": "On which holy mountain did God give Moses the Ten Commandments?",
+    "answer": "SINAI",
+    "scrambled_letters": [
+      "I",
+      "S",
+      "N",
+      "A",
+      "I",
+      "C",
+      "A"
+    ],
+    "reference": "Exodus 19:20",
+    "fact": "Mount Sinai was covered in smoke because the Lord descended upon it in fire.",
+    "difficulty": "Medium",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 11,
+    "category": "Bible Cities",
+    "clue": "Which city's walls fell down flat after the Israelites marched around it for seven days?",
+    "answer": "JERICHO",
+    "scrambled_letters": [
+      "E",
+      "J",
+      "R",
+      "I",
+      "C",
+      "H",
+      "O",
+      "S"
+    ],
+    "reference": "Joshua 6:20",
+    "fact": "When the trumpets sounded and the people shouted, the walls of Jericho collapsed.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 20
+  },
+  {
+    "id": 12,
+    "category": "Bible Apostles",
+    "clue": "Which disciple walked on water toward Jesus but began to sink when he saw the wind?",
+    "answer": "PETER",
+    "scrambled_letters": [
+      "E",
+      "P",
+      "T",
+      "E",
+      "R",
+      "J",
+      "O"
+    ],
+    "reference": "Matthew 14:29",
+    "fact": "Jesus reached out His hand and caught Peter, saying, 'O you of little faith, why did you doubt?'",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 20
+  },
+  {
+    "id": 13,
+    "category": "Bible Prophets",
+    "clue": "Which prophet spent three days and three nights in the belly of a great fish?",
+    "answer": "JONAH",
+    "scrambled_letters": [
+      "O",
+      "J",
+      "N",
+      "A",
+      "H",
+      "M",
+      "E"
+    ],
+    "reference": "Jonah 1:17",
+    "fact": "Jonah prayed from inside the fish, and the Lord commanded the fish to vomit him onto dry land.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 20
+  },
+  {
+    "id": 14,
+    "category": "Bible Places",
+    "clue": "What is the Aramaic name for the Place of a Skull where Jesus was crucified?",
+    "answer": "GOLGOTHA",
+    "scrambled_letters": [
+      "O",
+      "G",
+      "L",
+      "G",
+      "O",
+      "T",
+      "H",
+      "A",
+      "S"
+    ],
+    "reference": "Matthew 27:33",
+    "fact": "Golgotha is located outside the city walls of ancient Jerusalem.",
+    "difficulty": "Medium",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 15,
+    "category": "Bible Judges",
+    "clue": "Who was the strongest judge of Israel whose secret strength lay in his uncut hair?",
+    "answer": "SAMSON",
+    "scrambled_letters": [
+      "A",
+      "S",
+      "M",
+      "S",
+      "O",
+      "N",
+      "G",
+      "I"
+    ],
+    "reference": "Judges 16:17",
+    "fact": "Samson was a Nazirite from birth, dedicated to God with a vow never to cut his hair.",
+    "difficulty": "Medium",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 16,
+    "category": "Bible Apostles",
+    "clue": "Which disciple betrayed Jesus Christ for thirty pieces of silver?",
+    "answer": "JUDAS",
+    "scrambled_letters": [
+      "U",
+      "J",
+      "D",
+      "A",
+      "S",
+      "T",
+      "O"
+    ],
+    "reference": "Matthew 26:15",
+    "fact": "Judas Iscariot identified Jesus to the chief priests with a kiss in the Garden of Gethsemane.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 20
+  },
+  {
+    "id": 17,
+    "category": "Bible Apostles",
+    "clue": "Which disciple doubted Jesus' resurrection until he saw the nail marks in His hands?",
+    "answer": "THOMAS",
+    "scrambled_letters": [
+      "H",
+      "T",
+      "O",
+      "M",
+      "A",
+      "S",
+      "P",
+      "E"
+    ],
+    "reference": "John 20:25",
+    "fact": "When Jesus appeared, Thomas exclaimed, 'My Lord and my God!'",
+    "difficulty": "Medium",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 18,
+    "category": "Bible Kings",
+    "clue": "Who was the wisest king of Israel who built the first holy Temple in Jerusalem?",
+    "answer": "SOLOMON",
+    "scrambled_letters": [
+      "O",
+      "S",
+      "L",
+      "O",
+      "M",
+      "O",
+      "N",
+      "D",
+      "A"
+    ],
+    "reference": "1 Kings 3:12",
+    "fact": "When God asked what Solomon desired, he chose wisdom to govern God's people justly.",
+    "difficulty": "Medium",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 19,
+    "category": "Bible Women",
+    "clue": "Who was the first person to see the risen Jesus Christ on Easter morning?",
+    "answer": "MARY",
+    "scrambled_letters": [
+      "A",
+      "M",
+      "R",
+      "Y",
+      "R",
+      "U",
+      "T",
+      "H"
+    ],
+    "reference": "John 20:14",
+    "fact": "Mary Magdalene stood weeping outside the empty tomb before Jesus called her by name.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 20
+  },
+  {
+    "id": 20,
+    "category": "Bible Prophets",
+    "clue": "Which prophet wrote extensively about the Messiah as the Suffering Servant?",
+    "answer": "ISAIAH",
+    "scrambled_letters": [
+      "S",
+      "I",
+      "A",
+      "I",
+      "A",
+      "H",
+      "J",
+      "E"
+    ],
+    "reference": "Isaiah 53:5",
+    "fact": "Isaiah prophesied that the Messiah would be wounded for our transgressions.",
+    "difficulty": "Hard",
+    "time_seconds": 60,
+    "reward_diamonds": 30
+  },
+  {
+    "id": 21,
+    "category": "Bible Characters",
+    "clue": "What was the original Hebrew name of the Apostle Paul before his conversion on the Damascus road?",
+    "answer": "SAUL",
+    "scrambled_letters": [
+      "A",
+      "S",
+      "U",
+      "L",
+      "P",
+      "E",
+      "T"
+    ],
+    "reference": "Acts 9:4",
+    "fact": "Saul saw a blinding light from heaven and heard Jesus say, 'Why do you persecute Me?'",
+    "difficulty": "Medium",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 22,
+    "category": "Bible Women",
+    "clue": "Which Moabite woman famously said to Naomi, 'Your people shall be my people, and your God my God'?",
+    "answer": "RUTH",
+    "scrambled_letters": [
+      "U",
+      "R",
+      "T",
+      "H",
+      "N",
+      "A",
+      "O"
+    ],
+    "reference": "Ruth 1:16",
+    "fact": "Ruth married Boaz in Bethlehem and became the great-grandmother of King David.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 20
+  },
+  {
+    "id": 23,
+    "category": "Bible Characters",
+    "clue": "Who walked faithfully with God for 300 years and was taken to heaven without dying?",
+    "answer": "ENOCH",
+    "scrambled_letters": [
+      "N",
+      "E",
+      "O",
+      "C",
+      "H",
+      "N",
+      "O",
+      "A"
+    ],
+    "reference": "Genesis 5:24",
+    "fact": "The Bible says Enoch walked with God, and he was not, for God took him.",
+    "difficulty": "Hard",
+    "time_seconds": 60,
+    "reward_diamonds": 30
+  },
+  {
+    "id": 24,
+    "category": "Bible Characters",
+    "clue": "Who was the father of Joseph who gave him a coat of many colors?",
+    "answer": "JACOB",
+    "scrambled_letters": [
+      "A",
+      "J",
+      "C",
+      "O",
+      "B",
+      "I",
+      "S",
+      "A"
+    ],
+    "reference": "Genesis 37:3",
+    "fact": "God changed Jacob's name to Israel after he wrestled with an angel at Peniel.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 20
+  },
+  {
+    "id": 25,
+    "category": "Bible Mountains",
+    "clue": "On which mountain range did Noah's Ark come to rest after the Great Flood?",
+    "answer": "ARARAT",
+    "scrambled_letters": [
+      "R",
+      "A",
+      "A",
+      "R",
+      "A",
+      "T",
+      "S",
+      "I"
+    ],
+    "reference": "Genesis 8:4",
+    "fact": "The ark rested on the mountains of Ararat on the seventeenth day of the seventh month.",
+    "difficulty": "Hard",
+    "time_seconds": 60,
+    "reward_diamonds": 30
+  }
+]
