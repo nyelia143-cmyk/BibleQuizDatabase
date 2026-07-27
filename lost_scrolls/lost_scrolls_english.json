@@ -1,76 +1,484 @@
 [
   {
     "id": 1,
-    "scroll_title": "The Staff of the Red Sea",
-    "clue": "I grew up in the royal palace of Pharaoh, yet I parted the Red Sea to lead God's people out of Egypt. Who am I?",
+    "scroll_title": "The Mystery of the Eden Tree",
+    "clue": "I stand in the middle of the Garden. Whoever eats my fruit will know good and evil. God commanded Adam and Eve not to eat from me. What am I?",
     "options": [
-      "Moses",
-      "Aaron",
-      "Joshua",
-      "David"
+      "The Tree of the Knowledge of Good and Evil",
+      "The Tree of Life",
+      "The Fig Tree",
+      "The Olive Tree"
     ],
-    "correct_answer": "Moses",
-    "reference": "Exodus 14:21",
-    "fact": "Moses stretched out his hand over the sea, and the Lord divided the waters.",
+    "correct_answer": "The Tree of the Knowledge of Good and Evil",
+    "reference": "Genesis 2:9",
+    "fact": "God commanded Adam and Eve not to eat from this specific tree in the Garden of Eden.",
     "difficulty": "Easy",
     "time_seconds": 60,
     "reward_diamonds": 25
   },
   {
     "id": 2,
-    "scroll_title": "Prayer in the Lion's Den",
-    "clue": "I prayed three times a day toward Jerusalem despite the king's decree. God shut the lions' mouths and saved me. Who am I?",
+    "scroll_title": "The First Murder Scroll",
+    "clue": "I was the very first human born on earth, but out of jealousy because God accepted my brother's offering over mine, I took his life. Who am I?",
     "options": [
-      "Daniel",
-      "Shadrach",
-      "Meshach",
-      "Abednego"
+      "Cain",
+      "Abel",
+      "Seth",
+      "Lamech"
     ],
-    "correct_answer": "Daniel",
-    "reference": "Daniel 6:10",
-    "fact": "Daniel trusted in God, and God sent an angel to shut the lions' mouths.",
+    "correct_answer": "Cain",
+    "reference": "Genesis 4:8",
+    "fact": "Cain attacked his younger brother Abel in the field, becoming the first murderer.",
     "difficulty": "Easy",
     "time_seconds": 60,
     "reward_diamonds": 25
   },
   {
     "id": 3,
-    "scroll_title": "Victory by a Sling and Stone",
-    "clue": "With no armor or sword, I defeated the Philistine giant Goliath with just a sling and a smooth stone. Who am I?",
+    "scroll_title": "The Gopher Wood Sanctuary",
+    "clue": "When a global flood submerged the earth, I was built with three decks of gopher wood and preserved eight human lives and the animal kingdom. What am I?",
     "options": [
-      "David",
-      "Saul",
-      "Solomon",
-      "Samuel"
+      "Noah's Ark",
+      "The Ark of the Covenant",
+      "Solomon's Ship",
+      "Jonah's Vessel"
     ],
-    "correct_answer": "David",
-    "reference": "1 Samuel 17:50",
-    "fact": "David came in the name of the Lord of Hosts and defeated Goliath.",
+    "correct_answer": "Noah's Ark",
+    "reference": "Genesis 6:14-16",
+    "fact": "Noah built the Ark exactly to God's dimensions over many years of faithful labor.",
     "difficulty": "Easy",
     "time_seconds": 60,
     "reward_diamonds": 25
   },
   {
     "id": 4,
-    "scroll_title": "The Great Wooden Ark",
-    "clue": "When God warned of a global flood, I built a massive ark of gopher wood to save my family and the animals. Who am I?",
+    "scroll_title": "The Covenant in the Clouds",
+    "clue": "After the great Flood, God placed me in the clouds as an everlasting covenant token that He would never again destroy the earth by water. What am I?",
     "options": [
-      "Noah",
-      "Abraham",
-      "Isaac",
-      "Jacob"
+      "The Rainbow",
+      "The Olive Branch",
+      "The Dove",
+      "The Stone Altar"
     ],
-    "correct_answer": "Noah",
-    "reference": "Genesis 6:14",
-    "fact": "Noah walked with God and built the ark according to all that God commanded.",
+    "correct_answer": "The Rainbow",
+    "reference": "Genesis 9:13",
+    "fact": "God set His bow in the clouds as a reminder of His mercy and enduring covenant.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 15
+  },
+  {
+    "id": 5,
+    "scroll_title": "The Confusion of Tongues",
+    "clue": "When prideful humanity attempted to build a tower reaching to the heavens, God confused their language at this famous ancient city. Which city was it?",
+    "options": [
+      "Babel (Babylon)",
+      "Sodom",
+      "Jericho",
+      "Nineveh"
+    ],
+    "correct_answer": "Babel (Babylon)",
+    "reference": "Genesis 11:9",
+    "fact": "The Lord confused the language of the whole world at Babel and scattered people over the earth.",
     "difficulty": "Easy",
     "time_seconds": 60,
     "reward_diamonds": 25
   },
   {
-    "id": 5,
-    "scroll_title": "Fire on Mount Carmel",
-    "clue": "I challenged the prophets of Baal on Mount Carmel. When I prayed, fire fell from heaven and consumed the altar. Who am I?",
+    "id": 6,
+    "scroll_title": "The Pillar of Salt Mystery",
+    "clue": "As fire and brimstone rained down upon Sodom, who disobeyed the angels' warning by looking back and was turned into a pillar of salt?",
+    "options": [
+      "Lot's wife",
+      "Lot's daughter",
+      "Sarah",
+      "Rebekah"
+    ],
+    "correct_answer": "Lot's wife",
+    "reference": "Genesis 19:26",
+    "fact": "Lot's wife looked back at Sodom with longing and became a pillar of salt.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 7,
+    "scroll_title": "The Interpreter of Dreams",
+    "clue": "Though my brothers sold me into slavery in Egypt, God gave me wisdom to interpret Pharaoh's dreams and I became ruler over all Egypt. Who am I?",
+    "options": [
+      "Joseph",
+      "Benjamin",
+      "Judah",
+      "Levi"
+    ],
+    "correct_answer": "Joseph",
+    "reference": "Genesis 41:41",
+    "fact": "Joseph saved Egypt and his entire family from a severe seven-year famine.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 8,
+    "scroll_title": "The Burning Bush Scroll",
+    "clue": "I burned with fire yet was not consumed. From my midst, God called Moses to return to Egypt and liberate His people. Where was I located?",
+    "options": [
+      "Mount Horeb (Sinai)",
+      "Mount Carmel",
+      "Mount Zion",
+      "Mount Nebo"
+    ],
+    "correct_answer": "Mount Horeb (Sinai)",
+    "reference": "Exodus 3:1-2",
+    "fact": "The angel of the Lord appeared to Moses in flames of fire from within a bush at Horeb.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 9,
+    "scroll_title": "The Blood of the Passover",
+    "clue": "When the destroying angel passed through Egypt, what blood was painted on the doorposts so the firstborn inside would be spared?",
+    "options": [
+      "The blood of a Passover lamb",
+      "The blood of an ox",
+      "The blood of a dove",
+      "The blood of a goat"
+    ],
+    "correct_answer": "The blood of a Passover lamb",
+    "reference": "Exodus 12:13",
+    "fact": "'When I see the blood, I will pass over you,' the Lord promised His people.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 10,
+    "scroll_title": "The Parted Waters",
+    "clue": "When Moses stretched out his staff, which mighty body of water divided to create a dry path for Israel and drowned the Egyptian army?",
+    "options": [
+      "The Red Sea",
+      "The Dead Sea",
+      "The Sea of Galilee",
+      "The Mediterranean Sea"
+    ],
+    "correct_answer": "The Red Sea",
+    "reference": "Exodus 14:21",
+    "fact": "The Lord drove the sea back with a strong east wind and turned it into dry land.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 11,
+    "scroll_title": "The Bread from Heaven",
+    "clue": "Falling like dew each morning in the wilderness, what white, coriander-like substance tasted like wafers made with honey?",
+    "options": [
+      "Manna",
+      "Quail",
+      "Figs",
+      "Grapes"
+    ],
+    "correct_answer": "Manna",
+    "reference": "Exodus 16:31",
+    "fact": "The Israelites ate manna for forty years until they reached the border of Canaan.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 12,
+    "scroll_title": "The Two Stone Tablets",
+    "clue": "On which holy mountain did God Himself write the Ten Commandments on two stone tablets and give them to Moses?",
+    "options": [
+      "Mount Sinai",
+      "Mount Nebo",
+      "Mount Hermon",
+      "Mount of Olives"
+    ],
+    "correct_answer": "Mount Sinai",
+    "reference": "Exodus 31:18",
+    "fact": "God gave Moses two tablets of the covenant law, inscribed by the finger of God.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 13,
+    "scroll_title": "The Golden Calf Idol",
+    "clue": "While Moses delayed on Mount Sinai, what idolatrous image did Aaron fashion out of gold jewelry for the Israelites to worship?",
+    "options": [
+      "A Golden Calf",
+      "A Bronze Serpent",
+      "A Baal Statue",
+      "A Dagon Idol"
+    ],
+    "correct_answer": "A Golden Calf",
+    "reference": "Exodus 32:4",
+    "fact": "They bowed down to the calf and said, 'These are your gods, Israel, who brought you up out of Egypt.'",
+    "difficulty": "Medium",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 14,
+    "scroll_title": "The Sacred Chest",
+    "clue": "I am overlaid with gold, and inside me lie the golden jar of manna, Aaron's staff that budded, and the stone tablets of the covenant. What am I?",
+    "options": [
+      "The Ark of the Covenant",
+      "The Altar of Incense",
+      "The Golden Lampstand",
+      "The Table of Showbread"
+    ],
+    "correct_answer": "The Ark of the Covenant",
+    "reference": "Hebrews 9:4",
+    "fact": "The Ark of the Covenant rested in the Most Holy Place as the throne of God's presence.",
+    "difficulty": "Medium",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 15,
+    "scroll_title": "The Scarlet Cord Token",
+    "clue": "Which woman in Jericho hid the Israelite spies and tied a scarlet cord in her window so her household would be spared?",
+    "options": [
+      "Rahab",
+      "Ruth",
+      "Deborah",
+      "Jael"
+    ],
+    "correct_answer": "Rahab",
+    "reference": "Joshua 2:18",
+    "fact": "By her faith, Rahab and all her family were saved when Jericho fell.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 16,
+    "scroll_title": "The Crumbling Walls",
+    "clue": "After marching around the city for seven days and blowing ram's-horn trumpets on the seventh day, which city's walls collapsed flat?",
+    "options": [
+      "The walls of Jericho",
+      "The walls of Ai",
+      "The walls of Jerusalem",
+      "The walls of Nineveh"
+    ],
+    "correct_answer": "The walls of Jericho",
+    "reference": "Joshua 6:20",
+    "fact": "When the trumpets sounded and the people shouted, the walls of Jericho fell.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 17,
+    "scroll_title": "The Sun That Stood Still",
+    "clue": "When Joshua prayed during battle, 'Sun, stand still over Gibeon,' for about how long did the sun delay going down?",
+    "options": [
+      "About a full day",
+      "Three hours",
+      "Half a day",
+      "Two days"
+    ],
+    "correct_answer": "About a full day",
+    "reference": "Joshua 10:13",
+    "fact": "The sun stopped in the middle of the sky and delayed going down about a full day.",
+    "difficulty": "Medium",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 18,
+    "scroll_title": "The Three Hundred Warriors",
+    "clue": "Armed only with trumpets, clay jars, and torches, which judge defeated the vast Midianite army with just 300 men?",
+    "options": [
+      "Gideon",
+      "Samson",
+      "Jephthah",
+      "Barak"
+    ],
+    "correct_answer": "Gideon",
+    "reference": "Judges 7:20",
+    "fact": "They shouted, 'A sword for the Lord and for Gideon!' and God granted the victory.",
+    "difficulty": "Medium",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 19,
+    "scroll_title": "The Secret of Nazarite Strength",
+    "clue": "I tore a young lion apart with my bare hands. My supernatural strength was tied to my Nazarite vow and uncut hair. Who am I?",
+    "options": [
+      "Samson",
+      "Saul",
+      "David",
+      "Joshua"
+    ],
+    "correct_answer": "Samson",
+    "reference": "Judges 14:6",
+    "fact": "The Spirit of the Lord came powerfully upon Samson, giving him miraculous strength.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 20,
+    "scroll_title": "The Loyal Daughter-in-Law",
+    "clue": "'Your people will be my people and your God my God.' Which Moabite woman spoke these words to her mother-in-law Naomi?",
+    "options": [
+      "Ruth",
+      "Orpah",
+      "Hannah",
+      "Esther"
+    ],
+    "correct_answer": "Ruth",
+    "reference": "Ruth 1:16",
+    "fact": "Ruth's loyalty led her to Bethlehem, where she became an ancestor of King David and Jesus.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 21,
+    "scroll_title": "The Kinsman-Redeemer",
+    "clue": "Who was the wealthy landowner in Bethlehem who showed kindness to Ruth as she gleaned in his field and later married her?",
+    "options": [
+      "Boaz",
+      "Elimelech",
+      "Mahlon",
+      "Chilion"
+    ],
+    "correct_answer": "Boaz",
+    "reference": "Ruth 2:5-6",
+    "fact": "Boaz acted as kinsman-redeemer, marrying Ruth and becoming the great-grandfather of David.",
+    "difficulty": "Medium",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 22,
+    "scroll_title": "The Midnight Call",
+    "clue": "'Speak, Lord, for your servant is listening.' Which boy prophet heard God calling him in the night while sleeping in the tabernacle?",
+    "options": [
+      "Samuel",
+      "David",
+      "Solomon",
+      "Jeremiah"
+    ],
+    "correct_answer": "Samuel",
+    "reference": "1 Samuel 3:10",
+    "fact": "Samuel grew up to be Israel's greatest judge and the prophet who anointed Saul and David.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 23,
+    "scroll_title": "The Sling and the Stone",
+    "clue": "Armed with only a shepherd's staff, a sling, and five smooth stones from a stream, who killed the Philistine giant Goliath?",
+    "options": [
+      "David",
+      "Saul",
+      "Jonathan",
+      "Abner"
+    ],
+    "correct_answer": "David",
+    "reference": "1 Samuel 17:40-49",
+    "fact": "'I come against you in the name of the Lord Almighty,' David declared to Goliath.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 24,
+    "scroll_title": "The Covenant of Friendship",
+    "clue": "Though I was King Saul's eldest son and heir, I loved David as my own soul and gave him my royal robe, sword, and bow. Who am I?",
+    "options": [
+      "Jonathan",
+      "Absalom",
+      "Amnon",
+      "Solomon"
+    ],
+    "correct_answer": "Jonathan",
+    "reference": "1 Samuel 18:3-4",
+    "fact": "Jonathan made a solemn covenant of friendship with David and protected him from Saul.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 25,
+    "scroll_title": "The Dancing King",
+    "clue": "When the Ark of the Covenant was brought into Jerusalem, which king danced before the Lord with all his might wearing a linen ephod?",
+    "options": [
+      "King David",
+      "King Solomon",
+      "King Hezekiah",
+      "King Josiah"
+    ],
+    "correct_answer": "King David",
+    "reference": "2 Samuel 6:14",
+    "fact": "David rejoiced with uncontained gratitude at God's holy presence entering Jerusalem.",
+    "difficulty": "Medium",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 26,
+    "scroll_title": "The Choice of Wisdom",
+    "clue": "When God appeared in a dream and asked, 'Ask for whatever you want,' which young king asked for a discerning heart to govern God's people?",
+    "options": [
+      "Solomon",
+      "David",
+      "Saul",
+      "Rehoboam"
+    ],
+    "correct_answer": "Solomon",
+    "reference": "1 Kings 3:9-12",
+    "fact": "God was so pleased with Solomon's request that He also granted him riches and honor.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 27,
+    "scroll_title": "The First Holy Temple",
+    "clue": "Who spent seven years building the magnificent first Temple of the Lord on Mount Moriah in Jerusalem?",
+    "options": [
+      "Solomon",
+      "David",
+      "Herod",
+      "Zerubbabel"
+    ],
+    "correct_answer": "Solomon",
+    "reference": "1 Kings 6:38",
+    "fact": "Upon completion, the glory of the Lord filled the Temple in a thick cloud.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 28,
+    "scroll_title": "The Visiting Queen",
+    "clue": "Which royal visitor traveled a great distance with spices, gold, and jewels to test King Solomon with hard questions?",
+    "options": [
+      "The Queen of Sheba",
+      "Queen Esther",
+      "Queen Vashti",
+      "Queen Athaliah"
+    ],
+    "correct_answer": "The Queen of Sheba",
+    "reference": "1 Kings 10:1-2",
+    "fact": "She exclaimed to Solomon, 'Not even half was told me; you far exceed the report I heard!'",
+    "difficulty": "Medium",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 29,
+    "scroll_title": "The Ravens' Bread",
+    "clue": "During a three-and-a-half-year drought, which prophet was fed bread and meat every morning and evening by ravens at the Kerith Ravine?",
     "options": [
       "Elijah",
       "Elisha",
@@ -78,101 +486,237 @@
       "Jeremiah"
     ],
     "correct_answer": "Elijah",
-    "reference": "1 Kings 18:38",
-    "fact": "The fire of the Lord fell and proved that the Lord alone is God.",
-    "difficulty": "Medium",
+    "reference": "1 Kings 17:6",
+    "fact": "God miraculously commanded the ravens to sustain Elijah during the national famine.",
+    "difficulty": "Easy",
     "time_seconds": 60,
-    "reward_diamonds": 30
+    "reward_diamonds": 25
   },
   {
-    "id": 6,
-    "scroll_title": "Inside the Great Fish",
-    "clue": "I ran away from God's call to preach to Nineveh. After spending three days inside a great fish, I repented and obeyed. Who am I?",
+    "id": 30,
+    "scroll_title": "The Fire on Mount Carmel",
+    "clue": "On which mountain did God send down fire from heaven to consume Elijah's water-drenched sacrifice before 450 prophets of Baal?",
+    "options": [
+      "Mount Carmel",
+      "Mount Sinai",
+      "Mount Zion",
+      "Mount Hermon"
+    ],
+    "correct_answer": "Mount Carmel",
+    "reference": "1 Kings 18:38",
+    "fact": "When all the people saw it, they fell prostrate and cried, 'The Lord—He is God!'",
+    "difficulty": "Medium",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 31,
+    "scroll_title": "The Chariot of Fire",
+    "clue": "Who was separated from Elisha by a chariot and horses of fire and taken up to heaven in a whirlwind without dying?",
+    "options": [
+      "Elijah",
+      "Enoch",
+      "Moses",
+      "Daniel"
+    ],
+    "correct_answer": "Elijah",
+    "reference": "2 Kings 2:11",
+    "fact": "Elisha picked up Elijah's cloak that had fallen from him and received a double portion of his spirit.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 32,
+    "scroll_title": "Seven Dips in the Jordan",
+    "clue": "Which Syrian army commander was healed of leprosy after Elisha told him to wash seven times in the Jordan River?",
+    "options": [
+      "Naaman",
+      "Hazael",
+      "Ben-Hadad",
+      "Sennacherib"
+    ],
+    "correct_answer": "Naaman",
+    "reference": "2 Kings 5:14",
+    "fact": "When Naaman dipped seven times, his flesh was restored clean like that of a young boy.",
+    "difficulty": "Medium",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 33,
+    "scroll_title": "The Lions' Den",
+    "clue": "Because I continued praying three times a day toward Jerusalem despite a royal decree, I was cast into the lions' den. Who am I?",
+    "options": [
+      "Daniel",
+      "Shadrach",
+      "Meshach",
+      "Abednego"
+    ],
+    "correct_answer": "Daniel",
+    "reference": "Daniel 6:10-16",
+    "fact": "God sent His angel to shut the mouths of the lions, and Daniel was found completely unhurt.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 34,
+    "scroll_title": "The Blazing Furnace",
+    "clue": "Who were the three Hebrew young men thrown into a fiery furnace for refusing to worship King Nebuchadnezzar's golden statue?",
+    "options": [
+      "Shadrach, Meshach, and Abednego",
+      "Daniel, David, and Solomon",
+      "Peter, James, and John",
+      "Elijah, Elisha, and Gehazi"
+    ],
+    "correct_answer": "Shadrach, Meshach, and Abednego",
+    "reference": "Daniel 3:20-25",
+    "fact": "A fourth figure looking like the Son of God walked with them in the flames, and they were unharmed.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 35,
+    "scroll_title": "Three Days in the Deep",
+    "clue": "Fleeing God's command to preach in Nineveh, which prophet was swallowed by a huge fish and spent three days and nights inside its belly?",
     "options": [
       "Jonah",
-      "Habakkuk",
+      "Joel",
       "Micah",
-      "Nahum"
+      "Habakkuk"
     ],
     "correct_answer": "Jonah",
     "reference": "Jonah 1:17",
-    "fact": "Jonah prayed to the Lord from the belly of the fish, and God delivered him.",
+    "fact": "When Jonah repented and prayed from inside the fish, it vomited him out onto dry land.",
     "difficulty": "Easy",
     "time_seconds": 60,
     "reward_diamonds": 25
   },
   {
-    "id": 7,
-    "scroll_title": "Light on the Damascus Road",
-    "clue": "I once persecuted Christians, but a blinding light from heaven on the road to Damascus transformed me into an apostle. Who am I?",
+    "id": 36,
+    "scroll_title": "The Shepherd Psalm",
+    "clue": "'The Lord is my shepherd, I lack nothing. He makes me lie down in green pastures.' Who composed this beloved psalm?",
     "options": [
-      "Paul",
-      "Peter",
-      "Joshua",
-      "Timothy"
+      "David",
+      "Asaph",
+      "Solomon",
+      "Moses"
     ],
-    "correct_answer": "Paul",
-    "reference": "Acts 9:3",
-    "fact": "Saul encountered the risen Christ and became Paul, the great apostle to the Gentiles.",
+    "correct_answer": "David",
+    "reference": "Psalm 23:1-2",
+    "fact": "Psalm 23 is the most cherished song of comfort and trust in God's pastoral care.",
     "difficulty": "Easy",
     "time_seconds": 60,
     "reward_diamonds": 25
   },
   {
-    "id": 8,
-    "scroll_title": "Alive After Four Days",
-    "clue": "I had been dead and buried in a tomb for four days until Jesus wept and called out my name to come forth. Who am I?",
+    "id": 37,
+    "scroll_title": "The Lamp to My Feet",
+    "clue": "'Your word is a lamp for my feet, a light on my path.' In which chapter of Psalms is this famous verse found?",
     "options": [
-      "Lazarus",
-      "Jairus",
-      "Bartimaeus",
-      "Nicodemus"
+      "Psalm 119:105",
+      "Psalm 23:1",
+      "Psalm 91:1",
+      "Psalm 150:6"
     ],
-    "correct_answer": "Lazarus",
-    "reference": "John 11:43",
-    "fact": "Jesus cried out, 'Lazarus, come forth!' and the man who had died came out alive.",
+    "correct_answer": "Psalm 119:105",
+    "reference": "Psalm 119:105",
+    "fact": "Psalm 119 is the longest chapter in the Bible, devoted to celebrating God's holy law.",
     "difficulty": "Medium",
     "time_seconds": 60,
-    "reward_diamonds": 30
+    "reward_diamonds": 25
   },
   {
-    "id": 9,
-    "scroll_title": "The King Who Asked for Wisdom",
-    "clue": "When God offered me any gift, I did not ask for riches or long life, but for wisdom to lead God's people. Who am I?",
+    "id": 38,
+    "scroll_title": "The Shelter of the Most High",
+    "clue": "'Whoever dwells in the shelter of the Most High will rest in the shadow of the Almighty.' Which psalm begins with this promise?",
+    "options": [
+      "Psalm 91",
+      "Psalm 51",
+      "Psalm 1",
+      "Psalm 100"
+    ],
+    "correct_answer": "Psalm 91",
+    "reference": "Psalm 91:1",
+    "fact": "Psalm 91 is renowned as the ultimate prayer of divine protection in times of danger.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 39,
+    "scroll_title": "The Beginning of Knowledge",
+    "clue": "'The fear of the Lord is the beginning of knowledge, but fools despise wisdom and instruction.' Which book of wisdom opens with this motto?",
+    "options": [
+      "Proverbs",
+      "Ecclesiastes",
+      "Job",
+      "Song of Songs"
+    ],
+    "correct_answer": "Proverbs",
+    "reference": "Proverbs 1:7",
+    "fact": "Written primarily by Solomon, Proverbs offers timeless practical wisdom for righteous living.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 40,
+    "scroll_title": "Trust with All Your Heart",
+    "clue": "'Trust in the Lord with all your heart and lean not on your own understanding.' Where is this famous proverb found?",
+    "options": [
+      "Proverbs 3:5",
+      "Psalm 34:8",
+      "Isaiah 40:31",
+      "Jeremiah 29:11"
+    ],
+    "correct_answer": "Proverbs 3:5",
+    "reference": "Proverbs 3:5",
+    "fact": "In all your ways submit to Him, and He will make your paths straight.",
+    "difficulty": "Medium",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 41,
+    "scroll_title": "Everything Under the Sun",
+    "clue": "'Meaningless! Meaningless! Everything is meaningless!' Who wrote Ecclesiastes after examining all human pursuits under the sun?",
     "options": [
       "Solomon",
       "David",
-      "Hezekiah",
-      "Josiah"
+      "Moses",
+      "Isaiah"
     ],
     "correct_answer": "Solomon",
-    "reference": "1 Kings 3:9",
-    "fact": "God gave Solomon wisdom and understanding beyond measure.",
+    "reference": "Ecclesiastes 1:2",
+    "fact": "Ecclesiastes concludes that the whole duty of humanity is to fear God and keep His commandments.",
     "difficulty": "Medium",
     "time_seconds": 60,
-    "reward_diamonds": 30
+    "reward_diamonds": 25
   },
   {
-    "id": 10,
-    "scroll_title": "Walking on the Water",
-    "clue": "When I saw Jesus walking on the Sea of Galilee, I stepped out of the boat and walked on the water toward Him. Who am I?",
+    "id": 42,
+    "scroll_title": "The Suffering Servant Prophecy",
+    "clue": "'He was pierced for our transgressions, He was crushed for our iniquities; by His wounds we are healed.' Which prophet wrote this?",
     "options": [
-      "Peter",
-      "John",
-      "James",
-      "Andrew"
+      "Isaiah",
+      "Jeremiah",
+      "Daniel",
+      "Ezekiel"
     ],
-    "correct_answer": "Peter",
-    "reference": "Matthew 14:29",
-    "fact": "Peter walked on the water toward Jesus by faith.",
+    "correct_answer": "Isaiah",
+    "reference": "Isaiah 53:5",
+    "fact": "Isaiah 53 foretold the sacrificial death of Jesus Christ seven centuries before His crucifixion.",
     "difficulty": "Easy",
     "time_seconds": 60,
     "reward_diamonds": 25
   },
   {
-    "id": 11,
-    "scroll_title": "The Birthplace of the Savior",
-    "clue": "In this humble city of Judea, the Savior of the world, Jesus Christ, was born in a manger as foretold by prophets. Which city is it?",
+    "id": 43,
+    "scroll_title": "The City of Bread",
+    "clue": "As prophesied by Micah, in which town of Judea was Jesus Christ, the Bread of Life, born?",
     "options": [
       "Bethlehem",
       "Nazareth",
@@ -181,245 +725,1656 @@
     ],
     "correct_answer": "Bethlehem",
     "reference": "Matthew 2:1",
-    "fact": "Bethlehem of Judea was prophesied by Micah as the birthplace of the Messiah.",
+    "fact": "Bethlehem means 'House of Bread' in Hebrew, fitting for the birthplace of the Bread of Life.",
     "difficulty": "Easy",
     "time_seconds": 60,
     "reward_diamonds": 25
   },
   {
-    "id": 12,
-    "scroll_title": "The Falling City Walls",
-    "clue": "The walls of this great city collapsed after the Israelites marched around it for seven days and blew trumpets. Which city is it?",
+    "id": 44,
+    "scroll_title": "The Angel's Announcement",
+    "clue": "Which archangel appeared to Mary in Nazareth saying, 'Do not be afraid, Mary; you have found favor with God'?",
     "options": [
-      "Jericho",
-      "Ai",
-      "Gibeon",
-      "Shechem"
+      "Gabriel",
+      "Michael",
+      "Raphael",
+      "Uriel"
     ],
-    "correct_answer": "Jericho",
-    "reference": "Joshua 6:20",
-    "fact": "When the people shouted with a great shout, the wall of Jericho fell flat.",
-    "difficulty": "Medium",
-    "time_seconds": 60,
-    "reward_diamonds": 30
-  },
-  {
-    "id": 13,
-    "scroll_title": "The Strength of the Nazirite",
-    "clue": "As long as I remained a Nazirite with uncut hair, I possessed supernatural strength to defeat lions and armies. Who am I?",
-    "options": [
-      "Samson",
-      "Gideon",
-      "Jephthah",
-      "Barak"
-    ],
-    "correct_answer": "Samson",
-    "reference": "Judges 16:17",
-    "fact": "Samson was chosen from birth to deliver Israel from the Philistines.",
-    "difficulty": "Medium",
-    "time_seconds": 60,
-    "reward_diamonds": 30
-  },
-  {
-    "id": 14,
-    "scroll_title": "The Coat of Many Colors",
-    "clue": "My father gave me a coat of many colors. After being sold into Egypt, God raised me to rule and save my family from famine. Who am I?",
-    "options": [
-      "Joseph",
-      "Reuben",
-      "Benjamin",
-      "Judah"
-    ],
-    "correct_answer": "Joseph",
-    "reference": "Genesis 37:3",
-    "fact": "Joseph forgave his brothers, saying God meant it for good to save lives.",
+    "correct_answer": "Gabriel",
+    "reference": "Luke 1:26-31",
+    "fact": "Gabriel told Mary that her son Jesus would reign over Jacob's descendants forever.",
     "difficulty": "Easy",
     "time_seconds": 60,
     "reward_diamonds": 25
   },
   {
-    "id": 15,
-    "scroll_title": "The First Miracle at a Wedding",
-    "clue": "In which city of Galilee did Jesus perform His first recorded miracle by turning water into finest wine at a wedding?",
+    "id": 45,
+    "scroll_title": "The Treasures of the Magi",
+    "clue": "Following the star in the east to Bethlehem, what three symbolic treasures did the Magi present to baby Jesus?",
     "options": [
-      "Cana",
-      "Bethlehem",
+      "Gold, frankincense, and myrrh",
+      "Silver, garments, and oil",
+      "Pearls, spices, and wheat",
+      "Gems, wine, and honey"
+    ],
+    "correct_answer": "Gold, frankincense, and myrrh",
+    "reference": "Matthew 2:11",
+    "fact": "Gold symbolized royalty, frankincense signified priesthood, and myrrh foreshadowed His burial.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 46,
+    "scroll_title": "The First Gospel Hearers",
+    "clue": "Keeping watch over their flocks at night, to whom did the angel of the Lord first announce the birth of the Savior?",
+    "options": [
+      "Shepherds in the field",
+      "Scribes in the temple",
+      "Chief priests",
+      "Roman soldiers"
+    ],
+    "correct_answer": "Shepherds in the field",
+    "reference": "Luke 2:8-11",
+    "fact": "The shepherds hurried to Bethlehem and found Mary, Joseph, and the baby lying in a manger.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 47,
+    "scroll_title": "Flight from the Tyrant",
+    "clue": "Warned by an angel in a dream that King Herod sought to kill baby Jesus, to which country did Joseph flee with his family?",
+    "options": [
+      "Egypt",
+      "Syria",
+      "Babylon",
+      "Rome"
+    ],
+    "correct_answer": "Egypt",
+    "reference": "Matthew 2:14-15",
+    "fact": "They remained in Egypt until Herod's death to fulfill the prophecy, 'Out of Egypt I called my son.'",
+    "difficulty": "Medium",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 48,
+    "scroll_title": "The Hometown of Jesus",
+    "clue": "After returning from Egypt, in which town of Galilee did Jesus grow up, fulfilling the word, 'He will be called a Nazarene'?",
+    "options": [
       "Nazareth",
-      "Jerusalem"
+      "Bethlehem",
+      "Capernaum",
+      "Bethsaida"
     ],
-    "correct_answer": "Cana",
-    "reference": "John 2:11",
-    "fact": "Jesus manifested His glory at Cana of Galilee, and His disciples believed in Him.",
-    "difficulty": "Medium",
-    "time_seconds": 60,
-    "reward_diamonds": 30
-  },
-  {
-    "id": 16,
-    "scroll_title": "The River of Baptism",
-    "clue": "In which famous river was Jesus baptized by John the Baptist as the Holy Spirit descended like a dove from heaven?",
-    "options": [
-      "Jordan",
-      "Nile",
-      "Euphrates",
-      "Tigris"
-    ],
-    "correct_answer": "Jordan",
-    "reference": "Matthew 3:13",
-    "fact": "The voice of the Father spoke from heaven at Jesus' baptism in the Jordan River.",
+    "correct_answer": "Nazareth",
+    "reference": "Matthew 2:23",
+    "fact": "Jesus grew in wisdom and stature, and in favor with God and man while living in Nazareth.",
     "difficulty": "Easy",
     "time_seconds": 60,
     "reward_diamonds": 25
   },
   {
-    "id": 17,
-    "scroll_title": "The Mountain of the Commandments",
-    "clue": "On which holy mountain did God descend in fire and thunder to give Moses the Two Tablets of the Ten Commandments?",
+    "id": 49,
+    "scroll_title": "The Boy in the Temple",
+    "clue": "At age twelve, where was Jesus found after three days of searching, sitting among the teachers listening and asking questions?",
     "options": [
-      "Sinai",
-      "Carmel",
-      "Hermon",
-      "Olives"
+      "In the Temple at Jerusalem",
+      "At the Jordan River",
+      "In the synagogue at Capernaum",
+      "By the Sea of Galilee"
     ],
-    "correct_answer": "Sinai",
-    "reference": "Exodus 19:20",
-    "fact": "Mount Sinai was where God established His covenant with the children of Israel.",
+    "correct_answer": "In the Temple at Jerusalem",
+    "reference": "Luke 2:46-47",
+    "fact": "'Didn't you know I had to be in my Father's house?' Jesus asked His parents.",
     "difficulty": "Easy",
     "time_seconds": 60,
     "reward_diamonds": 25
   },
   {
-    "id": 18,
-    "scroll_title": "The Father of Faith",
-    "clue": "I believed God's promise that I would have a son at 100 years old. God accounted my faith for righteousness. Who am I?",
+    "id": 50,
+    "scroll_title": "The Prophet of the Jordan",
+    "clue": "Who baptized Jesus in the Jordan River to fulfill all righteousness?",
     "options": [
-      "Abraham",
-      "Lot",
-      "Jacob",
-      "Isaac"
+      "John the Baptist",
+      "Peter the Apostle",
+      "Zechariah the Priest",
+      "Nicodemus"
     ],
-    "correct_answer": "Abraham",
-    "reference": "Genesis 21:5",
-    "fact": "Abraham is known as the father of all who believe in God's promises.",
+    "correct_answer": "John the Baptist",
+    "reference": "Matthew 3:13-15",
+    "fact": "John initially hesitated, saying, 'I need to be baptized by you, and do you come to me?'",
     "difficulty": "Easy",
     "time_seconds": 60,
     "reward_diamonds": 25
   },
   {
-    "id": 19,
-    "scroll_title": "The Fiery Furnace",
-    "clue": "I refused to bow to a golden idol and was thrown into a fiery furnace heated seven times hotter, yet God saved me. Who am I?",
+    "id": 51,
+    "scroll_title": "The Dove from Heaven",
+    "clue": "As Jesus came up out of the water at His baptism, in what form did the Holy Spirit descend upon Him?",
     "options": [
-      "Shadrach",
-      "Daniel",
-      "Ezra",
-      "Nehemiah"
+      "Like a dove",
+      "Like a flame of fire",
+      "Like a white cloud",
+      "Like a bolt of light"
     ],
-    "correct_answer": "Shadrach",
-    "reference": "Daniel 3:26",
-    "fact": "The Son of God walked with Shadrach, Meshach, and Abednego in the fire.",
-    "difficulty": "Medium",
+    "correct_answer": "Like a dove",
+    "reference": "Matthew 3:16",
+    "fact": "A voice from heaven said, 'This is my Son, whom I love; with Him I am well pleased.'",
+    "difficulty": "Easy",
     "time_seconds": 60,
-    "reward_diamonds": 30
+    "reward_diamonds": 25
   },
   {
-    "id": 20,
-    "scroll_title": "The Midnight Visitor",
-    "clue": "I was a ruler of the Jews who came to Jesus by night to learn what it means to be born again of the Spirit. Who am I?",
+    "id": 52,
+    "scroll_title": "Forty Days in the Desert",
+    "clue": "Where was Jesus led by the Spirit immediately after His baptism to fast for forty days and be tempted by the devil?",
     "options": [
-      "Nicodemus",
+      "Into the wilderness",
+      "To the holy Temple",
+      "To a mountain top",
+      "To the seashore"
+    ],
+    "correct_answer": "Into the wilderness",
+    "reference": "Matthew 4:1-2",
+    "fact": "After fasting forty days and forty nights, Jesus was hungry when the tempter came to Him.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 53,
+    "scroll_title": "Not by Bread Alone",
+    "clue": "When Satan tempted Jesus to turn stones into bread, what did Jesus say man must live on instead of bread alone?",
+    "options": [
+      "Every word that comes from the mouth of God",
+      "Wealth and earthly provisions",
+      "Human wisdom and strength",
+      "Water and simple bread"
+    ],
+    "correct_answer": "Every word that comes from the mouth of God",
+    "reference": "Matthew 4:4",
+    "fact": "Jesus defeated every temptation of Satan by quoting the Scripture, 'It is written...'",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 54,
+    "scroll_title": "Fishers of Men",
+    "clue": "'Come, follow me, and I will send you out to fish for people.' Who were the first two fisherman brothers Jesus called?",
+    "options": [
+      "Peter and Andrew",
+      "James and John",
+      "Philip and Bartholomew",
+      "Thomas and Matthew"
+    ],
+    "correct_answer": "Peter and Andrew",
+    "reference": "Matthew 4:18-19",
+    "fact": "At once they left their nets by the Sea of Galilee and followed Him.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 55,
+    "scroll_title": "The Tax Collector's Call",
+    "clue": "I was sitting at the tax collector's booth when Jesus said, 'Follow me.' I left my table and wrote the first Gospel. Who am I?",
+    "options": [
+      "Matthew (Levi)",
       "Zacchaeus",
-      "Gamaliel",
-      "Caiaphas"
+      "Luke",
+      "Mark"
     ],
-    "correct_answer": "Nicodemus",
-    "reference": "John 3:1",
-    "fact": "Jesus told Nicodemus that God so loved the world that He gave His only Son.",
+    "correct_answer": "Matthew (Levi)",
+    "reference": "Matthew 9:9",
+    "fact": "Matthew hosted a great dinner at his house where Jesus ate with tax collectors and sinners.",
     "difficulty": "Medium",
     "time_seconds": 60,
-    "reward_diamonds": 30
+    "reward_diamonds": 25
   },
   {
-    "id": 21,
-    "scroll_title": "The Sun Stood Still",
-    "clue": "When I prayed during battle, the sun stood still over Gibeon and the moon over the Valley of Aijalon for a whole day. Who am I?",
+    "id": 56,
+    "scroll_title": "The Twelve Chosen",
+    "clue": "After spending the whole night in prayer on a mountainside, how many of His disciples did Jesus choose and name Apostles?",
     "options": [
-      "Joshua",
-      "Caleb",
+      "12 apostles",
+      "7 apostles",
+      "70 apostles",
+      "3 apostles"
+    ],
+    "correct_answer": "12 apostles",
+    "reference": "Luke 6:12-13",
+    "fact": "The twelve apostles represented the foundation of the New Testament church.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 57,
+    "scroll_title": "The Wedding at Cana",
+    "clue": "At which village wedding did Jesus perform His first miracle by transforming six stone jars of water into choice wine?",
+    "options": [
+      "Cana of Galilee",
+      "Capernaum",
+      "Bethlehem",
+      "Bethany"
+    ],
+    "correct_answer": "Cana of Galilee",
+    "reference": "John 2:1-11",
+    "fact": "This first sign revealed His glory, and His disciples put their faith in Him.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 58,
+    "scroll_title": "The Five Thousand Fed",
+    "clue": "How many barley loaves and small fish from a boy's lunch did Jesus bless to feed five thousand men?",
+    "options": [
+      "5 loaves and 2 fish",
+      "7 loaves and small fish",
+      "3 loaves and 3 fish",
+      "10 loaves and 5 fish"
+    ],
+    "correct_answer": "5 loaves and 2 fish",
+    "reference": "Matthew 14:17-21",
+    "fact": "Everyone ate until satisfied, and the disciples gathered twelve basketfuls of leftovers.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 59,
+    "scroll_title": "Footsteps on the Waves",
+    "clue": "During the fourth watch of the night, which disciple stepped out of the boat and walked on the stormy Sea of Galilee toward Jesus?",
+    "options": [
+      "Peter",
+      "John",
+      "James",
+      "Thomas"
+    ],
+    "correct_answer": "Peter",
+    "reference": "Matthew 14:28-29",
+    "fact": "When Peter saw the wind he grew afraid and began to sink, crying, 'Lord, save me!'",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 60,
+    "scroll_title": "Quiet, Be Still!",
+    "clue": "Awakened from sleep during a furious squall on the lake, who commanded the wind and waves, 'Quiet! Be still!'?",
+    "options": [
+      "Jesus Christ",
+      "Peter",
       "Moses",
-      "Gideon"
+      "Paul"
     ],
-    "correct_answer": "Joshua",
-    "reference": "Joshua 10:12",
-    "fact": "There has been no day like that before or since, when the Lord heeded the voice of a man.",
-    "difficulty": "Hard",
-    "time_seconds": 60,
-    "reward_diamonds": 35
-  },
-  {
-    "id": 22,
-    "scroll_title": "The Queen of Courage",
-    "clue": "I risked my royal crown and my life to approach the king uninvited in order to save my Jewish people from Haman's plot. Who am I?",
-    "options": [
-      "Esther",
-      "Ruth",
-      "Naomi",
-      "Deborah"
-    ],
-    "correct_answer": "Esther",
-    "reference": "Esther 4:16",
-    "fact": "Esther declared, 'If I perish, I perish,' and saved her people from destruction.",
-    "difficulty": "Medium",
-    "time_seconds": 60,
-    "reward_diamonds": 30
-  },
-  {
-    "id": 23,
-    "scroll_title": "The Sycamore Tree Climber",
-    "clue": "I was a short tax collector in Jericho who climbed a sycamore tree just to see Jesus pass by. Who am I?",
-    "options": [
-      "Zacchaeus",
-      "Matthew",
-      "Bartimaeus",
-      "Levi"
-    ],
-    "correct_answer": "Zacchaeus",
-    "reference": "Luke 19:4",
-    "fact": "Jesus stayed at Zacchaeus's house and proclaimed salvation had come to his home.",
+    "correct_answer": "Jesus Christ",
+    "reference": "Mark 4:39",
+    "fact": "The wind died down and it was completely calm, leaving the disciples in utter awe.",
     "difficulty": "Easy",
     "time_seconds": 60,
     "reward_diamonds": 25
   },
   {
-    "id": 24,
-    "scroll_title": "The Day of Tongues of Fire",
-    "clue": "On which feast day did the Holy Spirit descend with the sound of a rushing wind and tongues of fire upon 120 disciples?",
+    "id": 61,
+    "scroll_title": "The Touch of Faith",
+    "clue": "Who had suffered from bleeding for twelve years and was healed instantly upon touching the fringe of Jesus' cloak?",
     "options": [
-      "Pentecost",
-      "Passover",
-      "Tabernacles",
-      "Purim"
+      "A woman of faith",
+      "Mary Magdalene",
+      "Jairus's wife",
+      "The Samaritan woman"
     ],
-    "correct_answer": "Pentecost",
-    "reference": "Acts 2:1",
-    "fact": "Three thousand souls were saved on the Day of Pentecost when Peter preached.",
-    "difficulty": "Medium",
+    "correct_answer": "A woman of faith",
+    "reference": "Mark 5:27-29",
+    "fact": "'Daughter, your faith has healed you. Go in peace,' Jesus told her.",
+    "difficulty": "Easy",
     "time_seconds": 60,
-    "reward_diamonds": 30
+    "reward_diamonds": 25
   },
   {
-    "id": 25,
-    "scroll_title": "The Final Book of Prophecy",
-    "clue": "Which New Testament book was written by the apostle John on the Island of Patmos, revealing the glory of Christ and the end times?",
+    "id": 62,
+    "scroll_title": "The One Grateful Leper",
+    "clue": "When Jesus cleansed ten men with leprosy, of what nationality was the only man who returned to glorify God at Jesus' feet?",
     "options": [
-      "Revelation",
-      "Jude",
-      "Hebrews",
+      "A Samaritan",
+      "A Jew",
+      "A Roman",
+      "A Syrian"
+    ],
+    "correct_answer": "A Samaritan",
+    "reference": "Luke 17:15-16",
+    "fact": "Jesus asked, 'Were not all ten cleansed? Where are the other nine?'",
+    "difficulty": "Medium",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 63,
+    "scroll_title": "The Thirty-Eight-Year Invalid",
+    "clue": "At the Pool of Bethesda in Jerusalem, whom did Jesus cure by commanding, 'Get up! Pick up your mat and walk'?",
+    "options": [
+      "A man invalid for 38 years",
+      "A blind beggar",
+      "A paralyzed child",
+      "A Roman officer"
+    ],
+    "correct_answer": "A man invalid for 38 years",
+    "reference": "John 5:8-9",
+    "fact": "At once the man was cured; he picked up his mat and walked on the Sabbath day.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 64,
+    "scroll_title": "The Four-Day Tomb",
+    "clue": "Who had been dead and buried in a cave in Bethany for four days when Jesus called out in a loud voice, 'Come out!'?",
+    "options": [
+      "Lazarus",
+      "Jairus's daughter",
+      "The widow of Nain's son",
+      "Stephen"
+    ],
+    "correct_answer": "Lazarus",
+    "reference": "John 11:43-44",
+    "fact": "The dead man came out, his hands and feet wrapped with strips of linen.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 65,
+    "scroll_title": "Talitha Koum",
+    "clue": "Taking a twelve-year-old girl by the hand, who said, 'Talitha koum,' which means, 'Little girl, I say to you, get up!'?",
+    "options": [
+      "Jesus Christ",
+      "Peter",
+      "Paul",
+      "Elisha"
+    ],
+    "correct_answer": "Jesus Christ",
+    "reference": "Mark 5:41",
+    "fact": "Immediately the twelve-year-old girl stood up and began to walk around.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 66,
+    "scroll_title": "The Widow of Nain's Son",
+    "clue": "Touching an open funeral coffin at the town gate of Nain, who raised a weeping widow's only son back to life?",
+    "options": [
+      "Jesus Christ",
+      "Elijah",
+      "Elisha",
+      "John the Baptist"
+    ],
+    "correct_answer": "Jesus Christ",
+    "reference": "Luke 7:14-15",
+    "fact": "'Young man, I say to you, get up!' Jesus said, and the dead man sat up and began to talk.",
+    "difficulty": "Medium",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 67,
+    "scroll_title": "The Pool of Siloam",
+    "clue": "Jesus made mud with saliva, anointed a man born blind, and sent him to wash in which pool in Jerusalem to receive his sight?",
+    "options": [
+      "The Pool of Siloam",
+      "The Pool of Bethesda",
+      "The Jordan River",
+      "The Gihon Spring"
+    ],
+    "correct_answer": "The Pool of Siloam",
+    "reference": "John 9:6-7",
+    "fact": "Siloam means 'Sent'; the man went and washed, and came home seeing.",
+    "difficulty": "Medium",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 68,
+    "scroll_title": "Blind Bartimaeus",
+    "clue": "Sitting by the roadside near Jericho, who shouted, 'Jesus, Son of David, have mercy on me!' and received his sight?",
+    "options": [
+      "Bartimaeus",
+      "Zacchaeus",
+      "Lazarus",
+      "Matthew"
+    ],
+    "correct_answer": "Bartimaeus",
+    "reference": "Mark 10:46-52",
+    "fact": "Throwing his cloak aside, Bartimaeus jumped to his feet and came to Jesus.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 69,
+    "scroll_title": "The Centurion's Faith",
+    "clue": "'Just say the word, and my servant will be healed.' Which officer in Capernaum showed faith that amazed even Jesus?",
+    "options": [
+      "A Roman Centurion",
+      "A Jewish Priest",
+      "A Pharisee",
+      "A Samaritan"
+    ],
+    "correct_answer": "A Roman Centurion",
+    "reference": "Matthew 8:8-10",
+    "fact": "'I have not found anyone in Israel with such great faith,' Jesus commended him.",
+    "difficulty": "Medium",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 70,
+    "scroll_title": "Through the Roof",
+    "clue": "How many friends made an opening in the roof of a crowded house in Capernaum to lower their paralyzed friend down to Jesus?",
+    "options": [
+      "Four friends",
+      "Two brothers",
+      "Seven men",
+      "Ten friends"
+    ],
+    "correct_answer": "Four friends",
+    "reference": "Mark 2:3-4",
+    "fact": "Seeing their faith, Jesus forgave the man's sins and commanded him to walk.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 71,
+    "scroll_title": "The Prodigal Son",
+    "clue": "Who wasted his father's inheritance in a distant land, ended up feeding pigs, and returned home to a joyful father's embrace?",
+    "options": [
+      "The Prodigal Son (Younger Son)",
+      "The Older Brother",
+      "The Shrewd Manager",
+      "The Rich Fool"
+    ],
+    "correct_answer": "The Prodigal Son (Younger Son)",
+    "reference": "Luke 15:11-24",
+    "fact": "The father ran, embraced him, and ordered the finest robe and ring for his son who was lost and found.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 72,
+    "scroll_title": "The Good Samaritan",
+    "clue": "When a traveler was beaten by robbers and left half dead, who took pity on him after a priest and a Levite passed by on the other side?",
+    "options": [
+      "A Good Samaritan",
+      "A Pharisee",
+      "A Roman Soldier",
+      "A Scribe"
+    ],
+    "correct_answer": "A Good Samaritan",
+    "reference": "Luke 10:33-34",
+    "fact": "He bandaged his wounds, pouring on oil and wine, and paid for his care at an inn.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 73,
+    "scroll_title": "The Parable of the Sower",
+    "clue": "In the Parable of the Sower, which seed produced a crop thirty, sixty, or even a hundred times what was sown?",
+    "options": [
+      "The seed sown on good soil",
+      "The seed along the path",
+      "The seed on rocky ground",
+      "The seed among thorns"
+    ],
+    "correct_answer": "The seed sown on good soil",
+    "reference": "Matthew 13:8",
+    "fact": "Good soil represents those who hear the word, understand it, and bear fruit in righteous living.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 74,
+    "scroll_title": "The Ten Virgins",
+    "clue": "In the wedding parable, how are the five bridesmaids described who brought jars of oil along with their lamps for the bridegroom?",
+    "options": [
+      "Wise virgins",
+      "Foolish virgins",
+      "Lazy virgins",
+      "Sleeping virgins"
+    ],
+    "correct_answer": "Wise virgins",
+    "reference": "Matthew 25:2-4",
+    "fact": "Those who were ready went in with the bridegroom to the wedding banquet.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 75,
+    "scroll_title": "The Buried Talent",
+    "clue": "In the Parable of the Talents, which servant was rebuked because he was afraid and hid his master's one talent in the ground?",
+    "options": [
+      "The wicked, lazy servant",
+      "The faithful, good servant",
+      "The five-talent servant",
+      "The two-talent servant"
+    ],
+    "correct_answer": "The wicked, lazy servant",
+    "reference": "Matthew 25:24-26",
+    "fact": "God expects us to faithfully invest and use the gifts and resources He entrusts to us.",
+    "difficulty": "Medium",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 76,
+    "scroll_title": "The Ninety-Nine and the One",
+    "clue": "Who left ninety-nine sheep in the open country to search for the one lost sheep until he found it and carried it home on his shoulders?",
+    "options": [
+      "The Good Shepherd",
+      "The Hired Hand",
+      "The Thief",
+      "The Field Owner"
+    ],
+    "correct_answer": "The Good Shepherd",
+    "reference": "Luke 15:4-5",
+    "fact": "There is more joy in heaven over one sinner who repents than over ninety-nine righteous persons.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 77,
+    "scroll_title": "The Beggar at the Gate",
+    "clue": "Who lay covered with sores at a rich man's gate desiring crumbs, and after dying was carried by angels to Abraham's side?",
+    "options": [
+      "Lazarus",
+      "Zacchaeus",
+      "Bartimaeus",
+      "Simon"
+    ],
+    "correct_answer": "Lazarus",
+    "reference": "Luke 16:20-22",
+    "fact": "In eternity, Lazarus was comforted in peace while the rich man suffered in torment.",
+    "difficulty": "Medium",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 78,
+    "scroll_title": "The Washing of Feet",
+    "clue": "During the Last Supper, who poured water into a basin and washed His disciples' feet as an enduring example of humble service?",
+    "options": [
+      "Jesus Christ",
+      "Peter",
+      "John",
       "James"
     ],
-    "correct_answer": "Revelation",
-    "reference": "Revelation 1:1",
-    "fact": "Revelation promises a special blessing to everyone who reads and hears its prophetic words.",
+    "correct_answer": "Jesus Christ",
+    "reference": "John 13:5-15",
+    "fact": "'I have set you an example that you should do as I have done for you,' Jesus taught.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 79,
+    "scroll_title": "Thirty Pieces of Silver",
+    "clue": "Who went to the chief priests asking, 'What are you willing to give me if I deliver Him over to you?' and accepted thirty silver coins?",
+    "options": [
+      "Judas Iscariot",
+      "Peter",
+      "Thomas",
+      "Pilate"
+    ],
+    "correct_answer": "Judas Iscariot",
+    "reference": "Matthew 26:14-15",
+    "fact": "From then on Judas watched for an opportunity to hand Jesus over to them.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 80,
+    "scroll_title": "Sweat Like Drops of Blood",
+    "clue": "In the Garden of Gethsemane, who prayed in such anguish, 'Not my will, but yours be done,' that His sweat fell like drops of blood?",
+    "options": [
+      "Jesus Christ",
+      "Peter",
+      "Paul",
+      "Stephen"
+    ],
+    "correct_answer": "Jesus Christ",
+    "reference": "Luke 22:44",
+    "fact": "An angel from heaven appeared to Jesus in Gethsemane and strengthened Him.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 81,
+    "scroll_title": "The Sleeping Three",
+    "clue": "Which three disciples fell asleep from sorrow in Gethsemane when Jesus asked them to keep watch and pray with Him?",
+    "options": [
+      "Peter, James, and John",
+      "Thomas, Matthew, and Philip",
+      "Andrew, Bartholomew, and Thaddaeus",
+      "Simon, Luke, and Mark"
+    ],
+    "correct_answer": "Peter, James, and John",
+    "reference": "Matthew 26:37-40",
+    "fact": "'Watch and pray so that you will not fall into temptation,' Jesus urged them.",
+    "difficulty": "Medium",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 82,
+    "scroll_title": "The Traitor's Kiss",
+    "clue": "Leading a crowd with swords and clubs into Gethsemane, who identified Jesus to the arresting soldiers by greeting Him with a kiss?",
+    "options": [
+      "Judas Iscariot",
+      "Malchus",
+      "Caiaphas",
+      "Annas"
+    ],
+    "correct_answer": "Judas Iscariot",
+    "reference": "Matthew 26:48-49",
+    "fact": "'Judas, are you betraying the Son of Man with a kiss?' Jesus asked.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 83,
+    "scroll_title": "Before the Rooster Crows",
+    "clue": "'I do not know the man!' Who denied knowing Jesus three times before the rooster crowed, and then wept bitterly in repentance?",
+    "options": [
+      "Peter",
+      "Thomas",
+      "John",
+      "Andrew"
+    ],
+    "correct_answer": "Peter",
+    "reference": "Matthew 26:75",
+    "fact": "Peter remembered the word Jesus had spoken, and he went outside and wept bitterly.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 84,
+    "scroll_title": "Washing Hands of Guilt",
+    "clue": "Which Roman governor declared, 'I am innocent of this man's blood,' and washed his hands before the crowd while condemning Jesus?",
+    "options": [
+      "Pontius Pilate",
+      "King Herod",
+      "Caiaphas",
+      "Felix"
+    ],
+    "correct_answer": "Pontius Pilate",
+    "reference": "Matthew 27:24",
+    "fact": "Pilate had Jesus flogged and handed Him over to be crucified to satisfy the crowd.",
+    "difficulty": "Medium",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 85,
+    "scroll_title": "The Place of the Skull",
+    "clue": "By what Aramaic name, meaning 'The Place of the Skull,' was the hill outside Jerusalem called where Jesus was crucified?",
+    "options": [
+      "Golgotha (Calvary)",
+      "Carmel",
+      "Sinai",
+      "Mount of Olives"
+    ],
+    "correct_answer": "Golgotha (Calvary)",
+    "reference": "Matthew 27:33",
+    "fact": "Golgotha is translated Calvary in Latin, marking the site of Christ's sacrifice.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 86,
+    "scroll_title": "The Cross-Bearer",
+    "clue": "As Jesus was led out to be crucified, whom did Roman soldiers compel to carry the wooden cross behind Him?",
+    "options": [
+      "Simon of Cyrene",
+      "Joseph of Arimathea",
+      "Nicodemus",
+      "Barabbas"
+    ],
+    "correct_answer": "Simon of Cyrene",
+    "reference": "Matthew 27:32",
+    "fact": "Simon of Cyrene was the father of Alexander and Rufus, known in the early church.",
+    "difficulty": "Medium",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 87,
+    "scroll_title": "The Crown of Thorns",
+    "clue": "Mocking Jesus as 'King of the Jews,' what painful crown did Roman soldiers twist together and press onto His head?",
+    "options": [
+      "A crown of thorns",
+      "A crown of gold",
+      "A crown of bronze",
+      "A crown of olive branches"
+    ],
+    "correct_answer": "A crown of thorns",
+    "reference": "Matthew 27:29",
+    "fact": "They put a reed in His hand, knelt before Him, and mocked His royal identity.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 88,
+    "scroll_title": "Today in Paradise",
+    "clue": "'Jesus, remember me when you come into your kingdom.' To which repentant person hanging on a cross did Jesus promise Paradise?",
+    "options": [
+      "The repentant thief on the right",
+      "Barabbas",
+      "The thief on the left",
+      "The Roman centurion"
+    ],
+    "correct_answer": "The repentant thief on the right",
+    "reference": "Luke 23:42-43",
+    "fact": "'Truly I tell you, today you will be with me in paradise,' Jesus promised him.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 89,
+    "scroll_title": "It Is Finished",
+    "clue": "What triumphant final three-word shout did Jesus utter on the cross as He completed our redemption before bowing His head?",
+    "options": [
+      "It is finished",
+      "I am thirsty",
+      "Father forgive them",
+      "I have overcome"
+    ],
+    "correct_answer": "It is finished",
+    "reference": "John 19:30",
+    "fact": "In Greek, 'Tetelestai' means 'Paid in Full'—the debt of sin was fully satisfied.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 90,
+    "scroll_title": "The Torn Veil",
+    "clue": "At the moment Jesus died on the cross, what sacred barrier in the Temple was torn in two from top to bottom?",
+    "options": [
+      "The Temple curtain (veil)",
+      "The High Priest's robe",
+      "The stone altar",
+      "The golden lampstand"
+    ],
+    "correct_answer": "The Temple curtain (veil)",
+    "reference": "Matthew 27:51",
+    "fact": "The torn curtain signified that access to the Most Holy Place of God was open to all through Christ.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 91,
+    "scroll_title": "The Tomb in the Rock",
+    "clue": "Which wealthy secret disciple asked Pilate for Jesus' body, wrapped it in clean linen, and laid it in his own new rock-hewn tomb?",
+    "options": [
+      "Joseph of Arimathea",
+      "Nicodemus",
+      "John the Apostle",
+      "Lazarus"
+    ],
+    "correct_answer": "Joseph of Arimathea",
+    "reference": "Matthew 27:57-60",
+    "fact": "Joseph rolled a big stone in front of the entrance to the tomb and went away.",
+    "difficulty": "Medium",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 92,
+    "scroll_title": "He Is Not Here, He Is Risen",
+    "clue": "Whose appearance was like lightning with clothing white as snow when he rolled away the tomb stone and announced Christ's resurrection?",
+    "options": [
+      "An angel of the Lord",
+      "The tomb gardener",
+      "Peter the Apostle",
+      "A Roman guard"
+    ],
+    "correct_answer": "An angel of the Lord",
+    "reference": "Matthew 28:5-6",
+    "fact": "'He is not here; He has risen, just as He said. Come and see the place where He lay.'",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 93,
+    "scroll_title": "The First Witness",
+    "clue": "Weeping at the empty tomb on Easter morning, who turned and cried out 'Rabboni!' as the first witness of the risen Lord Jesus?",
+    "options": [
+      "Mary Magdalene",
+      "Martha",
+      "Salome",
+      "Joanna"
+    ],
+    "correct_answer": "Mary Magdalene",
+    "reference": "John 20:16",
+    "fact": "Jesus told Mary Magdalene to go to His brothers and declare His resurrection.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 94,
+    "scroll_title": "Unless I See the Nail Marks",
+    "clue": "Which apostle said, 'Unless I see the nail marks in His hands and put my finger where the nails were, I will not believe'?",
+    "options": [
+      "Thomas",
+      "Philip",
+      "Andrew",
+      "Bartholomew"
+    ],
+    "correct_answer": "Thomas",
+    "reference": "John 20:25",
+    "fact": "Eight days later Jesus appeared and invited Thomas to touch His wounds.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 95,
+    "scroll_title": "My Lord and My God",
+    "clue": "Upon seeing the risen Christ and His wounds, who exclaimed the great confession of faith, 'My Lord and my God!'?",
+    "options": [
+      "Thomas",
+      "Peter",
+      "John",
+      "James"
+    ],
+    "correct_answer": "Thomas",
+    "reference": "John 20:28",
+    "fact": "'Blessed are those who have not seen and yet have believed,' Jesus responded.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 96,
+    "scroll_title": "The Road to Emmaus",
+    "clue": "To which village seven miles from Jerusalem were two disciples walking when Jesus joined them and revealed Himself in the breaking of bread?",
+    "options": [
+      "Emmaus",
+      "Bethany",
+      "Jericho",
+      "Bethlehem"
+    ],
+    "correct_answer": "Emmaus",
+    "reference": "Luke 24:13",
+    "fact": "They said to each other, 'Were not our hearts burning within us while He talked with us on the road?'",
+    "difficulty": "Medium",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 97,
+    "scroll_title": "Forty Days on Earth",
+    "clue": "For how many days after His resurrection did Jesus appear to His disciples, speaking about the kingdom of God before His ascension?",
+    "options": [
+      "40 days",
+      "10 days",
+      "30 days",
+      "7 days"
+    ],
+    "correct_answer": "40 days",
+    "reference": "Acts 1:3",
+    "fact": "He gave many convincing proofs that He was alive during those forty days.",
+    "difficulty": "Medium",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 98,
+    "scroll_title": "The Great Commission Scroll",
+    "clue": "'Go into all the world and preach the gospel to all creation.' By what name is this final missionary command of Jesus known?",
+    "options": [
+      "The Great Commission",
+      "The Ten Commandments",
+      "The Sermon on the Mount",
+      "The New Covenant"
+    ],
+    "correct_answer": "The Great Commission",
+    "reference": "Mark 16:15",
+    "fact": "Jesus commanded His followers to make disciples of all nations, baptizing and teaching them.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 99,
+    "scroll_title": "The Cloud of Ascension",
+    "clue": "From which famous mountain near Jerusalem did Jesus ascend into heaven while two white-robed angels promised His return?",
+    "options": [
+      "The Mount of Olives",
+      "Mount Carmel",
+      "Mount Sinai",
+      "Mount Tabor"
+    ],
+    "correct_answer": "The Mount of Olives",
+    "reference": "Acts 1:12",
+    "fact": "He was taken up before their very eyes, and a cloud hid Him from their sight.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 100,
+    "scroll_title": "Tongues of Fire",
+    "clue": "On the Day of Pentecost, what appeared like tongues of fire resting on each of the 120 believers in the upper room?",
+    "options": [
+      "The Holy Spirit",
+      "A flock of doves",
+      "Bright white clouds",
+      "Lightning flashes"
+    ],
+    "correct_answer": "The Holy Spirit",
+    "reference": "Acts 2:3-4",
+    "fact": "All of them were filled with the Holy Spirit and began to speak in other tongues.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 101,
+    "scroll_title": "Three Thousand Saved",
+    "clue": "Which apostle preached with boldness on Pentecost, proclaiming the crucified and risen Christ so that 3,000 people were baptized that day?",
+    "options": [
+      "Peter",
+      "John",
+      "James",
+      "Andrew"
+    ],
+    "correct_answer": "Peter",
+    "reference": "Acts 2:14-41",
+    "fact": "Peter proclaimed, 'Repent and be baptized, every one of you, in the name of Jesus Christ!'",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 102,
+    "scroll_title": "The Gate Called Beautiful",
+    "clue": "'Silver or gold I do not have, but what I do have I give you. In the name of Jesus Christ of Nazareth, walk!' Who was healed?",
+    "options": [
+      "A man lame from birth",
+      "A man blind from birth",
+      "A leper",
+      "A paralyzed man"
+    ],
+    "correct_answer": "A man lame from birth",
+    "reference": "Acts 3:6-8",
+    "fact": "He jumped to his feet and began to walk, entering the temple courts walking and leaping and praising God.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 103,
+    "scroll_title": "Lying to the Holy Spirit",
+    "clue": "Which husband and wife sold a piece of property but lied about the proceeds to the Holy Spirit, falling dead instantly at Peter's feet?",
+    "options": [
+      "Ananias and Sapphira",
+      "Aquila and Priscilla",
+      "Abraham and Sarah",
+      "Isaac and Rebekah"
+    ],
+    "correct_answer": "Ananias and Sapphira",
+    "reference": "Acts 5:1-10",
+    "fact": "Great fear seized the whole church and all who heard about these tragic events.",
+    "difficulty": "Medium",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 104,
+    "scroll_title": "The First Martyr",
+    "clue": "Looking up into heaven while being stoned to death, who prayed, 'Lord, do not hold this sin against them,' as the first Christian martyr?",
+    "options": [
+      "Stephen",
+      "James",
+      "Peter",
+      "Philip"
+    ],
+    "correct_answer": "Stephen",
+    "reference": "Acts 7:59-60",
+    "fact": "Stephen saw the glory of God, and Jesus standing at the right hand of God.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 105,
+    "scroll_title": "The Desert Road Baptism",
+    "clue": "Who was sent by an angel to a desert road to explain the prophet Isaiah to an Ethiopian eunuch riding in his chariot and baptize him?",
+    "options": [
+      "Philip",
+      "Peter",
+      "Paul",
+      "Barnabas"
+    ],
+    "correct_answer": "Philip",
+    "reference": "Acts 8:35-38",
+    "fact": "When they came up out of the water, the Ethiopian went on his way rejoicing.",
+    "difficulty": "Medium",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 106,
+    "scroll_title": "The Damascus Road Light",
+    "clue": "Traveling to Damascus to persecute Christians, who was blinded by a light from heaven and heard Jesus say, 'Saul, why do you persecute me?'?",
+    "options": [
+      "Saul (Paul)",
+      "Barnabas",
+      "Stephen",
+      "Cornelius"
+    ],
+    "correct_answer": "Saul (Paul)",
+    "reference": "Acts 9:3-5",
+    "fact": "Saul was transformed from the greatest persecutor of the church into its greatest apostle.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 107,
+    "scroll_title": "Scales Falling from Eyes",
+    "clue": "Which believer in Damascus laid hands on blind Saul so that something like scales fell from his eyes and he was filled with the Spirit?",
+    "options": [
+      "Ananias",
+      "Barnabas",
+      "Silas",
+      "Timothy"
+    ],
+    "correct_answer": "Ananias",
+    "reference": "Acts 9:17-18",
+    "fact": "Ananias addressed him as 'Brother Saul,' and Paul was baptized immediately.",
+    "difficulty": "Medium",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 108,
+    "scroll_title": "Dorcas Raised to Life",
+    "clue": "Who knelt down and prayed in Joppa, saying, 'Tabitha, get up,' bringing a godly woman who made garments for the poor back from the dead?",
+    "options": [
+      "Peter",
+      "Paul",
+      "John",
+      "Philip"
+    ],
+    "correct_answer": "Peter",
+    "reference": "Acts 9:40",
+    "fact": "Tabitha opened her eyes, and seeing Peter she sat up; this became known all over Joppa.",
+    "difficulty": "Medium",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 109,
+    "scroll_title": "The First Gentile Pentecost",
+    "clue": "While Peter preached in Caesarea, which Roman centurion and his household became the first Gentiles to receive the Holy Spirit?",
+    "options": [
+      "Cornelius",
+      "Julius",
+      "Claudius",
+      "Sergius Paulus"
+    ],
+    "correct_answer": "Cornelius",
+    "reference": "Acts 10:44-48",
+    "fact": "Peter declared, 'God does not show favoritism but accepts from every nation those who fear Him.'",
+    "difficulty": "Medium",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 110,
+    "scroll_title": "The First Christians",
+    "clue": "In which Syrian city were the disciples of Jesus called 'Christians' for the very first time in history?",
+    "options": [
+      "Antioch",
+      "Jerusalem",
+      "Rome",
+      "Ephesus"
+    ],
+    "correct_answer": "Antioch",
+    "reference": "Acts 11:26",
+    "fact": "Barnabas and Paul met with the church at Antioch for a whole year and taught great numbers.",
+    "difficulty": "Medium",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 111,
+    "scroll_title": "The Angel's Prison Rescue",
+    "clue": "Sleeping between two soldiers bound with two chains, who was struck on the side and freed from Herod's prison by an angel at night?",
+    "options": [
+      "Peter",
+      "Paul",
+      "Silas",
+      "James"
+    ],
+    "correct_answer": "Peter",
+    "reference": "Acts 12:7-10",
+    "fact": "The iron city gate opened for them by itself, and Peter returned to the praying church.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 112,
+    "scroll_title": "Midnight Earthquake in Jail",
+    "clue": "Singing hymns to God in a Philippian prison at midnight, which two missionaries experienced an earthquake that broke every prisoner's chains?",
+    "options": [
+      "Paul and Silas",
+      "Peter and John",
+      "Barnabas and Mark",
+      "Aquila and Priscilla"
+    ],
+    "correct_answer": "Paul and Silas",
+    "reference": "Acts 16:25-26",
+    "fact": "The Philippian jailer asked, 'Sirs, what must I do to be saved?' and was baptized with his household.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 113,
+    "scroll_title": "God So Loved the World",
+    "clue": "'For God so loved the world that He gave His one and only Son, that whoever believes in Him shall not perish.' Where is this verse?",
+    "options": [
+      "John 3:16",
+      "Romans 5:8",
+      "Ephesians 2:8",
+      "1 John 4:8"
+    ],
+    "correct_answer": "John 3:16",
+    "reference": "John 3:16",
+    "fact": "John 3:16 is often called 'The Gospel in a Nutshell' for its concise message of salvation.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 114,
+    "scroll_title": "The Wages of Sin",
+    "clue": "'For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord.' Who wrote these words to Rome?",
+    "options": [
+      "Paul (Romans 6:23)",
+      "Peter",
+      "John",
+      "James"
+    ],
+    "correct_answer": "Paul (Romans 6:23)",
+    "reference": "Romans 6:23",
+    "fact": "Eternal life is a free gift of God's grace, not something earned by human effort.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 115,
+    "scroll_title": "All Things Work for Good",
+    "clue": "'In all things God works for the good of those who love Him, who have been called according to His purpose.' Where is this promise?",
+    "options": [
+      "Romans 8:28",
+      "Philippians 4:13",
+      "Galatians 5:22",
+      "Hebrews 11:1"
+    ],
+    "correct_answer": "Romans 8:28",
+    "reference": "Romans 8:28",
+    "fact": "God sovereignly weaves even trials and hardships together for the ultimate good of His children.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 116,
+    "scroll_title": "The Love Chapter Scroll",
+    "clue": "'Love is patient, love is kind. It does not envy, it does not boast, it is not proud.' Which famous chapter of 1 Corinthians is this?",
+    "options": [
+      "1 Corinthians 13",
+      "Romans 12",
+      "Ephesians 6",
+      "1 John 4"
+    ],
+    "correct_answer": "1 Corinthians 13",
+    "reference": "1 Corinthians 13:4-7",
+    "fact": "And now these three remain: faith, hope and love. But the greatest of these is love.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 117,
+    "scroll_title": "Nine Fruit of the Spirit",
+    "clue": "Where in the New Testament are the nine fruit of the Spirit listed—love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control?",
+    "options": [
+      "Galatians 5:22-23",
+      "Ephesians 4:32",
+      "Colossians 3:12",
+      "Philippians 2:5"
+    ],
+    "correct_answer": "Galatians 5:22-23",
+    "reference": "Galatians 5:22-23",
+    "fact": "Against such virtues there is no law; they are produced by the Holy Spirit in a believer's life.",
+    "difficulty": "Medium",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 118,
+    "scroll_title": "Saved by Grace Through Faith",
+    "clue": "'For it is by grace you have been saved, through faith—and this is not from yourselves, it is the gift of God.' Where is this found?",
+    "options": [
+      "Ephesians 2:8",
+      "Romans 3:23",
+      "Titus 3:5",
+      "James 2:17"
+    ],
+    "correct_answer": "Ephesians 2:8",
+    "reference": "Ephesians 2:8-9",
+    "fact": "Salvation is entirely God's gift, not by works, so that no one can boast.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 119,
+    "scroll_title": "The Full Armor of God",
+    "clue": "Which chapter of Ephesians instructs believers to put on the belt of truth, breastplate of righteousness, shield of faith, and helmet of salvation?",
+    "options": [
+      "Ephesians 6:11-17",
+      "Romans 13:12",
+      "1 Thessalonians 5:8",
+      "2 Corinthians 10:4"
+    ],
+    "correct_answer": "Ephesians 6:11-17",
+    "reference": "Ephesians 6:11-17",
+    "fact": "The sword of the Spirit, which is the Word of God, is our offensive weapon against the enemy.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 120,
+    "scroll_title": "Strength Through Christ",
+    "clue": "'I can do all this through Him who gives me strength.' In which epistle of encouragement did Paul pen this verse?",
+    "options": [
+      "Philippians 4:13",
+      "Romans 8:37",
+      "2 Corinthians 12:9",
+      "Colossians 1:11"
+    ],
+    "correct_answer": "Philippians 4:13",
+    "reference": "Philippians 4:13",
+    "fact": "Paul wrote these words while imprisoned in Rome, testifying to Christ's sustaining power.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 121,
+    "scroll_title": "The Epistle of Joy",
+    "clue": "'Rejoice in the Lord always. I will say it again: Rejoice!' Which letter is celebrated as Paul's 'Epistle of Joy'?",
+    "options": [
+      "Philippians",
+      "Ephesians",
+      "Colossians",
+      "Philemon"
+    ],
+    "correct_answer": "Philippians",
+    "reference": "Philippians 4:4",
+    "fact": "Despite chains and adversity, Paul mentions joy and rejoicing sixteen times in Philippians.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 122,
+    "scroll_title": "Pray Continually",
+    "clue": "'Rejoice always, pray continually, give thanks in all circumstances; for this is God's will for you in Christ Jesus.' Where is this found?",
+    "options": [
+      "1 Thessalonians 5:16-18",
+      "Colossians 4:2",
+      "Ephesians 6:18",
+      "Romans 12:12"
+    ],
+    "correct_answer": "1 Thessalonians 5:16-18",
+    "reference": "1 Thessalonians 5:16-18",
+    "fact": "A lifestyle of prayer and gratitude keeps a believer aligned with God's will.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 123,
+    "scroll_title": "God-Breathed Scripture",
+    "clue": "'All Scripture is God-breathed and is useful for teaching, rebuking, correcting and training in righteousness.' Where is this written?",
+    "options": [
+      "2 Timothy 3:16-17",
+      "1 Timothy 4:12",
+      "Titus 2:11",
+      "Hebrews 4:12"
+    ],
+    "correct_answer": "2 Timothy 3:16-17",
+    "reference": "2 Timothy 3:16-17",
+    "fact": "The Holy Scriptures equip the servant of God thoroughly for every good work.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 124,
+    "scroll_title": "The Hall of Faith Scroll",
+    "clue": "'Now faith is confidence in what we hope for and assurance about what we do not see.' Which chapter is known as the 'Hall of Faith'?",
+    "options": [
+      "Hebrews 11",
+      "Romans 10",
+      "James 2",
+      "Galatians 3"
+    ],
+    "correct_answer": "Hebrews 11",
+    "reference": "Hebrews 11:1",
+    "fact": "Hebrews 11 honors Old Testament heroes like Abel, Noah, Abraham, Moses, and Rahab for their faith.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 125,
+    "scroll_title": "Without Faith It Is Impossible",
+    "clue": "'And without faith it is impossible to please God, because anyone who comes to Him must believe that He exists.' Where is this found?",
+    "options": [
+      "Hebrews 11:6",
+      "Hebrews 12:2",
+      "Romans 14:23",
+      "1 John 5:4"
+    ],
+    "correct_answer": "Hebrews 11:6",
+    "reference": "Hebrews 11:6",
+    "fact": "God rewards those who earnestly and sincerely seek Him in faith.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 126,
+    "scroll_title": "The Unchanging Savior",
+    "clue": "'Jesus Christ is the same yesterday and today and forever.' In which chapter of Hebrews is this reassuring truth recorded?",
+    "options": [
+      "Hebrews 13:8",
+      "Revelation 1:8",
+      "John 1:1",
+      "Matthew 28:20"
+    ],
+    "correct_answer": "Hebrews 13:8",
+    "reference": "Hebrews 13:8",
+    "fact": "While earthly circumstances change, Christ's character, mercy, and promises endure forever.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 127,
+    "scroll_title": "Faith Without Deeds Is Dead",
+    "clue": "'As the body without the spirit is dead, so faith without deeds is dead.' Which New Testament writer emphasized living faith?",
+    "options": [
+      "James",
+      "Peter",
+      "John",
+      "Jude"
+    ],
+    "correct_answer": "James",
+    "reference": "James 2:26",
+    "fact": "James taught that genuine saving faith naturally produces good works and loving actions.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 128,
+    "scroll_title": "Resist the Devil",
+    "clue": "'Submit yourselves, then, to God. Resist the devil, and he will flee from you. Come near to God and He will come near to you.' Where is this?",
+    "options": [
+      "James 4:7-8",
+      "1 Peter 5:9",
+      "Ephesians 4:27",
+      "1 John 2:14"
+    ],
+    "correct_answer": "James 4:7-8",
+    "reference": "James 4:7-8",
+    "fact": "Our spiritual victory comes through humility before God and active resistance against Satan.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 129,
+    "scroll_title": "A Royal Priesthood",
+    "clue": "'But you are a chosen people, a royal priesthood, a holy nation, God's special possession.' Which apostle wrote this identity description?",
+    "options": [
+      "Peter (1 Peter 2:9)",
+      "Paul",
+      "James",
+      "John"
+    ],
+    "correct_answer": "Peter (1 Peter 2:9)",
+    "reference": "1 Peter 2:9",
+    "fact": "We are chosen to declare the praises of Him who called us out of darkness into His wonderful light.",
+    "difficulty": "Medium",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 130,
+    "scroll_title": "The Roaring Lion",
+    "clue": "'Your enemy the devil prowls around like a roaring lion looking for someone to devour.' Who warned believers to be alert and sober-minded?",
+    "options": [
+      "Peter",
+      "James",
+      "John",
+      "Paul"
+    ],
+    "correct_answer": "Peter",
+    "reference": "1 Peter 5:8",
+    "fact": "Peter exhorts believers to stand firm in the faith against the enemy's schemes.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 131,
+    "scroll_title": "The Promise of Forgiveness",
+    "clue": "'If we confess our sins, He is faithful and just and will forgive us our sins and purify us from all unrighteousness.' Where is this?",
+    "options": [
+      "1 John 1:9",
+      "Psalm 32:5",
+      "Proverbs 28:13",
+      "Romans 4:7"
+    ],
+    "correct_answer": "1 John 1:9",
+    "reference": "1 John 1:9",
+    "fact": "The blood of Jesus His Son cleanses us from every sin when we humbly confess.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 132,
+    "scroll_title": "Perfect Love Drives Out Fear",
+    "clue": "'God is love... There is no fear in love. But perfect love drives out fear.' Which apostle wrote these famous words on divine love?",
+    "options": [
+      "John",
+      "Paul",
+      "Peter",
+      "James"
+    ],
+    "correct_answer": "John",
+    "reference": "1 John 4:16-18",
+    "fact": "Whoever lives in love lives in God, and God in them.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 133,
+    "scroll_title": "The Victory Over the World",
+    "clue": "'This is the victory that has overcome the world, even our faith. Who is it that overcomes the world? Only the one who believes that Jesus is the Son of God.'",
+    "options": [
+      "1 John 5:4-5",
+      "Romans 8:37",
+      "1 Corinthians 15:57",
+      "Revelation 2:7"
+    ],
+    "correct_answer": "1 John 5:4-5",
+    "reference": "1 John 5:4-5",
+    "fact": "Faith in Jesus Christ as the Son of God is our ultimate victory over worldly darkness.",
+    "difficulty": "Medium",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 134,
+    "scroll_title": "The Vision on Patmos",
+    "clue": "Exiled to a rocky island because of the word of God, who was in the Spirit on the Lord's Day and wrote the Book of Revelation?",
+    "options": [
+      "John the Apostle",
+      "Peter the Apostle",
+      "Paul the Apostle",
+      "Daniel the Prophet"
+    ],
+    "correct_answer": "John the Apostle",
+    "reference": "Revelation 1:9",
+    "fact": "John was exiled to the island of Patmos where he saw the triumphant glorified Christ.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 135,
+    "scroll_title": "Alpha and Omega",
+    "clue": "'I am the Alpha and the Omega, the First and the Last, the Beginning and the End.' Who declares this eternal sovereignty?",
+    "options": [
+      "Jesus Christ",
+      "The Archangel Gabriel",
+      "The Archangel Michael",
+      "Elijah the Prophet"
+    ],
+    "correct_answer": "Jesus Christ",
+    "reference": "Revelation 22:13",
+    "fact": "Alpha and Omega are the first and last letters of the Greek alphabet, symbolizing eternity.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 136,
+    "scroll_title": "Knocking at the Door",
+    "clue": "'Here I am! I stand at the door and knock. If anyone hears my voice and opens the door, I will come in and eat with that person.' Where is this?",
+    "options": [
+      "Revelation 3:20",
+      "Matthew 7:7",
+      "Luke 11:9",
+      "John 10:9"
+    ],
+    "correct_answer": "Revelation 3:20",
+    "reference": "Revelation 3:20",
+    "fact": "Jesus desires personal, intimate communion with every heart and church that opens to Him.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 137,
+    "scroll_title": "The Light of New Jerusalem",
+    "clue": "The heavenly New Jerusalem does not need the sun or the moon to shine on it, for the glory of God gives it light, and who is its lamp?",
+    "options": [
+      "The Lamb (Jesus Christ)",
+      "A golden lampstand",
+      "Myriads of angels",
+      "A pillar of fire"
+    ],
+    "correct_answer": "The Lamb (Jesus Christ)",
+    "reference": "Revelation 21:23",
+    "fact": "In God's eternal city, the presence of Christ the Lamb illuminates everything in pure glory.",
+    "difficulty": "Medium",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 138,
+    "scroll_title": "No More Tears or Sorrow",
+    "clue": "'He will wipe every tear from their eyes. There will be no more death or mourning or crying or pain.' Where is this eternal promise found?",
+    "options": [
+      "Revelation 21:4",
+      "Isaiah 25:8",
+      "Psalm 30:5",
+      "John 14:1"
+    ],
+    "correct_answer": "Revelation 21:4",
+    "reference": "Revelation 21:4",
+    "fact": "The old order of suffering and death will pass away forever in God's new creation.",
+    "difficulty": "Easy",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 139,
+    "scroll_title": "The Leaves of Healing",
+    "clue": "Standing on each side of the river of the water of life is the Tree of Life, bearing twelve crops of fruit. For what are its leaves used?",
+    "options": [
+      "For the healing of the nations",
+      "For decorating the city",
+      "For making crowns",
+      "For fragrant incense"
+    ],
+    "correct_answer": "For the healing of the nations",
+    "reference": "Revelation 22:2",
+    "fact": "The Tree of Life from Eden is restored in the New Jerusalem for eternal blessing.",
+    "difficulty": "Medium",
+    "time_seconds": 60,
+    "reward_diamonds": 25
+  },
+  {
+    "id": 140,
+    "scroll_title": "The Final Benediction",
+    "clue": "What is the very last verse of the entire Holy Bible (Revelation 22:21)?",
+    "options": [
+      "The grace of the Lord Jesus be with God's people. Amen.",
+      "The Lord bless you and keep you. Amen.",
+      "May the peace of God guard your hearts forever.",
+      "To Him be glory for ever and ever. Amen."
+    ],
+    "correct_answer": "The grace of the Lord Jesus be with God's people. Amen.",
+    "reference": "Revelation 22:21",
+    "fact": "The Bible concludes with a benediction of God's amazing grace to all His people.",
     "difficulty": "Easy",
     "time_seconds": 60,
     "reward_diamonds": 25
