@@ -1,0 +1,122 @@
+[
+  {
+    "question": "After the death of Moses the servant of the LORD, to whom did the LORD speak?",
+    "opt1": "Caleb the son of Jephunneh",
+    "opt2": "Joshua the son of Nun",
+    "opt3": "Eleazar the priest",
+    "opt4": "Phinehas",
+    "correct": "Joshua the son of Nun",
+    "explanation": "Joshua 1:1 (KJV) - Now after the death of Moses the servant of the LORD it came to pass, that the LORD spake unto Joshua the son of Nun, Moses' minister, saying,",
+    "book": "Joshua",
+    "category": "OldTestament",
+    "chapter": 1
+  },
+  {
+    "question": "How many days did Joshua tell the people to prepare before crossing the Jordan?",
+    "opt1": "Three days",
+    "opt2": "Seven days",
+    "opt3": "Forty days",
+    "opt4": "One day",
+    "correct": "Three days",
+    "explanation": "Joshua 1:11 (KJV) - Pass through the host, and command the people, saying, Prepare you victuals; for within three days ye shall pass over this Jordan, to go in to possess the land, which the LORD your God giveth you to possess it.",
+    "book": "Joshua",
+    "category": "OldTestament",
+    "chapter": 1
+  },
+  {
+    "question": "How many men did Joshua send secretly as spies to view the land of Jericho?",
+    "opt1": "Twelve",
+    "opt2": "Two",
+    "opt3": "Ten",
+    "opt4": "Seven",
+    "correct": "Two",
+    "explanation": "Joshua 2:1 (KJV) - And Joshua the son of Nun sent out of Shittim two men to spy secretly, saying, Go view the land, even Jericho. And they went, and came into an harlot's house, named Rahab, and lodged there.",
+    "book": "Joshua",
+    "category": "OldTestament",
+    "chapter": 2
+  },
+  {
+    "question": "Where did Rahab hide the two spies when the king of Jericho sought them?",
+    "opt1": "Under the floorboards",
+    "opt2": "In a cave in the mountains",
+    "opt3": "With the stalks of flax on the roof",
+    "opt4": "In a well in her courtyard",
+    "correct": "With the stalks of flax on the roof",
+    "explanation": "Joshua 2:6 (KJV) - But she had brought them up to the roof of the house, and hid them with the stalks of flax, which she had laid in order upon the roof.",
+    "book": "Joshua",
+    "category": "OldTestament",
+    "chapter": 2
+  },
+  {
+    "question": "What token did the spies give Rahab to save her family from destruction?",
+    "opt1": "A line of scarlet thread",
+    "opt2": "A silver coin",
+    "opt3": "A white flag",
+    "opt4": "A piece of unleavened bread",
+    "correct": "A line of scarlet thread",
+    "explanation": "Joshua 2:18 (KJV) - Behold, when we come into the land, thou shalt bind this line of scarlet thread in the window which thou didst let us down by...",
+    "book": "Joshua",
+    "category": "OldTestament",
+    "chapter": 2
+  },
+  {
+    "question": "What parted the waters of the Jordan River so the Israelites could cross?",
+    "opt1": "Moses' rod",
+    "opt2": "A strong east wind",
+    "opt3": "The feet of the priests bearing the ark",
+    "opt4": "Joshua's outstretched spear",
+    "correct": "The feet of the priests bearing the ark",
+    "explanation": "Joshua 3:15-16 (KJV) - And as they that bare the ark were come unto Jordan, and the feet of the priests that bare the ark were dipped in the brim of the water... That the waters which came down from above stood and rose up upon an heap...",
+    "book": "Joshua",
+    "category": "OldTestament",
+    "chapter": 3
+  },
+  {
+    "question": "How many stones did the Lord command Joshua to take out of the midst of the Jordan?",
+    "opt1": "Ten",
+    "opt2": "Twelve",
+    "opt3": "Seven",
+    "opt4": "Forty",
+    "correct": "Twelve",
+    "explanation": "Joshua 4:2-3 (KJV) - Take you twelve men out of the people, out of every tribe a man... take you hence out of the midst of Jordan, out of the place where the priests' feet stood firm, twelve stones...",
+    "book": "Joshua",
+    "category": "OldTestament",
+    "chapter": 4
+  },
+  {
+    "question": "What did the Lord tell Joshua to do to the men of Israel at Gilgal?",
+    "opt1": "Anoint them with oil",
+    "opt2": "Circumcise them",
+    "opt3": "Baptize them in the Jordan",
+    "opt4": "Count them",
+    "correct": "Circumcise them",
+    "explanation": "Joshua 5:2 (KJV) - At that time the LORD said unto Joshua, Make thee sharp knives, and circumcise again the children of Israel the second time.",
+    "book": "Joshua",
+    "category": "OldTestament",
+    "chapter": 5
+  },
+  {
+    "question": "What ceased on the morrow after the Israelites had eaten of the old corn of the land?",
+    "opt1": "The rain",
+    "opt2": "The quails",
+    "opt3": "The manna",
+    "opt4": "The cloud by day",
+    "correct": "The manna",
+    "explanation": "Joshua 5:12 (KJV) - And the manna ceased on the morrow after they had eaten of the old corn of the land; neither had the children of Israel manna any more...",
+    "book": "Joshua",
+    "category": "OldTestament",
+    "chapter": 5
+  },
+  {
+    "question": "How many times did the Israelites compass the city of Jericho on the seventh day?",
+    "opt1": "Once",
+    "opt2": "Three times",
+    "opt3": "Seven times",
+    "opt4": "Twelve times",
+    "correct": "Seven times",
+    "explanation": "Joshua 6:15 (KJV) - And it came to pass on the seventh day, that they rose early about the dawning of the day, and compassed the city after the same manner seven times: only on that day they compassed the city seven times.",
+    "book": "Joshua",
+    "category": "OldTestament",
+    "chapter": 6
+  }
+]
