@@ -4272,1021 +4272,1221 @@
   "2026-08-20": [
     {
       "question": "Who was Naomi's husband?",
-      "options": [
-        "Elimelech",
-        "Boaz",
-        "Mahlon",
-        "Chilion"
-      ],
-      "answer": "Elimelech"
+      "opt1": "Elimelech",
+      "opt2": "Boaz",
+      "opt3": "Mahlon",
+      "opt4": "Chilion",
+      "correct": "Elimelech",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "What was the name of Ruth's sister-in-law?",
-      "options": [
-        "Orpah",
-        "Naomi",
-        "Hannah",
-        "Miriam"
-      ],
-      "answer": "Orpah"
+      "opt1": "Orpah",
+      "opt2": "Naomi",
+      "opt3": "Hannah",
+      "opt4": "Miriam",
+      "correct": "Orpah",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "What did Naomi want to be called when she returned to Bethlehem?",
-      "options": [
-        "Mara",
-        "Sarah",
-        "Hannah",
-        "Leah"
-      ],
-      "answer": "Mara"
+      "opt1": "Mara",
+      "opt2": "Sarah",
+      "opt3": "Hannah",
+      "opt4": "Leah",
+      "correct": "Mara",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "In whose field did Ruth glean?",
-      "options": [
-        "Boaz",
-        "Elimelech",
-        "Jesse",
-        "Obed"
-      ],
-      "answer": "Boaz"
+      "opt1": "Boaz",
+      "opt2": "Elimelech",
+      "opt3": "Jesse",
+      "opt4": "Obed",
+      "correct": "Boaz",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "Who was the great-grandmother of King David?",
-      "options": [
-        "Ruth",
-        "Naomi",
-        "Rahab",
-        "Tamar"
-      ],
-      "answer": "Ruth"
+      "opt1": "Ruth",
+      "opt2": "Naomi",
+      "opt3": "Rahab",
+      "opt4": "Tamar",
+      "correct": "Ruth",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "What was Esther's Hebrew name?",
-      "options": [
-        "Hadassah",
-        "Vashti",
-        "Miriam",
-        "Hannah"
-      ],
-      "answer": "Hadassah"
+      "opt1": "Hadassah",
+      "opt2": "Vashti",
+      "opt3": "Miriam",
+      "opt4": "Hannah",
+      "correct": "Hadassah",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "Who was the king that married Esther?",
-      "options": [
-        "Ahasuerus",
-        "Cyrus",
-        "Darius",
-        "Nebuchadnezzar"
-      ],
-      "answer": "Ahasuerus"
+      "opt1": "Ahasuerus",
+      "opt2": "Cyrus",
+      "opt3": "Darius",
+      "opt4": "Nebuchadnezzar",
+      "correct": "Ahasuerus",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "Who plotted to destroy all the Jews in Persia?",
-      "options": [
-        "Haman",
-        "Mordecai",
-        "Bigthan",
-        "Teresh"
-      ],
-      "answer": "Haman"
+      "opt1": "Haman",
+      "opt2": "Mordecai",
+      "opt3": "Bigthan",
+      "opt4": "Teresh",
+      "correct": "Haman",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "What was Mordecai's relation to Esther?",
-      "options": [
-        "Cousin",
-        "Uncle",
-        "Brother",
-        "Father"
-      ],
-      "answer": "Cousin"
+      "opt1": "Cousin",
+      "opt2": "Uncle",
+      "opt3": "Brother",
+      "opt4": "Father",
+      "correct": "Cousin",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "On what was Haman executed?",
-      "options": [
-        "Gallows he built for Mordecai",
-        "The king's sword",
-        "Stoning",
-        "Thrown to lions"
-      ],
-      "answer": "Gallows he built for Mordecai"
+      "opt1": "Gallows he built for Mordecai",
+      "opt2": "The king's sword",
+      "opt3": "Stoning",
+      "opt4": "Thrown to lions",
+      "correct": "Gallows he built for Mordecai",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     }
   ],
   "2026-08-21": [
     {
       "question": "Who was the only female judge of Israel?",
-      "options": [
-        "Deborah",
-        "Jael",
-        "Ruth",
-        "Miriam"
-      ],
-      "answer": "Deborah"
+      "opt1": "Deborah",
+      "opt2": "Jael",
+      "opt3": "Ruth",
+      "opt4": "Miriam",
+      "correct": "Deborah",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "Which judge defeated Midian with only 300 men?",
-      "options": [
-        "Gideon",
-        "Samson",
-        "Jephthah",
-        "Ehud"
-      ],
-      "answer": "Gideon"
+      "opt1": "Gideon",
+      "opt2": "Samson",
+      "opt3": "Jephthah",
+      "opt4": "Ehud",
+      "correct": "Gideon",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "What weapon did Samson use to kill 1,000 Philistines?",
-      "options": [
-        "Jawbone of a donkey",
-        "A sword",
-        "A spear",
-        "A sling"
-      ],
-      "answer": "Jawbone of a donkey"
+      "opt1": "Jawbone of a donkey",
+      "opt2": "A sword",
+      "opt3": "A spear",
+      "opt4": "A sling",
+      "correct": "Jawbone of a donkey",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "Who betrayed Samson to the Philistines?",
-      "options": [
-        "Delilah",
-        "Jezebel",
-        "Athaliah",
-        "Michal"
-      ],
-      "answer": "Delilah"
+      "opt1": "Delilah",
+      "opt2": "Jezebel",
+      "opt3": "Athaliah",
+      "opt4": "Michal",
+      "correct": "Delilah",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "Which judge made a rash vow that cost him his daughter?",
-      "options": [
-        "Jephthah",
-        "Gideon",
-        "Samson",
-        "Eli"
-      ],
-      "answer": "Jephthah"
+      "opt1": "Jephthah",
+      "opt2": "Gideon",
+      "opt3": "Samson",
+      "opt4": "Eli",
+      "correct": "Jephthah",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "Who was the left-handed judge that killed King Eglon?",
-      "options": [
-        "Ehud",
-        "Othniel",
-        "Shamgar",
-        "Gideon"
-      ],
-      "answer": "Ehud"
+      "opt1": "Ehud",
+      "opt2": "Othniel",
+      "opt3": "Shamgar",
+      "opt4": "Gideon",
+      "correct": "Ehud",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "What did Shamgar use to kill 600 Philistines?",
-      "options": [
-        "An oxgoad",
-        "A jawbone",
-        "A sword",
-        "A sling"
-      ],
-      "answer": "An oxgoad"
+      "opt1": "An oxgoad",
+      "opt2": "A jawbone",
+      "opt3": "A sword",
+      "opt4": "A sling",
+      "correct": "An oxgoad",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "Who drove a tent peg through Sisera's head?",
-      "options": [
-        "Jael",
-        "Deborah",
-        "Ruth",
-        "Rahab"
-      ],
-      "answer": "Jael"
+      "opt1": "Jael",
+      "opt2": "Deborah",
+      "opt3": "Ruth",
+      "opt4": "Rahab",
+      "correct": "Jael",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "What was Gideon's other name?",
-      "options": [
-        "Jerubbaal",
-        "Abimelech",
-        "Balak",
-        "Joash"
-      ],
-      "answer": "Jerubbaal"
+      "opt1": "Jerubbaal",
+      "opt2": "Abimelech",
+      "opt3": "Balak",
+      "opt4": "Joash",
+      "correct": "Jerubbaal",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "How many foxes did Samson tie tail to tail?",
-      "options": [
-        "300",
-        "100",
-        "50",
-        "200"
-      ],
-      "answer": "300"
+      "opt1": "300",
+      "opt2": "100",
+      "opt3": "50",
+      "opt4": "200",
+      "correct": "300",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     }
   ],
   "2026-08-22": [
     {
       "question": "Who was Samuel's mother?",
-      "options": [
-        "Hannah",
-        "Peninnah",
-        "Elizabeth",
-        "Rachel"
-      ],
-      "answer": "Hannah"
+      "opt1": "Hannah",
+      "opt2": "Peninnah",
+      "opt3": "Elizabeth",
+      "opt4": "Rachel",
+      "correct": "Hannah",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "What was the name of the priest who raised Samuel?",
-      "options": [
-        "Eli",
-        "Phinehas",
-        "Hophni",
-        "Zadok"
-      ],
-      "answer": "Eli"
+      "opt1": "Eli",
+      "opt2": "Phinehas",
+      "opt3": "Hophni",
+      "opt4": "Zadok",
+      "correct": "Eli",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "Who was the first king of Israel?",
-      "options": [
-        "Saul",
-        "David",
-        "Solomon",
-        "Samuel"
-      ],
-      "answer": "Saul"
+      "opt1": "Saul",
+      "opt2": "David",
+      "opt3": "Solomon",
+      "opt4": "Samuel",
+      "correct": "Saul",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "What tribe was King Saul from?",
-      "options": [
-        "Benjamin",
-        "Judah",
-        "Ephraim",
-        "Levi"
-      ],
-      "answer": "Benjamin"
+      "opt1": "Benjamin",
+      "opt2": "Judah",
+      "opt3": "Ephraim",
+      "opt4": "Levi",
+      "correct": "Benjamin",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "Who was David's closest friend?",
-      "options": [
-        "Jonathan",
-        "Joab",
-        "Abner",
-        "Mephibosheth"
-      ],
-      "answer": "Jonathan"
+      "opt1": "Jonathan",
+      "opt2": "Joab",
+      "opt3": "Abner",
+      "opt4": "Mephibosheth",
+      "correct": "Jonathan",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "Whose sword did David use to cut off Goliath's head?",
-      "options": [
-        "Goliath's own sword",
-        "Saul's sword",
-        "Jonathan's sword",
-        "His own sword"
-      ],
-      "answer": "Goliath's own sword"
+      "opt1": "Goliath's own sword",
+      "opt2": "Saul's sword",
+      "opt3": "Jonathan's sword",
+      "opt4": "His own sword",
+      "correct": "Goliath's own sword",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "Who was the commander of David's army?",
-      "options": [
-        "Joab",
-        "Abner",
-        "Benaiah",
-        "Uriah"
-      ],
-      "answer": "Joab"
+      "opt1": "Joab",
+      "opt2": "Abner",
+      "opt3": "Benaiah",
+      "opt4": "Uriah",
+      "correct": "Joab",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "Which prophet rebuked David for his sin with Bathsheba?",
-      "options": [
-        "Nathan",
-        "Gad",
-        "Samuel",
-        "Elijah"
-      ],
-      "answer": "Nathan"
+      "opt1": "Nathan",
+      "opt2": "Gad",
+      "opt3": "Samuel",
+      "opt4": "Elijah",
+      "correct": "Nathan",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "Which son of David rebelled against him?",
-      "options": [
-        "Absalom",
-        "Solomon",
-        "Amnon",
-        "Adonijah"
-      ],
-      "answer": "Absalom"
+      "opt1": "Absalom",
+      "opt2": "Solomon",
+      "opt3": "Amnon",
+      "opt4": "Adonijah",
+      "correct": "Absalom",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "How did Absalom die?",
-      "options": [
-        "His hair got caught in a tree and Joab killed him",
-        "He fell on his sword",
-        "He was struck by lightning",
-        "He died in bed"
-      ],
-      "answer": "His hair got caught in a tree and Joab killed him"
+      "opt1": "His hair got caught in a tree and Joab killed him",
+      "opt2": "He fell on his sword",
+      "opt3": "He was struck by lightning",
+      "opt4": "He died in bed",
+      "correct": "His hair got caught in a tree and Joab killed him",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     }
   ],
   "2026-08-23": [
     {
       "question": "Who fed Elijah by the brook Cherith?",
-      "options": [
-        "Ravens",
-        "Angels",
-        "A widow",
-        "Lions"
-      ],
-      "answer": "Ravens"
+      "opt1": "Ravens",
+      "opt2": "Angels",
+      "opt3": "A widow",
+      "opt4": "Lions",
+      "correct": "Ravens",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "On which mountain did Elijah challenge the prophets of Baal?",
-      "options": [
-        "Mt. Carmel",
-        "Mt. Sinai",
-        "Mt. Zion",
-        "Mt. Horeb"
-      ],
-      "answer": "Mt. Carmel"
+      "opt1": "Mt. Carmel",
+      "opt2": "Mt. Sinai",
+      "opt3": "Mt. Zion",
+      "opt4": "Mt. Horeb",
+      "correct": "Mt. Carmel",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "How did Elijah go up to heaven?",
-      "options": [
-        "In a chariot of fire",
-        "On a cloud",
-        "Walked up a mountain",
-        "Died in his sleep"
-      ],
-      "answer": "In a chariot of fire"
+      "opt1": "In a chariot of fire",
+      "opt2": "On a cloud",
+      "opt3": "Walked up a mountain",
+      "opt4": "Died in his sleep",
+      "correct": "In a chariot of fire",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "Who succeeded Elijah as prophet?",
-      "options": [
-        "Elisha",
-        "Isaiah",
-        "Jeremiah",
-        "Micah"
-      ],
-      "answer": "Elisha"
+      "opt1": "Elisha",
+      "opt2": "Isaiah",
+      "opt3": "Jeremiah",
+      "opt4": "Micah",
+      "correct": "Elisha",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "What did Elisha ask from Elijah before he was taken up?",
-      "options": [
-        "A double portion of his spirit",
-        "His mantle",
-        "Wealth",
-        "Long life"
-      ],
-      "answer": "A double portion of his spirit"
+      "opt1": "A double portion of his spirit",
+      "opt2": "His mantle",
+      "opt3": "Wealth",
+      "opt4": "Long life",
+      "correct": "A double portion of his spirit",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "Who was the Syrian commander healed of leprosy by Elisha?",
-      "options": [
-        "Naaman",
-        "Hazael",
-        "Ben-Hadad",
-        "Sennacherib"
-      ],
-      "answer": "Naaman"
+      "opt1": "Naaman",
+      "opt2": "Hazael",
+      "opt3": "Ben-Hadad",
+      "opt4": "Sennacherib",
+      "correct": "Naaman",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "How many times was Naaman told to wash in the Jordan River?",
-      "options": [
-        "7 times",
-        "3 times",
-        "1 time",
-        "12 times"
-      ],
-      "answer": "7 times"
+      "opt1": "7 times",
+      "opt2": "3 times",
+      "opt3": "1 time",
+      "opt4": "12 times",
+      "correct": "7 times",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "What was the name of Elisha's greedy servant?",
-      "options": [
-        "Gehazi",
-        "Baruch",
-        "Ziba",
-        "Obadiah"
-      ],
-      "answer": "Gehazi"
+      "opt1": "Gehazi",
+      "opt2": "Baruch",
+      "opt3": "Ziba",
+      "opt4": "Obadiah",
+      "correct": "Gehazi",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "What floated in the water at Elisha's command?",
-      "options": [
-        "An iron axhead",
-        "A stone",
-        "A silver coin",
-        "A staff"
-      ],
-      "answer": "An iron axhead"
+      "opt1": "An iron axhead",
+      "opt2": "A stone",
+      "opt3": "A silver coin",
+      "opt4": "A staff",
+      "correct": "An iron axhead",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "Who was thrown into Elisha's tomb and came back to life?",
-      "options": [
-        "A dead man",
-        "A soldier",
-        "A child",
-        "A king"
-      ],
-      "answer": "A dead man"
+      "opt1": "A dead man",
+      "opt2": "A soldier",
+      "opt3": "A child",
+      "opt4": "A king",
+      "correct": "A dead man",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     }
   ],
   "2026-08-24": [
     {
       "question": "What did King Solomon ask God for?",
-      "options": [
-        "Wisdom",
-        "Wealth",
-        "Long life",
-        "Death of enemies"
-      ],
-      "answer": "Wisdom"
+      "opt1": "Wisdom",
+      "opt2": "Wealth",
+      "opt3": "Long life",
+      "opt4": "Death of enemies",
+      "correct": "Wisdom",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "Who visited Solomon to test his wisdom?",
-      "options": [
-        "Queen of Sheba",
-        "Pharaoh's daughter",
-        "Queen of Persia",
-        "Queen of Egypt"
-      ],
-      "answer": "Queen of Sheba"
+      "opt1": "Queen of Sheba",
+      "opt2": "Pharaoh's daughter",
+      "opt3": "Queen of Persia",
+      "opt4": "Queen of Egypt",
+      "correct": "Queen of Sheba",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "Which king built the first Temple in Jerusalem?",
-      "options": [
-        "Solomon",
-        "David",
-        "Hezekiah",
-        "Josiah"
-      ],
-      "answer": "Solomon"
+      "opt1": "Solomon",
+      "opt2": "David",
+      "opt3": "Hezekiah",
+      "opt4": "Josiah",
+      "correct": "Solomon",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "Who was the first king of the divided Northern Kingdom (Israel)?",
-      "options": [
-        "Jeroboam",
-        "Rehoboam",
-        "Ahab",
-        "Omri"
-      ],
-      "answer": "Jeroboam"
+      "opt1": "Jeroboam",
+      "opt2": "Rehoboam",
+      "opt3": "Ahab",
+      "opt4": "Omri",
+      "correct": "Jeroboam",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "Who was the most wicked king of Israel, married to Jezebel?",
-      "options": [
-        "Ahab",
-        "Jeroboam",
-        "Manasseh",
-        "Baasha"
-      ],
-      "answer": "Ahab"
+      "opt1": "Ahab",
+      "opt2": "Jeroboam",
+      "opt3": "Manasseh",
+      "opt4": "Baasha",
+      "correct": "Ahab",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "Which king of Judah prayed, and God added 15 years to his life?",
-      "options": [
-        "Hezekiah",
-        "Josiah",
-        "Uzziah",
-        "Asa"
-      ],
-      "answer": "Hezekiah"
+      "opt1": "Hezekiah",
+      "opt2": "Josiah",
+      "opt3": "Uzziah",
+      "opt4": "Asa",
+      "correct": "Hezekiah",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "Which king was eight years old when he began to reign and restored the temple?",
-      "options": [
-        "Josiah",
-        "Joash",
-        "Manasseh",
-        "Uzziah"
-      ],
-      "answer": "Josiah"
+      "opt1": "Josiah",
+      "opt2": "Joash",
+      "opt3": "Manasseh",
+      "opt4": "Uzziah",
+      "correct": "Josiah",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "Who was the king of Babylon who destroyed Jerusalem?",
-      "options": [
-        "Nebuchadnezzar",
-        "Belshazzar",
-        "Cyrus",
-        "Darius"
-      ],
-      "answer": "Nebuchadnezzar"
+      "opt1": "Nebuchadnezzar",
+      "opt2": "Belshazzar",
+      "opt3": "Cyrus",
+      "opt4": "Darius",
+      "correct": "Nebuchadnezzar",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "Which Persian king issued the decree for Jews to return and rebuild the temple?",
-      "options": [
-        "Cyrus",
-        "Darius",
-        "Artaxerxes",
-        "Xerxes"
-      ],
-      "answer": "Cyrus"
+      "opt1": "Cyrus",
+      "opt2": "Darius",
+      "opt3": "Artaxerxes",
+      "opt4": "Xerxes",
+      "correct": "Cyrus",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "What disease struck King Uzziah when he tried to burn incense in the temple?",
-      "options": [
-        "Leprosy",
-        "Blindness",
-        "Paralysis",
-        "Boils"
-      ],
-      "answer": "Leprosy"
+      "opt1": "Leprosy",
+      "opt2": "Blindness",
+      "opt3": "Paralysis",
+      "opt4": "Boils",
+      "correct": "Leprosy",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     }
   ],
   "2026-08-25": [
     {
       "question": "What was Daniel's Babylonian name?",
-      "options": [
-        "Belteshazzar",
-        "Shadrach",
-        "Meshach",
-        "Abednego"
-      ],
-      "answer": "Belteshazzar"
+      "opt1": "Belteshazzar",
+      "opt2": "Shadrach",
+      "opt3": "Meshach",
+      "opt4": "Abednego",
+      "correct": "Belteshazzar",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "Who interpreted Nebuchadnezzar's dream of the great statue?",
-      "options": [
-        "Daniel",
-        "Joseph",
-        "Isaiah",
-        "Ezekiel"
-      ],
-      "answer": "Daniel"
+      "opt1": "Daniel",
+      "opt2": "Joseph",
+      "opt3": "Isaiah",
+      "opt4": "Ezekiel",
+      "correct": "Daniel",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "Who were thrown into the fiery furnace?",
-      "options": [
-        "Shadrach, Meshach, Abednego",
-        "Daniel, Hananiah, Mishael",
-        "Moses, Aaron, Hur",
-        "Peter, James, John"
-      ],
-      "answer": "Shadrach, Meshach, Abednego"
+      "opt1": "Shadrach, Meshach, Abednego",
+      "opt2": "Daniel, Hananiah, Mishael",
+      "opt3": "Moses, Aaron, Hur",
+      "opt4": "Peter, James, John",
+      "correct": "Shadrach, Meshach, Abednego",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "Who saw the handwriting on the wall?",
-      "options": [
-        "Belshazzar",
-        "Nebuchadnezzar",
-        "Darius",
-        "Cyrus"
-      ],
-      "answer": "Belshazzar"
+      "opt1": "Belshazzar",
+      "opt2": "Nebuchadnezzar",
+      "opt3": "Darius",
+      "opt4": "Cyrus",
+      "correct": "Belshazzar",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "Why was Daniel thrown into the lions' den?",
-      "options": [
-        "He prayed to God",
-        "He stole from the king",
-        "He refused to bow to an idol",
-        "He killed a guard"
-      ],
-      "answer": "He prayed to God"
+      "opt1": "He prayed to God",
+      "opt2": "He stole from the king",
+      "opt3": "He refused to bow to an idol",
+      "opt4": "He killed a guard",
+      "correct": "He prayed to God",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "Where was Jonah told to go and preach?",
-      "options": [
-        "Nineveh",
-        "Tarshish",
-        "Babylon",
-        "Jerusalem"
-      ],
-      "answer": "Nineveh"
+      "opt1": "Nineveh",
+      "opt2": "Tarshish",
+      "opt3": "Babylon",
+      "opt4": "Jerusalem",
+      "correct": "Nineveh",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "Where did Jonah try to flee instead?",
-      "options": [
-        "Tarshish",
-        "Joppa",
-        "Damascus",
-        "Egypt"
-      ],
-      "answer": "Tarshish"
+      "opt1": "Tarshish",
+      "opt2": "Joppa",
+      "opt3": "Damascus",
+      "opt4": "Egypt",
+      "correct": "Tarshish",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "How long was Jonah in the belly of the great fish?",
-      "options": [
-        "3 days and 3 nights",
-        "7 days",
-        "40 days",
-        "1 day"
-      ],
-      "answer": "3 days and 3 nights"
+      "opt1": "3 days and 3 nights",
+      "opt2": "7 days",
+      "opt3": "40 days",
+      "opt4": "1 day",
+      "correct": "3 days and 3 nights",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "What plant did God provide to give Jonah shade?",
-      "options": [
-        "A gourd/vine",
-        "An oak tree",
-        "A palm tree",
-        "A fig tree"
-      ],
-      "answer": "A gourd/vine"
+      "opt1": "A gourd/vine",
+      "opt2": "An oak tree",
+      "opt3": "A palm tree",
+      "opt4": "A fig tree",
+      "correct": "A gourd/vine",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "How did the people of Nineveh react to Jonah's preaching?",
-      "options": [
-        "They repented and fasted",
-        "They tried to kill him",
-        "They ignored him",
-        "They imprisoned him"
-      ],
-      "answer": "They repented and fasted"
+      "opt1": "They repented and fasted",
+      "opt2": "They tried to kill him",
+      "opt3": "They ignored him",
+      "opt4": "They imprisoned him",
+      "correct": "They repented and fasted",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     }
   ],
   "2026-08-26": [
     {
       "question": "In the Parable of the Sower, what does the seed represent?",
-      "options": [
-        "The Word of God",
-        "Money",
-        "Good deeds",
-        "Faith"
-      ],
-      "answer": "The Word of God"
+      "opt1": "The Word of God",
+      "opt2": "Money",
+      "opt3": "Good deeds",
+      "opt4": "Faith",
+      "correct": "The Word of God",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "In the Parable of the Good Samaritan, who helped the injured man?",
-      "options": [
-        "A Samaritan",
-        "A Priest",
-        "A Levite",
-        "A Roman soldier"
-      ],
-      "answer": "A Samaritan"
+      "opt1": "A Samaritan",
+      "opt2": "A Priest",
+      "opt3": "A Levite",
+      "opt4": "A Roman soldier",
+      "correct": "A Samaritan",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "What did the prodigal son feed when he was starving?",
-      "options": [
-        "Pigs",
-        "Sheep",
-        "Cows",
-        "Chickens"
-      ],
-      "answer": "Pigs"
+      "opt1": "Pigs",
+      "opt2": "Sheep",
+      "opt3": "Cows",
+      "opt4": "Chickens",
+      "correct": "Pigs",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "In the Parable of the Lost Sheep, how many sheep were not lost?",
-      "options": [
-        "99",
-        "100",
-        "90",
-        "1"
-      ],
-      "answer": "99"
+      "opt1": "99",
+      "opt2": "100",
+      "opt3": "90",
+      "opt4": "1",
+      "correct": "99",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "What did the woman lose in the house and search diligently for?",
-      "options": [
-        "A silver coin",
-        "A gold ring",
-        "A pearl",
-        "A key"
-      ],
-      "answer": "A silver coin"
+      "opt1": "A silver coin",
+      "opt2": "A gold ring",
+      "opt3": "A pearl",
+      "opt4": "A key",
+      "correct": "A silver coin",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "In the Parable of the Talents, how many talents did the master give to the first servant?",
-      "options": [
-        "Five",
-        "Two",
-        "One",
-        "Ten"
-      ],
-      "answer": "Five"
+      "opt1": "Five",
+      "opt2": "Two",
+      "opt3": "One",
+      "opt4": "Ten",
+      "correct": "Five",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "What did the wicked servant do with his one talent?",
-      "options": [
-        "Buried it in the ground",
-        "Spent it",
-        "Gave it away",
-        "Lost it"
-      ],
-      "answer": "Buried it in the ground"
+      "opt1": "Buried it in the ground",
+      "opt2": "Spent it",
+      "opt3": "Gave it away",
+      "opt4": "Lost it",
+      "correct": "Buried it in the ground",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "In the Parable of the Ten Virgins, what did the foolish virgins forget to take?",
-      "options": [
-        "Extra oil",
-        "Their lamps",
-        "Wedding garments",
-        "Money"
-      ],
-      "answer": "Extra oil"
+      "opt1": "Extra oil",
+      "opt2": "Their lamps",
+      "opt3": "Wedding garments",
+      "opt4": "Money",
+      "correct": "Extra oil",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "In the Parable of the Mustard Seed, what does the mustard seed grow into?",
-      "options": [
-        "A large tree",
-        "A beautiful flower",
-        "A wheat field",
-        "A vineyard"
-      ],
-      "answer": "A large tree"
+      "opt1": "A large tree",
+      "opt2": "A beautiful flower",
+      "opt3": "A wheat field",
+      "opt4": "A vineyard",
+      "correct": "A large tree",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "In the Parable of the Two Builders, where did the foolish man build his house?",
-      "options": [
-        "On the sand",
-        "On the rock",
-        "On a hill",
-        "In a valley"
-      ],
-      "answer": "On the sand"
+      "opt1": "On the sand",
+      "opt2": "On the rock",
+      "opt3": "On a hill",
+      "opt4": "In a valley",
+      "correct": "On the sand",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     }
   ],
   "2026-08-27": [
     {
       "question": "What was Jesus' first recorded miracle?",
-      "options": [
-        "Turning water into wine",
-        "Healing a blind man",
-        "Walking on water",
-        "Feeding the 5000"
-      ],
-      "answer": "Turning water into wine"
+      "opt1": "Turning water into wine",
+      "opt2": "Healing a blind man",
+      "opt3": "Walking on water",
+      "opt4": "Feeding the 5000",
+      "correct": "Turning water into wine",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "Where did Jesus turn water into wine?",
-      "options": [
-        "Cana",
-        "Capernaum",
-        "Jerusalem",
-        "Bethlehem"
-      ],
-      "answer": "Cana"
+      "opt1": "Cana",
+      "opt2": "Capernaum",
+      "opt3": "Jerusalem",
+      "opt4": "Bethlehem",
+      "correct": "Cana",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "Who walked on water towards Jesus?",
-      "options": [
-        "Peter",
-        "John",
-        "James",
-        "Andrew"
-      ],
-      "answer": "Peter"
+      "opt1": "Peter",
+      "opt2": "John",
+      "opt3": "James",
+      "opt4": "Andrew",
+      "correct": "Peter",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "How many baskets of broken pieces were left after feeding the 5000?",
-      "options": [
-        "12",
-        "7",
-        "10",
-        "3"
-      ],
-      "answer": "12"
+      "opt1": "12",
+      "opt2": "7",
+      "opt3": "10",
+      "opt4": "3",
+      "correct": "12",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "Whose brother did Jesus raise from the dead after four days?",
-      "options": [
-        "Mary and Martha's",
-        "Peter's",
-        "John's",
-        "Lazarus's own brother"
-      ],
-      "answer": "Mary and Martha's"
+      "opt1": "Mary and Martha's",
+      "opt2": "Peter's",
+      "opt3": "John's",
+      "opt4": "Lazarus's own brother",
+      "correct": "Mary and Martha's",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "What is the name of the man Jesus raised from the dead in Bethany?",
-      "options": [
-        "Lazarus",
-        "Jairus",
-        "Nicodemus",
-        "Bartimaeus"
-      ],
-      "answer": "Lazarus"
+      "opt1": "Lazarus",
+      "opt2": "Jairus",
+      "opt3": "Nicodemus",
+      "opt4": "Bartimaeus",
+      "correct": "Lazarus",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "Who touched the hem of Jesus' garment and was healed?",
-      "options": [
-        "A woman with an issue of blood",
-        "Mary Magdalene",
-        "A leper",
-        "A blind man"
-      ],
-      "answer": "A woman with an issue of blood"
+      "opt1": "A woman with an issue of blood",
+      "opt2": "Mary Magdalene",
+      "opt3": "A leper",
+      "opt4": "A blind man",
+      "correct": "A woman with an issue of blood",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "Who was the blind beggar healed by Jesus near Jericho?",
-      "options": [
-        "Bartimaeus",
-        "Zacchaeus",
-        "Lazarus",
-        "Simon"
-      ],
-      "answer": "Bartimaeus"
+      "opt1": "Bartimaeus",
+      "opt2": "Zacchaeus",
+      "opt3": "Lazarus",
+      "opt4": "Simon",
+      "correct": "Bartimaeus",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "How many lepers returned to thank Jesus out of the ten He healed?",
-      "options": [
-        "1",
-        "3",
-        "5",
-        "9"
-      ],
-      "answer": "1"
+      "opt1": "1",
+      "opt2": "3",
+      "opt3": "5",
+      "opt4": "9",
+      "correct": "1",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "What did Jesus say to calm the storm?",
-      "options": [
-        "Peace, be still",
-        "Stop raining",
-        "Be quiet",
-        "Calm down"
-      ],
-      "answer": "Peace, be still"
+      "opt1": "Peace, be still",
+      "opt2": "Stop raining",
+      "opt3": "Be quiet",
+      "opt4": "Calm down",
+      "correct": "Peace, be still",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     }
   ],
   "2026-08-28": [
     {
       "question": "Who was chosen to replace Judas Iscariot?",
-      "options": [
-        "Matthias",
-        "Barnabas",
-        "Silas",
-        "Paul"
-      ],
-      "answer": "Matthias"
+      "opt1": "Matthias",
+      "opt2": "Barnabas",
+      "opt3": "Silas",
+      "opt4": "Paul",
+      "correct": "Matthias",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "On what day did the Holy Spirit descend upon the apostles?",
-      "options": [
-        "Pentecost",
-        "Passover",
-        "Feast of Tabernacles",
-        "Day of Atonement"
-      ],
-      "answer": "Pentecost"
+      "opt1": "Pentecost",
+      "opt2": "Passover",
+      "opt3": "Feast of Tabernacles",
+      "opt4": "Day of Atonement",
+      "correct": "Pentecost",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "Who was the first Christian martyr?",
-      "options": [
-        "Stephen",
-        "James",
-        "Peter",
-        "Paul"
-      ],
-      "answer": "Stephen"
+      "opt1": "Stephen",
+      "opt2": "James",
+      "opt3": "Peter",
+      "opt4": "Paul",
+      "correct": "Stephen",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "How was Stephen martyred?",
-      "options": [
-        "Stoned to death",
-        "Crucified",
-        "Beheaded",
-        "Burned"
-      ],
-      "answer": "Stoned to death"
+      "opt1": "Stoned to death",
+      "opt2": "Crucified",
+      "opt3": "Beheaded",
+      "opt4": "Burned",
+      "correct": "Stoned to death",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "Who held the coats of those who stoned Stephen?",
-      "options": [
-        "Saul (Paul)",
-        "Pilate",
-        "Caiaphas",
-        "Herod"
-      ],
-      "answer": "Saul (Paul)"
+      "opt1": "Saul (Paul)",
+      "opt2": "Pilate",
+      "opt3": "Caiaphas",
+      "opt4": "Herod",
+      "correct": "Saul (Paul)",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "Where was Saul traveling to when he was blinded by a light?",
-      "options": [
-        "Damascus",
-        "Jerusalem",
-        "Rome",
-        "Antioch"
-      ],
-      "answer": "Damascus"
+      "opt1": "Damascus",
+      "opt2": "Jerusalem",
+      "opt3": "Rome",
+      "opt4": "Antioch",
+      "correct": "Damascus",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "Who baptized the Ethiopian eunuch?",
-      "options": [
-        "Philip",
-        "Peter",
-        "Paul",
-        "John"
-      ],
-      "answer": "Philip"
+      "opt1": "Philip",
+      "opt2": "Peter",
+      "opt3": "Paul",
+      "opt4": "John",
+      "correct": "Philip",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "Where were the disciples first called Christians?",
-      "options": [
-        "Antioch",
-        "Jerusalem",
-        "Rome",
-        "Ephesus"
-      ],
-      "answer": "Antioch"
+      "opt1": "Antioch",
+      "opt2": "Jerusalem",
+      "opt3": "Rome",
+      "opt4": "Ephesus",
+      "correct": "Antioch",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "Who was the centurion that Peter visited in Caesarea?",
-      "options": [
-        "Cornelius",
-        "Julius",
-        "Augustus",
-        "Festus"
-      ],
-      "answer": "Cornelius"
+      "opt1": "Cornelius",
+      "opt2": "Julius",
+      "opt3": "Augustus",
+      "opt4": "Festus",
+      "correct": "Cornelius",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "Which apostle was killed by King Herod with a sword?",
-      "options": [
-        "James, brother of John",
-        "Peter",
-        "Andrew",
-        "Thomas"
-      ],
-      "answer": "James, brother of John"
+      "opt1": "James, brother of John",
+      "opt2": "Peter",
+      "opt3": "Andrew",
+      "opt4": "Thomas",
+      "correct": "James, brother of John",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     }
   ],
   "2026-08-29": [
     {
       "question": "Who accompanied Paul on his first missionary journey?",
-      "options": [
-        "Barnabas",
-        "Silas",
-        "Timothy",
-        "Luke"
-      ],
-      "answer": "Barnabas"
+      "opt1": "Barnabas",
+      "opt2": "Silas",
+      "opt3": "Timothy",
+      "opt4": "Luke",
+      "correct": "Barnabas",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "What was Paul's profession/trade?",
-      "options": [
-        "Tentmaker",
-        "Fisherman",
-        "Carpenter",
-        "Tax collector"
-      ],
-      "answer": "Tentmaker"
+      "opt1": "Tentmaker",
+      "opt2": "Fisherman",
+      "opt3": "Carpenter",
+      "opt4": "Tax collector",
+      "correct": "Tentmaker",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "Who fell asleep and fell out of a third-story window while Paul was preaching?",
-      "options": [
-        "Eutychus",
-        "Timothy",
-        "Titus",
-        "Silas"
-      ],
-      "answer": "Eutychus"
+      "opt1": "Eutychus",
+      "opt2": "Timothy",
+      "opt3": "Titus",
+      "opt4": "Silas",
+      "correct": "Eutychus",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "On which island was Paul shipwrecked?",
-      "options": [
-        "Malta",
-        "Cyprus",
-        "Crete",
-        "Patmos"
-      ],
-      "answer": "Malta"
+      "opt1": "Malta",
+      "opt2": "Cyprus",
+      "opt3": "Crete",
+      "opt4": "Patmos",
+      "correct": "Malta",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "Who wrote the book of Revelation?",
-      "options": [
-        "John",
-        "Paul",
-        "Peter",
-        "James"
-      ],
-      "answer": "John"
+      "opt1": "John",
+      "opt2": "Paul",
+      "opt3": "Peter",
+      "opt4": "James",
+      "correct": "John",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "On which island was John exiled when he wrote Revelation?",
-      "options": [
-        "Patmos",
-        "Malta",
-        "Cyprus",
-        "Sicily"
-      ],
-      "answer": "Patmos"
+      "opt1": "Patmos",
+      "opt2": "Malta",
+      "opt3": "Cyprus",
+      "opt4": "Sicily",
+      "correct": "Patmos",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "To how many churches in Asia did John write Revelation?",
-      "options": [
-        "7",
-        "12",
-        "10",
-        "3"
-      ],
-      "answer": "7"
+      "opt1": "7",
+      "opt2": "12",
+      "opt3": "10",
+      "opt4": "3",
+      "correct": "7",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "In Revelation, what is the New Jerusalem compared to?",
-      "options": [
-        "A bride adorned for her husband",
-        "A golden temple",
-        "A shining star",
-        "A fruitful vine"
-      ],
-      "answer": "A bride adorned for her husband"
+      "opt1": "A bride adorned for her husband",
+      "opt2": "A golden temple",
+      "opt3": "A shining star",
+      "opt4": "A fruitful vine",
+      "correct": "A bride adorned for her husband",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "What river flows from the throne of God in Revelation?",
-      "options": [
-        "River of water of life",
-        "Jordan River",
-        "Nile River",
-        "Euphrates River"
-      ],
-      "answer": "River of water of life"
+      "opt1": "River of water of life",
+      "opt2": "Jordan River",
+      "opt3": "Nile River",
+      "opt4": "Euphrates River",
+      "correct": "River of water of life",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     },
     {
       "question": "What are the last words of the Bible in Revelation?",
-      "options": [
-        "Amen",
-        "Hallelujah",
-        "The End",
-        "Praise the Lord"
-      ],
-      "answer": "Amen"
+      "opt1": "Amen",
+      "opt2": "Hallelujah",
+      "opt3": "The End",
+      "opt4": "Praise the Lord",
+      "correct": "Amen",
+      "book": "Bible",
+      "chapter": "General",
+      "category": "Daily Quiz",
+      "explanation": ""
     }
   ]
 }
