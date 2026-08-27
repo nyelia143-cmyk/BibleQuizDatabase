@@ -1,0 +1,851 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-08-28",
+  "categories": [
+    {
+      "id": "god_trinity",
+      "order": 1,
+      "icon": "ic_qa_god",
+      "colorHex": "#7C3AED",
+      "title": {
+        "te": "దేవుడు & త్రిత్వం",
+        "en": "God & the Trinity"
+      },
+      "subtitle": {
+        "te": "దేవుని స్వభావం గురించిన సందేహాలు",
+        "en": "Questions about God's nature"
+      }
+    },
+    {
+      "id": "salvation",
+      "order": 2,
+      "icon": "ic_qa_cross",
+      "colorHex": "#059669",
+      "title": {
+        "te": "రక్షణ & విశ్వాసం",
+        "en": "Salvation & Faith"
+      },
+      "subtitle": {
+        "te": "నిత్యజీవం ఎలా పొందాలి",
+        "en": "How to receive eternal life"
+      }
+    },
+    {
+      "id": "church_baptism",
+      "order": 3,
+      "icon": "ic_qa_church",
+      "colorHex": "#0284C7",
+      "title": {
+        "te": "బాప్తిస్మము & సంఘం",
+        "en": "Baptism & the Church"
+      },
+      "subtitle": {
+        "te": "సంఘ ఆచారాలు, బాప్తిస్మము",
+        "en": "Church practice and baptism"
+      }
+    },
+    {
+      "id": "prayer_life",
+      "order": 4,
+      "icon": "ic_qa_prayer",
+      "colorHex": "#D97706",
+      "title": {
+        "te": "ప్రార్థన & ఆత్మీయ జీవితం",
+        "en": "Prayer & Spiritual Life"
+      },
+      "subtitle": {
+        "te": "దేవునితో రోజువారీ నడక",
+        "en": "Walking with God daily"
+      }
+    },
+    {
+      "id": "end_times",
+      "order": 5,
+      "icon": "ic_qa_crown",
+      "colorHex": "#BE123C",
+      "title": {
+        "te": "చివరి కాలం & ప్రవచనాలు",
+        "en": "End Times & Prophecy"
+      },
+      "subtitle": {
+        "te": "రాకడ, పరలోకం, తీర్పు",
+        "en": "Second coming, heaven, judgment"
+      }
+    },
+    {
+      "id": "family_life",
+      "order": 6,
+      "icon": "ic_qa_family",
+      "colorHex": "#0891B2",
+      "title": {
+        "te": "కుటుంబం & సంబంధాలు",
+        "en": "Family & Relationships"
+      },
+      "subtitle": {
+        "te": "వివాహం, పిల్లలు, క్షమాపణ",
+        "en": "Marriage, children, forgiveness"
+      }
+    },
+    {
+      "id": "hard_questions",
+      "order": 7,
+      "icon": "ic_qa_question",
+      "colorHex": "#4F46E5",
+      "title": {
+        "te": "కఠిన ప్రశ్నలు",
+        "en": "Hard Questions"
+      },
+      "subtitle": {
+        "te": "అడగడానికి భయపడే ప్రశ్నలు",
+        "en": "The questions people hesitate to ask"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "id": "qa_0001",
+      "categoryId": "salvation",
+      "order": 1,
+      "diamondCost": 0,
+      "featured": true,
+      "tags": [
+        "రక్షణ",
+        "నిత్యజీవం",
+        "salvation",
+        "eternal life",
+        "born again"
+      ],
+      "question": {
+        "te": "రక్షణ ఎలా పొందాలి? మంచి పనులు చేస్తే సరిపోతుందా?",
+        "en": "How can I be saved? Are good works enough?"
+      },
+      "shortAnswer": {
+        "te": "మంచి పనుల వల్ల కాదు — యేసుక్రీస్తునందు విశ్వాసము ద్వారా, దేవుని కృపచేత మాత్రమే రక్షణ లభిస్తుంది.",
+        "en": "Not by good works — salvation comes by God's grace alone, through faith in Jesus Christ."
+      },
+      "keyVerse": {
+        "book": {
+          "te": "ఎఫెసీయులకు",
+          "en": "Ephesians"
+        },
+        "chapter": 2,
+        "verse": 8,
+        "ref": {
+          "te": "ఎఫెసీయులకు 2:8-9",
+          "en": "Ephesians 2:8-9"
+        },
+        "text": {
+          "te": "మీరు విశ్వాసము ద్వారా కృపచేతనే రక్షింపబడియున్నారు; ఇది మీవలన కలిగినది కాదు, దేవుని వరమే; క్రియలవలన కలిగినది కాదు గనుక ఎవడును అతిశయపడ వీలులేదు.",
+          "en": "For it is by grace you have been saved, through faith — and this is not from yourselves, it is the gift of God — not by works, so that no one can boast."
+        }
+      },
+      "answer": {
+        "te": [
+          {
+            "type": "para",
+            "text": "ఇది బైబిల్‌లో అత్యంత ముఖ్యమైన ప్రశ్న. చాలామంది అనుకుంటారు — 'నేను మంచివాడిగా ఉంటే, పాపాలకంటే పుణ్యాలు ఎక్కువ చేస్తే దేవుడు నన్ను స్వీకరిస్తాడు' అని. కానీ బైబిల్ చెప్పే జవాబు వేరు."
+          },
+          {
+            "type": "head",
+            "text": "మొదటి సత్యం — మనమందరం పాపులం"
+          },
+          {
+            "type": "para",
+            "text": "ఎంత మంచి పని చేసినా, గతంలో చేసిన ఒక్క పాపాన్ని అది తుడిచివేయలేదు. న్యాయస్థానంలో నేరస్థుడు 'ఇక నుండి మంచిగా ఉంటాను' అంటే శిక్ష రద్దు కానట్టే."
+          },
+          {
+            "type": "verse",
+            "ref": "రోమా 3:23",
+            "text": "అందరును పాపముచేసి దేవుడు అనుగ్రహించు మహిమను పొందలేక పోవుచున్నారు."
+          },
+          {
+            "type": "head",
+            "text": "రెండవ సత్యం — క్రీస్తు ఆ ఖరీదు చెల్లించాడు"
+          },
+          {
+            "type": "para",
+            "text": "మనం చెల్లించలేని అప్పును యేసు సిలువపై చెల్లించాడు. అందుకే రక్షణ 'సంపాదించుకునేది' కాదు — 'ఉచితంగా పొందుకునేది'."
+          },
+          {
+            "type": "head",
+            "text": "మూడవ సత్యం — విశ్వసించి, అంగీకరించడం"
+          },
+          {
+            "type": "point",
+            "text": "మీరు పాపి అని ఒప్పుకోండి"
+          },
+          {
+            "type": "point",
+            "text": "యేసు మీ కోసం మరణించి తిరిగి లేచాడని హృదయంలో విశ్వసించండి"
+          },
+          {
+            "type": "point",
+            "text": "ఆయనను మీ రక్షకునిగా, ప్రభువుగా స్వీకరించండి"
+          },
+          {
+            "type": "head",
+            "text": "మరి మంచి పనుల స్థానం ఏమిటి?"
+          },
+          {
+            "type": "para",
+            "text": "మంచి పనులు రక్షణకు మూలం కాదు — రక్షణ యొక్క ఫలం. చెట్టు పండ్లు కాయడం వల్ల చెట్టు కాదు; చెట్టు కాబట్టే పండ్లు కాస్తుంది."
+          },
+          {
+            "type": "key",
+            "text": "రక్షణ మీరు దేవుని కోసం చేసేది కాదు — దేవుడు మీ కోసం చేసినది. మీరు చేయాల్సిందల్లా చేతులు చాచి ఆ వరాన్ని అందుకోవడమే."
+          }
+        ],
+        "en": [
+          {
+            "type": "para",
+            "text": "This is the most important question in the Bible. Many assume: \"If I am a good person, if my good outweighs my bad, God will accept me.\" Scripture answers differently."
+          },
+          {
+            "type": "head",
+            "text": "First truth — all of us have sinned"
+          },
+          {
+            "type": "para",
+            "text": "No amount of future good erases a past offence — just as a guilty person cannot cancel a sentence by promising to behave well from now on."
+          },
+          {
+            "type": "verse",
+            "ref": "Romans 3:23",
+            "text": "For all have sinned and fall short of the glory of God."
+          },
+          {
+            "type": "head",
+            "text": "Second truth — Christ paid the price"
+          },
+          {
+            "type": "para",
+            "text": "Jesus paid on the cross the debt we could never pay. That is why salvation is not earned — it is received."
+          },
+          {
+            "type": "head",
+            "text": "Third truth — believe and receive"
+          },
+          {
+            "type": "point",
+            "text": "Admit that you are a sinner"
+          },
+          {
+            "type": "point",
+            "text": "Believe in your heart that Jesus died for you and rose again"
+          },
+          {
+            "type": "point",
+            "text": "Receive Him as your Saviour and Lord"
+          },
+          {
+            "type": "head",
+            "text": "Then what about good works?"
+          },
+          {
+            "type": "para",
+            "text": "Good works are not the root of salvation but its fruit. A tree does not become a tree by bearing fruit; it bears fruit because it is a tree."
+          },
+          {
+            "type": "key",
+            "text": "Salvation is not what you do for God — it is what God has done for you. Your part is simply to open your hands and receive the gift."
+          }
+        ]
+      },
+      "verses": [
+        {
+          "book": {
+            "te": "రోమా",
+            "en": "Romans"
+          },
+          "chapter": 10,
+          "verse": 9,
+          "ref": {
+            "te": "రోమా 10:9",
+            "en": "Romans 10:9"
+          },
+          "text": {
+            "te": "నీ నోటితో యేసు ప్రభువని ఒప్పుకొని, దేవుడు మృతులలోనుండి ఆయనను లేపెనని నీ హృదయమందు విశ్వసించినయెడల, నీవు రక్షింపబడుదువు.",
+            "en": "If you declare with your mouth, 'Jesus is Lord,' and believe in your heart that God raised him from the dead, you will be saved."
+          }
+        },
+        {
+          "book": {
+            "te": "యోహాను",
+            "en": "John"
+          },
+          "chapter": 3,
+          "verse": 16,
+          "ref": {
+            "te": "యోహాను 3:16",
+            "en": "John 3:16"
+          },
+          "text": {
+            "te": "దేవుడు లోకమును ఎంతో ప్రేమించెను; కాగా ఆయనయందు విశ్వాసముంచు ప్రతివాడును నశింపక నిత్యజీవము పొందునట్లు ఆయన తన అద్వితీయకుమారుని అనుగ్రహించెను.",
+            "en": "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life."
+          }
+        }
+      ],
+      "relatedIds": [
+        "qa_0002"
+      ],
+      "shareLine": {
+        "te": "రక్షణ సంపాదించేది కాదు — ఉచితంగా పొందేది. ✝️",
+        "en": "Salvation is not earned — it is received. ✝️"
+      }
+    },
+    {
+      "id": "qa_0002",
+      "categoryId": "prayer_life",
+      "order": 1,
+      "diamondCost": 0,
+      "featured": true,
+      "tags": [
+        "ప్రార్థన",
+        "దేవుడు వింటాడా",
+        "prayer",
+        "unanswered prayer",
+        "how to pray"
+      ],
+      "question": {
+        "te": "దేవుడు నా ప్రార్థన వింటాడా? జవాబు రానప్పుడు ఏమి చేయాలి?",
+        "en": "Does God hear my prayers? What if He doesn't answer?"
+      },
+      "shortAnswer": {
+        "te": "దేవుడు ప్రతి ప్రార్థనను వింటాడు. కానీ ఆయన జవాబు మూడు రకాలుగా ఉంటుంది — 'అవును', 'ఇప్పుడు కాదు', 'నా దగ్గర ఇంకా మంచిది ఉంది'.",
+        "en": "God hears every prayer. But His answer comes in three forms — \"yes\", \"not yet\", and \"I have something better\"."
+      },
+      "keyVerse": {
+        "book": {
+          "te": "1 యోహాను",
+          "en": "1 John"
+        },
+        "chapter": 5,
+        "verse": 14,
+        "ref": {
+          "te": "1 యోహాను 5:14",
+          "en": "1 John 5:14"
+        },
+        "text": {
+          "te": "ఆయన చిత్తానుసారముగా మనమేమి అడిగినను ఆయన మన మనవి ఆలకించునని ఆయనయందు మనకు కలిగిన ధైర్యమిదే.",
+          "en": "This is the confidence we have in approaching God: that if we ask anything according to his will, he hears us."
+        }
+      },
+      "answer": {
+        "te": [
+          {
+            "type": "para",
+            "text": "ప్రార్థించి జవాబు రానప్పుడు 'దేవుడు నన్ను పట్టించుకోవడం లేదా?' అనే బాధ చాలామందికి వస్తుంది. ఈ ప్రశ్న అడగడం విశ్వాసలేమి కాదు — దావీదు కూడా కీర్తనలలో ఇదే అడిగాడు."
+          },
+          {
+            "type": "head",
+            "text": "దేవుడు ఎప్పుడూ వింటాడు"
+          },
+          {
+            "type": "para",
+            "text": "వినడం వేరు, మనం అడిగినది ఇవ్వడం వేరు. తండ్రి పిల్లవాడి మాట వింటాడు — కానీ కత్తి అడిగితే ఇవ్వడు. అది ప్రేమలేకపోవడం కాదు, ప్రేమ ఎక్కువ ఉండటం."
+          },
+          {
+            "type": "head",
+            "text": "జవాబు మూడు రకాలు"
+          },
+          {
+            "type": "point",
+            "text": "అవును — సమయం వచ్చింది, అది నీకు మంచిది"
+          },
+          {
+            "type": "point",
+            "text": "ఇప్పుడు కాదు — అడిగినది మంచిదే, కానీ సమయం కాలేదు"
+          },
+          {
+            "type": "point",
+            "text": "నా దగ్గర ఇంకా మంచిది ఉంది — నీకు కనిపించనిది నాకు కనిపిస్తోంది"
+          },
+          {
+            "type": "head",
+            "text": "పౌలుకు జవాబు 'లేదు' అని వచ్చింది"
+          },
+          {
+            "type": "para",
+            "text": "పౌలు తన బాధ తొలగించమని మూడుసార్లు ప్రార్థించాడు. దేవుడు తొలగించలేదు — బదులుగా 'నా కృప నీకు చాలును' అన్నాడు (2 కొరింథీయులకు 12:9). కొన్నిసార్లు దేవుడు పరిస్థితిని మార్చడు, ఆ పరిస్థితిలో నిలబడే బలాన్ని ఇస్తాడు."
+          },
+          {
+            "type": "head",
+            "text": "ఎలా ప్రార్థించాలి?"
+          },
+          {
+            "type": "para",
+            "text": "పెద్ద పదాలు అవసరం లేదు. యేసు చెప్పిన ప్రార్థన చిన్నదే (మత్తయి 6:9-13). దేవునికి మీ అలంకారమైన మాటలు కాదు, మీ నిజాయితీ గల హృదయం కావాలి."
+          },
+          {
+            "type": "key",
+            "text": "ప్రార్థన దేవుని మనసు మార్చడానికి కాదు — మన హృదయాన్ని ఆయన దగ్గరకు చేర్చడానికి. ఆలస్యమైన జవాబు, తిరస్కరించిన జవాబు కాదు."
+          }
+        ],
+        "en": [
+          {
+            "type": "para",
+            "text": "When prayers seem unanswered, many quietly wonder, \"Does God even care?\" Asking that is not a failure of faith — David asked the same thing throughout the Psalms."
+          },
+          {
+            "type": "head",
+            "text": "God always hears"
+          },
+          {
+            "type": "para",
+            "text": "Hearing and granting are not the same. A father listens to his child — but does not hand over a knife when asked. That is not a lack of love; it is love that sees further."
+          },
+          {
+            "type": "head",
+            "text": "The answer comes three ways"
+          },
+          {
+            "type": "point",
+            "text": "Yes — the time has come, and this is good for you"
+          },
+          {
+            "type": "point",
+            "text": "Not yet — what you ask is good, but the timing is not"
+          },
+          {
+            "type": "point",
+            "text": "I have something better — I see what you cannot"
+          },
+          {
+            "type": "head",
+            "text": "Paul received a \"no\""
+          },
+          {
+            "type": "para",
+            "text": "Paul prayed three times for his thorn to be removed. God did not remove it; instead He said, \"My grace is sufficient for you\" (2 Corinthians 12:9). Sometimes God does not change the situation — He gives strength to stand in it."
+          },
+          {
+            "type": "head",
+            "text": "How should I pray?"
+          },
+          {
+            "type": "para",
+            "text": "Grand words are not required. The prayer Jesus taught is short (Matthew 6:9-13). God is not after polished sentences but an honest heart."
+          },
+          {
+            "type": "key",
+            "text": "Prayer is not to change God's mind — it is to bring our heart near to Him. A delayed answer is not a denied answer."
+          }
+        ]
+      },
+      "verses": [
+        {
+          "book": {
+            "te": "ఫిలిప్పీయులకు",
+            "en": "Philippians"
+          },
+          "chapter": 4,
+          "verse": 6,
+          "ref": {
+            "te": "ఫిలిప్పీ 4:6-7",
+            "en": "Philippians 4:6-7"
+          },
+          "text": {
+            "te": "దేనినిగూర్చియు చింతపడకుడి గాని ప్రతి విషయములో ప్రార్థన విజ్ఞాపనములచేత కృతజ్ఞతాపూర్వకముగా మీ విన్నపములు దేవునికి తెలియజేయుడి.",
+            "en": "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God."
+          }
+        },
+        {
+          "book": {
+            "te": "2 కొరింథీయులకు",
+            "en": "2 Corinthians"
+          },
+          "chapter": 12,
+          "verse": 9,
+          "ref": {
+            "te": "2 కొరింథీయులకు 12:9",
+            "en": "2 Corinthians 12:9"
+          },
+          "text": {
+            "te": "నా కృప నీకు చాలును; బలహీనతయందు నా శక్తి పరిపూర్ణమగుచున్నది.",
+            "en": "My grace is sufficient for you, for my power is made perfect in weakness."
+          }
+        }
+      ],
+      "relatedIds": [
+        "qa_0003"
+      ],
+      "shareLine": {
+        "te": "ఆలస్యమైన జవాబు, తిరస్కరించిన జవాబు కాదు. 🙏",
+        "en": "A delayed answer is not a denied answer. 🙏"
+      }
+    },
+    {
+      "id": "qa_0003",
+      "categoryId": "hard_questions",
+      "order": 1,
+      "diamondCost": 0,
+      "featured": true,
+      "tags": [
+        "బాధలు",
+        "దుఃఖం",
+        "suffering",
+        "why pain",
+        "evil"
+      ],
+      "question": {
+        "te": "దేవుడు ప్రేమగలవాడైతే లోకంలో బాధలు ఎందుకు ఉన్నాయి?",
+        "en": "If God is loving, why is there so much suffering in the world?"
+      },
+      "shortAnswer": {
+        "te": "బాధ దేవుడు సృష్టించినది కాదు — పాపం లోకంలోకి తెచ్చినది. అయినా దేవుడు బాధలో మనలను విడిచిపెట్టడు; ఆయనే స్వయంగా సిలువపై బాధను అనుభవించాడు.",
+        "en": "Suffering is not God's design — it entered through sin. Yet God does not abandon us in it; He Himself entered our suffering at the cross."
+      },
+      "keyVerse": {
+        "book": {
+          "te": "రోమా",
+          "en": "Romans"
+        },
+        "chapter": 8,
+        "verse": 28,
+        "ref": {
+          "te": "రోమా 8:28",
+          "en": "Romans 8:28"
+        },
+        "text": {
+          "te": "దేవుని ప్రేమించువారికి, ఆయన సంకల్పముచొప్పున పిలువబడినవారికి, సమస్తమును సమకూడి మేలుకే జరుగుచున్నవని యెరుగుదుము.",
+          "en": "And we know that in all things God works for the good of those who love him, who have been called according to his purpose."
+        }
+      },
+      "answer": {
+        "te": [
+          {
+            "type": "para",
+            "text": "ఇది బైబిల్‌లో అత్యంత పాతదైన, అత్యంత నిజాయితీ గల ప్రశ్న. యోబు అడిగాడు, దావీదు అడిగాడు, ప్రవక్తలు అడిగారు — 'ఎందుకు ప్రభువా?' అని."
+          },
+          {
+            "type": "head",
+            "text": "1. దేవుడు మనకు స్వేచ్ఛ ఇచ్చాడు"
+          },
+          {
+            "type": "para",
+            "text": "దేవుడు మనలను యంత్రాలుగా సృష్టించలేదు — ప్రేమించే స్వేచ్ఛ ఉన్నవారిగా సృష్టించాడు. ఎన్నుకునే స్వేచ్ఛ ఉందంటే తప్పు ఎన్నుకునే అవకాశం కూడా ఉంటుంది. లోకంలోని అనేక బాధలు మనుష్యుల ఎంపికల ఫలితమే."
+          },
+          {
+            "type": "head",
+            "text": "2. దేవుడు దూరంగా నిలబడలేదు"
+          },
+          {
+            "type": "para",
+            "text": "దేవుడు స్వయంగా మనుష్యుడై వచ్చి ఆకలి, ద్రోహం, హింస, మరణం — అన్నీ అనుభవించాడు. యేసు స్నేహితుని సమాధి వద్ద ఏడ్చాడు. మన బాధ ఆయనకు తెలియనిది కాదు."
+          },
+          {
+            "type": "verse",
+            "ref": "యోహాను 11:35",
+            "text": "యేసు కన్నీళ్లు విడిచెను."
+          },
+          {
+            "type": "head",
+            "text": "3. దేవుడు బాధను వృథాగా పోనివ్వడు"
+          },
+          {
+            "type": "para",
+            "text": "రోమా 8:28 'సమస్తమూ మంచివే' అని చెప్పడం లేదు — 'సమస్తమూ సమకూడి మేలుకే జరుగును' అని చెబుతోంది. ఒక్కొక్క పదార్థం రుచి చూస్తే చేదుగా ఉండవచ్చు, కానీ వంటకం పూర్తయ్యాక రుచికరంగా ఉంటుంది."
+          },
+          {
+            "type": "head",
+            "text": "4. ఇది చివరి అధ్యాయం కాదు"
+          },
+          {
+            "type": "para",
+            "text": "ఇప్పుడున్న బాధ నిజమే — కానీ శాశ్వతం కాదు. ప్రకటన గ్రంథం చివర దేవుడు ప్రతి కన్నీటిని తుడిచివేస్తానని వాగ్దానం చేస్తున్నాడు."
+          },
+          {
+            "type": "key",
+            "text": "దేవుడు మనకు బాధలకు పూర్తి వివరణ ఇవ్వలేదు — కానీ ఆయన తనను తానే ఇచ్చాడు. బాధలో ఉన్న హృదయానికి కావలసింది ఒక సమాధానం కంటే, తోడుగా ఉండే ఒక వ్యక్తి."
+          }
+        ],
+        "en": [
+          {
+            "type": "para",
+            "text": "This is the oldest and most honest question in the Bible. Job asked it, David asked it, the prophets asked it — \"Why, Lord?\""
+          },
+          {
+            "type": "head",
+            "text": "1. God gave us genuine freedom"
+          },
+          {
+            "type": "para",
+            "text": "God did not create machines; He created people free to love. Where there is freedom to choose, there is freedom to choose wrongly. Much of the world's pain flows from human choices."
+          },
+          {
+            "type": "head",
+            "text": "2. God did not stay at a distance"
+          },
+          {
+            "type": "para",
+            "text": "God became a man and tasted hunger, betrayal, torture, and death. Jesus wept at a friend's tomb. Your pain is not foreign to Him."
+          },
+          {
+            "type": "verse",
+            "ref": "John 11:35",
+            "text": "Jesus wept."
+          },
+          {
+            "type": "head",
+            "text": "3. God does not let suffering go to waste"
+          },
+          {
+            "type": "para",
+            "text": "Romans 8:28 does not say all things are good — it says God works all things together for good. A single ingredient may taste bitter alone, yet belong in a good meal."
+          },
+          {
+            "type": "head",
+            "text": "4. This is not the final chapter"
+          },
+          {
+            "type": "para",
+            "text": "Present suffering is real — but it is not permanent. Revelation ends with God promising to wipe away every tear."
+          },
+          {
+            "type": "key",
+            "text": "God has not given us a full explanation for suffering — He has given us Himself. What a hurting heart needs most is not an answer, but a presence."
+          }
+        ]
+      },
+      "verses": [
+        {
+          "book": {
+            "te": "ప్రకటన గ్రంథము",
+            "en": "Revelation"
+          },
+          "chapter": 21,
+          "verse": 4,
+          "ref": {
+            "te": "ప్రకటన 21:4",
+            "en": "Revelation 21:4"
+          },
+          "text": {
+            "te": "ఆయన వారి కన్నుల ప్రతి బాష్పబిందువును తుడిచివేయును; మరణము ఇక ఉండదు, దుఃఖమైనను ఏడ్పైనను వేదనయైనను ఇక ఉండదు.",
+            "en": "He will wipe every tear from their eyes. There will be no more death or mourning or crying or pain."
+          }
+        },
+        {
+          "book": {
+            "te": "కీర్తనలు",
+            "en": "Psalms"
+          },
+          "chapter": 34,
+          "verse": 18,
+          "ref": {
+            "te": "కీర్తనలు 34:18",
+            "en": "Psalm 34:18"
+          },
+          "text": {
+            "te": "విరిగిన హృదయము గలవారికి యెహోవా ఆసన్నుడు; నలిగిన మనస్సు గలవారిని ఆయన రక్షించును.",
+            "en": "The LORD is close to the brokenhearted and saves those who are crushed in spirit."
+          }
+        }
+      ],
+      "relatedIds": [
+        "qa_0004",
+        "qa_0002"
+      ],
+      "shareLine": {
+        "te": "దేవుడు బాధకు వివరణ ఇవ్వలేదు — తనను తానే ఇచ్చాడు. 🕊️",
+        "en": "God did not give us an explanation for pain — He gave us Himself. 🕊️"
+      }
+    },
+    {
+      "id": "qa_0004",
+      "categoryId": "family_life",
+      "order": 1,
+      "diamondCost": 0,
+      "featured": false,
+      "tags": [
+        "క్షమాపణ",
+        "క్షమించడం",
+        "forgiveness",
+        "forgive",
+        "hurt"
+      ],
+      "question": {
+        "te": "నన్ను చాలా బాధపెట్టిన వ్యక్తిని క్షమించాలా? ఎలా క్షమించగలను?",
+        "en": "Must I forgive someone who hurt me deeply? How is that even possible?"
+      },
+      "shortAnswer": {
+        "te": "అవును — క్షమాపణ ఆజ్ఞ. కానీ క్షమించడం అంటే జరిగినది సరైనదని ఒప్పుకోవడం కాదు; ఆ భారాన్ని దేవుని చేతికి అప్పగించడం.",
+        "en": "Yes — forgiveness is commanded. But forgiving does not mean calling the wrong right; it means handing the burden over to God."
+      },
+      "keyVerse": {
+        "book": {
+          "te": "ఎఫెసీయులకు",
+          "en": "Ephesians"
+        },
+        "chapter": 4,
+        "verse": 32,
+        "ref": {
+          "te": "ఎఫెసీయులకు 4:32",
+          "en": "Ephesians 4:32"
+        },
+        "text": {
+          "te": "ఒకని యెడల ఒకడు దయ కలిగి కరుణాహృదయులై, దేవుడు క్రీస్తునందు మిమ్మును క్షమించిన ప్రకారము మీరును ఒకరినొకరు క్షమించుడి.",
+          "en": "Be kind and compassionate to one another, forgiving each other, just as in Christ God forgave you."
+        }
+      },
+      "answer": {
+        "te": [
+          {
+            "type": "para",
+            "text": "'క్షమించు' అని చెప్పడం సులభం. కానీ నిజంగా గాయపడిన వ్యక్తికి ఇది అన్నిటికంటే కష్టమైన ఆజ్ఞ. మొదట కొన్ని అపోహలు తొలగించుకుందాం."
+          },
+          {
+            "type": "head",
+            "text": "క్షమాపణ అంటే ఏమి కాదు"
+          },
+          {
+            "type": "point",
+            "text": "జరిగినది తప్పు కాదని ఒప్పుకోవడం కాదు"
+          },
+          {
+            "type": "point",
+            "text": "మర్చిపోవడం కాదు — గాయం గుర్తుండవచ్చు"
+          },
+          {
+            "type": "point",
+            "text": "మళ్ళీ అదే వ్యక్తిని పూర్తిగా నమ్మడం కాదు — నమ్మకం సంపాదించుకోవాలి"
+          },
+          {
+            "type": "head",
+            "text": "మరి క్షమాపణ అంటే ఏమిటి?"
+          },
+          {
+            "type": "para",
+            "text": "తీర్పు తీర్చే హక్కును దేవునికి అప్పగించడం. 'నేను ఈ వ్యక్తికి శిక్ష విధించే పని వదిలేస్తున్నాను; నీవే న్యాయాధిపతివి' అని చెప్పడం. అప్పుడు ఆ భారం మన భుజాలపై నుండి దిగిపోతుంది."
+          },
+          {
+            "type": "head",
+            "text": "ఎందుకు క్షమించాలి?"
+          },
+          {
+            "type": "para",
+            "text": "పగ పట్టుకోవడం అంటే విషం మనం తాగి, ఎదుటివారు చనిపోవాలని ఎదురుచూడటం లాంటిది. క్షమించనివాడు గతంలోనే బందీగా ఉండిపోతాడు. యేసు సిలువపై తనను చంపుతున్న వారిని క్షమించమని ప్రార్థించాడు — మనకు అసాధ్యం అనిపించేది ఆయనకు మార్గం."
+          },
+          {
+            "type": "head",
+            "text": "ఎలా మొదలుపెట్టాలి?"
+          },
+          {
+            "type": "point",
+            "text": "దేవునితో నిజాయితీగా మాట్లాడండి — 'నాకు ఇది కష్టం' అని చెప్పండి"
+          },
+          {
+            "type": "point",
+            "text": "ఆ వ్యక్తి పేరు చెప్పి ప్రార్థించండి — మొదట మనసు లేకపోయినా"
+          },
+          {
+            "type": "point",
+            "text": "క్షమాపణ ఒక్క నిర్ణయంతో మొదలై, రోజూ పునరావృతమయ్యే ఎంపిక"
+          },
+          {
+            "type": "key",
+            "text": "క్షమాపణ ఎదుటివారిని విడుదల చేయడం కాదు — మిమ్మల్ని మీరు విడుదల చేసుకోవడం."
+          }
+        ],
+        "en": [
+          {
+            "type": "para",
+            "text": "\"Just forgive\" is easy to say. For someone genuinely wounded it is the hardest command in Scripture. Let us first clear away some misunderstandings."
+          },
+          {
+            "type": "head",
+            "text": "What forgiveness is NOT"
+          },
+          {
+            "type": "point",
+            "text": "It is not calling the wrong right"
+          },
+          {
+            "type": "point",
+            "text": "It is not forgetting — the memory may remain"
+          },
+          {
+            "type": "point",
+            "text": "It is not automatic trust — trust must be rebuilt"
+          },
+          {
+            "type": "head",
+            "text": "So what is it?"
+          },
+          {
+            "type": "para",
+            "text": "It is handing the right to judge back to God: \"I am stepping out of the judge's seat; You are the Judge.\" The weight leaves your shoulders."
+          },
+          {
+            "type": "head",
+            "text": "Why forgive?"
+          },
+          {
+            "type": "para",
+            "text": "Holding a grudge is like drinking poison and waiting for the other person to die. The unforgiving heart stays imprisoned in the past. On the cross Jesus prayed for those killing Him — what seems impossible to us, He has already walked."
+          },
+          {
+            "type": "head",
+            "text": "How do I start?"
+          },
+          {
+            "type": "point",
+            "text": "Be honest with God — tell Him this is hard"
+          },
+          {
+            "type": "point",
+            "text": "Pray for the person by name, even when you don't feel it"
+          },
+          {
+            "type": "point",
+            "text": "Forgiveness begins as one decision and continues as a daily choice"
+          },
+          {
+            "type": "key",
+            "text": "Forgiveness is not releasing the other person — it is releasing yourself."
+          }
+        ]
+      },
+      "verses": [
+        {
+          "book": {
+            "te": "మత్తయి",
+            "en": "Matthew"
+          },
+          "chapter": 6,
+          "verse": 14,
+          "ref": {
+            "te": "మత్తయి 6:14",
+            "en": "Matthew 6:14"
+          },
+          "text": {
+            "te": "మనుష్యుల అపరాధములను మీరు క్షమించినయెడల, మీ పరలోకపు తండ్రియు మీ అపరాధములను క్షమించును.",
+            "en": "For if you forgive other people when they sin against you, your heavenly Father will also forgive you."
+          }
+        },
+        {
+          "book": {
+            "te": "లూకా",
+            "en": "Luke"
+          },
+          "chapter": 23,
+          "verse": 34,
+          "ref": {
+            "te": "లూకా 23:34",
+            "en": "Luke 23:34"
+          },
+          "text": {
+            "te": "తండ్రీ, వీరేమి చేయుచున్నారో వీరెరుగరు; వీరిని క్షమించుమని యేసు చెప్పెను.",
+            "en": "Jesus said, \"Father, forgive them, for they do not know what they are doing.\""
+          }
+        }
+      ],
+      "relatedIds": [
+        "qa_0002"
+      ],
+      "shareLine": {
+        "te": "క్షమాపణ ఎదుటివారిని కాదు — మిమ్మల్ని విడుదల చేస్తుంది. ❤️",
+        "en": "Forgiveness does not release them — it releases you. ❤️"
+      }
+    }
+  ]
+}
