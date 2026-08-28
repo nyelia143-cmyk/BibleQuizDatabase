@@ -846,6 +846,1295 @@
         "te": "క్షమాపణ ఎదుటివారిని కాదు — మిమ్మల్ని విడుదల చేస్తుంది. ❤️",
         "en": "Forgiveness does not release them — it releases you. ❤️"
       }
+    },
+    {
+      "id": "qa_0005",
+      "categoryId": "god_trinity",
+      "order": 1,
+      "diamondCost": 0,
+      "featured": true,
+      "tags": [
+        "దేవుడు",
+        "God",
+        "trinity",
+        "త్రిత్వం",
+        "who is god",
+        "creator"
+      ],
+      "question": {
+        "te": "త్రిత్వం (Trinity) అంటే ఏమిటి? ముగ్గురు దేవుళ్లు ఉన్నారా లేక ఒక్క దేవుడేనా?",
+        "en": "What is the Trinity? Are there three Gods or one God?"
+      },
+      "shortAnswer": {
+        "te": "క్రైస్తవ విశ్వాసంలో దేవుడు ఒక్కడే. అయితే ఆ ఒక్క దేవుడు ముగ్గురు వ్యక్తులుగా (తండ్రి, కుమారుడు, పరిశుద్ధాత్మ) శాశ్వతంగా ఉనికిలో ఉన్నాడు. దీనినే త్రిత్వం అంటారు.",
+        "en": "In Christian faith, there is only one God. However, this one God exists eternally as three distinct persons: the Father, the Son, and the Holy Spirit. This is the Trinity."
+      },
+      "keyVerse": {
+        "book": {
+          "te": "ద్వితీయోపదేశకాండము",
+          "en": "Deuteronomy"
+        },
+        "chapter": 6,
+        "verse": 4,
+        "ref": {
+          "te": "ద్వితీయో. 6:4",
+          "en": "Deuteronomy 6:4"
+        },
+        "text": {
+          "te": "ఇశ్రాయేలూ వినుము, మన దేవుడైన యెహోవా అద్వితీయుడగు యెహోవా.",
+          "en": "Hear, O Israel: The LORD our God, the LORD is one."
+        }
+      },
+      "answer": {
+        "te": [
+          {
+            "type": "para",
+            "text": "త్రిత్వం అనే పదం బైబిల్‌లో లేకపోయినా, ఈ సత్యం బైబిల్ అంతటా స్పష్టంగా బోధించబడింది. ఇది మానవ మేధస్సుకు పూర్తిగా అర్థం కాని ఒక దైవిక రహస్యం."
+          },
+          {
+            "type": "head",
+            "text": "1. దేవుడు ఒక్కడే"
+          },
+          {
+            "type": "para",
+            "text": "బైబిల్ చాలా స్పష్టంగా ముగ్గురు దేవుళ్ళు లేరు, దేవుడు ఒక్కడే అని బోధిస్తుంది (యెషయా 45:5). బహుదేవతారాధనను బైబిల్ ఖండిస్తుంది."
+          },
+          {
+            "type": "head",
+            "text": "2. ముగ్గురు వ్యక్తులు దేవునిగా పిలువబడ్డారు"
+          },
+          {
+            "type": "point",
+            "text": "తండ్రి దేవుడు (ఫిలిప్పీ 1:2)"
+          },
+          {
+            "type": "point",
+            "text": "యేసుక్రీస్తు దేవుడు (తీతు 2:13, యోహాను 1:1)"
+          },
+          {
+            "type": "point",
+            "text": "పరిశుద్ధాత్మ దేవుడు (అపొ. కార్యాలు 5:3-4)"
+          },
+          {
+            "type": "head",
+            "text": "3. ముగ్గురూ వేర్వేరు వ్యక్తులు"
+          },
+          {
+            "type": "para",
+            "text": "యేసు బాప్తిస్మం తీసుకున్నప్పుడు, కుమారుడు నీళ్లలో ఉన్నాడు, తండ్రి ఆకాశం నుండి మాట్లాడాడు, పరిశుద్ధాత్మ పావురం రూపంలో దిగివచ్చాడు (మత్తయి 3:16-17). ఇది వారు ముగ్గురూ ఒకే వ్యక్తి వేసుకున్న వేషాలు కాదని నిరూపిస్తుంది."
+          },
+          {
+            "type": "key",
+            "text": "ఒక నీరు (H2O) మంచుగా, నీరుగా, ఆవిరిగా ఎలా ఉంటుందో, అది కేవలం ఒక చిన్న ఉదాహరణ మాత్రమే. త్రిత్వం అనేది దేవుని అనంతమైన, అద్భుతమైన స్వభావం."
+          }
+        ],
+        "en": [
+          {
+            "type": "para",
+            "text": "Though the word 'Trinity' is not in the Bible, the concept is taught throughout Scripture. It is a divine mystery that surpasses human understanding."
+          },
+          {
+            "type": "head",
+            "text": "1. There is Only One God"
+          },
+          {
+            "type": "para",
+            "text": "The Bible clearly teaches that there are not three gods, but one God (Isaiah 45:5). Polytheism is strictly condemned."
+          },
+          {
+            "type": "head",
+            "text": "2. Three Persons are Called God"
+          },
+          {
+            "type": "point",
+            "text": "The Father is God (Philippians 1:2)"
+          },
+          {
+            "type": "point",
+            "text": "The Son, Jesus, is God (Titus 2:13, John 1:1)"
+          },
+          {
+            "type": "point",
+            "text": "The Holy Spirit is God (Acts 5:3-4)"
+          },
+          {
+            "type": "head",
+            "text": "3. They are Distinct Persons"
+          },
+          {
+            "type": "para",
+            "text": "At Jesus' baptism, the Son was in the water, the Father spoke from heaven, and the Holy Spirit descended like a dove (Matthew 3:16-17). This proves they are not just one person wearing three different masks."
+          },
+          {
+            "type": "key",
+            "text": "Just as water (H2O) can exist as ice, liquid, and vapor, it serves as a dim reflection. The Trinity is the infinite, majestic nature of God."
+          }
+        ]
+      },
+      "verses": [
+        {
+          "book": {
+            "te": "మత్తయి",
+            "en": "Matthew"
+          },
+          "chapter": 28,
+          "verse": 19,
+          "ref": {
+            "te": "మత్తయి 28:19",
+            "en": "Matthew 28:19"
+          },
+          "text": {
+            "te": "కాబట్టి మీరు వెళ్లి, సమస్త జనులను శిష్యులనుగా చేయుడి; తండ్రి యొక్కయు కుమారుని యొక్కయు పరిశుద్ధాత్మ యొక్కయు నామములోనికి వారికి బాప్తిస్మమిచ్చుచు...",
+            "en": "Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit."
+          }
+        }
+      ],
+      "relatedIds": [
+        "qa_0007",
+        "qa_0009"
+      ],
+      "shareLine": {
+        "te": "దేవుడు ఒక్కడే, కానీ ముగ్గురు వ్యక్తులుగా స్వయం ఉనికిలో ఉన్నాడు. ✝️",
+        "en": "God is one in essence, but three in person. ✝️"
+      }
+    },
+    {
+      "id": "qa_0006",
+      "categoryId": "god_trinity",
+      "order": 2,
+      "diamondCost": 0,
+      "featured": true,
+      "tags": [
+        "యేసు దేవుడా",
+        "Is Jesus God",
+        "divinity of Christ",
+        "క్రీస్తు దైవత్వం"
+      ],
+      "question": {
+        "te": "యేసుక్రీస్తు నిజంగా దేవుడా, లేక కేవలం ఒక గొప్ప ప్రవక్తా?",
+        "en": "Is Jesus truly God, or just a great prophet?"
+      },
+      "shortAnswer": {
+        "te": "యేసుక్రీస్తు కేవలం ప్రవక్త కాదు, ఆయనే స్వయంగా శరీరధారియై భూమిపైకి వచ్చిన సర్వశక్తిమంతుడైన దేవుడు.",
+        "en": "Jesus is not merely a prophet; He is the Almighty God incarnate, who came to earth in human flesh."
+      },
+      "keyVerse": {
+        "book": {
+          "te": "యోహాను",
+          "en": "John"
+        },
+        "chapter": 1,
+        "verse": 1,
+        "ref": {
+          "te": "యోహాను 1:1,14",
+          "en": "John 1:1,14"
+        },
+        "text": {
+          "te": "ఆదియందు వాక్యముండెను, వాక్యము దేవునియొద్ద ఉండెను, వాక్యము దేవుడై యుండెను... ఆ వాక్యము శరీరధారియై, కృపాసత్యసంపూర్ణుడుగా మనమధ్య నివసించెను.",
+          "en": "In the beginning was the Word, and the Word was with God, and the Word was God... The Word became flesh and made his dwelling among us."
+        }
+      },
+      "answer": {
+        "te": [
+          {
+            "type": "para",
+            "text": "చరిత్రలో చాలామంది యేసును ఒక మంచి బోధకునిగా, ప్రవక్తగా ఒప్పుకుంటారు. కానీ బైబిల్ ఆయనను దేవునిగానే ప్రకటిస్తోంది."
+          },
+          {
+            "type": "head",
+            "text": "యేసు స్వయంగా దేవుడినని చెప్పుకున్నాడు"
+          },
+          {
+            "type": "para",
+            "text": "యోహాను 8:58 లో, 'అబ్రాహాము పుట్టకమునుపే నేను ఉన్నాను (I AM)' అని యేసు అన్నాడు. 'I AM' అనేది పాత నిబంధనలో యెహోవా దేవుని పేరు. అందుకే యూదులు ఆయనను రాళ్లతో కొట్టబోయారు."
+          },
+          {
+            "type": "head",
+            "text": "దేవుని లక్షణాలు యేసుకు ఉన్నాయి"
+          },
+          {
+            "type": "point",
+            "text": "ఆయన సర్వాంతర్యామి (మత్తయి 28:20)"
+          },
+          {
+            "type": "point",
+            "text": "ఆయనకు సర్వం తెలుసు (యోహాను 16:30)"
+          },
+          {
+            "type": "point",
+            "text": "ఆయన పాపాలను క్షమించగలడు (మార్కు 2:5) — పాపాలను దేవుడు తప్ప ఎవరూ క్షమించలేరు."
+          },
+          {
+            "type": "head",
+            "text": "శిష్యులు ఆయనను ఆరాధించారు"
+          },
+          {
+            "type": "para",
+            "text": "తోమా యేసును చూసి 'నా ప్రభువా, నా దేవా' అన్నాడు (యోహాను 20:28). దేవదూతలు కానీ, ప్రవక్తలు కానీ ఆరాధనను అంగీకరించరు. కానీ యేసు ఆరాధనను అంగీకరించాడు."
+          },
+          {
+            "type": "key",
+            "text": "యేసు కేవలం ఒక మంచి మనిషి మాత్రమే కాదు; ఆయన మనకోసం రక్తం చిందించడానికి వచ్చిన సృష్టికర్త."
+          }
+        ],
+        "en": [
+          {
+            "type": "para",
+            "text": "Throughout history, many acknowledge Jesus as a good moral teacher or a prophet. But the Bible declares Him to be God Himself."
+          },
+          {
+            "type": "head",
+            "text": "Jesus Claimed to be God"
+          },
+          {
+            "type": "para",
+            "text": "In John 8:58, Jesus said, 'Before Abraham was born, I am!' The title 'I AM' is the sacred name of Jehovah in the Old Testament. This is exactly why the religious leaders picked up stones to kill Him."
+          },
+          {
+            "type": "head",
+            "text": "Jesus Possesses Divine Attributes"
+          },
+          {
+            "type": "point",
+            "text": "He is omnipresent (Matthew 28:20)"
+          },
+          {
+            "type": "point",
+            "text": "He is omniscient (John 16:30)"
+          },
+          {
+            "type": "point",
+            "text": "He forgives sins (Mark 2:5) — something only God can do."
+          },
+          {
+            "type": "head",
+            "text": "His Disciples Worshipped Him"
+          },
+          {
+            "type": "para",
+            "text": "Thomas looked at Jesus and said, 'My Lord and my God!' (John 20:28). Angels and prophets always reject worship. But Jesus accepted it."
+          },
+          {
+            "type": "key",
+            "text": "Jesus cannot merely be a good man; He is the Creator who stepped into His creation to shed His blood for us."
+          }
+        ]
+      },
+      "verses": [
+        {
+          "book": {
+            "te": "కొలొస్సీయులకు",
+            "en": "Colossians"
+          },
+          "chapter": 2,
+          "verse": 9,
+          "ref": {
+            "te": "కొలొస్సీ 2:9",
+            "en": "Colossians 2:9"
+          },
+          "text": {
+            "te": "ఏలయనగా దేవత్వముయొక్క సర్వపరిపూర్ణత శరీరముగా క్రీస్తునందు నివసించుచున్నది.",
+            "en": "For in Christ all the fullness of the Deity lives in bodily form."
+          }
+        }
+      ],
+      "relatedIds": [
+        "qa_0005",
+        "qa_0009"
+      ],
+      "shareLine": {
+        "te": "యేసు కేవలం ప్రవక్త కాదు, ఆయనే సజీవ దేవుడు! 👑",
+        "en": "Jesus is not merely a prophet; He is the Living God! 👑"
+      }
+    },
+    {
+      "id": "qa_0007",
+      "categoryId": "god_trinity",
+      "order": 3,
+      "diamondCost": 0,
+      "featured": false,
+      "tags": [
+        "పరిశుద్ధాత్మ",
+        "Holy Spirit",
+        "holy ghost",
+        "ఆత్మ దేవుడు"
+      ],
+      "question": {
+        "te": "పరిశుద్ధాత్మ ఎవరు? ఆయన ఒక వ్యక్తినా లేక కేవలం ఒక శక్తా?",
+        "en": "Who is the Holy Spirit? Is He a person or just an active force?"
+      },
+      "shortAnswer": {
+        "te": "పరిశుద్ధాత్మ కేవలం ఒక అదృశ్య శక్తి కాదు; ఆయన త్రిత్వములో మూడవ వ్యక్తి అయిన నిజమైన దేవుడు.",
+        "en": "The Holy Spirit is not merely an invisible force; He is a divine Person, the third member of the Trinity, and truly God."
+      },
+      "keyVerse": {
+        "book": {
+          "te": "అపొస్తలుల కార్యములు",
+          "en": "Acts"
+        },
+        "chapter": 5,
+        "verse": 3,
+        "ref": {
+          "te": "అపొ. కార్యాలు 5:3-4",
+          "en": "Acts 5:3-4"
+        },
+        "text": {
+          "te": "అప్పుడు పేతురు–అననియా, పరిశుద్ధాత్మను మోసపుచ్చుటకు... సాతాను ఎందుకు నీ హృదయమును ప్రేరేపించెను? నీవు మనుష్యులతో కాదు దేవునితోనే అబద్ధమాడితివనెను.",
+          "en": "Then Peter said, 'Ananias, how is it that Satan has so filled your heart that you have lied to the Holy Spirit... You have not lied just to human beings but to God.'"
+        }
+      },
+      "answer": {
+        "te": [
+          {
+            "type": "para",
+            "text": "కొన్ని మతాలు పరిశుద్ధాత్మ దేవుడు కాడని, అది కేవలం కరెంట్ లాంటి ఒక దైవిక శక్తి అని బోధిస్తాయి. కానీ బైబిల్ ఆయనను ఒక వ్యక్తిగా పరిచయం చేస్తుంది."
+          },
+          {
+            "type": "head",
+            "text": "వ్యక్తికి ఉండే లక్షణాలు ఆయనకు ఉన్నాయి"
+          },
+          {
+            "type": "point",
+            "text": "ఆయనకు మనస్సు ఉంది (రోమా 8:27)"
+          },
+          {
+            "type": "point",
+            "text": "ఆయనకు చిత్తము/ఇష్టం ఉంది (1 కొరింథీ 12:11)"
+          },
+          {
+            "type": "point",
+            "text": "ఆయన దుఃఖపడతాడు (ఎఫెసీ 4:30) — ఒక కరెంట్ శక్తి దుఃఖపడదు, వ్యక్తులు మాత్రమే దుఃఖపడతారు."
+          },
+          {
+            "type": "head",
+            "text": "ఆయన దేవుని పనులు చేస్తాడు"
+          },
+          {
+            "type": "para",
+            "text": "సృష్టి కార్యంలో పరిశుద్ధాత్మ పాల్గొన్నాడు (ఆది 1:2). ఆయన మనకు బోధిస్తాడు, నడిపిస్తాడు, మనకోసం ప్రార్థిస్తాడు (రోమా 8:26)."
+          },
+          {
+            "type": "head",
+            "text": "ఆయన దేవునితో సమానం"
+          },
+          {
+            "type": "para",
+            "text": "బాప్తిస్మమిచ్చేటప్పుడు తండ్రి, కుమార, పరిశుద్ధాత్మ నామములో ఇవ్వాలని యేసు చెప్పాడు. అననియా పరిశుద్ధాత్మతో అబద్ధం ఆడినప్పుడు, పేతురు 'నీవు దేవునితో అబద్ధమాడితివి' అని స్పష్టంగా చెప్పాడు."
+          },
+          {
+            "type": "key",
+            "text": "పరిశుద్ధాత్మ మీలో నివసిస్తున్న దేవుడు. ఆయన ద్వారానే మీరు క్రీస్తు స్వభావాన్ని పొందుకోగలరు."
+          }
+        ],
+        "en": [
+          {
+            "type": "para",
+            "text": "Certain cults teach that the Holy Spirit is not God, but merely an active force, like electricity. However, the Bible presents Him as a distinct Person."
+          },
+          {
+            "type": "head",
+            "text": "He Possesses Characteristics of a Person"
+          },
+          {
+            "type": "point",
+            "text": "He has a mind (Romans 8:27)"
+          },
+          {
+            "type": "point",
+            "text": "He has a will (1 Corinthians 12:11)"
+          },
+          {
+            "type": "point",
+            "text": "He can be grieved (Ephesians 4:30) — a mere force cannot feel grief; only a person can."
+          },
+          {
+            "type": "head",
+            "text": "He Performs the Works of God"
+          },
+          {
+            "type": "para",
+            "text": "The Holy Spirit was active in Creation (Genesis 1:2). He teaches us, guides us, and intercedes for us in prayer (Romans 8:26)."
+          },
+          {
+            "type": "head",
+            "text": "He is Equal with God"
+          },
+          {
+            "type": "para",
+            "text": "Jesus commanded baptism in the name of the Father, the Son, and the Holy Spirit. When Ananias lied to the Holy Spirit, Peter explicitly stated, 'You have lied to God.' (Acts 5:4)."
+          },
+          {
+            "type": "key",
+            "text": "The Holy Spirit is God living within you. Through Him alone can you transform into the image of Christ."
+          }
+        ]
+      },
+      "verses": [
+        {
+          "book": {
+            "te": "ఎఫెసీయులకు",
+            "en": "Ephesians"
+          },
+          "chapter": 4,
+          "verse": 30,
+          "ref": {
+            "te": "ఎఫెసీయులకు 4:30",
+            "en": "Ephesians 4:30"
+          },
+          "text": {
+            "te": "దేవుని పరిశుద్ధాత్మను దుఃఖపరచకుడి; విమోచన దినమువరకు ఆయనయందు మీరు ముద్రింపబడి యున్నారు.",
+            "en": "And do not grieve the Holy Spirit of God, with whom you were sealed for the day of redemption."
+          }
+        }
+      ],
+      "relatedIds": [
+        "qa_0005"
+      ],
+      "shareLine": {
+        "te": "పరిశుద్ధాత్మ కేవలం ఒక శక్తి కాదు; ఆయన నీలో నివసించే నిజమైన దేవుడు! 🔥",
+        "en": "The Holy Spirit is not just a force; He is the Living God inside you! 🔥"
+      }
+    },
+    {
+      "id": "qa_0008",
+      "categoryId": "god_trinity",
+      "order": 4,
+      "diamondCost": 0,
+      "featured": true,
+      "tags": [
+        "యేసు ప్రార్థన",
+        "jesus praying",
+        "if jesus is god",
+        "యేసు దేవుడైతే ఎవరికి ప్రార్థించాడు"
+      ],
+      "question": {
+        "te": "యేసు దేవుడైతే, ఆయన భూమిపై ఉన్నప్పుడు ఎవరికి ప్రార్థన చేశాడు? తనకే తాను ప్రార్థించుకున్నాడా?",
+        "en": "If Jesus is God, who was He praying to on earth? Was He praying to Himself?"
+      },
+      "shortAnswer": {
+        "te": "లేదు, యేసు తనకే తాను ప్రార్థించుకోలేదు. కుమారుడైన యేసు, పరలోకంలో ఉన్న తండ్రియైన దేవునికి ప్రార్థన చేశాడు. ఇది త్రిత్వంలోని వ్యక్తుల మధ్య ఉన్న సహవాసాన్ని చూపిస్తుంది.",
+        "en": "No, Jesus was not praying to Himself. Jesus the Son was praying to God the Father in heaven. This demonstrates the relationship between the persons of the Trinity."
+      },
+      "keyVerse": {
+        "book": {
+          "te": "యోహాను",
+          "en": "John"
+        },
+        "chapter": 17,
+        "verse": 1,
+        "ref": {
+          "te": "యోహాను 17:1",
+          "en": "John 17:1"
+        },
+        "text": {
+          "te": "యేసు ఈ మాటలు చెప్పి ఆకాశమువైపు కన్నులెత్తి యిట్లనెను – తండ్రీ, గడియ వచ్చినది, నీ కుమారుడు నిన్ను మహిమపరచునట్లు నీ కుమారుని మహిమపరచుము.",
+          "en": "After Jesus said this, he looked toward heaven and prayed: 'Father, the hour has come. Glorify your Son, that your Son may glorify you.'"
+        }
+      },
+      "answer": {
+        "te": [
+          {
+            "type": "para",
+            "text": "యేసు ప్రార్థన చేయడం చూసి చాలామంది ముస్లింలు, ఇతర మతాల వారు 'ఆయన దేవుడైతే తనకే తాను ప్రార్థించుకుంటాడా?' అని ప్రశ్నిస్తారు. దీనికి జవాబు 'త్రిత్వం' మరియు 'శరీరధారణ' లో ఉంది."
+          },
+          {
+            "type": "head",
+            "text": "1. త్రిత్వంలోని సహవాసం (Trinity Relationship)"
+          },
+          {
+            "type": "para",
+            "text": "దేవుడు ఒక్కడే, కానీ ముగ్గురు వ్యక్తులు (తండ్రి, కుమారుడు, పరిశుద్ధాత్మ). యేసు భూమిపై ఉన్నప్పుడు దేవునిగా తన ఉనికిని కోల్పోలేదు, కానీ కుమారుడిగా తండ్రితో తనకున్న నిరంతర సంభాషణను కొనసాగించాడు."
+          },
+          {
+            "type": "head",
+            "text": "2. ఆయన మనుష్యుడుగా వచ్చాడు (Incarnation)"
+          },
+          {
+            "type": "para",
+            "text": "ఫిలిప్పీయులకు 2:6-8 ప్రకారం యేసు దేవుని స్వరూపం కలిగినవాడై ఉండియు, తనను తాను రిక్తునిగా చేసుకొని మనుష్యునిగా వచ్చాడు. మనుష్యునిగా ఆయనకు ఆకలి, దప్పిక, అలసట వచ్చాయి. మనుష్యునిగా ఆయనకు దేవుని మీద ఆధారపడటం (ప్రార్థన) అవసరమైంది."
+          },
+          {
+            "type": "head",
+            "text": "3. మనకు మాదిరిగా నిలిచాడు"
+          },
+          {
+            "type": "para",
+            "text": "యేసు దేవుడై ఉండి కూడా తండ్రితో గడపడానికి ఎంతో సమయం ప్రార్థనలో గడిపితే, పాపులమైన మనం ఇంకెంతగా ప్రార్థనలో దేవుని మీద ఆధారపడాలో ఆయన తన జీవితం ద్వారా చేసి చూపించాడు."
+          },
+          {
+            "type": "key",
+            "text": "యేసు ప్రార్థించడం ఆయన దేవుడు కాదనడానికి రుజువు కాదు; ఆయన పరిపూర్ణమైన మనుష్యుడిగా కూడా జీవించాడనడానికి రుజువు."
+          }
+        ],
+        "en": [
+          {
+            "type": "para",
+            "text": "Seeing Jesus pray, many skeptics and followers of other religions ask, 'If He is God, was He praying to Himself?' The answer lies in the Trinity and the Incarnation."
+          },
+          {
+            "type": "head",
+            "text": "1. The Fellowship of the Trinity"
+          },
+          {
+            "type": "para",
+            "text": "God is one in essence, but three Persons (Father, Son, Holy Spirit). While on earth, Jesus the Son did not cease to be God, but He continued His eternal, loving communication with God the Father."
+          },
+          {
+            "type": "head",
+            "text": "2. The Reality of the Incarnation"
+          },
+          {
+            "type": "para",
+            "text": "According to Philippians 2:6-8, Jesus, being in very nature God, made Himself nothing and took on human flesh. As a True human, He experienced hunger, thirst, and weariness. As a human, He demonstrated complete dependence on the Father through prayer."
+          },
+          {
+            "type": "head",
+            "text": "3. Setting an Example for Us"
+          },
+          {
+            "type": "para",
+            "text": "If Jesus, being perfect, found it necessary to spend entire nights in prayer, how much more do we, as flawed human beings, need to depend on God in prayer! He was setting the perfect example."
+          },
+          {
+            "type": "key",
+            "text": "Jesus praying does not prove He wasn't God; it proves He was truly human as well, perfectly submitting to the Father's will."
+          }
+        ]
+      },
+      "verses": [
+        {
+          "book": {
+            "te": "లూకా",
+            "en": "Luke"
+          },
+          "chapter": 22,
+          "verse": 42,
+          "ref": {
+            "te": "లూకా 22:42",
+            "en": "Luke 22:42"
+          },
+          "text": {
+            "te": "తండ్రీ, యీ గిన్నె నా యొద్దనుండి తొలగించుటకు నీ చిత్తమైతే తొలగించుము; అయినను నా యిష్టము కాదు, నీ చిత్తమే సిద్ధించును గాక.",
+            "en": "Father, if you are willing, take this cup from me; yet not my will, but yours be done."
+          }
+        }
+      ],
+      "relatedIds": [
+        "qa_0005",
+        "qa_0006"
+      ],
+      "shareLine": {
+        "te": "యేసు ప్రార్థన చేసింది దేవుని మీద ఆధారపడే పరిపూర్ణ మనుష్యునిగా మనకు మాదిరి చూపడానికే! 🙏",
+        "en": "Jesus prayed to set an example of perfect human dependence on the Father! 🙏"
+      }
+    },
+    {
+      "id": "qa_0009",
+      "categoryId": "god_trinity",
+      "order": 5,
+      "diamondCost": 0,
+      "featured": false,
+      "tags": [
+        "దేవుని ప్రేమ న్యాయం",
+        "gods love and justice",
+        "wrath of god"
+      ],
+      "question": {
+        "te": "దేవుడు ఒకేసారి సంపూర్ణమైన ప్రేమ గలవాడిగా, మరియు కోపం/శిక్ష విధించే న్యాయాధిపతిగా ఎలా ఉండగలడు?",
+        "en": "How can God be completely loving and completely just/wrathful at the same time?"
+      },
+      "shortAnswer": {
+        "te": "ప్రేమ మరియు న్యాయం ఒకదానికొకటి వ్యతిరేకం కావు. నిజమైన ప్రేమ ఎప్పుడూ చెడును, అన్యాయాన్ని అసహ్యించుకుంటుంది. క్రాస్ (సిలువ) వద్ద దేవుని సంపూర్ణ ప్రేమ, సంపూర్ణ న్యాయం రెండూ కలిశాయి.",
+        "en": "Love and justice are not opposites. True love must hate evil and injustice. At the cross, God's perfect love and perfect justice met perfectly."
+      },
+      "keyVerse": {
+        "book": {
+          "te": "కీర్తనలు",
+          "en": "Psalms"
+        },
+        "chapter": 89,
+        "verse": 14,
+        "ref": {
+          "te": "కీర్తనలు 89:14",
+          "en": "Psalm 89:14"
+        },
+        "text": {
+          "te": "నీ సింహాసనమునకు ఆధారము నీతి న్యాయములు, కృపాసత్యములు నీ సన్నిధిని నడుచుచున్నవి.",
+          "en": "Righteousness and justice are the foundation of your throne; love and faithfulness go before you."
+        }
+      },
+      "answer": {
+        "te": [
+          {
+            "type": "para",
+            "text": "చాలామందికి 'ప్రేమ గల దేవుడు నరకానికి ఎందుకు పంపుతాడు?' అనే సందేహం ఉంటుంది. దేవుడు కేవలం ప్రేమ మాత్రమే కాదు, ఆయన పరిశుద్ధుడు మరియు న్యాయవంతుడు కూడా."
+          },
+          {
+            "type": "head",
+            "text": "న్యాయం లేని ప్రేమ, బలహీనమైనది"
+          },
+          {
+            "type": "para",
+            "text": "ఒక జడ్జి తన ముందుకు వచ్చిన తీవ్రవాదిని చూసి 'నేను ప్రేమ గలవాడిని, నిన్ను వదిలేస్తున్నాను' అంటే ఆయన మంచి జడ్జి కాడు. నేరానికి శిక్ష పడకపోతే అది న్యాయం అనిపించుకోదు. దేవుడు పాపాన్ని శిక్షించకపోతే ఆయన పరిశుద్ధుడు కాలేడు."
+          },
+          {
+            "type": "head",
+            "text": "ప్రేమ లేని న్యాయం, క్రూరమైనది"
+          },
+          {
+            "type": "para",
+            "text": "దేవుడు కేవలం న్యాయం మాత్రమే చేస్తే, మనుషులందరూ పాపులే కాబట్టి ప్రతి ఒక్కరూ వెంటనే నశించిపోవాలి. కానీ దేవుని ప్రేమ మనకు రక్షణ మార్గాన్ని వెదకింది."
+          },
+          {
+            "type": "head",
+            "text": "సిలువ: ప్రేమ, న్యాయాల కలయిక"
+          },
+          {
+            "type": "para",
+            "text": "క్రీస్తు సిలువలో దేవుని న్యాయం నెరవేరింది (పాపానికి మరణశిక్ష పడింది). అదే సిలువలో దేవుని ప్రేమ వెల్లడైంది (ఆ శిక్షను దేవుడే తన కుమారునిపై వేసుకున్నాడు)."
+          },
+          {
+            "type": "key",
+            "text": "దేవుడు పాపాన్ని శిక్షిస్తాడు కాబట్టి ఆయన న్యాయవంతుడు. ఆ శిక్షను తానే భరించాడు కాబట్టి ఆయన ప్రేమ గలవాడు."
+          }
+        ],
+        "en": [
+          {
+            "type": "para",
+            "text": "Many people struggle with the thought: 'How can a loving God send anyone to hell?' But God is not only love; He is equally holy and just."
+          },
+          {
+            "type": "head",
+            "text": "Love without Justice is Weakness"
+          },
+          {
+            "type": "para",
+            "text": "If an earthly judge let a murderer go free simply saying, 'I am a loving judge,' we would call him corrupt. If God ignored sin, He would not be good or holy. Justice demands that wrongs be punished."
+          },
+          {
+            "type": "head",
+            "text": "Justice without Love is Crushing"
+          },
+          {
+            "type": "para",
+            "text": "If God operated only on strict justice, every human being would instantly perish, because we all have sinned. But God's love stepped in to provide a rescue."
+          },
+          {
+            "type": "head",
+            "text": "The Cross: Where Love and Justice Meet"
+          },
+          {
+            "type": "para",
+            "text": "At the cross, God's perfect justice was satisfied (the penalty of death for sin was fully poured out). At the exact same moment, His perfect love was demonstrated (God took that penalty upon Himself through Jesus)."
+          },
+          {
+            "type": "key",
+            "text": "God is just, so He punishes sin. God is love, so He took the punishment upon Himself."
+          }
+        ]
+      },
+      "verses": [
+        {
+          "book": {
+            "te": "రోమా",
+            "en": "Romans"
+          },
+          "chapter": 3,
+          "verse": 26,
+          "ref": {
+            "te": "రోమా 3:26",
+            "en": "Romans 3:26"
+          },
+          "text": {
+            "te": "ఆయన నీతిమంతుడును, యేసునందు విశ్వాసముగలవానిని నీతిమంతునిగా తీర్చువాడునై యుండుటకు...",
+            "en": "...so as to be just and the one who justifies those who have faith in Jesus."
+          }
+        }
+      ],
+      "relatedIds": [
+        "qa_0001",
+        "qa_0003"
+      ],
+      "shareLine": {
+        "te": "సిలువ వద్ద దేవుని సంపూర్ణ ప్రేమ, సంపూర్ణ న్యాయం ఏకమయ్యాయి. ✝️",
+        "en": "At the cross, God's perfect love and perfect justice met. ✝️"
+      }
+    },
+    {
+      "id": "qa_0010",
+      "categoryId": "god_trinity",
+      "order": 6,
+      "diamondCost": 0,
+      "featured": false,
+      "tags": [
+        "పాత నిబంధన దేవుడు",
+        "old testament god vs new",
+        "does god change"
+      ],
+      "question": {
+        "te": "పాత నిబంధన దేవుడు చాలా కోపంగా ఉంటాడు, క్రొత్త నిబంధనలో యేసు ప్రేమగా ఉంటాడు. దేవుడు తన మనసు మార్చుకున్నాడా?",
+        "en": "The God of the Old Testament seems angry, while Jesus in the New Testament is loving. Did God change His mind?"
+      },
+      "shortAnswer": {
+        "te": "లేదు, దేవుడు ఎన్నడూ మారడు. పాత నిబంధనలో దేవుని అపారమైన ప్రేమ, క్షమాపణ ఉన్నాయి. క్రొత్త నిబంధనలో పాపం పట్ల యేసుక్రీస్తు భయంకరమైన తీర్పు కూడా ఉంది. రెండు నిబంధనలలో ఉన్నది ఒకే దేవుడు.",
+        "en": "No, God never changes. The Old Testament is full of God's immense love and mercy, while the New Testament includes Jesus' fierce warnings of judgment. He is the exact same God in both Testaments."
+      },
+      "keyVerse": {
+        "book": {
+          "te": "మలాకీ",
+          "en": "Malachi"
+        },
+        "chapter": 3,
+        "verse": 6,
+        "ref": {
+          "te": "మలాకీ 3:6",
+          "en": "Malachi 3:6"
+        },
+        "text": {
+          "te": "యెహోవానైన నేను మార్పులేనివాడను.",
+          "en": "I the LORD do not change. So you, the descendants of Jacob, are not destroyed."
+        }
+      },
+      "answer": {
+        "te": [
+          {
+            "type": "para",
+            "text": "చాలామంది పాత నిబంధన అనగానే శిక్షలు, యుద్ధాలు అనుకుంటారు. క్రొత్త నిబంధన అనగానే కేవలం ప్రేమ, క్షమాపణ అనుకుంటారు. కానీ ఇది బైబిల్‌ను పూర్తిగా చదవకపోవడం వల్ల వచ్చే అపోహ."
+          },
+          {
+            "type": "head",
+            "text": "పాత నిబంధనలో దేవుని ప్రేమ"
+          },
+          {
+            "type": "para",
+            "text": "దేవుడు ఇశ్రాయేలీయులను ఎన్నిసార్లు క్షమించాడో పాత నిబంధన అంతటా చూడవచ్చు. ఆయన 'దయ, జాలి, దీర్ఘశాంతము, విస్తారమైన కృపాసత్యములు గల దేవుడు' అని పాత నిబంధన (నిర్గమ 34:6) ఘోషిస్తోంది."
+          },
+          {
+            "type": "head",
+            "text": "క్రొత్త నిబంధనలో దేవుని తీర్పు"
+          },
+          {
+            "type": "para",
+            "text": "నరకం గురించి, అగ్నిగుండం గురించి పాత నిబంధన ప్రవక్తలందరి కంటే యేసుక్రీస్తే ఎక్కువగా మాట్లాడాడు. ప్రకటన గ్రంథంలో క్రీస్తు ఉగ్రతకు రాజులు కూడా భయపడి కొండల గుహలలో దాక్కుంటారు (ప్రకటన 6:16)."
+          },
+          {
+            "type": "head",
+            "text": "ఎందుకు ఆ తేడా కనిపిస్తుంది?"
+          },
+          {
+            "type": "para",
+            "text": "పాత నిబంధనలో దేవుడు ఒక దేశాన్ని (ఇశ్రాయేలు) తన ప్రజలుగా ఎంచుకుని ఆ దేశానికి చట్టాలు ఇచ్చాడు. ఆ చట్టాలు మీరినప్పుడు దేశపరమైన శిక్షలు వచ్చాయి. క్రొత్త నిబంధనలో యేసు వచ్చి ఆ శిక్షను సిలువపై భరించాడు కాబట్టి కృపాయుగం నడుస్తోంది."
+          },
+          {
+            "type": "key",
+            "text": "దేవుడు మారలేదు, ఆయన మనతో వ్యవహరించే నిబంధన (Covenant) మాత్రమే మారింది."
+          }
+        ],
+        "en": [
+          {
+            "type": "para",
+            "text": "Many people assume the Old Testament is all about wrath and war, while the New Testament is only about love and grace. This is a common misconception resulting from selective reading."
+          },
+          {
+            "type": "head",
+            "text": "God's Love in the Old Testament"
+          },
+          {
+            "type": "para",
+            "text": "The Old Testament repeatedly shows God's incredible patience. Exodus 34:6 describes Him as 'the compassionate and gracious God, slow to anger, abounding in love and faithfulness.' He forgave Israel's rebellion countless times."
+          },
+          {
+            "type": "head",
+            "text": "God's Wrath in the New Testament"
+          },
+          {
+            "type": "para",
+            "text": "Jesus actually spoke more about hell and divine judgment than any prophet in the Old Testament. In the book of Revelation, kings hide in caves to escape 'the wrath of the Lamb' (Rev 6:16)."
+          },
+          {
+            "type": "head",
+            "text": "Why Does It Feel Different?"
+          },
+          {
+            "type": "para",
+            "text": "In the OT, God was dealing with a specific physical nation (Israel) under a strict legal covenant, where sins required immediate physical judgments to preserve the nation. In the NT, Jesus took that judgment on the cross, inaugurating an era of grace."
+          },
+          {
+            "type": "key",
+            "text": "God's character has not changed; rather, the Covenant by which He interacts with humanity has changed."
+          }
+        ]
+      },
+      "verses": [
+        {
+          "book": {
+            "te": "హెబ్రీయులకు",
+            "en": "Hebrews"
+          },
+          "chapter": 13,
+          "verse": 8,
+          "ref": {
+            "te": "హెబ్రీయులకు 13:8",
+            "en": "Hebrews 13:8"
+          },
+          "text": {
+            "te": "యేసుక్రీస్తు నిన్న, నేడు, ఒకే రీతిగా ఉన్నాడు; అవును యుగయుగములకును అదే రీతిగా ఉండును.",
+            "en": "Jesus Christ is the same yesterday and today and forever."
+          }
+        }
+      ],
+      "relatedIds": [
+        "qa_0009"
+      ],
+      "shareLine": {
+        "te": "దేవుడు మారలేదు, ఆయన మనతో వ్యవహరించే నిబంధన మారింది. 📖",
+        "en": "God's character hasn't changed; the Covenant has! 📖"
+      }
+    },
+    {
+      "id": "qa_0011",
+      "categoryId": "god_trinity",
+      "order": 7,
+      "diamondCost": 0,
+      "featured": false,
+      "tags": [
+        "ఎందుకు సృష్టించాడు",
+        "why did god create us",
+        "పాపం",
+        "సృష్టి"
+      ],
+      "question": {
+        "te": "మనుష్యులు పాపం చేస్తారని ముందుగానే తెలిసినప్పుడు దేవుడు వారిని ఎందుకు సృష్టించాడు?",
+        "en": "Why did God create us if He already knew we would sin and rebel against Him?"
+      },
+      "shortAnswer": {
+        "te": "నిజమైన ప్రేమ ఇవ్వాలన్నా, పొందాలన్నా దానికి స్వేచ్ఛ (Free Will) ఉండాలి. మనుష్యులు పాపం చేస్తారని తెలిసినా, తన కుమారుని సిలువ ద్వారా వారిని రక్షించి, శాశ్వతమైన ప్రేమ బంధాన్ని ఏర్పరుచుకోవాలన్నదే దేవుని మహా సంకల్పం.",
+        "en": "True love requires free will. Even knowing humanity would fall, God created us because He already had a plan to redeem us through the cross, securing an eternal, loving relationship with those who choose Him."
+      },
+      "keyVerse": {
+        "book": {
+          "te": "ఎఫెసీయులకు",
+          "en": "Ephesians"
+        },
+        "chapter": 1,
+        "verse": 4,
+        "ref": {
+          "te": "ఎఫెసీ 1:4-5",
+          "en": "Ephesians 1:4-5"
+        },
+        "text": {
+          "te": "జగత్తు పునాది వేయబడకమునుపే, ప్రేమచేత ఆయన క్రీస్తులో మనలను ఏర్పరచుకొనెను.",
+          "en": "For he chose us in him before the creation of the world to be holy and blameless in his sight. In love he predestined us for adoption to sonship."
+        }
+      },
+      "answer": {
+        "te": [
+          {
+            "type": "para",
+            "text": "ఈ ప్రశ్న చాలా లోతైనది. దేవునికి భవిష్యత్తు తెలుసు, ఆదాము అవ్వలు పండు తింటారని తెలుసు. అయినా ఎందుకు సృష్టించాడు?"
+          },
+          {
+            "type": "head",
+            "text": "1. ప్రేమకు స్వేచ్ఛ అవసరం"
+          },
+          {
+            "type": "para",
+            "text": "ఒక రోబోట్ ను తయారుచేసి 'ఐ లవ్ యు' అని ప్రోగ్రామ్ చేస్తే అది ఎప్పటికీ అదే చెబుతుంది, కానీ అందులో నిజమైన ప్రేమ ఉండదు. దేవుడు మనలను రోబోట్స్ లా కాదు, తనను తిరస్కరించే స్వేచ్ఛ ఉన్న వ్యక్తులుగా సృష్టించాడు. ఎందుకంటే స్వేచ్ఛ ఉన్నచోటే నిజమైన ప్రేమ పుడుతుంది."
+          },
+          {
+            "type": "head",
+            "text": "2. ప్లాన్ B కాదు, ప్లాన్ A"
+          },
+          {
+            "type": "para",
+            "text": "మనుషులు పాపం చేసిన తర్వాత దేవుడు కంగారుపడి క్రీస్తు సిలువను ప్లాన్ చేయలేదు. 'జగత్తు పునాది వేయబడకమునుపే' (ప్రకటన 13:8) వధించబడిన గొర్రెపిల్ల క్రీస్తు అని బైబిల్ చెబుతోంది. అంటే సృష్టించడానికి ముందే మన పాపాలకు మూల్యం చెల్లించడానికి దేవుడు సిద్ధమయ్యాడు."
+          },
+          {
+            "type": "head",
+            "text": "3. విలువైన ముగింపు"
+          },
+          {
+            "type": "para",
+            "text": "మీరు ఒక బిడ్డను కనాలనుకున్నప్పుడు, ఆ బిడ్డ పడిపోతాడని, మీకు కొన్నిసార్లు కోపం తెప్పిస్తాడని, జబ్బున పడతాడని తెలిసినా ఎందుకు కంటారు? ఎందుకంటే ఆ కష్టాల కంటే మీ మధ్య ఉండే ప్రేమ బంధం చాలా గొప్పది. దేవుని సృష్టి కూడా అంతే."
+          },
+          {
+            "type": "key",
+            "text": "దేవుడు కేవలం పాపం లేని సృష్టిని కాదు, స్వచ్ఛందంగా తనను ప్రేమించే బిడ్డలను కోరుకున్నాడు."
+          }
+        ],
+        "en": [
+          {
+            "type": "para",
+            "text": "This is one of the deepest philosophical questions. God knows the future perfectly. He knew Adam and Eve would fall. So why proceed?"
+          },
+          {
+            "type": "head",
+            "text": "1. Love Requires Freedom"
+          },
+          {
+            "type": "para",
+            "text": "If you program a robot to say 'I love you', it will, but that is not real love. God did not want pre-programmed robots; He wanted a genuine relationship. But to give humans the ability to truly love Him, He had to give them the ability to reject Him."
+          },
+          {
+            "type": "head",
+            "text": "2. The Cross was not Plan B"
+          },
+          {
+            "type": "para",
+            "text": "When humanity sinned, God wasn't caught by surprise. Revelation 13:8 speaks of Jesus as 'the Lamb who was slain from the creation of the world.' Before God even said 'Let there be light,' He had already prepared the cross as the rescue plan."
+          },
+          {
+            "type": "head",
+            "text": "3. The End is Worth the Pain"
+          },
+          {
+            "type": "para",
+            "text": "Why do parents choose to have children, knowing the child will inevitably get sick, rebel, and cause them heartbreak? Because the joy of a loving relationship outweighs the pain. God viewed us in the same way."
+          },
+          {
+            "type": "key",
+            "text": "God didn't just want an obedient creation; He wanted a family that willingly chose to love Him."
+          }
+        ]
+      },
+      "verses": [],
+      "relatedIds": [
+        "qa_0001",
+        "qa_0003"
+      ],
+      "shareLine": {
+        "te": "పాపం చేస్తామని తెలిసినా, సిలువలో రక్షించడానికే దేవుడు మనలను సృష్టించాడు. ❤️",
+        "en": "Even knowing we would fall, God created us to redeem us. ❤️"
+      }
+    },
+    {
+      "id": "qa_0012",
+      "categoryId": "god_trinity",
+      "order": 8,
+      "diamondCost": 0,
+      "featured": false,
+      "tags": [
+        "దేవుని చూడగలమా",
+        "can we see god",
+        "invisible god",
+        "అదృశ్య దేవుడు"
+      ],
+      "question": {
+        "te": "మనం దేవుని కళ్ళతో చూడగలమా? దేవుడు ఎందుకు అదృశ్యంగా ఉంటాడు?",
+        "en": "Can we see God with our physical eyes? Why is He invisible?"
+      },
+      "shortAnswer": {
+        "te": "దేవుడు ఆత్మయై ఉన్నాడు, కాబట్టి ఆయనను మన భౌతిక కళ్ళతో చూడలేము. దేవుని తేజస్సు ఎంత గొప్పదంటే, పాపస్వభావం ఉన్న మనిషి ఆయనను నేరుగా చూసి బ్రతకలేడు.",
+        "en": "God is Spirit, so He cannot be seen with physical eyes. Furthermore, God's glory is so consuming that no mortal human could see His face and survive."
+      },
+      "keyVerse": {
+        "book": {
+          "te": "యోహాను",
+          "en": "John"
+        },
+        "chapter": 4,
+        "verse": 24,
+        "ref": {
+          "te": "యోహాను 4:24",
+          "en": "John 4:24"
+        },
+        "text": {
+          "te": "దేవుడు ఆత్మ గనుక ఆయనను ఆరాధించువారు ఆత్మతోను సత్యముతోను ఆరాధింపవలెను.",
+          "en": "God is spirit, and his worshipers must worship in the Spirit and in truth."
+        }
+      },
+      "answer": {
+        "te": [
+          {
+            "type": "para",
+            "text": "మనుషులమైన మనకు ఏదైనా కంటికి కనిపిస్తేనే నమ్ముతాము అన్న భావన ఉంటుంది. కానీ అనంతమైన దేవుడిని ఒక ఆకారానికి పరిమితం చేయలేము."
+          },
+          {
+            "type": "head",
+            "text": "1. దేవుడు ఆత్మ (God is Spirit)"
+          },
+          {
+            "type": "para",
+            "text": "గాలి మన కంటికి కనిపించదు, కానీ దాని ప్రభావం చెట్లు ఊగడం ద్వారా చూస్తాము. అలాగే దేవుడు అదృశ్యుడైన ఆత్మ. ఆయనను భౌతిక కళ్ళతో చూడలేము కానీ ఆయన చేసే అద్భుతాలు, సృష్టి ద్వారా ఆయనను గ్రహించగలం (రోమా 1:20)."
+          },
+          {
+            "type": "head",
+            "text": "2. చూస్తే బ్రతకలేము"
+          },
+          {
+            "type": "para",
+            "text": "నిర్గమకాండము 33:20 లో దేవుడు మోషేతో 'నీవు నా ముఖమును చూడజాలవు; ఏ నరుడును నన్ను చూచి బ్రదుకడు' అన్నాడు. మనం మండుతున్న సూర్యుడిని దగ్గరగా వెళ్లి చూడలేము, కాలిపోతాము. అలాగే పాపస్వభావం ఉన్న మనిషి, దేవుని సంపూర్ణ పరిశుద్ధతను తట్టుకోలేడు."
+          },
+          {
+            "type": "head",
+            "text": "3. క్రీస్తులో దేవుని చూశాము"
+          },
+          {
+            "type": "para",
+            "text": "అదృశ్య దేవుని గురించి తెలుసుకోవాలంటే, మనం యేసుక్రీస్తును చూడాలి. కొలొస్సీ 1:15 ప్రకారం 'ఆయన అదృశ్యదేవుని స్వరూపియై ఉన్నాడు.' యేసును చూసినవాడు తండ్రిని చూసినట్టే (యోహాను 14:9)."
+          },
+          {
+            "type": "key",
+            "text": "దేవుని చూడటానికి మనకు భౌతిక కళ్ళు కాదు, విశ్వాసమనే ఆత్మీయ కళ్ళు కావాలి."
+          }
+        ],
+        "en": [
+          {
+            "type": "para",
+            "text": "As humans, we often say, 'Seeing is believing.' But an infinite, eternal God cannot be limited to a physical form that our mortal eyes can capture."
+          },
+          {
+            "type": "head",
+            "text": "1. God is Spirit"
+          },
+          {
+            "type": "para",
+            "text": "We cannot see the wind, but we see its effects. God is an invisible Spirit. While we cannot see Him physically, we can clearly see His power and divine nature through the universe He created (Romans 1:20)."
+          },
+          {
+            "type": "head",
+            "text": "2. His Glory is Consuming"
+          },
+          {
+            "type": "para",
+            "text": "In Exodus 33:20, God told Moses, 'You cannot see my face, for no one may see me and live.' Just as we cannot physically approach or look directly at the surface of the sun without burning up, a sinful human cannot survive the unveiled, blazing holiness of God."
+          },
+          {
+            "type": "head",
+            "text": "3. We Saw Him in Christ"
+          },
+          {
+            "type": "para",
+            "text": "If you want to know what the invisible God looks like, look at Jesus. Colossians 1:15 says, 'The Son is the image of the invisible God.' Jesus said, 'Anyone who has seen me has seen the Father' (John 14:9)."
+          },
+          {
+            "type": "key",
+            "text": "To see God, we do not need better physical eyes; we need the spiritual eyes of faith."
+          }
+        ]
+      },
+      "verses": [],
+      "relatedIds": [
+        "qa_0005",
+        "qa_0006"
+      ],
+      "shareLine": {
+        "te": "కంటికి కనిపించే సూర్యుడినే చూడలేము, ఇక సూర్యుడిని సృష్టించిన దేవుని ఎలా చూడగలం? ✨",
+        "en": "If we cannot stare at the sun, how can we stare at its Creator? ✨"
+      }
+    },
+    {
+      "id": "qa_0013",
+      "categoryId": "god_trinity",
+      "order": 9,
+      "diamondCost": 0,
+      "featured": false,
+      "tags": [
+        "దేవుని చిత్తం",
+        "will of god",
+        "దేవుడు అన్యాయస్థుడా",
+        "is god fair"
+      ],
+      "question": {
+        "te": "దేవుడు సర్వశక్తిమంతుడు అయితే సాతానును ఎందుకు వెంటనే నాశనం చేయలేదు?",
+        "en": "If God is all-powerful, why didn't He just destroy Satan immediately?"
+      },
+      "shortAnswer": {
+        "te": "సాతానును నాశనం చేసే శక్తి దేవునికి ఉంది. కానీ దేవుడు కేవలం బలప్రదర్శన చేయకుండా, తన న్యాయము, కృప మరియు ప్రేమ ద్వారా సాతాను ఓటమిని సంపూర్ణంగా లోకానికి ప్రదర్శించడానికి సమయం ఇచ్చాడు.",
+        "en": "God has the power to destroy Satan instantly. However, God chose to defeat Satan not merely by sheer force, but through His perfect justice, grace, and love at the cross, proving Satan completely wrong."
+      },
+      "keyVerse": {
+        "book": {
+          "te": "రోమా",
+          "en": "Romans"
+        },
+        "chapter": 16,
+        "verse": 20,
+        "ref": {
+          "te": "రోమా 16:20",
+          "en": "Romans 16:20"
+        },
+        "text": {
+          "te": "సమాధానకర్తయగు దేవుడు సాతానును మీ కాళ్లక్రింద శీఘ్రముగా చితక త్రొక్కించును.",
+          "en": "The God of peace will soon crush Satan under your feet."
+        }
+      },
+      "answer": {
+        "te": [
+          {
+            "type": "para",
+            "text": "సాతాను పాపం చేసిన వెంటనే దేవుడు అతన్ని నాశనం చేసి ఉంటే, దేవదూతలందరూ దేవుని పట్ల భయంతో విధేయత చూపేవారు కానీ, ప్రేమతో కాదు. సాతాను లేవనెత్తిన ప్రశ్నలకు కేవలం బలం సమాధానం కాదు."
+          },
+          {
+            "type": "head",
+            "text": "సాతాను ఆరోపణ"
+          },
+          {
+            "type": "para",
+            "text": "దేవుడు మంచివాడు కాదని, ఆయన పరిపాలన కఠినమని సాతాను ఆరోపించాడు (ఆదికాండము 3లో అవ్వతో చెప్పినట్లు). దేవుడు సాతానును వెంటనే చంపేసి ఉంటే, సాతాను అన్నది నిజమేనేమో అన్న సందేహం సృష్టి అంతటికీ మిగిలిపోయేది."
+          },
+          {
+            "type": "head",
+            "text": "సిలువలో సాతాను ఓటమి"
+          },
+          {
+            "type": "para",
+            "text": "దేవుడు తన శక్తితో కాదు, తన కుమారుని ప్రాణత్యాగం ద్వారా సాతానును ఓడించాడు. సిలువ ద్వారా దేవుని ప్రేమ, న్యాయం రుజువు చేయబడ్డాయి. సాతాను ఆరోపణలు అబద్ధమని తేలిపోయింది."
+          },
+          {
+            "type": "key",
+            "text": "సాతాను అంతం ఇప్పటికే నిర్ణయించబడింది (ప్రకటన 20:10). దేవుడు ఆలస్యం చేస్తున్నది సాతాను కోసం కాదు, ఇంకా ఎందరో రక్షించబడాలన్న మన కోసమే."
+          }
+        ],
+        "en": [
+          {
+            "type": "para",
+            "text": "If God had annihilated Satan the moment he rebelled, the unfallen angels might have obeyed God out of sheer terror rather than love. Satan's rebellion raised moral questions that raw power alone could not answer."
+          },
+          {
+            "type": "head",
+            "text": "Satan's Accusation"
+          },
+          {
+            "type": "para",
+            "text": "Satan essentially accused God of being an unfair, withholding dictator (as seen in Genesis 3 with Eve). Had God simply obliterated him, it would have left a lingering doubt in the universe: 'Maybe Satan was right.' "
+          },
+          {
+            "type": "head",
+            "text": "Defeated at the Cross"
+          },
+          {
+            "type": "para",
+            "text": "God chose to defeat Satan not with a display of raw physical force, but through self-sacrificing love and perfect justice at the cross. The cross proved that God is completely good and Satan is a liar."
+          },
+          {
+            "type": "key",
+            "text": "Satan's doom is already guaranteed (Rev 20:10). God's delay is not out of weakness, but out of patience, waiting for more people to be saved."
+          }
+        ]
+      },
+      "verses": [],
+      "relatedIds": [
+        "qa_0003"
+      ],
+      "shareLine": {
+        "te": "దేవుడు సాతానును బలంతో కాదు, సిలువ ప్రేమతో ఓడించాడు! ✝️",
+        "en": "God defeated Satan not with sheer power, but with sacrificial love! ✝️"
+      }
+    },
+    {
+      "id": "qa_0014",
+      "categoryId": "god_trinity",
+      "order": 10,
+      "diamondCost": 0,
+      "featured": true,
+      "tags": [
+        "యేసు ఎందుకు దేవుడు",
+        "alpha omega",
+        "అల్ఫా ఓమెగ"
+      ],
+      "question": {
+        "te": "దేవుడు అల్ఫా, ఒమెగా అని ఎందుకు పిలువబడతాడు?",
+        "en": "Why is God called the Alpha and the Omega?"
+      },
+      "shortAnswer": {
+        "te": "అల్ఫా, ఒమెగా అనేవి గ్రీకు భాషలోని మొదటి మరియు చివరి అక్షరాలు. దేవుడు ఆరంభం, అంతం లేనివాడని, సమస్త సృష్టికి మూలం మరియు ముగింపు ఆయనే అని దీని అర్థం.",
+        "en": "Alpha and Omega are the first and last letters of the Greek alphabet. It signifies that God is the beginning and the end, eternal, and the source and goal of all creation."
+      },
+      "keyVerse": {
+        "book": {
+          "te": "ప్రకటన గ్రంథము",
+          "en": "Revelation"
+        },
+        "chapter": 22,
+        "verse": 13,
+        "ref": {
+          "te": "ప్రకటన 22:13",
+          "en": "Revelation 22:13"
+        },
+        "text": {
+          "te": "నేనే ఆల్ఫాయు ఓమెగయు, మొదటివాడను కడపటివాడను, ఆదియు అంతమునై యున్నాను.",
+          "en": "I am the Alpha and the Omega, the First and the Last, the Beginning and the End."
+        }
+      },
+      "answer": {
+        "te": [
+          {
+            "type": "para",
+            "text": "క్రొత్త నిబంధన గ్రీకు భాషలో వ్రాయబడింది. ఆ భాషలో మొదటి అక్షరం 'ఆల్ఫా' (A), చివరి అక్షరం 'ఓమెగా' (Z). దేవుడు తనను తాను ఆల్ఫా ఓమెగా అని పిలుచుకోవడం వెనుక గొప్ప అర్థం ఉంది."
+          },
+          {
+            "type": "head",
+            "text": "1. ఆయనకు ముందు ఎవరూ లేరు"
+          },
+          {
+            "type": "para",
+            "text": "సమస్తము ఆయన ద్వారానే ఉనికిలోకి వచ్చాయి. కాలాన్ని, సృష్టిని ప్రారంభించినది ఆయనే."
+          },
+          {
+            "type": "head",
+            "text": "2. ఆయనకు తర్వాత ఎవరూ ఉండరు"
+          },
+          {
+            "type": "para",
+            "text": "చరిత్రను ముగించేది ఆయనే. లోకంలోని రాజ్యాలు, రాజులు నశించిపోతారు కానీ దేవుని రాజ్యం శాశ్వతంగా నిలిచి ఉంటుంది."
+          },
+          {
+            "type": "head",
+            "text": "3. మీ జీవితానికి ఆల్ఫా, ఓమెగా"
+          },
+          {
+            "type": "para",
+            "text": "మీ జీవితాన్ని ప్రారంభించిన సృష్టికర్త ఆయనే (ఆల్ఫా). మీ జీవితాన్ని పరలోకంలో పరిపూర్ణం చేసేది కూడా ఆయనే (ఓమెగా). మధ్యలో జరిగే ప్రతి పరిస్థితి ఆయన అధీనంలో ఉంటుంది."
+          },
+          {
+            "type": "key",
+            "text": "దేవుడే ఆరంభం, దేవుడే అంతం. ఆయన చేతిలో మీ జీవితం సురక్షితం."
+          }
+        ],
+        "en": [
+          {
+            "type": "para",
+            "text": "The New Testament was written in Greek. Alpha is the first letter of the Greek alphabet, and Omega is the last. When God claims this title, He is making a massive statement about His eternity."
+          },
+          {
+            "type": "head",
+            "text": "1. Before Him was Nothing"
+          },
+          {
+            "type": "para",
+            "text": "He is the uncreated Creator. He started the clock of time. Everything that exists finds its origin in Him."
+          },
+          {
+            "type": "head",
+            "text": "2. After Him is Nothing"
+          },
+          {
+            "type": "para",
+            "text": "He is the ultimate goal of all creation. Kings will die, nations will fall, and the universe as we know it will end, but God remains forever."
+          },
+          {
+            "type": "head",
+            "text": "3. The Alpha and Omega of Your Life"
+          },
+          {
+            "type": "para",
+            "text": "He authored your life (He is your Alpha). He will bring your faith to completion in heaven (He is your Omega). Whatever happens in between the letters of your life is fully in His sovereign hands."
+          },
+          {
+            "type": "key",
+            "text": "God is the absolute beginning and the ultimate end. Your life is entirely safe in His hands."
+          }
+        ]
+      },
+      "verses": [],
+      "relatedIds": [
+        "qa_0006"
+      ],
+      "shareLine": {
+        "te": "ఆయనే ఆరంభం, ఆయనే ముగింపు! 👑",
+        "en": "He is the Beginning, and He is the End! 👑"
+      }
     }
   ]
 }
