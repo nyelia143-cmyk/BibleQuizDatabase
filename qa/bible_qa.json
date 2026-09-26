@@ -2135,6 +2135,135 @@
         "te": "ఆయనే ఆరంభం, ఆయనే ముగింపు! 👑",
         "en": "He is the Beginning, and He is the End! 👑"
       }
+    },
+    {
+      "id": "q_prayer_2",
+      "categoryId": "prayer_life",
+      "question_en": "Why does God sometimes seem silent, and our prayers remain unanswered even when we pray with strong faith?",
+      "question_te": "మనం ఎంతో విశ్వాసంతో ప్రార్థించినప్పటికీ, కొన్నిసార్లు దేవుడు మౌనంగా ఎందుకు ఉంటాడు? మన ప్రార్థనలకు ఎందుకు జవాబు రాదు?",
+      "answer_en": "When God is silent, it does not mean He is absent. A 'No' or a 'Wait' from God is just as much an answer as a 'Yes.' God’s perspective is eternal, while ours is temporary. Sometimes He denies our requests because He is protecting us from a danger we cannot see, or He is preparing something far greater than we asked for. Furthermore, silence is often God’s tool to build our character, test our faith, and draw us into a deeper relationship with Him. True faith is not just believing God will give you what you want, but trusting Him even when He doesn't.",
+      "answer_te": "దేవుడు మౌనంగా ఉన్నాడు అంటే, ఆయన మనల్ని విడిచిపెట్టాడు అని అర్థం కాదు. దేవుడు 'వద్దు' అని చెప్పడం లేదా 'వేచియుండు' అనడం కూడా ప్రార్థనకు ఒక గొప్ప జవాబే! దేవుని ఆలోచనలు నిత్యమైనవి, మన ఆలోచనలు తాత్కాలికమైనవి. కొన్నిసార్లు మనం కోరుకునేవి భవిష్యత్తులో మనకు కీడు చేస్తాయేమో అని దేవుడు వాటిని ఇవ్వకుండా ఆపుతాడు, లేదా మనం అడిగినదాని కంటే గొప్పది ఇవ్వడానికి సమయం తీసుకుంటాడు. దేవుని మౌనం మన ఆత్మీయ ఓర్పును పెంచి, ఆయనతో మన సహవాసాన్ని మరింత బలపరుస్తుంది. నిజమైన విశ్వాసం అంటే మనం అడిగింది ఇస్తాడని నమ్మడం మాత్రమే కాదు, ఇవ్వకపోయినా ఆయనను నమ్మడమే!",
+      "bible_verses": [
+        "Isaiah 55:8-9",
+        "2 Corinthians 12:8-9"
+      ]
+    },
+    {
+      "id": "q_hard_2",
+      "categoryId": "hard_questions",
+      "question_en": "If God is unconditionally loving and all-powerful, why is there so much suffering, pain, and disease in the world?",
+      "question_te": "దేవుడు అపారమైన ప్రేమ గలవాడు, సర్వశక్తిమంతుడు అయితే, ఈ లోకంలో ఇంత బాధ, రోగాలు, కష్టాలు ఎందుకు ఉన్నాయి?",
+      "answer_en": "This is the oldest question in human history. God did not create the world with pain or death; these are the tragic consequences of humanity's rebellion (sin) in the Garden of Eden. Because God gave humans free will, we chose a path that brought brokenness into creation. However, the beauty of the Gospel is that God did not leave us in our suffering. He entered into our pain through Jesus Christ, suffering alongside us on the cross. God now uses our temporary earthly suffering as a divine furnace to refine our character, and He promises a future where 'He will wipe away every tear' and suffering will exist no more.",
+      "answer_te": "ఇది మానవ చరిత్రలో అత్యంత క్లిష్టమైన ప్రశ్న. దేవుడు ఈ లోకాన్ని బాధ, మరణం ఉండేలా సృష్టించలేదు. ఇవన్నీ ఏదెను వనంలో మానవుడు చేసిన పాపం (తిరుగుబాటు) వల్ల వచ్చిన ఘోరమైన పర్యవసానాలు. మనిషికి దేవుడు స్వేచ్ఛా చిత్తాన్ని ఇస్తే, మనిషి పాపాన్ని ఎంచుకున్నాడు, దాని వల్లే సృష్టి పాడైంది. అయితే సువార్తలోని గొప్ప విషయం ఏమిటంటే, దేవుడు మనల్ని ఈ కష్టాల్లో వదిలేయలేదు. ఆయన స్వయంగా యేసుక్రీస్తుగా ఈ లోకంలోకి వచ్చి, మనతో పాటు సిలువలో శ్రమలు అనుభవించాడు. దేవుడు మన శ్రమలను మన ఆత్మీయతను కడిగే కొలిమిలా వాడుకుంటాడు. అంతేకాదు, ఒకరోజు ఆయన మన కన్నీటిని తుడిచివేసి, బాధ లేని నిత్యజీవాన్ని ఇస్తానని వాగ్దానం చేశాడు.",
+      "bible_verses": [
+        "Romans 8:18",
+        "Revelation 21:4",
+        "John 16:33"
+      ]
+    },
+    {
+      "id": "q_salvation_2",
+      "categoryId": "salvation",
+      "question_en": "Can a truly born-again Christian lose their salvation if they fall back into severe sin?",
+      "question_te": "నిజంగా రక్షించబడి, మారుమనస్సు పొందిన ఒక క్రైస్తవుడు తిరిగి ఏదైనా ఘోరమైన పాపంలో పడిపోతే, తన రక్షణను కోల్పోతాడా?",
+      "answer_en": "This is a profound theological debate. However, Scripture heavily emphasizes the eternal security of the believer. Jesus said, 'I give them eternal life, and they shall never perish; no one will snatch them out of my hand.' Salvation is not maintained by our perfect behavior, but by Christ's perfect sacrifice. If we could lose our salvation by sinning, it would mean our works save us, not grace. However, a person who habitually practices severe sin without any remorse or discipline from the Holy Spirit may never have been truly born-again to begin with. True grace transforms you; it doesn't give you a license to sin.",
+      "answer_te": "ఇది బైబిల్ పండితుల మధ్య ఉన్న ఒక పెద్ద సందేహం. అయితే దేవుని వాక్యం విశ్వాసి రక్షణ భద్రత గురించి చాలా స్పష్టంగా చెబుతోంది. యేసయ్య ఇలా అన్నాడు, 'నేను వాటికి నిత్యజీవమునిచ్చుచున్నాను గనుక అవి ఎన్నటికిని నశింపవు, ఎవడును వాటిని నా చేతిలోనుండి అపహరింపడు.' మన రక్షణ మన మంచి పనుల వల్ల నిలబడదు, అది యేసయ్య చేసిన పరిపూర్ణ బలిదానంపై ఆధారపడి ఉంటుంది. పాపం చేస్తే రక్షణ పోతుంది అంటే, రక్షణ అనేది మన క్రియల వల్ల వస్తుందన్నమాట, కృప వల్ల కాదు! కానీ, ఒక వ్యక్తి ఎలాంటి పశ్చాత్తాపం లేకుండా ఇష్టానుసారంగా ఘోరమైన పాపాలు చేస్తూ బ్రతుకుతున్నాడంటే, అసలు అతను నిజంగా మారుమనస్సు పొందాడా లేదా అనేది ప్రశ్నార్థకం. నిజమైన కృప నిన్ను మారుస్తుంది కానీ పాపం చేయడానికి లైసెన్స్ ఇవ్వదు.",
+      "bible_verses": [
+        "John 10:28",
+        "Ephesians 2:8-9",
+        "Romans 8:38-39"
+      ]
+    },
+    {
+      "id": "q_end_times_2",
+      "categoryId": "end_times",
+      "question_en": "What exactly is the Mark of the Beast (666), and should Christians be terrified of accidentally receiving it?",
+      "question_te": "క్రూరమృగపు ముద్ర (666) అంటే ఏమిటి? పొరపాటున ఎప్పుడైనా మనం ఆ ముద్ర వేయించుకుంటామేమో అని క్రైస్తవులు భయపడాలా?",
+      "answer_en": "The Mark of the Beast, as described in Revelation 13, is an ultimate symbol of allegiance and worship to the Antichrist during the Great Tribulation. It is a system of economic control, without which no one can buy or sell. Christians do not need to be terrified of 'accidentally' receiving the mark (like through a vaccine, microchip, or barcode). The Mark is not a sneaky trap; it requires a conscious, deliberate rejection of Jesus Christ and a willful worship of the Antichrist. If your heart belongs to Jesus, you are already sealed with the Holy Spirit, which is the ultimate mark of divine ownership. Do not live in fear of the enemy's mark; rejoice in God's seal.",
+      "answer_te": "ప్రకటన 13వ అధ్యాయంలో చెప్పబడిన క్రూరమృగపు ముద్ర అనేది మహాశ్రమల కాలంలో అంత్యక్రీస్తును ఆరాధించడానికి మరియు అతనికి లొంగిపోవడానికి ఒక గుర్తు. ఆ ముద్ర లేకపోతే ఎవరూ ఏమీ కొనలేరు, అమ్మలేరు. అయితే క్రైస్తవులు వ్యాక్సిన్లు, మైక్రోచిప్స్ లేదా బార్-కోడ్స్ రూపంలో పొరపాటున తమకు ఆ ముద్ర పడిపోతుందేమో అని భయపడాల్సిన అవసరం లేదు! ఆ ముద్ర అనేది ఏదో రహస్యంగా మోసం చేసి వేసేది కాదు; క్రీస్తును పూర్తిగా తిరస్కరించి, అంత్యక్రీస్తును బుద్ధిపూర్వకంగా ఆరాధించేవారు మాత్రమే ఆ ముద్ర వేయించుకుంటారు. మీరు యేసయ్యను అంగీకరిస్తే, మీపై ఇప్పటికే పరిశుద్ధాత్మ దేవుని ముద్ర పడిపోయింది! కాబట్టి అపవాది ముద్ర గురించి భయపడకండి, దేవుని ముద్రను బట్టి ఆనందించండి.",
+      "bible_verses": [
+        "Revelation 13:16-17",
+        "Ephesians 1:13-14",
+        "Revelation 14:9-10"
+      ]
+    },
+    {
+      "id": "q_family_2",
+      "categoryId": "family_life",
+      "question_en": "How should a Christian respond to a spouse or family members who constantly oppose and mock their faith?",
+      "question_te": "ఒక క్రైస్తవుడు, తన విశ్వాసాన్ని ఎప్పుడూ విమర్శిస్తూ, వ్యతిరేకిస్తూ ఉండే తన భార్య/భర్త లేదా కుటుంబ సభ్యులతో ఎలా ప్రవర్తించాలి?",
+      "answer_en": "Living with family members who oppose your faith is an agonizing daily cross. However, the Apostle Peter gives clear instructions: Win them over 'without a word' through your pure and reverent behavior. Arguing, preaching aggressively, or showing frustration often pushes them further away. Instead, become the greatest living example of Jesus' love in your home. Serve them radically, forgive them instantly, and pray for them relentlessly behind closed doors. Your unconditional love and transformed character will be the most powerful sermon they will ever hear. Remember, God's timing for their salvation might be different from yours.",
+      "answer_te": "విశ్వాసాన్ని వ్యతిరేకించే కుటుంబ సభ్యులతో కలిసి జీవించడం అనేది ప్రతిరోజూ సిలువ మోయడం లాంటిదే. అయితే అపొస్తలుడైన పేతురు ఒక అద్భుతమైన సలహా ఇస్తున్నాడు: 'మీరు ఒక్క మాట కూడా చెప్పకుండా, మీ పవిత్రమైన ప్రవర్తన ద్వారా వారిని క్రీస్తు వైపుకు నడిపించండి' అని. వారితో వాదించడం, పదే పదే వాక్యం చెప్పి విసిగించడం వల్ల వారు దేవునికి మరింత దూరం అవుతారు. దానికి బదులు, మీ ఇంట్లో యేసయ్య ప్రేమకు మీరే ఒక సజీవ సాక్ష్యంగా మారండి. వారికి ప్రేమతో సేవ చేయండి, వారు మిమ్మల్ని బాధపెట్టినా త్వరగా క్షమించండి, రహస్యంగా వారి కోసం కన్నీటితో ప్రార్థించండి. మీలో వచ్చిన గొప్ప మార్పు మరియు మీ ప్రేమ, వాళ్ళు వినే ఏ ప్రసంగం కంటే కూడా శక్తివంతంగా పనిచేస్తుంది.",
+      "bible_verses": [
+        "1 Peter 3:1-2",
+        "Matthew 5:16",
+        "1 Corinthians 7:16"
+      ]
+    },
+    {
+      "id": "q_baptism_2",
+      "categoryId": "church_baptism",
+      "question_en": "Is water baptism absolutely mandatory to go to heaven? What happens if a believer dies before being baptized?",
+      "question_te": "పరలోక రాజ్యానికి వెళ్లాలంటే నీటి బాప్తిస్మం తీసుకోవడం కచ్చితంగా అవసరమా? ఒక విశ్వాసి బాప్తిస్మం తీసుకోకముందే చనిపోతే ఏమవుతుంది?",
+      "answer_en": "Salvation is a free gift received strictly by faith in Jesus Christ, not by any human works—including the act of water baptism. The greatest proof of this is the thief on the cross; Jesus promised him Paradise that very day, even though he was never baptized. Therefore, if a genuine believer dies before having the opportunity to be baptized, they will absolutely go to heaven. However, baptism is not optional for a living believer. It is a direct command from Jesus—a beautiful, public declaration of your internal salvation. While baptism doesn't save you, refusing it is an act of disobedience to the Lord.",
+      "answer_te": "రక్షణ అనేది కేవలం యేసుక్రీస్తు నందలి విశ్వాసం ద్వారా ఉచితంగా వచ్చే బహుమానం. నీటి బాప్తిస్మంతో సహా మన క్రియల వల్ల ఎవరికీ రక్షణ రాదు. దీనికి అతిపెద్ద ఉదాహరణ సిలువపై ఉన్న దొంగ; అతను బాప్తిస్మం తీసుకోకపోయినా, యేసయ్య అతనికి పరదైసును వాగ్దానం చేశాడు. కాబట్టి, నిజంగా మారుమనస్సు పొందిన విశ్వాసి బాప్తిస్మం తీసుకునే అవకాశం రాకముందే చనిపోతే, కచ్చితంగా పరలోకానికే వెళ్తాడు. కానీ, బ్రతికి ఉన్న విశ్వాసికి బాప్తిస్మం అనేది ఒక ఆప్షన్ కాదు, అది యేసయ్య ఇచ్చిన ప్రత్యక్ష ఆజ్ఞ. నీ హృదయంలో జరిగిన రక్షణను లోకానికి బాహాటంగా ప్రకటించే ఒక అద్భుతమైన సాక్ష్యమే బాప్తిస్మం. బాప్తిస్మం రక్షించదు నిజమే, కానీ దాన్ని వద్దని నిరాకరించడం దేవునికి అవిధేయత చూపించడమే!",
+      "bible_verses": [
+        "Luke 23:42-43",
+        "Ephesians 2:8-9",
+        "Matthew 28:19"
+      ]
+    },
+    {
+      "id": "q_prayer_3",
+      "categoryId": "prayer_life",
+      "question_en": "How can I hear the voice of God clearly, and how do I know if it's His voice or just my own thoughts?",
+      "question_te": "దేవుని స్వరాన్ని నేను స్పష్టంగా ఎలా వినగలను? నాకు వస్తున్న ఆలోచన దేవునిదా లేక నా సొంత ఆలోచనా అని నేను ఎలా గుర్తించాలి?",
+      "answer_en": "Hearing God is rarely an audible boom from the sky; it is usually a 'still small voice' in your spirit. The primary and most flawless way God speaks is through His written Word, the Bible. If a thought or an inner voice contradicts Scripture, it is absolutely not from God. God's voice will always align with His character: it brings conviction (not condemnation), peace (not confusion), and pushes you toward love and holiness. To distinguish His voice from your own, you must immerse yourself in the Bible daily. Just as a sheep instantly recognizes its shepherd's voice because it spends time with him, you will recognize God's voice by spending intimate time in His presence.",
+      "answer_te": "దేవుని స్వరం అనేది ఆకాశం నుండి ఉరుములా వినిపించే శబ్దం కాదు; అది సాధారణంగా మన ఆత్మలో వినిపించే ఒక 'మెల్లనైన స్వరం'. దేవుడు మనతో మాట్లాడే అత్యంత ప్రాముఖ్యమైన, పర్ఫెక్ట్ మార్గం ఆయన వాక్యమైన బైబిల్ ద్వారానే! నీకు వచ్చే ఒక ఆలోచన బైబిల్ కి వ్యతిరేకంగా ఉంటే, అది కచ్చితంగా దేవుని స్వరం కాదు. దేవుని స్వరం ఎప్పుడూ ఆయన స్వభావానికి తగ్గట్లుగా ఉంటుంది: అది గద్దిస్తుంది కానీ నిరాశపరచదు, సమాధానాన్ని ఇస్తుంది కానీ అయోమయాన్ని కాదు. ఒక గొర్రె తన కాపరి స్వరాన్ని వెంటనే ఎలా గుర్తుపడుతుందో, నువ్వు దేవుని వాక్యం చదువుతూ, ప్రార్థనలో ఆయనతో ఎక్కువ సమయం గడిపితే, ఆటోమేటిక్ గా దేవుని స్వరాన్ని స్పష్టంగా గుర్తుపట్టగలవు.",
+      "bible_verses": [
+        "John 10:27",
+        "1 Kings 19:12",
+        "Hebrews 4:12"
+      ]
+    },
+    {
+      "id": "q_hard_3",
+      "categoryId": "hard_questions",
+      "question_en": "Is it a sin for a Christian to feel depressed, suffer from anxiety, or take medication for mental health issues?",
+      "question_te": "ఒక క్రైస్తవుడు డిప్రెషన్ (కుంగుబాటు) లేదా ఆందోళన (Anxiety) తో బాధపడటం పాపమా? మానసిక సమస్యలకు మందులు వాడటం విశ్వాసరాహిత్యమా?",
+      "answer_en": "Absolutely not. The church has often deeply misunderstood mental health. Your brain is a physical organ, just like your heart or your lungs. If your pancreas lacks insulin, you take medication without feeling unspiritual; similarly, if your brain lacks essential chemical balances, taking medication is a medical necessity, not a lack of faith. Many great heroes of faith in the Bible, like Elijah, David, and Jeremiah, battled severe depression and suicidal thoughts. God did not condemn them; He comforted them, fed them, and let them rest. Seek spiritual healing through prayer, but do not hesitate to seek professional medical help and counseling. God uses both miracles and medicine.",
+      "answer_te": "ఖచ్చితంగా కాదు! దురదృష్టవశాత్తూ, మానసిక ఆరోగ్యం గురించి సంఘంలో చాలా తప్పుడు అభిప్రాయాలు ఉన్నాయి. మన గుండె, ఊపిరితిత్తులు లాగానే మన మెదడు కూడా ఒక భౌతిక అవయవం. షుగర్ వస్తే ఇన్సులిన్ వాడటం ఎలాగో, మెదడులో కెమికల్ బ్యాలెన్స్ తప్పినప్పుడు మందులు వాడటం కూడా అంతే! అది విశ్వాసం లేకపోవడం కాదు. బైబిల్ లో ఉన్న గొప్ప భక్తులు ఏలీయా, దావీదు, యిర్మీయా లాంటి వారు సైతం ఘోరమైన డిప్రెషన్ తో, చచ్చిపోవాలనే ఆలోచనలతో పోరాడారు. దేవుడు వాళ్లపై కోపపడలేదు, వాళ్లకు విశ్రాంతినిచ్చి ఆదరించాడు. ప్రార్థన ద్వారా ఆత్మీయ స్వస్థతను వెదకండి, అదే సమయంలో సరైన డాక్టర్ సలహా, మందులు వాడటానికి అస్సలు సంకోచించకండి. దేవుడు అద్భుతాల ద్వారా, అలాగే వైద్యుల ద్వారా కూడా స్వస్థపరుస్తాడు.",
+      "bible_verses": [
+        "1 Kings 19:4-7",
+        "Psalm 34:18",
+        "Matthew 9:12"
+      ]
+    },
+    {
+      "id": "q_salvation_3",
+      "categoryId": "salvation",
+      "question_en": "What is the 'unforgivable sin' (blasphemy against the Holy Spirit), and how do I know if I have committed it?",
+      "question_te": "క్షమించరాని పాపం (పరిశుద్ధాత్మకు విరోధమైన దూషణ) అంటే ఏమిటి? నేను పొరపాటున ఆ పాపం చేశానేమో అని ఎలా తెలుసుకోవాలి?",
+      "answer_en": "Many sensitive believers live in agonizing fear that they have accidentally committed the unforgivable sin. But Jesus wasn't talking about a careless word spoken in anger or a struggling mind having intrusive thoughts. Blasphemy against the Holy Spirit is a deliberate, stubborn, and continual rejection of the Holy Spirit's conviction, attributing the clear work of God to the devil. It is hardening your heart so deeply against grace that you refuse to ever repent. If you are worried or fearful that you might have committed this sin, that fear itself is the absolute proof that you HAVE NOT committed it! A person who has committed the unpardonable sin has a totally calloused heart and doesn't care about God's forgiveness at all.",
+      "answer_te": "చాలామంది సున్నితమైన విశ్వాసులు తాము పొరపాటున ఈ క్షమించరాని పాపం చేశామేమో అని భయపడుతుంటారు. కోపంలో ఒక మాట అనడమో, లేదా మెదడులోకి వచ్చే పిచ్చి ఆలోచనలనో దేవుడు 'క్షమించరాని పాపం' అనలేదు! పరిశుద్ధాత్మకు విరోధమైన దూషణ అంటే... దేవుని స్పష్టమైన కార్యాన్ని కావాలని, బుద్ధిపూర్వకంగా అపవాదికి ఆపాదించడం, మరియు పరిశుద్ధాత్మ దేవుని గద్దింపును పదే పదే మొండిగా తిరస్కరించి హృదయాన్ని పూర్తిగా కఠినపరచుకోవడం. ఒకవేళ 'నేను ఆ పాపం చేశానేమో' అని మీరు బాధపడుతూ, భయపడుతూ ఉంటే... మీరు ఆ పాపం 'చేయలేదు' అనడానికి ఆ భయమే అతిపెద్ద సాక్ష్యం! ఎందుకంటే, ఆ క్షమించరాని పాపం చేసినవారి హృదయం రాయిలా మారిపోతుంది, వాళ్లకు అసలు పశ్చాత్తాపమే రాదు, దేవుని క్షమాపణ గురించి వాళ్లకు అస్సలు చింతే ఉండదు.",
+      "bible_verses": [
+        "Mark 3:28-29",
+        "1 John 1:9",
+        "Ezekiel 36:26"
+      ]
+    },
+    {
+      "id": "q_end_times_3",
+      "categoryId": "end_times",
+      "question_en": "Will the Church go through the Great Tribulation, or will the Rapture happen before it?",
+      "question_te": "సంఘం మహాశ్రమల గుండా వెళ్తుందా, లేక అంతకంటే ముందే రప్చర్ (సంఘాలెత్తబడుట) జరుగుతుందా?",
+      "answer_en": "This is a topic of passionate debate among Bible scholars. The most widely held view (Pre-Tribulation) teaches that Jesus will quietly return in the clouds to 'catch away' (Rapture) His true Church before the seven years of God's wrath and the Antichrist's reign begin. Other scholars believe the Church will go through part (Mid-Trib) or all (Post-Trib) of the Tribulation to be purified before Christ returns to the earth. Regardless of the exact timeline, the central message of Scripture remains exactly the same: Jesus is coming back, and we must be spiritually awake, living holy lives, and fiercely sharing the Gospel. Do not let debates over timelines distract you from the urgency of today's mission.",
+      "answer_te": "ఇది బైబిల్ పండితుల మధ్య ఎంతో తీవ్రమైన చర్చకు దారితీసిన అంశం. ఎక్కువమంది నమ్మే సిద్ధాంతం (Pre-Tribulation) ఏంటంటే... ఈ భూమిపై అంత్యక్రీస్తు పరిపాలన, దేవుని ఉగ్రత (మహాశ్రమల కాలం) ప్రారంభం కావడానికి ముందే, యేసయ్య తన నిజమైన సంఘాన్ని రహస్యంగా మేఘాల మీదకు ఎత్తుకెళ్తాడు (Rapture) అని. అయితే కొంతమంది పండితులు, సంఘం కూడా ఆ శ్రమల గుండా కొంతకాలం వెళ్తుందని నమ్ముతారు. సమయం ఏదైనా సరే, బైబిల్ చెబుతున్న అసలైన సత్యం ఒకటే: 'యేసయ్య రాబోతున్నాడు! మనం ఎప్పుడూ ఆత్మీయంగా మెలకువగా ఉండి, పవిత్రంగా జీవిస్తూ, సువార్తను ప్రకటించాలి.' క్యాలెండర్లు, టైమ్ లైన్స్ గురించి వాదించుకుంటూ, ఈరోజు దేవుడు మనకిచ్చిన పనిని నిర్లక్ష్యం చేయకూడదు.",
+      "bible_verses": [
+        "1 Thessalonians 4:16-17",
+        "Revelation 3:10",
+        "Matthew 24:42-44"
+      ]
     }
   ]
 }
