@@ -2290,6 +2290,32 @@
         "2 Corinthians 5:17",
         "Ephesians 2:1-5"
       ]
+    },
+    {
+      "id": "q_salvation_5",
+      "categoryId": "salvation",
+      "question_en": "If God knows everything, including who will go to hell, why did He create them in the first place?",
+      "question_te": "ఎవరు నరకానికి వెళ్తారో దేవునికి ముందే తెలిసినప్పుడు, అసలు వాళ్ళని ఎందుకు సృష్టించాడు?",
+      "answer_en": "This touches on the mystery of God's foreknowledge and human free will. Foreknowledge (knowing what will happen) is not the same as predestination (forcing it to happen). If you watch a replay of a football match, you know exactly who wins, but your knowledge didn't force the players to act. God created humanity out of overflowing love, desiring a genuine relationship. But true love requires a choice; forced love is not love, it is programming. God gave every human the dignified gift of free will, knowing the massive risk that many would reject Him. Even though it breaks His heart, He respects our choice.",
+      "answer_te": "ఇది దేవుని ముందుచూపు (Foreknowledge) మరియు మానవ స్వేచ్ఛా చిత్తానికి సంబంధించిన ఒక ఆత్మీయ మర్మం. భవిష్యత్తులో ఏం జరుగుతుందో ముందే తెలియడం వేరు, ఆ భవిష్యత్తును బలవంతంగా అలా జరిపించడం వేరు! ఉదాహరణకు, మీరు ఒక క్రికెట్ మ్యాచ్ హైలైట్స్ చూస్తున్నప్పుడు ఎవరు గెలుస్తారో మీకు ముందే తెలుసు, కానీ ఆ ఆటగాళ్లను మీరే ఆడిస్తున్నట్లు కాదు కదా. దేవుడు మనిషితో ఒక స్వచ్ఛమైన ప్రేమ సంబంధం కలిగి ఉండాలని ఆశపడి, తన అపారమైన ప్రేమతో సృష్టించాడు. కానీ నిజమైన ప్రేమ ఉంటేనే కదా అది రిలేషన్ అవుతుంది! బలవంతంగా ప్రేమించమనడం ప్రోగ్రామింగ్ అవుతుంది. అందుకే దేవుడు మనిషికి 'స్వేచ్ఛగా ఎంచుకునే అవకాశాన్ని (Free Will)' ఇచ్చాడు. చాలామంది తనను తిరస్కరిస్తారు అని తెలిసినా సరే, ఆ రిస్క్ తీసుకుని మరీ దేవుడు మనల్ని సృష్టించాడు. మనం వద్దనుకుంటే, ఆయన ఎంతో బాధపడినా సరే, మన నిర్ణయాన్ని ఆయన గౌరవిస్తాడు.",
+      "bible_verses": [
+        "2 Peter 3:9",
+        "Deuteronomy 30:19",
+        "Ezekiel 18:32"
+      ]
+    },
+    {
+      "id": "q_family_3",
+      "categoryId": "family_life",
+      "question_en": "Is it a sin to stay single forever, or does God command everyone to get married?",
+      "question_te": "జీవితాంతం పెళ్లి చేసుకోకుండా ఒంటరిగా ఉండిపోవడం పాపమా? దేవుడు ప్రతి ఒక్కరినీ పెళ్లి చేసుకోమన్నాడా?",
+      "answer_en": "No, staying single is not a sin; in fact, the Apostle Paul described singleness as a profound spiritual gift! While marriage is a beautiful, God-ordained institution, it is meant for this temporary earth, not eternity. Paul argued that a single person can be entirely, undividedly devoted to the work of the Lord, whereas a married person must rightfully divide their time to care for their family. Jesus Himself was single! If you feel peace and contentment in singleness, do not let society or the church pressure you into marriage. Use your unmatched freedom and time to serve God passionately.",
+      "answer_te": "కచ్చితంగా పాపం కాదు! నిజానికి, అపొస్తలుడైన పౌలు పెళ్లి చేసుకోకుండా ఒంటరిగా ఉండటాన్ని ఒక గొప్ప ఆత్మీయ వరంగా చెప్పాడు! వివాహం అనేది దేవుడు నియమించిన ఒక అద్భుతమైన బంధం అయినప్పటికీ, అది కేవలం ఈ తాత్కాలిక భూమి మీద మాత్రమే ఉంటుంది. ఒక బ్రహ్మచారి దేవుని పనికి తన సమయాన్ని పూర్తిగా, ఏ ఆటంకం లేకుండా అంకితం చేయగలడు అని పౌలు చెప్పాడు. అదే పెళ్లి చేసుకున్న వ్యక్తి, తన కుటుంబాన్ని చూసుకోవడానికి సమయం కేటాయించాలి. స్వయంగా యేసయ్య కూడా పెళ్లి చేసుకోలేదు కదా! ఒకవేళ మీకు పెళ్లి చేసుకోకుండా ఉండటంలో నెమ్మది, సంతోషం ఉంటే, సమాజం లేదా సంఘం ఒత్తిడి తెచ్చినా మీరు భయపడాల్సిన అవసరం లేదు. మీకున్న స్వేచ్ఛను, సమయాన్ని దేవుని సేవ కొరకు అత్యుత్తమంగా వాడుకోండి.",
+      "bible_verses": [
+        "1 Corinthians 7:8-9",
+        "1 Corinthians 7:32-35",
+        "Matthew 19:12"
+      ]
     }
   ]
 }
