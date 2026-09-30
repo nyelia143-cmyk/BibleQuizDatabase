@@ -2137,1408 +2137,1408 @@
       }
     },
     {
-      "id": "q_prayer_2",
+      "id": "qa_0015",
       "categoryId": "prayer_life",
-      "order": 99,
+      "order": 2,
       "diamondCost": 0,
       "featured": true,
       "tags": [
         "prayer_life"
       ],
       "question": {
-        "en": "Why does God sometimes seem silent, and our prayers remain unanswered even when we pray with strong faith?",
-        "te": "మనం ఎంతో విశ్వాసంతో ప్రార్థించినప్పటికీ, కొన్నిసార్లు దేవుడు మౌనంగా ఎందుకు ఉంటాడు? మన ప్రార్థనలకు ఎందుకు జవాబు రాదు?"
+        "te": "మనం ఎంతో విశ్వాసంతో ప్రార్థించినప్పటికీ, కొన్నిసార్లు దేవుడు మౌనంగా ఎందుకు ఉంటాడు? మన ప్రార్థనలకు ఎందుకు జవాబు రాదు?",
+        "en": "Why does God sometimes seem silent, and our prayers remain unanswered even when we pray with strong faith?"
       },
       "shortAnswer": {
-        "en": "When God is silent, it does not mean He is absent. A 'No' or a 'Wait' from God is just as much an answer as a 'Yes.' God’s perspective is eternal, whi...",
-        "te": "దేవుడు మౌనంగా ఉన్నాడు అంటే, ఆయన మనల్ని విడిచిపెట్టాడు అని అర్థం కాదు. దేవుడు 'వద్దు' అని చెప్పడం లేదా 'వేచియుండు' అనడం కూడా ప్రార్థనకు ఒక గొప్ప జవాబే!..."
+        "te": "దేవుడు మౌనంగా ఉన్నాడు అంటే, ఆయన మనల్ని విడిచిపెట్టాడు అని అర్థం కాదు. దేవుడు 'వద్దు' అని చెప్పడం లేదా 'వేచియుండు' అనడం కూడా ప్రార్థనకు ఒక గొప్ప జవాబే!...",
+        "en": "When God is silent, it does not mean He is absent. A 'No' or a 'Wait' from God is just as much an answer as a 'Yes.' God’s perspective is eternal, whi..."
+      },
+      "keyVerse": {
+        "book": {
+          "te": "Isaiah",
+          "en": "Isaiah"
+        },
+        "chapter": 55,
+        "verse": 8,
+        "ref": {
+          "te": "Isaiah 55:8",
+          "en": "Isaiah 55:8-9"
+        },
+        "text": {
+          "te": "“For my thoughts are not your thoughts,\nand your ways are not my ways,” says Yahweh.",
+          "en": "“For my thoughts are not your thoughts,\nand your ways are not my ways,” says Yahweh."
+        }
       },
       "answer": {
-        "en": [
-          {
-            "type": "para",
-            "text": "When God is silent, it does not mean He is absent. A 'No' or a 'Wait' from God is just as much an answer as a 'Yes.' God’s perspective is eternal, while ours is temporary. Sometimes He denies our requests because He is protecting us from a danger we cannot see, or He is preparing something far greater than we asked for. Furthermore, silence is often God’s tool to build our character, test our faith, and draw us into a deeper relationship with Him. True faith is not just believing God will give you what you want, but trusting Him even when He doesn't."
-          }
-        ],
         "te": [
           {
             "type": "para",
             "text": "దేవుడు మౌనంగా ఉన్నాడు అంటే, ఆయన మనల్ని విడిచిపెట్టాడు అని అర్థం కాదు. దేవుడు 'వద్దు' అని చెప్పడం లేదా 'వేచియుండు' అనడం కూడా ప్రార్థనకు ఒక గొప్ప జవాబే! దేవుని ఆలోచనలు నిత్యమైనవి, మన ఆలోచనలు తాత్కాలికమైనవి. కొన్నిసార్లు మనం కోరుకునేవి భవిష్యత్తులో మనకు కీడు చేస్తాయేమో అని దేవుడు వాటిని ఇవ్వకుండా ఆపుతాడు, లేదా మనం అడిగినదాని కంటే గొప్పది ఇవ్వడానికి సమయం తీసుకుంటాడు. దేవుని మౌనం మన ఆత్మీయ ఓర్పును పెంచి, ఆయనతో మన సహవాసాన్ని మరింత బలపరుస్తుంది. నిజమైన విశ్వాసం అంటే మనం అడిగింది ఇస్తాడని నమ్మడం మాత్రమే కాదు, ఇవ్వకపోయినా ఆయనను నమ్మడమే!"
           }
+        ],
+        "en": [
+          {
+            "type": "para",
+            "text": "When God is silent, it does not mean He is absent. A 'No' or a 'Wait' from God is just as much an answer as a 'Yes.' God’s perspective is eternal, while ours is temporary. Sometimes He denies our requests because He is protecting us from a danger we cannot see, or He is preparing something far greater than we asked for. Furthermore, silence is often God’s tool to build our character, test our faith, and draw us into a deeper relationship with Him. True faith is not just believing God will give you what you want, but trusting Him even when He doesn't."
+          }
         ]
-      },
-      "relatedIds": [],
-      "shareLine": {
-        "en": "Why does God sometimes seem silent, and our prayers remain unanswered even when we pray with strong faith?",
-        "te": "మనం ఎంతో విశ్వాసంతో ప్రార్థించినప్పటికీ, కొన్నిసార్లు దేవుడు మౌనంగా ఎందుకు ఉంటాడు? మన ప్రార్థనలకు ఎందుకు జవాబు రాదు?"
       },
       "verses": [
         {
           "book": {
-            "en": "Isaiah",
-            "te": "Isaiah"
+            "te": "Isaiah",
+            "en": "Isaiah"
           },
           "chapter": 55,
           "verse": 8,
           "ref": {
-            "en": "Isaiah 55:8-9",
-            "te": "Isaiah 55:8"
+            "te": "Isaiah 55:8",
+            "en": "Isaiah 55:8-9"
           },
           "text": {
-            "en": "“For my thoughts are not your thoughts,\nand your ways are not my ways,” says Yahweh.",
-            "te": "“For my thoughts are not your thoughts,\nand your ways are not my ways,” says Yahweh."
+            "te": "“For my thoughts are not your thoughts,\nand your ways are not my ways,” says Yahweh.",
+            "en": "“For my thoughts are not your thoughts,\nand your ways are not my ways,” says Yahweh."
           }
         },
         {
           "book": {
-            "en": "2 Corinthians",
-            "te": "2 Corinthians"
+            "te": "2 Corinthians",
+            "en": "2 Corinthians"
           },
           "chapter": 12,
           "verse": 8,
           "ref": {
-            "en": "2 Corinthians 12:8-9",
-            "te": "2 Corinthians 12:8"
+            "te": "2 Corinthians 12:8",
+            "en": "2 Corinthians 12:8-9"
           },
           "text": {
-            "en": "Concerning this thing, I begged the Lord three times that it might depart from me.",
-            "te": "Concerning this thing, I begged the Lord three times that it might depart from me."
+            "te": "Concerning this thing, I begged the Lord three times that it might depart from me.",
+            "en": "Concerning this thing, I begged the Lord three times that it might depart from me."
           }
         }
       ],
-      "keyVerse": {
-        "book": {
-          "en": "Isaiah",
-          "te": "Isaiah"
-        },
-        "chapter": 55,
-        "verse": 8,
-        "ref": {
-          "en": "Isaiah 55:8-9",
-          "te": "Isaiah 55:8"
-        },
-        "text": {
-          "en": "“For my thoughts are not your thoughts,\nand your ways are not my ways,” says Yahweh.",
-          "te": "“For my thoughts are not your thoughts,\nand your ways are not my ways,” says Yahweh."
-        }
+      "relatedIds": [],
+      "shareLine": {
+        "te": "మనం ఎంతో విశ్వాసంతో ప్రార్థించినప్పటికీ, కొన్నిసార్లు దేవుడు మౌనంగా ఎందుకు ఉంటాడు? మన ప్రార్థనలకు ఎందుకు జవాబు రాదు?",
+        "en": "Why does God sometimes seem silent, and our prayers remain unanswered even when we pray with strong faith?"
       }
     },
     {
-      "id": "q_hard_2",
+      "id": "qa_0016",
       "categoryId": "hard_questions",
-      "order": 99,
+      "order": 2,
       "diamondCost": 0,
       "featured": true,
       "tags": [
         "hard_questions"
       ],
       "question": {
-        "en": "If God is unconditionally loving and all-powerful, why is there so much suffering, pain, and disease in the world?",
-        "te": "దేవుడు అపారమైన ప్రేమ గలవాడు, సర్వశక్తిమంతుడు అయితే, ఈ లోకంలో ఇంత బాధ, రోగాలు, కష్టాలు ఎందుకు ఉన్నాయి?"
+        "te": "దేవుడు అపారమైన ప్రేమ గలవాడు, సర్వశక్తిమంతుడు అయితే, ఈ లోకంలో ఇంత బాధ, రోగాలు, కష్టాలు ఎందుకు ఉన్నాయి?",
+        "en": "If God is unconditionally loving and all-powerful, why is there so much suffering, pain, and disease in the world?"
       },
       "shortAnswer": {
-        "en": "This is the oldest question in human history. God did not create the world with pain or death; these are the tragic consequences of humanity's rebelli...",
-        "te": "ఇది మానవ చరిత్రలో అత్యంత క్లిష్టమైన ప్రశ్న. దేవుడు ఈ లోకాన్ని బాధ, మరణం ఉండేలా సృష్టించలేదు. ఇవన్నీ ఏదెను వనంలో మానవుడు చేసిన పాపం (తిరుగుబాటు) వల్ల వ..."
+        "te": "ఇది మానవ చరిత్రలో అత్యంత క్లిష్టమైన ప్రశ్న. దేవుడు ఈ లోకాన్ని బాధ, మరణం ఉండేలా సృష్టించలేదు. ఇవన్నీ ఏదెను వనంలో మానవుడు చేసిన పాపం (తిరుగుబాటు) వల్ల వ...",
+        "en": "This is the oldest question in human history. God did not create the world with pain or death; these are the tragic consequences of humanity's rebelli..."
+      },
+      "keyVerse": {
+        "book": {
+          "te": "Romans",
+          "en": "Romans"
+        },
+        "chapter": 8,
+        "verse": 18,
+        "ref": {
+          "te": "Romans 8:18",
+          "en": "Romans 8:18"
+        },
+        "text": {
+          "te": "For I consider that the sufferings of this present time are not worthy to be compared with the glory which will be revealed toward us.",
+          "en": "For I consider that the sufferings of this present time are not worthy to be compared with the glory which will be revealed toward us."
+        }
       },
       "answer": {
-        "en": [
-          {
-            "type": "para",
-            "text": "This is the oldest question in human history. God did not create the world with pain or death; these are the tragic consequences of humanity's rebellion (sin) in the Garden of Eden. Because God gave humans free will, we chose a path that brought brokenness into creation. However, the beauty of the Gospel is that God did not leave us in our suffering. He entered into our pain through Jesus Christ, suffering alongside us on the cross. God now uses our temporary earthly suffering as a divine furnace to refine our character, and He promises a future where 'He will wipe away every tear' and suffering will exist no more."
-          }
-        ],
         "te": [
           {
             "type": "para",
             "text": "ఇది మానవ చరిత్రలో అత్యంత క్లిష్టమైన ప్రశ్న. దేవుడు ఈ లోకాన్ని బాధ, మరణం ఉండేలా సృష్టించలేదు. ఇవన్నీ ఏదెను వనంలో మానవుడు చేసిన పాపం (తిరుగుబాటు) వల్ల వచ్చిన ఘోరమైన పర్యవసానాలు. మనిషికి దేవుడు స్వేచ్ఛా చిత్తాన్ని ఇస్తే, మనిషి పాపాన్ని ఎంచుకున్నాడు, దాని వల్లే సృష్టి పాడైంది. అయితే సువార్తలోని గొప్ప విషయం ఏమిటంటే, దేవుడు మనల్ని ఈ కష్టాల్లో వదిలేయలేదు. ఆయన స్వయంగా యేసుక్రీస్తుగా ఈ లోకంలోకి వచ్చి, మనతో పాటు సిలువలో శ్రమలు అనుభవించాడు. దేవుడు మన శ్రమలను మన ఆత్మీయతను కడిగే కొలిమిలా వాడుకుంటాడు. అంతేకాదు, ఒకరోజు ఆయన మన కన్నీటిని తుడిచివేసి, బాధ లేని నిత్యజీవాన్ని ఇస్తానని వాగ్దానం చేశాడు."
           }
+        ],
+        "en": [
+          {
+            "type": "para",
+            "text": "This is the oldest question in human history. God did not create the world with pain or death; these are the tragic consequences of humanity's rebellion (sin) in the Garden of Eden. Because God gave humans free will, we chose a path that brought brokenness into creation. However, the beauty of the Gospel is that God did not leave us in our suffering. He entered into our pain through Jesus Christ, suffering alongside us on the cross. God now uses our temporary earthly suffering as a divine furnace to refine our character, and He promises a future where 'He will wipe away every tear' and suffering will exist no more."
+          }
         ]
-      },
-      "relatedIds": [],
-      "shareLine": {
-        "en": "If God is unconditionally loving and all-powerful, why is there so much suffering, pain, and disease in the world?",
-        "te": "దేవుడు అపారమైన ప్రేమ గలవాడు, సర్వశక్తిమంతుడు అయితే, ఈ లోకంలో ఇంత బాధ, రోగాలు, కష్టాలు ఎందుకు ఉన్నాయి?"
       },
       "verses": [
         {
           "book": {
-            "en": "Romans",
-            "te": "Romans"
+            "te": "Romans",
+            "en": "Romans"
           },
           "chapter": 8,
           "verse": 18,
           "ref": {
-            "en": "Romans 8:18",
-            "te": "Romans 8:18"
+            "te": "Romans 8:18",
+            "en": "Romans 8:18"
           },
           "text": {
-            "en": "For I consider that the sufferings of this present time are not worthy to be compared with the glory which will be revealed toward us.",
-            "te": "For I consider that the sufferings of this present time are not worthy to be compared with the glory which will be revealed toward us."
+            "te": "For I consider that the sufferings of this present time are not worthy to be compared with the glory which will be revealed toward us.",
+            "en": "For I consider that the sufferings of this present time are not worthy to be compared with the glory which will be revealed toward us."
           }
         },
         {
           "book": {
-            "en": "Revelation",
-            "te": "Revelation"
+            "te": "Revelation",
+            "en": "Revelation"
           },
           "chapter": 21,
           "verse": 4,
           "ref": {
-            "en": "Revelation 21:4",
-            "te": "Revelation 21:4"
+            "te": "Revelation 21:4",
+            "en": "Revelation 21:4"
           },
           "text": {
-            "en": "He will wipe away every tear from their eyes. Death will be no more; neither will there be mourning, nor crying, nor pain, any more. The first things have passed away.”",
-            "te": "He will wipe away every tear from their eyes. Death will be no more; neither will there be mourning, nor crying, nor pain, any more. The first things have passed away.”"
+            "te": "He will wipe away every tear from their eyes. Death will be no more; neither will there be mourning, nor crying, nor pain, any more. The first things have passed away.”",
+            "en": "He will wipe away every tear from their eyes. Death will be no more; neither will there be mourning, nor crying, nor pain, any more. The first things have passed away.”"
           }
         },
         {
           "book": {
-            "en": "John",
-            "te": "John"
+            "te": "John",
+            "en": "John"
           },
           "chapter": 16,
           "verse": 33,
           "ref": {
-            "en": "John 16:33",
-            "te": "John 16:33"
+            "te": "John 16:33",
+            "en": "John 16:33"
           },
           "text": {
-            "en": "I have told you these things, that in me you may have peace. In the world you have oppression; but cheer up! I have overcome the world.”",
-            "te": "I have told you these things, that in me you may have peace. In the world you have oppression; but cheer up! I have overcome the world.”"
+            "te": "I have told you these things, that in me you may have peace. In the world you have oppression; but cheer up! I have overcome the world.”",
+            "en": "I have told you these things, that in me you may have peace. In the world you have oppression; but cheer up! I have overcome the world.”"
           }
         }
       ],
-      "keyVerse": {
-        "book": {
-          "en": "Romans",
-          "te": "Romans"
-        },
-        "chapter": 8,
-        "verse": 18,
-        "ref": {
-          "en": "Romans 8:18",
-          "te": "Romans 8:18"
-        },
-        "text": {
-          "en": "For I consider that the sufferings of this present time are not worthy to be compared with the glory which will be revealed toward us.",
-          "te": "For I consider that the sufferings of this present time are not worthy to be compared with the glory which will be revealed toward us."
-        }
+      "relatedIds": [],
+      "shareLine": {
+        "te": "దేవుడు అపారమైన ప్రేమ గలవాడు, సర్వశక్తిమంతుడు అయితే, ఈ లోకంలో ఇంత బాధ, రోగాలు, కష్టాలు ఎందుకు ఉన్నాయి?",
+        "en": "If God is unconditionally loving and all-powerful, why is there so much suffering, pain, and disease in the world?"
       }
     },
     {
-      "id": "q_salvation_2",
+      "id": "qa_0017",
       "categoryId": "salvation",
-      "order": 99,
+      "order": 2,
       "diamondCost": 0,
       "featured": true,
       "tags": [
         "salvation"
       ],
       "question": {
-        "en": "Can a truly born-again Christian lose their salvation if they fall back into severe sin?",
-        "te": "నిజంగా రక్షించబడి, మారుమనస్సు పొందిన ఒక క్రైస్తవుడు తిరిగి ఏదైనా ఘోరమైన పాపంలో పడిపోతే, తన రక్షణను కోల్పోతాడా?"
+        "te": "నిజంగా రక్షించబడి, మారుమనస్సు పొందిన ఒక క్రైస్తవుడు తిరిగి ఏదైనా ఘోరమైన పాపంలో పడిపోతే, తన రక్షణను కోల్పోతాడా?",
+        "en": "Can a truly born-again Christian lose their salvation if they fall back into severe sin?"
       },
       "shortAnswer": {
-        "en": "This is a profound theological debate. However, Scripture heavily emphasizes the eternal security of the believer. Jesus said, 'I give them eternal li...",
-        "te": "ఇది బైబిల్ పండితుల మధ్య ఉన్న ఒక పెద్ద సందేహం. అయితే దేవుని వాక్యం విశ్వాసి రక్షణ భద్రత గురించి చాలా స్పష్టంగా చెబుతోంది. యేసయ్య ఇలా అన్నాడు, 'నేను వాట..."
+        "te": "ఇది బైబిల్ పండితుల మధ్య ఉన్న ఒక పెద్ద సందేహం. అయితే దేవుని వాక్యం విశ్వాసి రక్షణ భద్రత గురించి చాలా స్పష్టంగా చెబుతోంది. యేసయ్య ఇలా అన్నాడు, 'నేను వాట...",
+        "en": "This is a profound theological debate. However, Scripture heavily emphasizes the eternal security of the believer. Jesus said, 'I give them eternal li..."
+      },
+      "keyVerse": {
+        "book": {
+          "te": "John",
+          "en": "John"
+        },
+        "chapter": 10,
+        "verse": 28,
+        "ref": {
+          "te": "John 10:28",
+          "en": "John 10:28"
+        },
+        "text": {
+          "te": "I give eternal life to them. They will never perish, and no one will snatch them out of my hand.",
+          "en": "I give eternal life to them. They will never perish, and no one will snatch them out of my hand."
+        }
       },
       "answer": {
-        "en": [
-          {
-            "type": "para",
-            "text": "This is a profound theological debate. However, Scripture heavily emphasizes the eternal security of the believer. Jesus said, 'I give them eternal life, and they shall never perish; no one will snatch them out of my hand.' Salvation is not maintained by our perfect behavior, but by Christ's perfect sacrifice. If we could lose our salvation by sinning, it would mean our works save us, not grace. However, a person who habitually practices severe sin without any remorse or discipline from the Holy Spirit may never have been truly born-again to begin with. True grace transforms you; it doesn't give you a license to sin."
-          }
-        ],
         "te": [
           {
             "type": "para",
             "text": "ఇది బైబిల్ పండితుల మధ్య ఉన్న ఒక పెద్ద సందేహం. అయితే దేవుని వాక్యం విశ్వాసి రక్షణ భద్రత గురించి చాలా స్పష్టంగా చెబుతోంది. యేసయ్య ఇలా అన్నాడు, 'నేను వాటికి నిత్యజీవమునిచ్చుచున్నాను గనుక అవి ఎన్నటికిని నశింపవు, ఎవడును వాటిని నా చేతిలోనుండి అపహరింపడు.' మన రక్షణ మన మంచి పనుల వల్ల నిలబడదు, అది యేసయ్య చేసిన పరిపూర్ణ బలిదానంపై ఆధారపడి ఉంటుంది. పాపం చేస్తే రక్షణ పోతుంది అంటే, రక్షణ అనేది మన క్రియల వల్ల వస్తుందన్నమాట, కృప వల్ల కాదు! కానీ, ఒక వ్యక్తి ఎలాంటి పశ్చాత్తాపం లేకుండా ఇష్టానుసారంగా ఘోరమైన పాపాలు చేస్తూ బ్రతుకుతున్నాడంటే, అసలు అతను నిజంగా మారుమనస్సు పొందాడా లేదా అనేది ప్రశ్నార్థకం. నిజమైన కృప నిన్ను మారుస్తుంది కానీ పాపం చేయడానికి లైసెన్స్ ఇవ్వదు."
           }
+        ],
+        "en": [
+          {
+            "type": "para",
+            "text": "This is a profound theological debate. However, Scripture heavily emphasizes the eternal security of the believer. Jesus said, 'I give them eternal life, and they shall never perish; no one will snatch them out of my hand.' Salvation is not maintained by our perfect behavior, but by Christ's perfect sacrifice. If we could lose our salvation by sinning, it would mean our works save us, not grace. However, a person who habitually practices severe sin without any remorse or discipline from the Holy Spirit may never have been truly born-again to begin with. True grace transforms you; it doesn't give you a license to sin."
+          }
         ]
-      },
-      "relatedIds": [],
-      "shareLine": {
-        "en": "Can a truly born-again Christian lose their salvation if they fall back into severe sin?",
-        "te": "నిజంగా రక్షించబడి, మారుమనస్సు పొందిన ఒక క్రైస్తవుడు తిరిగి ఏదైనా ఘోరమైన పాపంలో పడిపోతే, తన రక్షణను కోల్పోతాడా?"
       },
       "verses": [
         {
           "book": {
-            "en": "John",
-            "te": "John"
+            "te": "John",
+            "en": "John"
           },
           "chapter": 10,
           "verse": 28,
           "ref": {
-            "en": "John 10:28",
-            "te": "John 10:28"
+            "te": "John 10:28",
+            "en": "John 10:28"
           },
           "text": {
-            "en": "I give eternal life to them. They will never perish, and no one will snatch them out of my hand.",
-            "te": "I give eternal life to them. They will never perish, and no one will snatch them out of my hand."
+            "te": "I give eternal life to them. They will never perish, and no one will snatch them out of my hand.",
+            "en": "I give eternal life to them. They will never perish, and no one will snatch them out of my hand."
           }
         },
         {
           "book": {
-            "en": "Ephesians",
-            "te": "Ephesians"
+            "te": "Ephesians",
+            "en": "Ephesians"
           },
           "chapter": 2,
           "verse": 8,
           "ref": {
-            "en": "Ephesians 2:8-9",
-            "te": "Ephesians 2:8"
+            "te": "Ephesians 2:8",
+            "en": "Ephesians 2:8-9"
           },
           "text": {
-            "en": "for by grace you have been saved through faith, and that not of yourselves; it is the gift of God,",
-            "te": "for by grace you have been saved through faith, and that not of yourselves; it is the gift of God,"
+            "te": "for by grace you have been saved through faith, and that not of yourselves; it is the gift of God,",
+            "en": "for by grace you have been saved through faith, and that not of yourselves; it is the gift of God,"
           }
         },
         {
           "book": {
-            "en": "Romans",
-            "te": "Romans"
+            "te": "Romans",
+            "en": "Romans"
           },
           "chapter": 8,
           "verse": 38,
           "ref": {
-            "en": "Romans 8:38-39",
-            "te": "Romans 8:38"
+            "te": "Romans 8:38",
+            "en": "Romans 8:38-39"
           },
           "text": {
-            "en": "For I am persuaded that neither death, nor life, nor angels, nor principalities, nor things present, nor things to come, nor powers,",
-            "te": "For I am persuaded that neither death, nor life, nor angels, nor principalities, nor things present, nor things to come, nor powers,"
+            "te": "For I am persuaded that neither death, nor life, nor angels, nor principalities, nor things present, nor things to come, nor powers,",
+            "en": "For I am persuaded that neither death, nor life, nor angels, nor principalities, nor things present, nor things to come, nor powers,"
           }
         }
       ],
-      "keyVerse": {
-        "book": {
-          "en": "John",
-          "te": "John"
-        },
-        "chapter": 10,
-        "verse": 28,
-        "ref": {
-          "en": "John 10:28",
-          "te": "John 10:28"
-        },
-        "text": {
-          "en": "I give eternal life to them. They will never perish, and no one will snatch them out of my hand.",
-          "te": "I give eternal life to them. They will never perish, and no one will snatch them out of my hand."
-        }
+      "relatedIds": [],
+      "shareLine": {
+        "te": "నిజంగా రక్షించబడి, మారుమనస్సు పొందిన ఒక క్రైస్తవుడు తిరిగి ఏదైనా ఘోరమైన పాపంలో పడిపోతే, తన రక్షణను కోల్పోతాడా?",
+        "en": "Can a truly born-again Christian lose their salvation if they fall back into severe sin?"
       }
     },
     {
-      "id": "q_end_times_2",
+      "id": "qa_0018",
       "categoryId": "end_times",
-      "order": 99,
+      "order": 1,
       "diamondCost": 0,
       "featured": true,
       "tags": [
         "end_times"
       ],
       "question": {
-        "en": "What exactly is the Mark of the Beast (666), and should Christians be terrified of accidentally receiving it?",
-        "te": "క్రూరమృగపు ముద్ర (666) అంటే ఏమిటి? పొరపాటున ఎప్పుడైనా మనం ఆ ముద్ర వేయించుకుంటామేమో అని క్రైస్తవులు భయపడాలా?"
+        "te": "క్రూరమృగపు ముద్ర (666) అంటే ఏమిటి? పొరపాటున ఎప్పుడైనా మనం ఆ ముద్ర వేయించుకుంటామేమో అని క్రైస్తవులు భయపడాలా?",
+        "en": "What exactly is the Mark of the Beast (666), and should Christians be terrified of accidentally receiving it?"
       },
       "shortAnswer": {
-        "en": "The Mark of the Beast, as described in Revelation 13, is an ultimate symbol of allegiance and worship to the Antichrist during the Great Tribulation. ...",
-        "te": "ప్రకటన 13వ అధ్యాయంలో చెప్పబడిన క్రూరమృగపు ముద్ర అనేది మహాశ్రమల కాలంలో అంత్యక్రీస్తును ఆరాధించడానికి మరియు అతనికి లొంగిపోవడానికి ఒక గుర్తు. ఆ ముద్ర లేక..."
+        "te": "ప్రకటన 13వ అధ్యాయంలో చెప్పబడిన క్రూరమృగపు ముద్ర అనేది మహాశ్రమల కాలంలో అంత్యక్రీస్తును ఆరాధించడానికి మరియు అతనికి లొంగిపోవడానికి ఒక గుర్తు. ఆ ముద్ర లేక...",
+        "en": "The Mark of the Beast, as described in Revelation 13, is an ultimate symbol of allegiance and worship to the Antichrist during the Great Tribulation. ..."
+      },
+      "keyVerse": {
+        "book": {
+          "te": "Revelation",
+          "en": "Revelation"
+        },
+        "chapter": 13,
+        "verse": 16,
+        "ref": {
+          "te": "Revelation 13:16",
+          "en": "Revelation 13:16-17"
+        },
+        "text": {
+          "te": "He causes all, the small and the great, the rich and the poor, and the free and the slave, to be given marks on their right hands, or on their foreheads;",
+          "en": "He causes all, the small and the great, the rich and the poor, and the free and the slave, to be given marks on their right hands, or on their foreheads;"
+        }
       },
       "answer": {
-        "en": [
-          {
-            "type": "para",
-            "text": "The Mark of the Beast, as described in Revelation 13, is an ultimate symbol of allegiance and worship to the Antichrist during the Great Tribulation. It is a system of economic control, without which no one can buy or sell. Christians do not need to be terrified of 'accidentally' receiving the mark (like through a vaccine, microchip, or barcode). The Mark is not a sneaky trap; it requires a conscious, deliberate rejection of Jesus Christ and a willful worship of the Antichrist. If your heart belongs to Jesus, you are already sealed with the Holy Spirit, which is the ultimate mark of divine ownership. Do not live in fear of the enemy's mark; rejoice in God's seal."
-          }
-        ],
         "te": [
           {
             "type": "para",
             "text": "ప్రకటన 13వ అధ్యాయంలో చెప్పబడిన క్రూరమృగపు ముద్ర అనేది మహాశ్రమల కాలంలో అంత్యక్రీస్తును ఆరాధించడానికి మరియు అతనికి లొంగిపోవడానికి ఒక గుర్తు. ఆ ముద్ర లేకపోతే ఎవరూ ఏమీ కొనలేరు, అమ్మలేరు. అయితే క్రైస్తవులు వ్యాక్సిన్లు, మైక్రోచిప్స్ లేదా బార్-కోడ్స్ రూపంలో పొరపాటున తమకు ఆ ముద్ర పడిపోతుందేమో అని భయపడాల్సిన అవసరం లేదు! ఆ ముద్ర అనేది ఏదో రహస్యంగా మోసం చేసి వేసేది కాదు; క్రీస్తును పూర్తిగా తిరస్కరించి, అంత్యక్రీస్తును బుద్ధిపూర్వకంగా ఆరాధించేవారు మాత్రమే ఆ ముద్ర వేయించుకుంటారు. మీరు యేసయ్యను అంగీకరిస్తే, మీపై ఇప్పటికే పరిశుద్ధాత్మ దేవుని ముద్ర పడిపోయింది! కాబట్టి అపవాది ముద్ర గురించి భయపడకండి, దేవుని ముద్రను బట్టి ఆనందించండి."
           }
+        ],
+        "en": [
+          {
+            "type": "para",
+            "text": "The Mark of the Beast, as described in Revelation 13, is an ultimate symbol of allegiance and worship to the Antichrist during the Great Tribulation. It is a system of economic control, without which no one can buy or sell. Christians do not need to be terrified of 'accidentally' receiving the mark (like through a vaccine, microchip, or barcode). The Mark is not a sneaky trap; it requires a conscious, deliberate rejection of Jesus Christ and a willful worship of the Antichrist. If your heart belongs to Jesus, you are already sealed with the Holy Spirit, which is the ultimate mark of divine ownership. Do not live in fear of the enemy's mark; rejoice in God's seal."
+          }
         ]
-      },
-      "relatedIds": [],
-      "shareLine": {
-        "en": "What exactly is the Mark of the Beast (666), and should Christians be terrified of accidentally receiving it?",
-        "te": "క్రూరమృగపు ముద్ర (666) అంటే ఏమిటి? పొరపాటున ఎప్పుడైనా మనం ఆ ముద్ర వేయించుకుంటామేమో అని క్రైస్తవులు భయపడాలా?"
       },
       "verses": [
         {
           "book": {
-            "en": "Revelation",
-            "te": "Revelation"
+            "te": "Revelation",
+            "en": "Revelation"
           },
           "chapter": 13,
           "verse": 16,
           "ref": {
-            "en": "Revelation 13:16-17",
-            "te": "Revelation 13:16"
+            "te": "Revelation 13:16",
+            "en": "Revelation 13:16-17"
           },
           "text": {
-            "en": "He causes all, the small and the great, the rich and the poor, and the free and the slave, to be given marks on their right hands, or on their foreheads;",
-            "te": "He causes all, the small and the great, the rich and the poor, and the free and the slave, to be given marks on their right hands, or on their foreheads;"
+            "te": "He causes all, the small and the great, the rich and the poor, and the free and the slave, to be given marks on their right hands, or on their foreheads;",
+            "en": "He causes all, the small and the great, the rich and the poor, and the free and the slave, to be given marks on their right hands, or on their foreheads;"
           }
         },
         {
           "book": {
-            "en": "Ephesians",
-            "te": "Ephesians"
+            "te": "Ephesians",
+            "en": "Ephesians"
           },
           "chapter": 1,
           "verse": 13,
           "ref": {
-            "en": "Ephesians 1:13-14",
-            "te": "Ephesians 1:13"
+            "te": "Ephesians 1:13",
+            "en": "Ephesians 1:13-14"
           },
           "text": {
-            "en": "In him you also, having heard the word of the truth, the Good News of your salvation—in whom, having also believed, you were sealed with the promised Holy Spirit,",
-            "te": "In him you also, having heard the word of the truth, the Good News of your salvation—in whom, having also believed, you were sealed with the promised Holy Spirit,"
+            "te": "In him you also, having heard the word of the truth, the Good News of your salvation—in whom, having also believed, you were sealed with the promised Holy Spirit,",
+            "en": "In him you also, having heard the word of the truth, the Good News of your salvation—in whom, having also believed, you were sealed with the promised Holy Spirit,"
           }
         },
         {
           "book": {
-            "en": "Revelation",
-            "te": "Revelation"
+            "te": "Revelation",
+            "en": "Revelation"
           },
           "chapter": 14,
           "verse": 9,
           "ref": {
-            "en": "Revelation 14:9-10",
-            "te": "Revelation 14:9"
+            "te": "Revelation 14:9",
+            "en": "Revelation 14:9-10"
           },
           "text": {
-            "en": "Another angel, a third, followed them, saying with a great voice, “If anyone worships the beast and his image, and receives a mark on his forehead, or on his hand,",
-            "te": "Another angel, a third, followed them, saying with a great voice, “If anyone worships the beast and his image, and receives a mark on his forehead, or on his hand,"
+            "te": "Another angel, a third, followed them, saying with a great voice, “If anyone worships the beast and his image, and receives a mark on his forehead, or on his hand,",
+            "en": "Another angel, a third, followed them, saying with a great voice, “If anyone worships the beast and his image, and receives a mark on his forehead, or on his hand,"
           }
         }
       ],
-      "keyVerse": {
-        "book": {
-          "en": "Revelation",
-          "te": "Revelation"
-        },
-        "chapter": 13,
-        "verse": 16,
-        "ref": {
-          "en": "Revelation 13:16-17",
-          "te": "Revelation 13:16"
-        },
-        "text": {
-          "en": "He causes all, the small and the great, the rich and the poor, and the free and the slave, to be given marks on their right hands, or on their foreheads;",
-          "te": "He causes all, the small and the great, the rich and the poor, and the free and the slave, to be given marks on their right hands, or on their foreheads;"
-        }
+      "relatedIds": [],
+      "shareLine": {
+        "te": "క్రూరమృగపు ముద్ర (666) అంటే ఏమిటి? పొరపాటున ఎప్పుడైనా మనం ఆ ముద్ర వేయించుకుంటామేమో అని క్రైస్తవులు భయపడాలా?",
+        "en": "What exactly is the Mark of the Beast (666), and should Christians be terrified of accidentally receiving it?"
       }
     },
     {
-      "id": "q_family_2",
+      "id": "qa_0019",
       "categoryId": "family_life",
-      "order": 99,
+      "order": 2,
       "diamondCost": 0,
       "featured": true,
       "tags": [
         "family_life"
       ],
       "question": {
-        "en": "How should a Christian respond to a spouse or family members who constantly oppose and mock their faith?",
-        "te": "ఒక క్రైస్తవుడు, తన విశ్వాసాన్ని ఎప్పుడూ విమర్శిస్తూ, వ్యతిరేకిస్తూ ఉండే తన భార్య/భర్త లేదా కుటుంబ సభ్యులతో ఎలా ప్రవర్తించాలి?"
+        "te": "ఒక క్రైస్తవుడు, తన విశ్వాసాన్ని ఎప్పుడూ విమర్శిస్తూ, వ్యతిరేకిస్తూ ఉండే తన భార్య/భర్త లేదా కుటుంబ సభ్యులతో ఎలా ప్రవర్తించాలి?",
+        "en": "How should a Christian respond to a spouse or family members who constantly oppose and mock their faith?"
       },
       "shortAnswer": {
-        "en": "Living with family members who oppose your faith is an agonizing daily cross. However, the Apostle Peter gives clear instructions: Win them over 'with...",
-        "te": "విశ్వాసాన్ని వ్యతిరేకించే కుటుంబ సభ్యులతో కలిసి జీవించడం అనేది ప్రతిరోజూ సిలువ మోయడం లాంటిదే. అయితే అపొస్తలుడైన పేతురు ఒక అద్భుతమైన సలహా ఇస్తున్నాడు: ..."
+        "te": "విశ్వాసాన్ని వ్యతిరేకించే కుటుంబ సభ్యులతో కలిసి జీవించడం అనేది ప్రతిరోజూ సిలువ మోయడం లాంటిదే. అయితే అపొస్తలుడైన పేతురు ఒక అద్భుతమైన సలహా ఇస్తున్నాడు: ...",
+        "en": "Living with family members who oppose your faith is an agonizing daily cross. However, the Apostle Peter gives clear instructions: Win them over 'with..."
+      },
+      "keyVerse": {
+        "book": {
+          "te": "1 Peter",
+          "en": "1 Peter"
+        },
+        "chapter": 3,
+        "verse": 1,
+        "ref": {
+          "te": "1 Peter 3:1",
+          "en": "1 Peter 3:1-2"
+        },
+        "text": {
+          "te": "In the same way, wives, be in subjection to your own husbands; so that, even if any don’t obey the Word, they may be won by the behavior of their wives without a word;",
+          "en": "In the same way, wives, be in subjection to your own husbands; so that, even if any don’t obey the Word, they may be won by the behavior of their wives without a word;"
+        }
       },
       "answer": {
-        "en": [
-          {
-            "type": "para",
-            "text": "Living with family members who oppose your faith is an agonizing daily cross. However, the Apostle Peter gives clear instructions: Win them over 'without a word' through your pure and reverent behavior. Arguing, preaching aggressively, or showing frustration often pushes them further away. Instead, become the greatest living example of Jesus' love in your home. Serve them radically, forgive them instantly, and pray for them relentlessly behind closed doors. Your unconditional love and transformed character will be the most powerful sermon they will ever hear. Remember, God's timing for their salvation might be different from yours."
-          }
-        ],
         "te": [
           {
             "type": "para",
             "text": "విశ్వాసాన్ని వ్యతిరేకించే కుటుంబ సభ్యులతో కలిసి జీవించడం అనేది ప్రతిరోజూ సిలువ మోయడం లాంటిదే. అయితే అపొస్తలుడైన పేతురు ఒక అద్భుతమైన సలహా ఇస్తున్నాడు: 'మీరు ఒక్క మాట కూడా చెప్పకుండా, మీ పవిత్రమైన ప్రవర్తన ద్వారా వారిని క్రీస్తు వైపుకు నడిపించండి' అని. వారితో వాదించడం, పదే పదే వాక్యం చెప్పి విసిగించడం వల్ల వారు దేవునికి మరింత దూరం అవుతారు. దానికి బదులు, మీ ఇంట్లో యేసయ్య ప్రేమకు మీరే ఒక సజీవ సాక్ష్యంగా మారండి. వారికి ప్రేమతో సేవ చేయండి, వారు మిమ్మల్ని బాధపెట్టినా త్వరగా క్షమించండి, రహస్యంగా వారి కోసం కన్నీటితో ప్రార్థించండి. మీలో వచ్చిన గొప్ప మార్పు మరియు మీ ప్రేమ, వాళ్ళు వినే ఏ ప్రసంగం కంటే కూడా శక్తివంతంగా పనిచేస్తుంది."
           }
+        ],
+        "en": [
+          {
+            "type": "para",
+            "text": "Living with family members who oppose your faith is an agonizing daily cross. However, the Apostle Peter gives clear instructions: Win them over 'without a word' through your pure and reverent behavior. Arguing, preaching aggressively, or showing frustration often pushes them further away. Instead, become the greatest living example of Jesus' love in your home. Serve them radically, forgive them instantly, and pray for them relentlessly behind closed doors. Your unconditional love and transformed character will be the most powerful sermon they will ever hear. Remember, God's timing for their salvation might be different from yours."
+          }
         ]
-      },
-      "relatedIds": [],
-      "shareLine": {
-        "en": "How should a Christian respond to a spouse or family members who constantly oppose and mock their faith?",
-        "te": "ఒక క్రైస్తవుడు, తన విశ్వాసాన్ని ఎప్పుడూ విమర్శిస్తూ, వ్యతిరేకిస్తూ ఉండే తన భార్య/భర్త లేదా కుటుంబ సభ్యులతో ఎలా ప్రవర్తించాలి?"
       },
       "verses": [
         {
           "book": {
-            "en": "1 Peter",
-            "te": "1 Peter"
+            "te": "1 Peter",
+            "en": "1 Peter"
           },
           "chapter": 3,
           "verse": 1,
           "ref": {
-            "en": "1 Peter 3:1-2",
-            "te": "1 Peter 3:1"
+            "te": "1 Peter 3:1",
+            "en": "1 Peter 3:1-2"
           },
           "text": {
-            "en": "In the same way, wives, be in subjection to your own husbands; so that, even if any don’t obey the Word, they may be won by the behavior of their wives without a word;",
-            "te": "In the same way, wives, be in subjection to your own husbands; so that, even if any don’t obey the Word, they may be won by the behavior of their wives without a word;"
+            "te": "In the same way, wives, be in subjection to your own husbands; so that, even if any don’t obey the Word, they may be won by the behavior of their wives without a word;",
+            "en": "In the same way, wives, be in subjection to your own husbands; so that, even if any don’t obey the Word, they may be won by the behavior of their wives without a word;"
           }
         },
         {
           "book": {
-            "en": "Matthew",
-            "te": "Matthew"
+            "te": "Matthew",
+            "en": "Matthew"
           },
           "chapter": 5,
           "verse": 16,
           "ref": {
-            "en": "Matthew 5:16",
-            "te": "Matthew 5:16"
+            "te": "Matthew 5:16",
+            "en": "Matthew 5:16"
           },
           "text": {
-            "en": "Even so, let your light shine before men; that they may see your good works, and glorify your Father who is in heaven.",
-            "te": "Even so, let your light shine before men; that they may see your good works, and glorify your Father who is in heaven."
+            "te": "Even so, let your light shine before men; that they may see your good works, and glorify your Father who is in heaven.",
+            "en": "Even so, let your light shine before men; that they may see your good works, and glorify your Father who is in heaven."
           }
         },
         {
           "book": {
-            "en": "1 Corinthians",
-            "te": "1 Corinthians"
+            "te": "1 Corinthians",
+            "en": "1 Corinthians"
           },
           "chapter": 7,
           "verse": 16,
           "ref": {
-            "en": "1 Corinthians 7:16",
-            "te": "1 Corinthians 7:16"
+            "te": "1 Corinthians 7:16",
+            "en": "1 Corinthians 7:16"
           },
           "text": {
-            "en": "For how do you know, wife, whether you will save your husband? Or how do you know, husband, whether you will save your wife?",
-            "te": "For how do you know, wife, whether you will save your husband? Or how do you know, husband, whether you will save your wife?"
+            "te": "For how do you know, wife, whether you will save your husband? Or how do you know, husband, whether you will save your wife?",
+            "en": "For how do you know, wife, whether you will save your husband? Or how do you know, husband, whether you will save your wife?"
           }
         }
       ],
-      "keyVerse": {
-        "book": {
-          "en": "1 Peter",
-          "te": "1 Peter"
-        },
-        "chapter": 3,
-        "verse": 1,
-        "ref": {
-          "en": "1 Peter 3:1-2",
-          "te": "1 Peter 3:1"
-        },
-        "text": {
-          "en": "In the same way, wives, be in subjection to your own husbands; so that, even if any don’t obey the Word, they may be won by the behavior of their wives without a word;",
-          "te": "In the same way, wives, be in subjection to your own husbands; so that, even if any don’t obey the Word, they may be won by the behavior of their wives without a word;"
-        }
+      "relatedIds": [],
+      "shareLine": {
+        "te": "ఒక క్రైస్తవుడు, తన విశ్వాసాన్ని ఎప్పుడూ విమర్శిస్తూ, వ్యతిరేకిస్తూ ఉండే తన భార్య/భర్త లేదా కుటుంబ సభ్యులతో ఎలా ప్రవర్తించాలి?",
+        "en": "How should a Christian respond to a spouse or family members who constantly oppose and mock their faith?"
       }
     },
     {
-      "id": "q_baptism_2",
+      "id": "qa_0020",
       "categoryId": "church_baptism",
-      "order": 99,
+      "order": 1,
       "diamondCost": 0,
       "featured": true,
       "tags": [
         "church_baptism"
       ],
       "question": {
-        "en": "Is water baptism absolutely mandatory to go to heaven? What happens if a believer dies before being baptized?",
-        "te": "పరలోక రాజ్యానికి వెళ్లాలంటే నీటి బాప్తిస్మం తీసుకోవడం కచ్చితంగా అవసరమా? ఒక విశ్వాసి బాప్తిస్మం తీసుకోకముందే చనిపోతే ఏమవుతుంది?"
+        "te": "పరలోక రాజ్యానికి వెళ్లాలంటే నీటి బాప్తిస్మం తీసుకోవడం కచ్చితంగా అవసరమా? ఒక విశ్వాసి బాప్తిస్మం తీసుకోకముందే చనిపోతే ఏమవుతుంది?",
+        "en": "Is water baptism absolutely mandatory to go to heaven? What happens if a believer dies before being baptized?"
       },
       "shortAnswer": {
-        "en": "Salvation is a free gift received strictly by faith in Jesus Christ, not by any human works—including the act of water baptism. The greatest proof of ...",
-        "te": "రక్షణ అనేది కేవలం యేసుక్రీస్తు నందలి విశ్వాసం ద్వారా ఉచితంగా వచ్చే బహుమానం. నీటి బాప్తిస్మంతో సహా మన క్రియల వల్ల ఎవరికీ రక్షణ రాదు. దీనికి అతిపెద్ద ఉద..."
+        "te": "రక్షణ అనేది కేవలం యేసుక్రీస్తు నందలి విశ్వాసం ద్వారా ఉచితంగా వచ్చే బహుమానం. నీటి బాప్తిస్మంతో సహా మన క్రియల వల్ల ఎవరికీ రక్షణ రాదు. దీనికి అతిపెద్ద ఉద...",
+        "en": "Salvation is a free gift received strictly by faith in Jesus Christ, not by any human works—including the act of water baptism. The greatest proof of ..."
+      },
+      "keyVerse": {
+        "book": {
+          "te": "Luke",
+          "en": "Luke"
+        },
+        "chapter": 23,
+        "verse": 42,
+        "ref": {
+          "te": "Luke 23:42",
+          "en": "Luke 23:42-43"
+        },
+        "text": {
+          "te": "He said to Jesus, “Lord, remember me when you come into your Kingdom.”",
+          "en": "He said to Jesus, “Lord, remember me when you come into your Kingdom.”"
+        }
       },
       "answer": {
-        "en": [
-          {
-            "type": "para",
-            "text": "Salvation is a free gift received strictly by faith in Jesus Christ, not by any human works—including the act of water baptism. The greatest proof of this is the thief on the cross; Jesus promised him Paradise that very day, even though he was never baptized. Therefore, if a genuine believer dies before having the opportunity to be baptized, they will absolutely go to heaven. However, baptism is not optional for a living believer. It is a direct command from Jesus—a beautiful, public declaration of your internal salvation. While baptism doesn't save you, refusing it is an act of disobedience to the Lord."
-          }
-        ],
         "te": [
           {
             "type": "para",
             "text": "రక్షణ అనేది కేవలం యేసుక్రీస్తు నందలి విశ్వాసం ద్వారా ఉచితంగా వచ్చే బహుమానం. నీటి బాప్తిస్మంతో సహా మన క్రియల వల్ల ఎవరికీ రక్షణ రాదు. దీనికి అతిపెద్ద ఉదాహరణ సిలువపై ఉన్న దొంగ; అతను బాప్తిస్మం తీసుకోకపోయినా, యేసయ్య అతనికి పరదైసును వాగ్దానం చేశాడు. కాబట్టి, నిజంగా మారుమనస్సు పొందిన విశ్వాసి బాప్తిస్మం తీసుకునే అవకాశం రాకముందే చనిపోతే, కచ్చితంగా పరలోకానికే వెళ్తాడు. కానీ, బ్రతికి ఉన్న విశ్వాసికి బాప్తిస్మం అనేది ఒక ఆప్షన్ కాదు, అది యేసయ్య ఇచ్చిన ప్రత్యక్ష ఆజ్ఞ. నీ హృదయంలో జరిగిన రక్షణను లోకానికి బాహాటంగా ప్రకటించే ఒక అద్భుతమైన సాక్ష్యమే బాప్తిస్మం. బాప్తిస్మం రక్షించదు నిజమే, కానీ దాన్ని వద్దని నిరాకరించడం దేవునికి అవిధేయత చూపించడమే!"
           }
+        ],
+        "en": [
+          {
+            "type": "para",
+            "text": "Salvation is a free gift received strictly by faith in Jesus Christ, not by any human works—including the act of water baptism. The greatest proof of this is the thief on the cross; Jesus promised him Paradise that very day, even though he was never baptized. Therefore, if a genuine believer dies before having the opportunity to be baptized, they will absolutely go to heaven. However, baptism is not optional for a living believer. It is a direct command from Jesus—a beautiful, public declaration of your internal salvation. While baptism doesn't save you, refusing it is an act of disobedience to the Lord."
+          }
         ]
-      },
-      "relatedIds": [],
-      "shareLine": {
-        "en": "Is water baptism absolutely mandatory to go to heaven? What happens if a believer dies before being baptized?",
-        "te": "పరలోక రాజ్యానికి వెళ్లాలంటే నీటి బాప్తిస్మం తీసుకోవడం కచ్చితంగా అవసరమా? ఒక విశ్వాసి బాప్తిస్మం తీసుకోకముందే చనిపోతే ఏమవుతుంది?"
       },
       "verses": [
         {
           "book": {
-            "en": "Luke",
-            "te": "Luke"
+            "te": "Luke",
+            "en": "Luke"
           },
           "chapter": 23,
           "verse": 42,
           "ref": {
-            "en": "Luke 23:42-43",
-            "te": "Luke 23:42"
+            "te": "Luke 23:42",
+            "en": "Luke 23:42-43"
           },
           "text": {
-            "en": "He said to Jesus, “Lord, remember me when you come into your Kingdom.”",
-            "te": "He said to Jesus, “Lord, remember me when you come into your Kingdom.”"
+            "te": "He said to Jesus, “Lord, remember me when you come into your Kingdom.”",
+            "en": "He said to Jesus, “Lord, remember me when you come into your Kingdom.”"
           }
         }
       ],
-      "keyVerse": {
-        "book": {
-          "en": "Luke",
-          "te": "Luke"
-        },
-        "chapter": 23,
-        "verse": 42,
-        "ref": {
-          "en": "Luke 23:42-43",
-          "te": "Luke 23:42"
-        },
-        "text": {
-          "en": "He said to Jesus, “Lord, remember me when you come into your Kingdom.”",
-          "te": "He said to Jesus, “Lord, remember me when you come into your Kingdom.”"
-        }
+      "relatedIds": [],
+      "shareLine": {
+        "te": "పరలోక రాజ్యానికి వెళ్లాలంటే నీటి బాప్తిస్మం తీసుకోవడం కచ్చితంగా అవసరమా? ఒక విశ్వాసి బాప్తిస్మం తీసుకోకముందే చనిపోతే ఏమవుతుంది?",
+        "en": "Is water baptism absolutely mandatory to go to heaven? What happens if a believer dies before being baptized?"
       }
     },
     {
-      "id": "q_prayer_3",
+      "id": "qa_0021",
       "categoryId": "prayer_life",
-      "order": 99,
+      "order": 3,
       "diamondCost": 0,
       "featured": true,
       "tags": [
         "prayer_life"
       ],
       "question": {
-        "en": "How can I hear the voice of God clearly, and how do I know if it's His voice or just my own thoughts?",
-        "te": "దేవుని స్వరాన్ని నేను స్పష్టంగా ఎలా వినగలను? నాకు వస్తున్న ఆలోచన దేవునిదా లేక నా సొంత ఆలోచనా అని నేను ఎలా గుర్తించాలి?"
+        "te": "దేవుని స్వరాన్ని నేను స్పష్టంగా ఎలా వినగలను? నాకు వస్తున్న ఆలోచన దేవునిదా లేక నా సొంత ఆలోచనా అని నేను ఎలా గుర్తించాలి?",
+        "en": "How can I hear the voice of God clearly, and how do I know if it's His voice or just my own thoughts?"
       },
       "shortAnswer": {
-        "en": "Hearing God is rarely an audible boom from the sky; it is usually a 'still small voice' in your spirit. The primary and most flawless way God speaks i...",
-        "te": "దేవుని స్వరం అనేది ఆకాశం నుండి ఉరుములా వినిపించే శబ్దం కాదు; అది సాధారణంగా మన ఆత్మలో వినిపించే ఒక 'మెల్లనైన స్వరం'. దేవుడు మనతో మాట్లాడే అత్యంత ప్రాము..."
+        "te": "దేవుని స్వరం అనేది ఆకాశం నుండి ఉరుములా వినిపించే శబ్దం కాదు; అది సాధారణంగా మన ఆత్మలో వినిపించే ఒక 'మెల్లనైన స్వరం'. దేవుడు మనతో మాట్లాడే అత్యంత ప్రాము...",
+        "en": "Hearing God is rarely an audible boom from the sky; it is usually a 'still small voice' in your spirit. The primary and most flawless way God speaks i..."
+      },
+      "keyVerse": {
+        "book": {
+          "te": "Hebrews",
+          "en": "Hebrews"
+        },
+        "chapter": 4,
+        "verse": 12,
+        "ref": {
+          "te": "Hebrews 4:12",
+          "en": "Hebrews 4:12"
+        },
+        "text": {
+          "te": "For the word of God is living and active, and sharper than any two-edged sword, piercing even to the dividing of soul and spirit, of both joints and marrow, and is able to discern the thoughts and intentions of the heart.",
+          "en": "For the word of God is living and active, and sharper than any two-edged sword, piercing even to the dividing of soul and spirit, of both joints and marrow, and is able to discern the thoughts and intentions of the heart."
+        }
       },
       "answer": {
-        "en": [
-          {
-            "type": "para",
-            "text": "Hearing God is rarely an audible boom from the sky; it is usually a 'still small voice' in your spirit. The primary and most flawless way God speaks is through His written Word, the Bible. If a thought or an inner voice contradicts Scripture, it is absolutely not from God. God's voice will always align with His character: it brings conviction (not condemnation), peace (not confusion), and pushes you toward love and holiness. To distinguish His voice from your own, you must immerse yourself in the Bible daily. Just as a sheep instantly recognizes its shepherd's voice because it spends time with him, you will recognize God's voice by spending intimate time in His presence."
-          }
-        ],
         "te": [
           {
             "type": "para",
             "text": "దేవుని స్వరం అనేది ఆకాశం నుండి ఉరుములా వినిపించే శబ్దం కాదు; అది సాధారణంగా మన ఆత్మలో వినిపించే ఒక 'మెల్లనైన స్వరం'. దేవుడు మనతో మాట్లాడే అత్యంత ప్రాముఖ్యమైన, పర్ఫెక్ట్ మార్గం ఆయన వాక్యమైన బైబిల్ ద్వారానే! నీకు వచ్చే ఒక ఆలోచన బైబిల్ కి వ్యతిరేకంగా ఉంటే, అది కచ్చితంగా దేవుని స్వరం కాదు. దేవుని స్వరం ఎప్పుడూ ఆయన స్వభావానికి తగ్గట్లుగా ఉంటుంది: అది గద్దిస్తుంది కానీ నిరాశపరచదు, సమాధానాన్ని ఇస్తుంది కానీ అయోమయాన్ని కాదు. ఒక గొర్రె తన కాపరి స్వరాన్ని వెంటనే ఎలా గుర్తుపడుతుందో, నువ్వు దేవుని వాక్యం చదువుతూ, ప్రార్థనలో ఆయనతో ఎక్కువ సమయం గడిపితే, ఆటోమేటిక్ గా దేవుని స్వరాన్ని స్పష్టంగా గుర్తుపట్టగలవు."
           }
+        ],
+        "en": [
+          {
+            "type": "para",
+            "text": "Hearing God is rarely an audible boom from the sky; it is usually a 'still small voice' in your spirit. The primary and most flawless way God speaks is through His written Word, the Bible. If a thought or an inner voice contradicts Scripture, it is absolutely not from God. God's voice will always align with His character: it brings conviction (not condemnation), peace (not confusion), and pushes you toward love and holiness. To distinguish His voice from your own, you must immerse yourself in the Bible daily. Just as a sheep instantly recognizes its shepherd's voice because it spends time with him, you will recognize God's voice by spending intimate time in His presence."
+          }
         ]
-      },
-      "relatedIds": [],
-      "shareLine": {
-        "en": "How can I hear the voice of God clearly, and how do I know if it's His voice or just my own thoughts?",
-        "te": "దేవుని స్వరాన్ని నేను స్పష్టంగా ఎలా వినగలను? నాకు వస్తున్న ఆలోచన దేవునిదా లేక నా సొంత ఆలోచనా అని నేను ఎలా గుర్తించాలి?"
       },
       "verses": [
         {
           "book": {
-            "en": "Hebrews",
-            "te": "Hebrews"
+            "te": "Hebrews",
+            "en": "Hebrews"
           },
           "chapter": 4,
           "verse": 12,
           "ref": {
-            "en": "Hebrews 4:12",
-            "te": "Hebrews 4:12"
+            "te": "Hebrews 4:12",
+            "en": "Hebrews 4:12"
           },
           "text": {
-            "en": "For the word of God is living and active, and sharper than any two-edged sword, piercing even to the dividing of soul and spirit, of both joints and marrow, and is able to discern the thoughts and intentions of the heart.",
-            "te": "For the word of God is living and active, and sharper than any two-edged sword, piercing even to the dividing of soul and spirit, of both joints and marrow, and is able to discern the thoughts and intentions of the heart."
+            "te": "For the word of God is living and active, and sharper than any two-edged sword, piercing even to the dividing of soul and spirit, of both joints and marrow, and is able to discern the thoughts and intentions of the heart.",
+            "en": "For the word of God is living and active, and sharper than any two-edged sword, piercing even to the dividing of soul and spirit, of both joints and marrow, and is able to discern the thoughts and intentions of the heart."
           }
         }
       ],
-      "keyVerse": {
-        "book": {
-          "en": "Hebrews",
-          "te": "Hebrews"
-        },
-        "chapter": 4,
-        "verse": 12,
-        "ref": {
-          "en": "Hebrews 4:12",
-          "te": "Hebrews 4:12"
-        },
-        "text": {
-          "en": "For the word of God is living and active, and sharper than any two-edged sword, piercing even to the dividing of soul and spirit, of both joints and marrow, and is able to discern the thoughts and intentions of the heart.",
-          "te": "For the word of God is living and active, and sharper than any two-edged sword, piercing even to the dividing of soul and spirit, of both joints and marrow, and is able to discern the thoughts and intentions of the heart."
-        }
+      "relatedIds": [],
+      "shareLine": {
+        "te": "దేవుని స్వరాన్ని నేను స్పష్టంగా ఎలా వినగలను? నాకు వస్తున్న ఆలోచన దేవునిదా లేక నా సొంత ఆలోచనా అని నేను ఎలా గుర్తించాలి?",
+        "en": "How can I hear the voice of God clearly, and how do I know if it's His voice or just my own thoughts?"
       }
     },
     {
-      "id": "q_hard_3",
+      "id": "qa_0022",
       "categoryId": "hard_questions",
-      "order": 99,
+      "order": 3,
       "diamondCost": 0,
       "featured": true,
       "tags": [
         "hard_questions"
       ],
       "question": {
-        "en": "Is it a sin for a Christian to feel depressed, suffer from anxiety, or take medication for mental health issues?",
-        "te": "ఒక క్రైస్తవుడు డిప్రెషన్ (కుంగుబాటు) లేదా ఆందోళన (Anxiety) తో బాధపడటం పాపమా? మానసిక సమస్యలకు మందులు వాడటం విశ్వాసరాహిత్యమా?"
+        "te": "ఒక క్రైస్తవుడు డిప్రెషన్ (కుంగుబాటు) లేదా ఆందోళన (Anxiety) తో బాధపడటం పాపమా? మానసిక సమస్యలకు మందులు వాడటం విశ్వాసరాహిత్యమా?",
+        "en": "Is it a sin for a Christian to feel depressed, suffer from anxiety, or take medication for mental health issues?"
       },
       "shortAnswer": {
-        "en": "Absolutely not. The church has often deeply misunderstood mental health. Your brain is a physical organ, just like your heart or your lungs. If your p...",
-        "te": "ఖచ్చితంగా కాదు! దురదృష్టవశాత్తూ, మానసిక ఆరోగ్యం గురించి సంఘంలో చాలా తప్పుడు అభిప్రాయాలు ఉన్నాయి. మన గుండె, ఊపిరితిత్తులు లాగానే మన మెదడు కూడా ఒక భౌతిక..."
+        "te": "ఖచ్చితంగా కాదు! దురదృష్టవశాత్తూ, మానసిక ఆరోగ్యం గురించి సంఘంలో చాలా తప్పుడు అభిప్రాయాలు ఉన్నాయి. మన గుండె, ఊపిరితిత్తులు లాగానే మన మెదడు కూడా ఒక భౌతిక...",
+        "en": "Absolutely not. The church has often deeply misunderstood mental health. Your brain is a physical organ, just like your heart or your lungs. If your p..."
+      },
+      "keyVerse": {
+        "book": {
+          "te": "1 Kings",
+          "en": "1 Kings"
+        },
+        "chapter": 19,
+        "verse": 4,
+        "ref": {
+          "te": "1 Kings 19:4",
+          "en": "1 Kings 19:4-7"
+        },
+        "text": {
+          "te": "But he himself went a day’s journey into the wilderness, and came and sat down under a juniper tree. Then he requested for himself that he might die, and said, “It is enough. Now, O Yahweh, take away my life; for I am not better than my fathers.”",
+          "en": "But he himself went a day’s journey into the wilderness, and came and sat down under a juniper tree. Then he requested for himself that he might die, and said, “It is enough. Now, O Yahweh, take away my life; for I am not better than my fathers.”"
+        }
       },
       "answer": {
-        "en": [
-          {
-            "type": "para",
-            "text": "Absolutely not. The church has often deeply misunderstood mental health. Your brain is a physical organ, just like your heart or your lungs. If your pancreas lacks insulin, you take medication without feeling unspiritual; similarly, if your brain lacks essential chemical balances, taking medication is a medical necessity, not a lack of faith. Many great heroes of faith in the Bible, like Elijah, David, and Jeremiah, battled severe depression and suicidal thoughts. God did not condemn them; He comforted them, fed them, and let them rest. Seek spiritual healing through prayer, but do not hesitate to seek professional medical help and counseling. God uses both miracles and medicine."
-          }
-        ],
         "te": [
           {
             "type": "para",
             "text": "ఖచ్చితంగా కాదు! దురదృష్టవశాత్తూ, మానసిక ఆరోగ్యం గురించి సంఘంలో చాలా తప్పుడు అభిప్రాయాలు ఉన్నాయి. మన గుండె, ఊపిరితిత్తులు లాగానే మన మెదడు కూడా ఒక భౌతిక అవయవం. షుగర్ వస్తే ఇన్సులిన్ వాడటం ఎలాగో, మెదడులో కెమికల్ బ్యాలెన్స్ తప్పినప్పుడు మందులు వాడటం కూడా అంతే! అది విశ్వాసం లేకపోవడం కాదు. బైబిల్ లో ఉన్న గొప్ప భక్తులు ఏలీయా, దావీదు, యిర్మీయా లాంటి వారు సైతం ఘోరమైన డిప్రెషన్ తో, చచ్చిపోవాలనే ఆలోచనలతో పోరాడారు. దేవుడు వాళ్లపై కోపపడలేదు, వాళ్లకు విశ్రాంతినిచ్చి ఆదరించాడు. ప్రార్థన ద్వారా ఆత్మీయ స్వస్థతను వెదకండి, అదే సమయంలో సరైన డాక్టర్ సలహా, మందులు వాడటానికి అస్సలు సంకోచించకండి. దేవుడు అద్భుతాల ద్వారా, అలాగే వైద్యుల ద్వారా కూడా స్వస్థపరుస్తాడు."
           }
+        ],
+        "en": [
+          {
+            "type": "para",
+            "text": "Absolutely not. The church has often deeply misunderstood mental health. Your brain is a physical organ, just like your heart or your lungs. If your pancreas lacks insulin, you take medication without feeling unspiritual; similarly, if your brain lacks essential chemical balances, taking medication is a medical necessity, not a lack of faith. Many great heroes of faith in the Bible, like Elijah, David, and Jeremiah, battled severe depression and suicidal thoughts. God did not condemn them; He comforted them, fed them, and let them rest. Seek spiritual healing through prayer, but do not hesitate to seek professional medical help and counseling. God uses both miracles and medicine."
+          }
         ]
-      },
-      "relatedIds": [],
-      "shareLine": {
-        "en": "Is it a sin for a Christian to feel depressed, suffer from anxiety, or take medication for mental health issues?",
-        "te": "ఒక క్రైస్తవుడు డిప్రెషన్ (కుంగుబాటు) లేదా ఆందోళన (Anxiety) తో బాధపడటం పాపమా? మానసిక సమస్యలకు మందులు వాడటం విశ్వాసరాహిత్యమా?"
       },
       "verses": [
         {
           "book": {
-            "en": "1 Kings",
-            "te": "1 Kings"
+            "te": "1 Kings",
+            "en": "1 Kings"
           },
           "chapter": 19,
           "verse": 4,
           "ref": {
-            "en": "1 Kings 19:4-7",
-            "te": "1 Kings 19:4"
+            "te": "1 Kings 19:4",
+            "en": "1 Kings 19:4-7"
           },
           "text": {
-            "en": "But he himself went a day’s journey into the wilderness, and came and sat down under a juniper tree. Then he requested for himself that he might die, and said, “It is enough. Now, O Yahweh, take away my life; for I am not better than my fathers.”",
-            "te": "But he himself went a day’s journey into the wilderness, and came and sat down under a juniper tree. Then he requested for himself that he might die, and said, “It is enough. Now, O Yahweh, take away my life; for I am not better than my fathers.”"
+            "te": "But he himself went a day’s journey into the wilderness, and came and sat down under a juniper tree. Then he requested for himself that he might die, and said, “It is enough. Now, O Yahweh, take away my life; for I am not better than my fathers.”",
+            "en": "But he himself went a day’s journey into the wilderness, and came and sat down under a juniper tree. Then he requested for himself that he might die, and said, “It is enough. Now, O Yahweh, take away my life; for I am not better than my fathers.”"
           }
         },
         {
           "book": {
-            "en": "Psalms",
-            "te": "Psalms"
+            "te": "Psalms",
+            "en": "Psalms"
           },
           "chapter": 34,
           "verse": 18,
           "ref": {
-            "en": "Psalms 34:18",
-            "te": "Psalms 34:18"
+            "te": "Psalms 34:18",
+            "en": "Psalms 34:18"
           },
           "text": {
-            "en": "Yahweh is near to those who have a broken heart,\nand saves those who have a crushed spirit.",
-            "te": "Yahweh is near to those who have a broken heart,\nand saves those who have a crushed spirit."
+            "te": "Yahweh is near to those who have a broken heart,\nand saves those who have a crushed spirit.",
+            "en": "Yahweh is near to those who have a broken heart,\nand saves those who have a crushed spirit."
           }
         },
         {
           "book": {
-            "en": "Matthew",
-            "te": "Matthew"
+            "te": "Matthew",
+            "en": "Matthew"
           },
           "chapter": 9,
           "verse": 12,
           "ref": {
-            "en": "Matthew 9:12",
-            "te": "Matthew 9:12"
+            "te": "Matthew 9:12",
+            "en": "Matthew 9:12"
           },
           "text": {
-            "en": "When Jesus heard it, he said to them,\n“Those who are healthy have no need for a physician, but those who are sick do.",
-            "te": "When Jesus heard it, he said to them,\n“Those who are healthy have no need for a physician, but those who are sick do."
+            "te": "When Jesus heard it, he said to them,\n“Those who are healthy have no need for a physician, but those who are sick do.",
+            "en": "When Jesus heard it, he said to them,\n“Those who are healthy have no need for a physician, but those who are sick do."
           }
         }
       ],
-      "keyVerse": {
-        "book": {
-          "en": "1 Kings",
-          "te": "1 Kings"
-        },
-        "chapter": 19,
-        "verse": 4,
-        "ref": {
-          "en": "1 Kings 19:4-7",
-          "te": "1 Kings 19:4"
-        },
-        "text": {
-          "en": "But he himself went a day’s journey into the wilderness, and came and sat down under a juniper tree. Then he requested for himself that he might die, and said, “It is enough. Now, O Yahweh, take away my life; for I am not better than my fathers.”",
-          "te": "But he himself went a day’s journey into the wilderness, and came and sat down under a juniper tree. Then he requested for himself that he might die, and said, “It is enough. Now, O Yahweh, take away my life; for I am not better than my fathers.”"
-        }
+      "relatedIds": [],
+      "shareLine": {
+        "te": "ఒక క్రైస్తవుడు డిప్రెషన్ (కుంగుబాటు) లేదా ఆందోళన (Anxiety) తో బాధపడటం పాపమా? మానసిక సమస్యలకు మందులు వాడటం విశ్వాసరాహిత్యమా?",
+        "en": "Is it a sin for a Christian to feel depressed, suffer from anxiety, or take medication for mental health issues?"
       }
     },
     {
-      "id": "q_salvation_3",
+      "id": "qa_0023",
       "categoryId": "salvation",
-      "order": 99,
+      "order": 3,
       "diamondCost": 0,
       "featured": true,
       "tags": [
         "salvation"
       ],
       "question": {
-        "en": "What is the 'unforgivable sin' (blasphemy against the Holy Spirit), and how do I know if I have committed it?",
-        "te": "క్షమించరాని పాపం (పరిశుద్ధాత్మకు విరోధమైన దూషణ) అంటే ఏమిటి? నేను పొరపాటున ఆ పాపం చేశానేమో అని ఎలా తెలుసుకోవాలి?"
+        "te": "క్షమించరాని పాపం (పరిశుద్ధాత్మకు విరోధమైన దూషణ) అంటే ఏమిటి? నేను పొరపాటున ఆ పాపం చేశానేమో అని ఎలా తెలుసుకోవాలి?",
+        "en": "What is the 'unforgivable sin' (blasphemy against the Holy Spirit), and how do I know if I have committed it?"
       },
       "shortAnswer": {
-        "en": "Many sensitive believers live in agonizing fear that they have accidentally committed the unforgivable sin. But Jesus wasn't talking about a careless ...",
-        "te": "చాలామంది సున్నితమైన విశ్వాసులు తాము పొరపాటున ఈ క్షమించరాని పాపం చేశామేమో అని భయపడుతుంటారు. కోపంలో ఒక మాట అనడమో, లేదా మెదడులోకి వచ్చే పిచ్చి ఆలోచనలనో ద..."
+        "te": "చాలామంది సున్నితమైన విశ్వాసులు తాము పొరపాటున ఈ క్షమించరాని పాపం చేశామేమో అని భయపడుతుంటారు. కోపంలో ఒక మాట అనడమో, లేదా మెదడులోకి వచ్చే పిచ్చి ఆలోచనలనో ద...",
+        "en": "Many sensitive believers live in agonizing fear that they have accidentally committed the unforgivable sin. But Jesus wasn't talking about a careless ..."
+      },
+      "keyVerse": {
+        "book": {
+          "te": "Mark",
+          "en": "Mark"
+        },
+        "chapter": 3,
+        "verse": 28,
+        "ref": {
+          "te": "Mark 3:28",
+          "en": "Mark 3:28-29"
+        },
+        "text": {
+          "te": "Most certainly I tell you, all sins of the descendants of man will be forgiven, including their blasphemies with which they may blaspheme;",
+          "en": "Most certainly I tell you, all sins of the descendants of man will be forgiven, including their blasphemies with which they may blaspheme;"
+        }
       },
       "answer": {
-        "en": [
-          {
-            "type": "para",
-            "text": "Many sensitive believers live in agonizing fear that they have accidentally committed the unforgivable sin. But Jesus wasn't talking about a careless word spoken in anger or a struggling mind having intrusive thoughts. Blasphemy against the Holy Spirit is a deliberate, stubborn, and continual rejection of the Holy Spirit's conviction, attributing the clear work of God to the devil. It is hardening your heart so deeply against grace that you refuse to ever repent. If you are worried or fearful that you might have committed this sin, that fear itself is the absolute proof that you HAVE NOT committed it! A person who has committed the unpardonable sin has a totally calloused heart and doesn't care about God's forgiveness at all."
-          }
-        ],
         "te": [
           {
             "type": "para",
             "text": "చాలామంది సున్నితమైన విశ్వాసులు తాము పొరపాటున ఈ క్షమించరాని పాపం చేశామేమో అని భయపడుతుంటారు. కోపంలో ఒక మాట అనడమో, లేదా మెదడులోకి వచ్చే పిచ్చి ఆలోచనలనో దేవుడు 'క్షమించరాని పాపం' అనలేదు! పరిశుద్ధాత్మకు విరోధమైన దూషణ అంటే... దేవుని స్పష్టమైన కార్యాన్ని కావాలని, బుద్ధిపూర్వకంగా అపవాదికి ఆపాదించడం, మరియు పరిశుద్ధాత్మ దేవుని గద్దింపును పదే పదే మొండిగా తిరస్కరించి హృదయాన్ని పూర్తిగా కఠినపరచుకోవడం. ఒకవేళ 'నేను ఆ పాపం చేశానేమో' అని మీరు బాధపడుతూ, భయపడుతూ ఉంటే... మీరు ఆ పాపం 'చేయలేదు' అనడానికి ఆ భయమే అతిపెద్ద సాక్ష్యం! ఎందుకంటే, ఆ క్షమించరాని పాపం చేసినవారి హృదయం రాయిలా మారిపోతుంది, వాళ్లకు అసలు పశ్చాత్తాపమే రాదు, దేవుని క్షమాపణ గురించి వాళ్లకు అస్సలు చింతే ఉండదు."
           }
+        ],
+        "en": [
+          {
+            "type": "para",
+            "text": "Many sensitive believers live in agonizing fear that they have accidentally committed the unforgivable sin. But Jesus wasn't talking about a careless word spoken in anger or a struggling mind having intrusive thoughts. Blasphemy against the Holy Spirit is a deliberate, stubborn, and continual rejection of the Holy Spirit's conviction, attributing the clear work of God to the devil. It is hardening your heart so deeply against grace that you refuse to ever repent. If you are worried or fearful that you might have committed this sin, that fear itself is the absolute proof that you HAVE NOT committed it! A person who has committed the unpardonable sin has a totally calloused heart and doesn't care about God's forgiveness at all."
+          }
         ]
-      },
-      "relatedIds": [],
-      "shareLine": {
-        "en": "What is the 'unforgivable sin' (blasphemy against the Holy Spirit), and how do I know if I have committed it?",
-        "te": "క్షమించరాని పాపం (పరిశుద్ధాత్మకు విరోధమైన దూషణ) అంటే ఏమిటి? నేను పొరపాటున ఆ పాపం చేశానేమో అని ఎలా తెలుసుకోవాలి?"
       },
       "verses": [
         {
           "book": {
-            "en": "Mark",
-            "te": "Mark"
+            "te": "Mark",
+            "en": "Mark"
           },
           "chapter": 3,
           "verse": 28,
           "ref": {
-            "en": "Mark 3:28-29",
-            "te": "Mark 3:28"
+            "te": "Mark 3:28",
+            "en": "Mark 3:28-29"
           },
           "text": {
-            "en": "Most certainly I tell you, all sins of the descendants of man will be forgiven, including their blasphemies with which they may blaspheme;",
-            "te": "Most certainly I tell you, all sins of the descendants of man will be forgiven, including their blasphemies with which they may blaspheme;"
+            "te": "Most certainly I tell you, all sins of the descendants of man will be forgiven, including their blasphemies with which they may blaspheme;",
+            "en": "Most certainly I tell you, all sins of the descendants of man will be forgiven, including their blasphemies with which they may blaspheme;"
           }
         },
         {
           "book": {
-            "en": "1 John",
-            "te": "1 John"
+            "te": "1 John",
+            "en": "1 John"
           },
           "chapter": 1,
           "verse": 9,
           "ref": {
-            "en": "1 John 1:9",
-            "te": "1 John 1:9"
+            "te": "1 John 1:9",
+            "en": "1 John 1:9"
           },
           "text": {
-            "en": "If we confess our sins, he is faithful and righteous to forgive us the sins, and to cleanse us from all unrighteousness.",
-            "te": "If we confess our sins, he is faithful and righteous to forgive us the sins, and to cleanse us from all unrighteousness."
+            "te": "If we confess our sins, he is faithful and righteous to forgive us the sins, and to cleanse us from all unrighteousness.",
+            "en": "If we confess our sins, he is faithful and righteous to forgive us the sins, and to cleanse us from all unrighteousness."
           }
         },
         {
           "book": {
-            "en": "Ezekiel",
-            "te": "Ezekiel"
+            "te": "Ezekiel",
+            "en": "Ezekiel"
           },
           "chapter": 36,
           "verse": 26,
           "ref": {
-            "en": "Ezekiel 36:26",
-            "te": "Ezekiel 36:26"
+            "te": "Ezekiel 36:26",
+            "en": "Ezekiel 36:26"
           },
           "text": {
-            "en": "I will also give you a new heart, and I will put a new spirit within you. I will take away the stony heart out of your flesh, and I will give you a heart of flesh.",
-            "te": "I will also give you a new heart, and I will put a new spirit within you. I will take away the stony heart out of your flesh, and I will give you a heart of flesh."
+            "te": "I will also give you a new heart, and I will put a new spirit within you. I will take away the stony heart out of your flesh, and I will give you a heart of flesh.",
+            "en": "I will also give you a new heart, and I will put a new spirit within you. I will take away the stony heart out of your flesh, and I will give you a heart of flesh."
           }
         }
       ],
-      "keyVerse": {
-        "book": {
-          "en": "Mark",
-          "te": "Mark"
-        },
-        "chapter": 3,
-        "verse": 28,
-        "ref": {
-          "en": "Mark 3:28-29",
-          "te": "Mark 3:28"
-        },
-        "text": {
-          "en": "Most certainly I tell you, all sins of the descendants of man will be forgiven, including their blasphemies with which they may blaspheme;",
-          "te": "Most certainly I tell you, all sins of the descendants of man will be forgiven, including their blasphemies with which they may blaspheme;"
-        }
+      "relatedIds": [],
+      "shareLine": {
+        "te": "క్షమించరాని పాపం (పరిశుద్ధాత్మకు విరోధమైన దూషణ) అంటే ఏమిటి? నేను పొరపాటున ఆ పాపం చేశానేమో అని ఎలా తెలుసుకోవాలి?",
+        "en": "What is the 'unforgivable sin' (blasphemy against the Holy Spirit), and how do I know if I have committed it?"
       }
     },
     {
-      "id": "q_end_times_3",
+      "id": "qa_0024",
       "categoryId": "end_times",
-      "order": 99,
+      "order": 2,
       "diamondCost": 0,
       "featured": true,
       "tags": [
         "end_times"
       ],
       "question": {
-        "en": "Will the Church go through the Great Tribulation, or will the Rapture happen before it?",
-        "te": "సంఘం మహాశ్రమల గుండా వెళ్తుందా, లేక అంతకంటే ముందే రప్చర్ (సంఘాలెత్తబడుట) జరుగుతుందా?"
+        "te": "సంఘం మహాశ్రమల గుండా వెళ్తుందా, లేక అంతకంటే ముందే రప్చర్ (సంఘాలెత్తబడుట) జరుగుతుందా?",
+        "en": "Will the Church go through the Great Tribulation, or will the Rapture happen before it?"
       },
       "shortAnswer": {
-        "en": "This is a topic of passionate debate among Bible scholars. The most widely held view (Pre-Tribulation) teaches that Jesus will quietly return in the c...",
-        "te": "ఇది బైబిల్ పండితుల మధ్య ఎంతో తీవ్రమైన చర్చకు దారితీసిన అంశం. ఎక్కువమంది నమ్మే సిద్ధాంతం (Pre-Tribulation) ఏంటంటే... ఈ భూమిపై అంత్యక్రీస్తు పరిపాలన, దే..."
+        "te": "ఇది బైబిల్ పండితుల మధ్య ఎంతో తీవ్రమైన చర్చకు దారితీసిన అంశం. ఎక్కువమంది నమ్మే సిద్ధాంతం (Pre-Tribulation) ఏంటంటే... ఈ భూమిపై అంత్యక్రీస్తు పరిపాలన, దే...",
+        "en": "This is a topic of passionate debate among Bible scholars. The most widely held view (Pre-Tribulation) teaches that Jesus will quietly return in the c..."
+      },
+      "keyVerse": {
+        "book": {
+          "te": "1 Thessalonians",
+          "en": "1 Thessalonians"
+        },
+        "chapter": 4,
+        "verse": 16,
+        "ref": {
+          "te": "1 Thessalonians 4:16",
+          "en": "1 Thessalonians 4:16-17"
+        },
+        "text": {
+          "te": "For the Lord himself will descend from heaven with a shout, with the voice of the archangel, and with God’s trumpet. The dead in Christ will rise first,",
+          "en": "For the Lord himself will descend from heaven with a shout, with the voice of the archangel, and with God’s trumpet. The dead in Christ will rise first,"
+        }
       },
       "answer": {
-        "en": [
-          {
-            "type": "para",
-            "text": "This is a topic of passionate debate among Bible scholars. The most widely held view (Pre-Tribulation) teaches that Jesus will quietly return in the clouds to 'catch away' (Rapture) His true Church before the seven years of God's wrath and the Antichrist's reign begin. Other scholars believe the Church will go through part (Mid-Trib) or all (Post-Trib) of the Tribulation to be purified before Christ returns to the earth. Regardless of the exact timeline, the central message of Scripture remains exactly the same: Jesus is coming back, and we must be spiritually awake, living holy lives, and fiercely sharing the Gospel. Do not let debates over timelines distract you from the urgency of today's mission."
-          }
-        ],
         "te": [
           {
             "type": "para",
             "text": "ఇది బైబిల్ పండితుల మధ్య ఎంతో తీవ్రమైన చర్చకు దారితీసిన అంశం. ఎక్కువమంది నమ్మే సిద్ధాంతం (Pre-Tribulation) ఏంటంటే... ఈ భూమిపై అంత్యక్రీస్తు పరిపాలన, దేవుని ఉగ్రత (మహాశ్రమల కాలం) ప్రారంభం కావడానికి ముందే, యేసయ్య తన నిజమైన సంఘాన్ని రహస్యంగా మేఘాల మీదకు ఎత్తుకెళ్తాడు (Rapture) అని. అయితే కొంతమంది పండితులు, సంఘం కూడా ఆ శ్రమల గుండా కొంతకాలం వెళ్తుందని నమ్ముతారు. సమయం ఏదైనా సరే, బైబిల్ చెబుతున్న అసలైన సత్యం ఒకటే: 'యేసయ్య రాబోతున్నాడు! మనం ఎప్పుడూ ఆత్మీయంగా మెలకువగా ఉండి, పవిత్రంగా జీవిస్తూ, సువార్తను ప్రకటించాలి.' క్యాలెండర్లు, టైమ్ లైన్స్ గురించి వాదించుకుంటూ, ఈరోజు దేవుడు మనకిచ్చిన పనిని నిర్లక్ష్యం చేయకూడదు."
           }
+        ],
+        "en": [
+          {
+            "type": "para",
+            "text": "This is a topic of passionate debate among Bible scholars. The most widely held view (Pre-Tribulation) teaches that Jesus will quietly return in the clouds to 'catch away' (Rapture) His true Church before the seven years of God's wrath and the Antichrist's reign begin. Other scholars believe the Church will go through part (Mid-Trib) or all (Post-Trib) of the Tribulation to be purified before Christ returns to the earth. Regardless of the exact timeline, the central message of Scripture remains exactly the same: Jesus is coming back, and we must be spiritually awake, living holy lives, and fiercely sharing the Gospel. Do not let debates over timelines distract you from the urgency of today's mission."
+          }
         ]
-      },
-      "relatedIds": [],
-      "shareLine": {
-        "en": "Will the Church go through the Great Tribulation, or will the Rapture happen before it?",
-        "te": "సంఘం మహాశ్రమల గుండా వెళ్తుందా, లేక అంతకంటే ముందే రప్చర్ (సంఘాలెత్తబడుట) జరుగుతుందా?"
       },
       "verses": [
         {
           "book": {
-            "en": "1 Thessalonians",
-            "te": "1 Thessalonians"
+            "te": "1 Thessalonians",
+            "en": "1 Thessalonians"
           },
           "chapter": 4,
           "verse": 16,
           "ref": {
-            "en": "1 Thessalonians 4:16-17",
-            "te": "1 Thessalonians 4:16"
+            "te": "1 Thessalonians 4:16",
+            "en": "1 Thessalonians 4:16-17"
           },
           "text": {
-            "en": "For the Lord himself will descend from heaven with a shout, with the voice of the archangel, and with God’s trumpet. The dead in Christ will rise first,",
-            "te": "For the Lord himself will descend from heaven with a shout, with the voice of the archangel, and with God’s trumpet. The dead in Christ will rise first,"
+            "te": "For the Lord himself will descend from heaven with a shout, with the voice of the archangel, and with God’s trumpet. The dead in Christ will rise first,",
+            "en": "For the Lord himself will descend from heaven with a shout, with the voice of the archangel, and with God’s trumpet. The dead in Christ will rise first,"
           }
         },
         {
           "book": {
-            "en": "Revelation",
-            "te": "Revelation"
+            "te": "Revelation",
+            "en": "Revelation"
           },
           "chapter": 3,
           "verse": 10,
           "ref": {
-            "en": "Revelation 3:10",
-            "te": "Revelation 3:10"
+            "te": "Revelation 3:10",
+            "en": "Revelation 3:10"
           },
           "text": {
-            "en": "Because you kept my command to endure, I also will keep you from the hour of testing, which is to come on the whole world, to test those who dwell on the earth.",
-            "te": "Because you kept my command to endure, I also will keep you from the hour of testing, which is to come on the whole world, to test those who dwell on the earth."
+            "te": "Because you kept my command to endure, I also will keep you from the hour of testing, which is to come on the whole world, to test those who dwell on the earth.",
+            "en": "Because you kept my command to endure, I also will keep you from the hour of testing, which is to come on the whole world, to test those who dwell on the earth."
           }
         },
         {
           "book": {
-            "en": "Matthew",
-            "te": "Matthew"
+            "te": "Matthew",
+            "en": "Matthew"
           },
           "chapter": 24,
           "verse": 42,
           "ref": {
-            "en": "Matthew 24:42-44",
-            "te": "Matthew 24:42"
+            "te": "Matthew 24:42",
+            "en": "Matthew 24:42-44"
           },
           "text": {
-            "en": "Watch therefore, for you don’t know in what hour your Lord comes.",
-            "te": "Watch therefore, for you don’t know in what hour your Lord comes."
+            "te": "Watch therefore, for you don’t know in what hour your Lord comes.",
+            "en": "Watch therefore, for you don’t know in what hour your Lord comes."
           }
         }
       ],
-      "keyVerse": {
-        "book": {
-          "en": "1 Thessalonians",
-          "te": "1 Thessalonians"
-        },
-        "chapter": 4,
-        "verse": 16,
-        "ref": {
-          "en": "1 Thessalonians 4:16-17",
-          "te": "1 Thessalonians 4:16"
-        },
-        "text": {
-          "en": "For the Lord himself will descend from heaven with a shout, with the voice of the archangel, and with God’s trumpet. The dead in Christ will rise first,",
-          "te": "For the Lord himself will descend from heaven with a shout, with the voice of the archangel, and with God’s trumpet. The dead in Christ will rise first,"
-        }
+      "relatedIds": [],
+      "shareLine": {
+        "te": "సంఘం మహాశ్రమల గుండా వెళ్తుందా, లేక అంతకంటే ముందే రప్చర్ (సంఘాలెత్తబడుట) జరుగుతుందా?",
+        "en": "Will the Church go through the Great Tribulation, or will the Rapture happen before it?"
       }
     },
     {
-      "id": "q_trinity_11",
+      "id": "qa_0025",
       "categoryId": "god_trinity",
-      "order": 99,
+      "order": 11,
       "diamondCost": 0,
       "featured": true,
       "tags": [
         "god_trinity"
       ],
       "question": {
-        "en": "If Jesus is God, who was He praying to when He was on earth? Was He praying to Himself?",
-        "te": "యేసుక్రీస్తు దేవుడైతే, ఆయన భూమిపై ఉన్నప్పుడు ఎవరికి ప్రార్థన చేశాడు? తనకు తానే ప్రార్థన చేసుకున్నాడా?"
+        "te": "యేసుక్రీస్తు దేవుడైతే, ఆయన భూమిపై ఉన్నప్పుడు ఎవరికి ప్రార్థన చేశాడు? తనకు తానే ప్రార్థన చేసుకున్నాడా?",
+        "en": "If Jesus is God, who was He praying to when He was on earth? Was He praying to Himself?"
       },
       "shortAnswer": {
-        "en": "This is a very common question regarding the Trinity. The Bible teaches that there is ONE God, but He exists eternally in THREE distinct persons: the ...",
-        "te": "త్రిత్వం (Trinity) గురించి చాలామందికి వచ్చే సాధారణమైన సందేహం ఇది. బైబిల్ ప్రకారం దేవుడు ఒక్కడే, కానీ ఆయన తండ్రి, కుమారుడు (యేసు), పరిశుద్ధాత్మ అనే మూడ..."
+        "te": "త్రిత్వం (Trinity) గురించి చాలామందికి వచ్చే సాధారణమైన సందేహం ఇది. బైబిల్ ప్రకారం దేవుడు ఒక్కడే, కానీ ఆయన తండ్రి, కుమారుడు (యేసు), పరిశుద్ధాత్మ అనే మూడ...",
+        "en": "This is a very common question regarding the Trinity. The Bible teaches that there is ONE God, but He exists eternally in THREE distinct persons: the ..."
+      },
+      "keyVerse": {
+        "book": {
+          "te": "John",
+          "en": "John"
+        },
+        "chapter": 17,
+        "verse": 1,
+        "ref": {
+          "te": "John 17:1",
+          "en": "John 17:1-5"
+        },
+        "text": {
+          "te": "Jesus said these things, and lifting up his eyes to heaven, he said,\n“Father, the time has come. Glorify your Son, that your Son may also glorify you;",
+          "en": "Jesus said these things, and lifting up his eyes to heaven, he said,\n“Father, the time has come. Glorify your Son, that your Son may also glorify you;"
+        }
       },
       "answer": {
-        "en": [
-          {
-            "type": "para",
-            "text": "This is a very common question regarding the Trinity. The Bible teaches that there is ONE God, but He exists eternally in THREE distinct persons: the Father, the Son (Jesus), and the Holy Spirit. When Jesus was on earth, He did not stop being God, but He took on human flesh and voluntarily humbled Himself. Jesus (God the Son) was praying to God the Father. He was not praying to Himself! Just as a human son talks to his human father to maintain a relationship, Jesus communicated with the Father to demonstrate perfect dependence and to set an example for us on how to pray. The prayers of Jesus prove the distinct relationship between the persons of the Trinity, not that Jesus is a lesser being."
-          }
-        ],
         "te": [
           {
             "type": "para",
             "text": "త్రిత్వం (Trinity) గురించి చాలామందికి వచ్చే సాధారణమైన సందేహం ఇది. బైబిల్ ప్రకారం దేవుడు ఒక్కడే, కానీ ఆయన తండ్రి, కుమారుడు (యేసు), పరిశుద్ధాత్మ అనే మూడు వేర్వేరు వ్యక్తులుగా (Persons) నిత్యత్వం నుండి ఉన్నాడు. యేసయ్య ఈ భూమిపైకి వచ్చినప్పుడు తన దైవత్వాన్ని వదిలిపెట్టలేదు గానీ, ఒక మానవ శరీరాన్ని ధరించుకుని తనను తాను తగ్గించుకున్నాడు. యేసయ్య (కుమారుడైన దేవుడు) పరలోకంలో ఉన్న తండ్రియైన దేవునికి ప్రార్థన చేశాడు. ఆయన తనకు తానే ప్రార్థన చేసుకోలేదు! లోకంలో ఒక కొడుకు తన తండ్రితో ఎలాగైతే మాట్లాడతాడో, యేసయ్య కూడా తన తండ్రితో అలాగే సంబంధాన్ని కొనసాగించాడు. అంతేకాకుండా, మనం దేవునిపై ఎలా ఆధారపడాలో, ఎలా ప్రార్థన చేయాలో మనకు ఒక మాదిరిని చూపించడానికి ఆయన అలా ప్రార్థన చేశాడు. యేసయ్య చేసిన ప్రార్థనలు త్రిత్వంలోని వ్యక్తుల మధ్య ఉన్న సంబంధాన్ని చూపిస్తాయే తప్ప, యేసయ్య దేవుడు కాదు అని నిరూపించవు."
           }
+        ],
+        "en": [
+          {
+            "type": "para",
+            "text": "This is a very common question regarding the Trinity. The Bible teaches that there is ONE God, but He exists eternally in THREE distinct persons: the Father, the Son (Jesus), and the Holy Spirit. When Jesus was on earth, He did not stop being God, but He took on human flesh and voluntarily humbled Himself. Jesus (God the Son) was praying to God the Father. He was not praying to Himself! Just as a human son talks to his human father to maintain a relationship, Jesus communicated with the Father to demonstrate perfect dependence and to set an example for us on how to pray. The prayers of Jesus prove the distinct relationship between the persons of the Trinity, not that Jesus is a lesser being."
+          }
         ]
-      },
-      "relatedIds": [],
-      "shareLine": {
-        "en": "If Jesus is God, who was He praying to when He was on earth? Was He praying to Himself?",
-        "te": "యేసుక్రీస్తు దేవుడైతే, ఆయన భూమిపై ఉన్నప్పుడు ఎవరికి ప్రార్థన చేశాడు? తనకు తానే ప్రార్థన చేసుకున్నాడా?"
       },
       "verses": [
         {
           "book": {
-            "en": "John",
-            "te": "John"
+            "te": "John",
+            "en": "John"
           },
           "chapter": 17,
           "verse": 1,
           "ref": {
-            "en": "John 17:1-5",
-            "te": "John 17:1"
+            "te": "John 17:1",
+            "en": "John 17:1-5"
           },
           "text": {
-            "en": "Jesus said these things, and lifting up his eyes to heaven, he said,\n“Father, the time has come. Glorify your Son, that your Son may also glorify you;",
-            "te": "Jesus said these things, and lifting up his eyes to heaven, he said,\n“Father, the time has come. Glorify your Son, that your Son may also glorify you;"
+            "te": "Jesus said these things, and lifting up his eyes to heaven, he said,\n“Father, the time has come. Glorify your Son, that your Son may also glorify you;",
+            "en": "Jesus said these things, and lifting up his eyes to heaven, he said,\n“Father, the time has come. Glorify your Son, that your Son may also glorify you;"
           }
         },
         {
           "book": {
-            "en": "Philippians",
-            "te": "Philippians"
+            "te": "Philippians",
+            "en": "Philippians"
           },
           "chapter": 2,
           "verse": 5,
           "ref": {
-            "en": "Philippians 2:5-8",
-            "te": "Philippians 2:5"
+            "te": "Philippians 2:5",
+            "en": "Philippians 2:5-8"
           },
           "text": {
-            "en": "Have this in your mind, which was also in Christ Jesus,",
-            "te": "Have this in your mind, which was also in Christ Jesus,"
+            "te": "Have this in your mind, which was also in Christ Jesus,",
+            "en": "Have this in your mind, which was also in Christ Jesus,"
           }
         },
         {
           "book": {
-            "en": "Luke",
-            "te": "Luke"
+            "te": "Luke",
+            "en": "Luke"
           },
           "chapter": 22,
           "verse": 42,
           "ref": {
-            "en": "Luke 22:42",
-            "te": "Luke 22:42"
+            "te": "Luke 22:42",
+            "en": "Luke 22:42"
           },
           "text": {
-            "en": "saying,\n“Father, if you are willing, remove this cup from me. Nevertheless, not my will, but yours, be done.”",
-            "te": "saying,\n“Father, if you are willing, remove this cup from me. Nevertheless, not my will, but yours, be done.”"
+            "te": "saying,\n“Father, if you are willing, remove this cup from me. Nevertheless, not my will, but yours, be done.”",
+            "en": "saying,\n“Father, if you are willing, remove this cup from me. Nevertheless, not my will, but yours, be done.”"
           }
         }
       ],
-      "keyVerse": {
-        "book": {
-          "en": "John",
-          "te": "John"
-        },
-        "chapter": 17,
-        "verse": 1,
-        "ref": {
-          "en": "John 17:1-5",
-          "te": "John 17:1"
-        },
-        "text": {
-          "en": "Jesus said these things, and lifting up his eyes to heaven, he said,\n“Father, the time has come. Glorify your Son, that your Son may also glorify you;",
-          "te": "Jesus said these things, and lifting up his eyes to heaven, he said,\n“Father, the time has come. Glorify your Son, that your Son may also glorify you;"
-        }
+      "relatedIds": [],
+      "shareLine": {
+        "te": "యేసుక్రీస్తు దేవుడైతే, ఆయన భూమిపై ఉన్నప్పుడు ఎవరికి ప్రార్థన చేశాడు? తనకు తానే ప్రార్థన చేసుకున్నాడా?",
+        "en": "If Jesus is God, who was He praying to when He was on earth? Was He praying to Himself?"
       }
     },
     {
-      "id": "q_salvation_4",
+      "id": "qa_0026",
       "categoryId": "salvation",
-      "order": 99,
+      "order": 4,
       "diamondCost": 0,
       "featured": true,
       "tags": [
         "salvation"
       ],
       "question": {
-        "en": "What does it mean to be 'born again', and how exactly does it happen?",
-        "te": "'క్రొత్తగా జన్మించడం' (Born Again) అంటే ఏమిటి, అది అసలు ఎలా జరుగుతుంది?"
+        "te": "'క్రొత్తగా జన్మించడం' (Born Again) అంటే ఏమిటి, అది అసలు ఎలా జరుగుతుంది?",
+        "en": "What does it mean to be 'born again', and how exactly does it happen?"
       },
       "shortAnswer": {
-        "en": "When Jesus told Nicodemus 'You must be born again,' Nicodemus was confused, thinking it meant a physical rebirth. But Jesus was speaking about a spiri...",
-        "te": "యేసయ్య నీకొదేముతో 'ఒకడు క్రొత్తగా జన్మించితేనే గాని దేవుని రాజ్యమును చూడలేడు' అని చెప్పినప్పుడు, నీకొదేము అది భౌతికంగా మళ్ళీ తల్లి గర్భంలోకి వెళ్ళాలా ..."
+        "te": "యేసయ్య నీకొదేముతో 'ఒకడు క్రొత్తగా జన్మించితేనే గాని దేవుని రాజ్యమును చూడలేడు' అని చెప్పినప్పుడు, నీకొదేము అది భౌతికంగా మళ్ళీ తల్లి గర్భంలోకి వెళ్ళాలా ...",
+        "en": "When Jesus told Nicodemus 'You must be born again,' Nicodemus was confused, thinking it meant a physical rebirth. But Jesus was speaking about a spiri..."
+      },
+      "keyVerse": {
+        "book": {
+          "te": "John",
+          "en": "John"
+        },
+        "chapter": 3,
+        "verse": 3,
+        "ref": {
+          "te": "John 3:3",
+          "en": "John 3:3-7"
+        },
+        "text": {
+          "te": "Jesus answered him,\n“Most certainly, I tell you, unless one is born anew,\n\nhe can’t see God’s Kingdom.”",
+          "en": "Jesus answered him,\n“Most certainly, I tell you, unless one is born anew,\n\nhe can’t see God’s Kingdom.”"
+        }
       },
       "answer": {
-        "en": [
-          {
-            "type": "para",
-            "text": "When Jesus told Nicodemus 'You must be born again,' Nicodemus was confused, thinking it meant a physical rebirth. But Jesus was speaking about a spiritual resurrection! Because of sin, every human is born physically alive but spiritually dead (separated from God). Being 'born again' is a supernatural miracle performed by the Holy Spirit. It happens the exact moment you genuinely repent of your sins and put your complete faith in Jesus Christ's sacrifice on the cross. God doesn't just clean up your old life; He gives you an entirely new, spiritually alive nature. You become an adopted child of God, filled with His Spirit, and guaranteed eternal life. It is not something you achieve by doing good works; it is a gift you receive by faith."
-          }
-        ],
         "te": [
           {
             "type": "para",
             "text": "యేసయ్య నీకొదేముతో 'ఒకడు క్రొత్తగా జన్మించితేనే గాని దేవుని రాజ్యమును చూడలేడు' అని చెప్పినప్పుడు, నీకొదేము అది భౌతికంగా మళ్ళీ తల్లి గర్భంలోకి వెళ్ళాలా అని కన్ఫ్యూజ్ అయ్యాడు. కానీ యేసయ్య చెప్పింది ఆత్మీయ జననం గురించి! ఆదాము చేసిన పాపం వల్ల, ప్రతి మనిషి భౌతికంగా బ్రతికే పుడతాడు కానీ, ఆత్మీయంగా చనిపోయి (దేవునికి దూరమై) పుడతాడు. 'క్రొత్తగా జన్మించడం' అనేది పరిశుద్ధాత్మ దేవుడు చేసే ఒక మహా అద్భుతం. నువ్వు ఎప్పుడైతే నీ పాపాలను ఒప్పుకుని మనస్ఫూర్తిగా పశ్చాత్తాపపడి, సిలువలో యేసయ్య చేసిన బలిదానం పై పూర్తి విశ్వాసం ఉంచుతావో... ఆ క్షణమే ఈ అద్భుతం జరుగుతుంది! దేవుడు నీ పాత జీవితాన్ని కేవలం శుభ్రం చేయడు, దాన్ని తీసేసి పూర్తిగా ఒక 'క్రొత్త ఆత్మీయ స్వభావాన్ని' నీకు ఇస్తాడు. నీవు దేవుని బిడ్డగా మార్చబడతావు. ఇది నువ్వు మంచి పనులు చేయడం వల్ల వచ్చేది కాదు, కేవలం విశ్వాసం ద్వారా ఉచితంగా పొందుకునే దేవుని బహుమానం."
           }
+        ],
+        "en": [
+          {
+            "type": "para",
+            "text": "When Jesus told Nicodemus 'You must be born again,' Nicodemus was confused, thinking it meant a physical rebirth. But Jesus was speaking about a spiritual resurrection! Because of sin, every human is born physically alive but spiritually dead (separated from God). Being 'born again' is a supernatural miracle performed by the Holy Spirit. It happens the exact moment you genuinely repent of your sins and put your complete faith in Jesus Christ's sacrifice on the cross. God doesn't just clean up your old life; He gives you an entirely new, spiritually alive nature. You become an adopted child of God, filled with His Spirit, and guaranteed eternal life. It is not something you achieve by doing good works; it is a gift you receive by faith."
+          }
         ]
-      },
-      "relatedIds": [],
-      "shareLine": {
-        "en": "What does it mean to be 'born again', and how exactly does it happen?",
-        "te": "'క్రొత్తగా జన్మించడం' (Born Again) అంటే ఏమిటి, అది అసలు ఎలా జరుగుతుంది?"
       },
       "verses": [
         {
           "book": {
-            "en": "John",
-            "te": "John"
+            "te": "John",
+            "en": "John"
           },
           "chapter": 3,
           "verse": 3,
           "ref": {
-            "en": "John 3:3-7",
-            "te": "John 3:3"
+            "te": "John 3:3",
+            "en": "John 3:3-7"
           },
           "text": {
-            "en": "Jesus answered him,\n“Most certainly, I tell you, unless one is born anew,\n\nhe can’t see God’s Kingdom.”",
-            "te": "Jesus answered him,\n“Most certainly, I tell you, unless one is born anew,\n\nhe can’t see God’s Kingdom.”"
+            "te": "Jesus answered him,\n“Most certainly, I tell you, unless one is born anew,\n\nhe can’t see God’s Kingdom.”",
+            "en": "Jesus answered him,\n“Most certainly, I tell you, unless one is born anew,\n\nhe can’t see God’s Kingdom.”"
           }
         },
         {
           "book": {
-            "en": "2 Corinthians",
-            "te": "2 Corinthians"
+            "te": "2 Corinthians",
+            "en": "2 Corinthians"
           },
           "chapter": 5,
           "verse": 17,
           "ref": {
-            "en": "2 Corinthians 5:17",
-            "te": "2 Corinthians 5:17"
+            "te": "2 Corinthians 5:17",
+            "en": "2 Corinthians 5:17"
           },
           "text": {
-            "en": "Therefore if anyone is in Christ, he is a new creation. The old things have passed away. Behold, all things have become new.",
-            "te": "Therefore if anyone is in Christ, he is a new creation. The old things have passed away. Behold, all things have become new."
+            "te": "Therefore if anyone is in Christ, he is a new creation. The old things have passed away. Behold, all things have become new.",
+            "en": "Therefore if anyone is in Christ, he is a new creation. The old things have passed away. Behold, all things have become new."
           }
         }
       ],
-      "keyVerse": {
-        "book": {
-          "en": "John",
-          "te": "John"
-        },
-        "chapter": 3,
-        "verse": 3,
-        "ref": {
-          "en": "John 3:3-7",
-          "te": "John 3:3"
-        },
-        "text": {
-          "en": "Jesus answered him,\n“Most certainly, I tell you, unless one is born anew,\n\nhe can’t see God’s Kingdom.”",
-          "te": "Jesus answered him,\n“Most certainly, I tell you, unless one is born anew,\n\nhe can’t see God’s Kingdom.”"
-        }
+      "relatedIds": [],
+      "shareLine": {
+        "te": "'క్రొత్తగా జన్మించడం' (Born Again) అంటే ఏమిటి, అది అసలు ఎలా జరుగుతుంది?",
+        "en": "What does it mean to be 'born again', and how exactly does it happen?"
       }
     },
     {
-      "id": "q_salvation_5",
+      "id": "qa_0027",
       "categoryId": "salvation",
-      "order": 99,
+      "order": 5,
       "diamondCost": 0,
       "featured": true,
       "tags": [
         "salvation"
       ],
       "question": {
-        "en": "If God knows everything, including who will go to hell, why did He create them in the first place?",
-        "te": "ఎవరు నరకానికి వెళ్తారో దేవునికి ముందే తెలిసినప్పుడు, అసలు వాళ్ళని ఎందుకు సృష్టించాడు?"
+        "te": "ఎవరు నరకానికి వెళ్తారో దేవునికి ముందే తెలిసినప్పుడు, అసలు వాళ్ళని ఎందుకు సృష్టించాడు?",
+        "en": "If God knows everything, including who will go to hell, why did He create them in the first place?"
       },
       "shortAnswer": {
-        "en": "This touches on the mystery of God's foreknowledge and human free will. Foreknowledge (knowing what will happen) is not the same as predestination (fo...",
-        "te": "ఇది దేవుని ముందుచూపు (Foreknowledge) మరియు మానవ స్వేచ్ఛా చిత్తానికి సంబంధించిన ఒక ఆత్మీయ మర్మం. భవిష్యత్తులో ఏం జరుగుతుందో ముందే తెలియడం వేరు, ఆ భవిష్..."
+        "te": "ఇది దేవుని ముందుచూపు (Foreknowledge) మరియు మానవ స్వేచ్ఛా చిత్తానికి సంబంధించిన ఒక ఆత్మీయ మర్మం. భవిష్యత్తులో ఏం జరుగుతుందో ముందే తెలియడం వేరు, ఆ భవిష్...",
+        "en": "This touches on the mystery of God's foreknowledge and human free will. Foreknowledge (knowing what will happen) is not the same as predestination (fo..."
+      },
+      "keyVerse": {
+        "book": {
+          "te": "యోహాను",
+          "en": "John"
+        },
+        "chapter": 3,
+        "verse": 16,
+        "ref": {
+          "te": "యోహాను 3:16",
+          "en": "John 3:16"
+        },
+        "text": {
+          "te": "దేవుడు లోకమును ఎంతో ప్రేమించెను...",
+          "en": "For God so loved the world..."
+        }
       },
       "answer": {
-        "en": [
-          {
-            "type": "para",
-            "text": "This touches on the mystery of God's foreknowledge and human free will. Foreknowledge (knowing what will happen) is not the same as predestination (forcing it to happen). If you watch a replay of a football match, you know exactly who wins, but your knowledge didn't force the players to act. God created humanity out of overflowing love, desiring a genuine relationship. But true love requires a choice; forced love is not love, it is programming. God gave every human the dignified gift of free will, knowing the massive risk that many would reject Him. Even though it breaks His heart, He respects our choice."
-          }
-        ],
         "te": [
           {
             "type": "para",
             "text": "ఇది దేవుని ముందుచూపు (Foreknowledge) మరియు మానవ స్వేచ్ఛా చిత్తానికి సంబంధించిన ఒక ఆత్మీయ మర్మం. భవిష్యత్తులో ఏం జరుగుతుందో ముందే తెలియడం వేరు, ఆ భవిష్యత్తును బలవంతంగా అలా జరిపించడం వేరు! ఉదాహరణకు, మీరు ఒక క్రికెట్ మ్యాచ్ హైలైట్స్ చూస్తున్నప్పుడు ఎవరు గెలుస్తారో మీకు ముందే తెలుసు, కానీ ఆ ఆటగాళ్లను మీరే ఆడిస్తున్నట్లు కాదు కదా. దేవుడు మనిషితో ఒక స్వచ్ఛమైన ప్రేమ సంబంధం కలిగి ఉండాలని ఆశపడి, తన అపారమైన ప్రేమతో సృష్టించాడు. కానీ నిజమైన ప్రేమ ఉంటేనే కదా అది రిలేషన్ అవుతుంది! బలవంతంగా ప్రేమించమనడం ప్రోగ్రామింగ్ అవుతుంది. అందుకే దేవుడు మనిషికి 'స్వేచ్ఛగా ఎంచుకునే అవకాశాన్ని (Free Will)' ఇచ్చాడు. చాలామంది తనను తిరస్కరిస్తారు అని తెలిసినా సరే, ఆ రిస్క్ తీసుకుని మరీ దేవుడు మనల్ని సృష్టించాడు. మనం వద్దనుకుంటే, ఆయన ఎంతో బాధపడినా సరే, మన నిర్ణయాన్ని ఆయన గౌరవిస్తాడు."
           }
+        ],
+        "en": [
+          {
+            "type": "para",
+            "text": "This touches on the mystery of God's foreknowledge and human free will. Foreknowledge (knowing what will happen) is not the same as predestination (forcing it to happen). If you watch a replay of a football match, you know exactly who wins, but your knowledge didn't force the players to act. God created humanity out of overflowing love, desiring a genuine relationship. But true love requires a choice; forced love is not love, it is programming. God gave every human the dignified gift of free will, knowing the massive risk that many would reject Him. Even though it breaks His heart, He respects our choice."
+          }
         ]
       },
+      "verses": [],
       "relatedIds": [],
       "shareLine": {
-        "en": "If God knows everything, including who will go to hell, why did He create them in the first place?",
-        "te": "ఎవరు నరకానికి వెళ్తారో దేవునికి ముందే తెలిసినప్పుడు, అసలు వాళ్ళని ఎందుకు సృష్టించాడు?"
-      },
-      "verses": [],
-      "keyVerse": {
-        "book": {
-          "en": "John",
-          "te": "యోహాను"
-        },
-        "chapter": 3,
-        "verse": 16,
-        "ref": {
-          "en": "John 3:16",
-          "te": "యోహాను 3:16"
-        },
-        "text": {
-          "en": "For God so loved the world...",
-          "te": "దేవుడు లోకమును ఎంతో ప్రేమించెను..."
-        }
+        "te": "ఎవరు నరకానికి వెళ్తారో దేవునికి ముందే తెలిసినప్పుడు, అసలు వాళ్ళని ఎందుకు సృష్టించాడు?",
+        "en": "If God knows everything, including who will go to hell, why did He create them in the first place?"
       }
     },
     {
-      "id": "q_family_3",
+      "id": "qa_0028",
       "categoryId": "family_life",
-      "order": 99,
+      "order": 3,
       "diamondCost": 0,
       "featured": true,
       "tags": [
         "family_life"
       ],
       "question": {
-        "en": "Is it a sin to stay single forever, or does God command everyone to get married?",
-        "te": "జీవితాంతం పెళ్లి చేసుకోకుండా ఒంటరిగా ఉండిపోవడం పాపమా? దేవుడు ప్రతి ఒక్కరినీ పెళ్లి చేసుకోమన్నాడా?"
+        "te": "జీవితాంతం పెళ్లి చేసుకోకుండా ఒంటరిగా ఉండిపోవడం పాపమా? దేవుడు ప్రతి ఒక్కరినీ పెళ్లి చేసుకోమన్నాడా?",
+        "en": "Is it a sin to stay single forever, or does God command everyone to get married?"
       },
       "shortAnswer": {
-        "en": "No, staying single is not a sin; in fact, the Apostle Paul described singleness as a profound spiritual gift! While marriage is a beautiful, God-ordai...",
-        "te": "కచ్చితంగా పాపం కాదు! నిజానికి, అపొస్తలుడైన పౌలు పెళ్లి చేసుకోకుండా ఒంటరిగా ఉండటాన్ని ఒక గొప్ప ఆత్మీయ వరంగా చెప్పాడు! వివాహం అనేది దేవుడు నియమించిన ఒక ..."
+        "te": "కచ్చితంగా పాపం కాదు! నిజానికి, అపొస్తలుడైన పౌలు పెళ్లి చేసుకోకుండా ఒంటరిగా ఉండటాన్ని ఒక గొప్ప ఆత్మీయ వరంగా చెప్పాడు! వివాహం అనేది దేవుడు నియమించిన ఒక ...",
+        "en": "No, staying single is not a sin; in fact, the Apostle Paul described singleness as a profound spiritual gift! While marriage is a beautiful, God-ordai..."
+      },
+      "keyVerse": {
+        "book": {
+          "te": "యోహాను",
+          "en": "John"
+        },
+        "chapter": 3,
+        "verse": 16,
+        "ref": {
+          "te": "యోహాను 3:16",
+          "en": "John 3:16"
+        },
+        "text": {
+          "te": "దేవుడు లోకమును ఎంతో ప్రేమించెను...",
+          "en": "For God so loved the world..."
+        }
       },
       "answer": {
-        "en": [
-          {
-            "type": "para",
-            "text": "No, staying single is not a sin; in fact, the Apostle Paul described singleness as a profound spiritual gift! While marriage is a beautiful, God-ordained institution, it is meant for this temporary earth, not eternity. Paul argued that a single person can be entirely, undividedly devoted to the work of the Lord, whereas a married person must rightfully divide their time to care for their family. Jesus Himself was single! If you feel peace and contentment in singleness, do not let society or the church pressure you into marriage. Use your unmatched freedom and time to serve God passionately."
-          }
-        ],
         "te": [
           {
             "type": "para",
             "text": "కచ్చితంగా పాపం కాదు! నిజానికి, అపొస్తలుడైన పౌలు పెళ్లి చేసుకోకుండా ఒంటరిగా ఉండటాన్ని ఒక గొప్ప ఆత్మీయ వరంగా చెప్పాడు! వివాహం అనేది దేవుడు నియమించిన ఒక అద్భుతమైన బంధం అయినప్పటికీ, అది కేవలం ఈ తాత్కాలిక భూమి మీద మాత్రమే ఉంటుంది. ఒక బ్రహ్మచారి దేవుని పనికి తన సమయాన్ని పూర్తిగా, ఏ ఆటంకం లేకుండా అంకితం చేయగలడు అని పౌలు చెప్పాడు. అదే పెళ్లి చేసుకున్న వ్యక్తి, తన కుటుంబాన్ని చూసుకోవడానికి సమయం కేటాయించాలి. స్వయంగా యేసయ్య కూడా పెళ్లి చేసుకోలేదు కదా! ఒకవేళ మీకు పెళ్లి చేసుకోకుండా ఉండటంలో నెమ్మది, సంతోషం ఉంటే, సమాజం లేదా సంఘం ఒత్తిడి తెచ్చినా మీరు భయపడాల్సిన అవసరం లేదు. మీకున్న స్వేచ్ఛను, సమయాన్ని దేవుని సేవ కొరకు అత్యుత్తమంగా వాడుకోండి."
           }
+        ],
+        "en": [
+          {
+            "type": "para",
+            "text": "No, staying single is not a sin; in fact, the Apostle Paul described singleness as a profound spiritual gift! While marriage is a beautiful, God-ordained institution, it is meant for this temporary earth, not eternity. Paul argued that a single person can be entirely, undividedly devoted to the work of the Lord, whereas a married person must rightfully divide their time to care for their family. Jesus Himself was single! If you feel peace and contentment in singleness, do not let society or the church pressure you into marriage. Use your unmatched freedom and time to serve God passionately."
+          }
         ]
       },
+      "verses": [],
       "relatedIds": [],
       "shareLine": {
-        "en": "Is it a sin to stay single forever, or does God command everyone to get married?",
-        "te": "జీవితాంతం పెళ్లి చేసుకోకుండా ఒంటరిగా ఉండిపోవడం పాపమా? దేవుడు ప్రతి ఒక్కరినీ పెళ్లి చేసుకోమన్నాడా?"
-      },
-      "verses": [],
-      "keyVerse": {
-        "book": {
-          "en": "John",
-          "te": "యోహాను"
-        },
-        "chapter": 3,
-        "verse": 16,
-        "ref": {
-          "en": "John 3:16",
-          "te": "యోహాను 3:16"
-        },
-        "text": {
-          "en": "For God so loved the world...",
-          "te": "దేవుడు లోకమును ఎంతో ప్రేమించెను..."
-        }
+        "te": "జీవితాంతం పెళ్లి చేసుకోకుండా ఒంటరిగా ఉండిపోవడం పాపమా? దేవుడు ప్రతి ఒక్కరినీ పెళ్లి చేసుకోమన్నాడా?",
+        "en": "Is it a sin to stay single forever, or does God command everyone to get married?"
       }
     },
     {
-      "id": "q_prayer_4",
+      "id": "qa_0029",
       "categoryId": "prayer_life",
-      "order": 99,
+      "order": 4,
       "diamondCost": 0,
       "featured": true,
       "tags": [
         "prayer_life"
       ],
       "question": {
-        "en": "Is fasting really necessary for Christians today, or is prayer alone enough?",
-        "te": "ఈ రోజుల్లో క్రైస్తవులు ఉపవాసం ఉండటం నిజంగా అవసరమా, లేక కేవలం ప్రార్థన సరిపోతుందా?"
+        "te": "ఈ రోజుల్లో క్రైస్తవులు ఉపవాసం ఉండటం నిజంగా అవసరమా, లేక కేవలం ప్రార్థన సరిపోతుందా?",
+        "en": "Is fasting really necessary for Christians today, or is prayer alone enough?"
       },
       "shortAnswer": {
-        "en": "Jesus never said, 'IF you fast,' He explicitly said, 'WHEN you fast' (Matthew 6:16). Fasting is not an outdated Old Testament ritual; it is a powerful...",
-        "te": "యేసయ్య ఎప్పుడూ 'మీకు కుదిరితే ఉపవాసం ఉండండి' అని చెప్పలేదు, 'మీరు ఉపవాసము చేయునప్పుడు' (మత్తయి 6:16) అని చాలా స్పష్టంగా చెప్పాడు. ఉపవాసం అనేది పాతనిబం..."
+        "te": "యేసయ్య ఎప్పుడూ 'మీకు కుదిరితే ఉపవాసం ఉండండి' అని చెప్పలేదు, 'మీరు ఉపవాసము చేయునప్పుడు' (మత్తయి 6:16) అని చాలా స్పష్టంగా చెప్పాడు. ఉపవాసం అనేది పాతనిబం...",
+        "en": "Jesus never said, 'IF you fast,' He explicitly said, 'WHEN you fast' (Matthew 6:16). Fasting is not an outdated Old Testament ritual; it is a powerful..."
+      },
+      "keyVerse": {
+        "book": {
+          "te": "యోహాను",
+          "en": "John"
+        },
+        "chapter": 3,
+        "verse": 16,
+        "ref": {
+          "te": "యోహాను 3:16",
+          "en": "John 3:16"
+        },
+        "text": {
+          "te": "దేవుడు లోకమును ఎంతో ప్రేమించెను...",
+          "en": "For God so loved the world..."
+        }
       },
       "answer": {
-        "en": [
-          {
-            "type": "para",
-            "text": "Jesus never said, 'IF you fast,' He explicitly said, 'WHEN you fast' (Matthew 6:16). Fasting is not an outdated Old Testament ritual; it is a powerful spiritual weapon for every believer today! Prayer connects you to God, but fasting disconnects you from the world. When you fast, you are telling your body, 'My hunger for God is greater than my hunger for food.' Fasting breaks strongholds, brings immense spiritual clarity, and heightens your sensitivity to the Holy Spirit's voice. While salvation is free and doesn't require fasting, true spiritual breakthrough and intimacy with God demand the sacrifice of fasting."
-          }
-        ],
         "te": [
           {
             "type": "para",
             "text": "యేసయ్య ఎప్పుడూ 'మీకు కుదిరితే ఉపవాసం ఉండండి' అని చెప్పలేదు, 'మీరు ఉపవాసము చేయునప్పుడు' (మత్తయి 6:16) అని చాలా స్పష్టంగా చెప్పాడు. ఉపవాసం అనేది పాతనిబంధన కాలపు ఆచారం కాదు, అది ఈరోజు ప్రతి క్రైస్తవుడి చేతిలో ఉన్న ఒక అత్యంత శక్తివంతమైన ఆత్మీయ ఆయుధం! ప్రార్థన నిన్ను దేవునికి కనెక్ట్ చేస్తే, ఉపవాసం నిన్ను లోకం నుండి డిస్‌కనెక్ట్ చేస్తుంది. నువ్వు ఉపవాసం ఉన్నప్పుడు నీ శరీరానికి ఒక మెసేజ్ ఇస్తున్నావు: 'నాకు భోజనం మీద ఉన్న ఆకలి కంటే, దేవుని మీద ఉన్న ఆకలే ఎక్కువ' అని. ఉపవాసం ద్వారా అపవాది కోటలు బద్దలవుతాయి, మీ ఆత్మీయ నేత్రాలు తెరవబడతాయి, పరిశుద్ధాత్మ స్వరాన్ని చాలా స్పష్టంగా వినగలుగుతారు. రక్షణ పొందడానికి ఉపవాసం అవసరం లేదు గానీ, ఆత్మీయ జీవితంలో గొప్ప విజయాలు చూడాలంటే కచ్చితంగా ఉపవాస ప్రార్థన అవసరం."
           }
+        ],
+        "en": [
+          {
+            "type": "para",
+            "text": "Jesus never said, 'IF you fast,' He explicitly said, 'WHEN you fast' (Matthew 6:16). Fasting is not an outdated Old Testament ritual; it is a powerful spiritual weapon for every believer today! Prayer connects you to God, but fasting disconnects you from the world. When you fast, you are telling your body, 'My hunger for God is greater than my hunger for food.' Fasting breaks strongholds, brings immense spiritual clarity, and heightens your sensitivity to the Holy Spirit's voice. While salvation is free and doesn't require fasting, true spiritual breakthrough and intimacy with God demand the sacrifice of fasting."
+          }
         ]
       },
+      "verses": [],
       "relatedIds": [],
       "shareLine": {
-        "en": "Is fasting really necessary for Christians today, or is prayer alone enough?",
-        "te": "ఈ రోజుల్లో క్రైస్తవులు ఉపవాసం ఉండటం నిజంగా అవసరమా, లేక కేవలం ప్రార్థన సరిపోతుందా?"
-      },
-      "verses": [],
-      "keyVerse": {
-        "book": {
-          "en": "John",
-          "te": "యోహాను"
-        },
-        "chapter": 3,
-        "verse": 16,
-        "ref": {
-          "en": "John 3:16",
-          "te": "యోహాను 3:16"
-        },
-        "text": {
-          "en": "For God so loved the world...",
-          "te": "దేవుడు లోకమును ఎంతో ప్రేమించెను..."
-        }
+        "te": "ఈ రోజుల్లో క్రైస్తవులు ఉపవాసం ఉండటం నిజంగా అవసరమా, లేక కేవలం ప్రార్థన సరిపోతుందా?",
+        "en": "Is fasting really necessary for Christians today, or is prayer alone enough?"
       }
     },
     {
-      "id": "q_salvation_6",
+      "id": "qa_0030",
       "categoryId": "salvation",
-      "order": 99,
+      "order": 6,
       "diamondCost": 0,
       "featured": true,
       "tags": [
         "salvation"
       ],
       "question": {
-        "en": "What happens to people who lived and died without ever hearing the name of Jesus? Do they automatically go to hell?",
-        "te": "యేసుక్రీస్తు పేరు కూడా ఎప్పుడూ వినకుండా బ్రతికి చనిపోయిన వారి పరిస్థితి ఏమిటి? వాళ్ళు నేరుగా నరకానికి వెళ్తారా?"
+        "te": "యేసుక్రీస్తు పేరు కూడా ఎప్పుడూ వినకుండా బ్రతికి చనిపోయిన వారి పరిస్థితి ఏమిటి? వాళ్ళు నేరుగా నరకానికి వెళ్తారా?",
+        "en": "What happens to people who lived and died without ever hearing the name of Jesus? Do they automatically go to hell?"
       },
       "shortAnswer": {
-        "en": "This is one of the most emotionally challenging questions in theology. The Bible makes two things perfectly clear: First, Jesus is the ONLY way to sal...",
-        "te": "బైబిల్ లో ఇది ఎంతో లోతైన మరియు క్లిష్టమైన ప్రశ్న. బైబిల్ రెండు విషయాలను చాలా స్పష్టంగా చెబుతోంది: మొదటిది, యేసుక్రీస్తు మాత్రమే రక్షణకు ఏకైక మార్గం (య..."
+        "te": "బైబిల్ లో ఇది ఎంతో లోతైన మరియు క్లిష్టమైన ప్రశ్న. బైబిల్ రెండు విషయాలను చాలా స్పష్టంగా చెబుతోంది: మొదటిది, యేసుక్రీస్తు మాత్రమే రక్షణకు ఏకైక మార్గం (య...",
+        "en": "This is one of the most emotionally challenging questions in theology. The Bible makes two things perfectly clear: First, Jesus is the ONLY way to sal..."
+      },
+      "keyVerse": {
+        "book": {
+          "te": "Romans",
+          "en": "Romans"
+        },
+        "chapter": 1,
+        "verse": 19,
+        "ref": {
+          "te": "Romans 1:19",
+          "en": "Romans 1:19-20"
+        },
+        "text": {
+          "te": "because that which is known of God is revealed in them, for God revealed it to them.",
+          "en": "because that which is known of God is revealed in them, for God revealed it to them."
+        }
       },
       "answer": {
-        "en": [
-          {
-            "type": "para",
-            "text": "This is one of the most emotionally challenging questions in theology. The Bible makes two things perfectly clear: First, Jesus is the ONLY way to salvation (John 14:6). Second, God is perfectly just and completely fair; He will never punish someone unjustly. Romans 1 teaches that God has revealed His existence and power to EVERY human being through creation (nature) and the human conscience (knowing right from wrong). God will judge those who never heard the Gospel based on how they responded to the light (knowledge) they were given. We can trust completely that the Judge of all the earth will do right (Genesis 18:25). Our job is not to figure out the loopholes of who goes to heaven; our job is to urgently preach the Gospel to everyone so they don't have to guess!"
-          }
-        ],
         "te": [
           {
             "type": "para",
             "text": "బైబిల్ లో ఇది ఎంతో లోతైన మరియు క్లిష్టమైన ప్రశ్న. బైబిల్ రెండు విషయాలను చాలా స్పష్టంగా చెబుతోంది: మొదటిది, యేసుక్రీస్తు మాత్రమే రక్షణకు ఏకైక మార్గం (యోహాను 14:6). రెండవది, దేవుడు సంపూర్ణమైన న్యాయవంతుడు, ఆయన ఎవరికీ అన్యాయంగా శిక్ష విధించడు. రోమా 1వ అధ్యాయం ప్రకారం, దేవుడు ప్రతి మనిషికీ సృష్టి (ప్రకృతి) ద్వారా తన ఉనికిని బయలుపరిచాడు. అంతేకాకుండా ప్రతి మనిషికి ఏది మంచో, ఏది చెడో తెలుసుకునే 'మనస్సాక్షిని' దేవుడు ఇచ్చాడు. కాబట్టి సువార్త వినని వారిని దేవుడు గుడ్డిగా నరకానికి పంపడు, వారికి ప్రకృతి ద్వారా, మనస్సాక్షి ద్వారా ఇవ్వబడిన ఆ కొద్దిపాటి వెలుగును వాళ్ళు ఎలా అంగీకరించారు అనేదానిపై దేవుడు అత్యంత న్యాయంగా తీర్పు తీరుస్తాడు. సర్వలోకానికి తీర్పు తీర్చే దేవుడు ఎప్పుడూ న్యాయమే చేస్తాడు (ఆది 18:25). అయితే, 'సువార్త వినని వాళ్ళు పరలోకానికి వెళ్తారా లేదా' అని మనం లాజిక్స్ వెతకడం కంటే, ప్రతి ఒక్కరికీ సువార్తను అత్యవసరంగా ప్రకటించడమే మన బాధ్యత!"
           }
+        ],
+        "en": [
+          {
+            "type": "para",
+            "text": "This is one of the most emotionally challenging questions in theology. The Bible makes two things perfectly clear: First, Jesus is the ONLY way to salvation (John 14:6). Second, God is perfectly just and completely fair; He will never punish someone unjustly. Romans 1 teaches that God has revealed His existence and power to EVERY human being through creation (nature) and the human conscience (knowing right from wrong). God will judge those who never heard the Gospel based on how they responded to the light (knowledge) they were given. We can trust completely that the Judge of all the earth will do right (Genesis 18:25). Our job is not to figure out the loopholes of who goes to heaven; our job is to urgently preach the Gospel to everyone so they don't have to guess!"
+          }
         ]
-      },
-      "relatedIds": [],
-      "shareLine": {
-        "en": "What happens to people who lived and died without ever hearing the name of Jesus? Do they automatically go to hell?",
-        "te": "యేసుక్రీస్తు పేరు కూడా ఎప్పుడూ వినకుండా బ్రతికి చనిపోయిన వారి పరిస్థితి ఏమిటి? వాళ్ళు నేరుగా నరకానికి వెళ్తారా?"
       },
       "verses": [
         {
           "book": {
-            "en": "Romans",
-            "te": "Romans"
+            "te": "Romans",
+            "en": "Romans"
           },
           "chapter": 1,
           "verse": 19,
           "ref": {
-            "en": "Romans 1:19-20",
-            "te": "Romans 1:19"
+            "te": "Romans 1:19",
+            "en": "Romans 1:19-20"
           },
           "text": {
-            "en": "because that which is known of God is revealed in them, for God revealed it to them.",
-            "te": "because that which is known of God is revealed in them, for God revealed it to them."
+            "te": "because that which is known of God is revealed in them, for God revealed it to them.",
+            "en": "because that which is known of God is revealed in them, for God revealed it to them."
           }
         },
         {
           "book": {
-            "en": "Romans",
-            "te": "Romans"
+            "te": "Romans",
+            "en": "Romans"
           },
           "chapter": 2,
           "verse": 14,
           "ref": {
-            "en": "Romans 2:14-16",
-            "te": "Romans 2:14"
+            "te": "Romans 2:14",
+            "en": "Romans 2:14-16"
           },
           "text": {
-            "en": "(for when Gentiles who don’t have the law do by nature the things of the law, these, not having the law, are a law to themselves,",
-            "te": "(for when Gentiles who don’t have the law do by nature the things of the law, these, not having the law, are a law to themselves,"
+            "te": "(for when Gentiles who don’t have the law do by nature the things of the law, these, not having the law, are a law to themselves,",
+            "en": "(for when Gentiles who don’t have the law do by nature the things of the law, these, not having the law, are a law to themselves,"
           }
         },
         {
           "book": {
-            "en": "Genesis",
-            "te": "Genesis"
+            "te": "Genesis",
+            "en": "Genesis"
           },
           "chapter": 18,
           "verse": 25,
           "ref": {
-            "en": "Genesis 18:25",
-            "te": "Genesis 18:25"
+            "te": "Genesis 18:25",
+            "en": "Genesis 18:25"
           },
           "text": {
-            "en": "Be it far from you to do things like that, to kill the righteous with the wicked, so that the righteous should be like the wicked. May that be far from you. Shouldn’t the Judge of all the earth do right?”",
-            "te": "Be it far from you to do things like that, to kill the righteous with the wicked, so that the righteous should be like the wicked. May that be far from you. Shouldn’t the Judge of all the earth do right?”"
+            "te": "Be it far from you to do things like that, to kill the righteous with the wicked, so that the righteous should be like the wicked. May that be far from you. Shouldn’t the Judge of all the earth do right?”",
+            "en": "Be it far from you to do things like that, to kill the righteous with the wicked, so that the righteous should be like the wicked. May that be far from you. Shouldn’t the Judge of all the earth do right?”"
           }
         }
       ],
-      "keyVerse": {
-        "book": {
-          "en": "Romans",
-          "te": "Romans"
-        },
-        "chapter": 1,
-        "verse": 19,
-        "ref": {
-          "en": "Romans 1:19-20",
-          "te": "Romans 1:19"
-        },
-        "text": {
-          "en": "because that which is known of God is revealed in them, for God revealed it to them.",
-          "te": "because that which is known of God is revealed in them, for God revealed it to them."
-        }
+      "relatedIds": [],
+      "shareLine": {
+        "te": "యేసుక్రీస్తు పేరు కూడా ఎప్పుడూ వినకుండా బ్రతికి చనిపోయిన వారి పరిస్థితి ఏమిటి? వాళ్ళు నేరుగా నరకానికి వెళ్తారా?",
+        "en": "What happens to people who lived and died without ever hearing the name of Jesus? Do they automatically go to hell?"
       }
     }
   ]
