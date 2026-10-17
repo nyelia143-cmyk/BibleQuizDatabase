@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-28",
+  "updatedAt": "2026-10-17",
   "categories": [
     {
       "id": "god_trinity",
@@ -254,13 +254,13 @@
       "verses": [
         {
           "book": {
-            "te": "రోమా",
+            "te": "రోమీయులకు",
             "en": "Romans"
           },
           "chapter": 10,
           "verse": 9,
           "ref": {
-            "te": "రోమా 10:9",
+            "te": "రోమీయులకు 10:9",
             "en": "Romans 10:9"
           },
           "text": {
@@ -441,7 +441,7 @@
           "chapter": 4,
           "verse": 6,
           "ref": {
-            "te": "ఫిలిప్పీ 4:6-7",
+            "te": "ఫిలిప్పీయులకు 4:6-7",
             "en": "Philippians 4:6-7"
           },
           "text": {
@@ -451,13 +451,13 @@
         },
         {
           "book": {
-            "te": "2 కొరింథీయులకు",
+            "te": "2 కోరింథీయులకు",
             "en": "2 Corinthians"
           },
           "chapter": 12,
           "verse": 9,
           "ref": {
-            "te": "2 కొరింథీయులకు 12:9",
+            "te": "2 కోరింథీయులకు 12:9",
             "en": "2 Corinthians 12:9"
           },
           "text": {
@@ -497,13 +497,13 @@
       },
       "keyVerse": {
         "book": {
-          "te": "రోమా",
+          "te": "రోమీయులకు",
           "en": "Romans"
         },
         "chapter": 8,
         "verse": 28,
         "ref": {
-          "te": "రోమా 8:28",
+          "te": "రోమీయులకు 8:28",
           "en": "Romans 8:28"
         },
         "text": {
@@ -616,7 +616,7 @@
           "chapter": 21,
           "verse": 4,
           "ref": {
-            "te": "ప్రకటన 21:4",
+            "te": "ప్రకటన గ్రంథము 21:4",
             "en": "Revelation 21:4"
           },
           "text": {
@@ -877,7 +877,7 @@
         "chapter": 6,
         "verse": 4,
         "ref": {
-          "te": "ద్వితీయో. 6:4",
+          "te": "ద్వితీయోపదేశకాండము 6:4",
           "en": "Deuteronomy 6:4"
         },
         "text": {
@@ -984,8 +984,40 @@
             "en": "Matthew 28:19"
           },
           "text": {
-            "te": "కాబట్టి మీరు వెళ్లి, సమస్త జనులను శిష్యులనుగా చేయుడి; తండ్రి యొక్కయు కుమారుని యొక్కయు పరిశుద్ధాత్మ యొక్కయు నామములోనికి వారికి బాప్తిస్మమిచ్చుచు...",
-            "en": "Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit."
+            "te": "కాబట్టి మీరు వెళ్లి, సమస్త జనులను శిష్యులనుగా చేయుడి; తండ్రియొక్కయు కుమారునియొక్కయు పరిశుద్ధాత్మయొక్కయు నామములోనికి వారికి బాప్తిస్మ మిచ్చుచు",
+            "en": "Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost:"
+          }
+        },
+        {
+          "book": {
+            "te": "2 కోరింథీయులకు",
+            "en": "2 Corinthians"
+          },
+          "chapter": 13,
+          "verse": 14,
+          "ref": {
+            "te": "2 కోరింథీయులకు 13:14",
+            "en": "2 Corinthians 13:14"
+          },
+          "text": {
+            "te": "ప్రభువైన యేసుక్రీస్తు కృపయు దేవుని ప్రేమయు పరిశుద్ధాత్మ సహవాసమును మీకందరికిని తోడైయుండును గాక.",
+            "en": "The grace of the Lord Jesus Christ, and the love of God, and the communion of the Holy Ghost, be with you all. Amen."
+          }
+        },
+        {
+          "book": {
+            "te": "మత్తయి",
+            "en": "Matthew"
+          },
+          "chapter": 3,
+          "verse": 16,
+          "ref": {
+            "te": "మత్తయి 3:16-17",
+            "en": "Matthew 3:16-17"
+          },
+          "text": {
+            "te": "యేసు బాప్తిస్మము పొందిన వెంటనే నీళ్లలోనుండి ఒడ్డునకు వచ్చెను; ఇదిగో ఆకాశము తెరవబడెను, దేవుని ఆత్మ పావురమువలె దిగి తనమీదికి వచ్చుట చూచెను. మరియుఇదిగో ఈయనే నా ప్రియ కుమారుడు, ఈయనయందు నేనానందించు చున్నానని యొక శబ్దము ఆకాశమునుండి వచ్చెను.",
+            "en": "And Jesus, when he was baptized, went up straightway out of the water: and, lo, the heavens were opened unto him, and he saw the Spirit of God descending like a dove, and lighting upon him: And lo a voice from heaven, saying, This is my beloved Son, in whom I am well pleased."
           }
         }
       ],
@@ -1123,18 +1155,50 @@
       "verses": [
         {
           "book": {
-            "te": "కొలొస్సీయులకు",
+            "te": "కొలొస్సయులకు",
             "en": "Colossians"
           },
           "chapter": 2,
           "verse": 9,
           "ref": {
-            "te": "కొలొస్సీ 2:9",
+            "te": "కొలొస్సయులకు 2:9",
             "en": "Colossians 2:9"
           },
           "text": {
-            "te": "ఏలయనగా దేవత్వముయొక్క సర్వపరిపూర్ణత శరీరముగా క్రీస్తునందు నివసించుచున్నది.",
-            "en": "For in Christ all the fullness of the Deity lives in bodily form."
+            "te": "ఏలయనగా దేవత్వముయొక్క సర్వపరిపూర్ణత శరీరముగా క్రీస్తునందు నివసించు చున్నది;",
+            "en": "For in him dwelleth all the fulness of the Godhead bodily."
+          }
+        },
+        {
+          "book": {
+            "te": "యోహాను",
+            "en": "John"
+          },
+          "chapter": 8,
+          "verse": 58,
+          "ref": {
+            "te": "యోహాను 8:58",
+            "en": "John 8:58"
+          },
+          "text": {
+            "te": "యేసు అబ్రాహాము పుట్టకమునుపే నేను ఉన్నానని మీతో నిశ్చయముగా చెప్పుచున్నాననెను.",
+            "en": "Jesus said unto them, Verily, verily, I say unto you, Before Abraham was, I am."
+          }
+        },
+        {
+          "book": {
+            "te": "యోహాను",
+            "en": "John"
+          },
+          "chapter": 20,
+          "verse": 28,
+          "ref": {
+            "te": "యోహాను 20:28",
+            "en": "John 20:28"
+          },
+          "text": {
+            "te": "అందుకు తోమా ఆయనతోనా ప్రభువా, నా దేవా అనెను.",
+            "en": "And Thomas answered and said unto him, My LORD and my God."
           }
         }
       ],
@@ -1175,7 +1239,7 @@
         "chapter": 5,
         "verse": 3,
         "ref": {
-          "te": "అపొ. కార్యాలు 5:3-4",
+          "te": "అపొస్తలుల కార్యములు 5:3-4",
           "en": "Acts 5:3-4"
         },
         "text": {
@@ -1272,6 +1336,38 @@
       "verses": [
         {
           "book": {
+            "te": "యోహాను",
+            "en": "John"
+          },
+          "chapter": 14,
+          "verse": 16,
+          "ref": {
+            "te": "యోహాను 14:16-17",
+            "en": "John 14:16-17"
+          },
+          "text": {
+            "te": "నేను తండ్రిని వేడుకొందును, మీయొద్ద ఎల్లప్పుడు నుండు టకై ఆయన వేరొక ఆదరణకర్తను, అనగా సత్యస్వరూపి యగు ఆత్మను మీకనుగ్రహించును. లోకము ఆయ నను చూడదు, ఆయనను ఎరుగదు గనుక ఆయనను పొంద నేరదు; మీరు ఆయనను ఎరుగుదురు. ఆయన మీతో కూడ నివసించును, మీలో ఉండును.",
+            "en": "And I will pray the Father, and he shall give you another Comforter, that he may abide with you for ever; Even the Spirit of truth; whom the world cannot receive, because it seeth him not, neither knoweth him: but ye know him; for he dwelleth with you, and shall be in you."
+          }
+        },
+        {
+          "book": {
+            "te": "1 కోరింథీయులకు",
+            "en": "1 Corinthians"
+          },
+          "chapter": 12,
+          "verse": 11,
+          "ref": {
+            "te": "1 కోరింథీయులకు 12:11",
+            "en": "1 Corinthians 12:11"
+          },
+          "text": {
+            "te": "అయినను వీటినన్నిటిని ఆ ఆత్మ యొకడే తన చిత్తము చొప్పున ప్రతివానికి ప్రత్యేకముగా పంచి యిచ్చుచు కార్యసిద్ధి కలుగజేయుచున్నాడు.",
+            "en": "But all these worketh that one and the selfsame Spirit, dividing to every man severally as he will."
+          }
+        },
+        {
+          "book": {
             "te": "ఎఫెసీయులకు",
             "en": "Ephesians"
           },
@@ -1282,8 +1378,8 @@
             "en": "Ephesians 4:30"
           },
           "text": {
-            "te": "దేవుని పరిశుద్ధాత్మను దుఃఖపరచకుడి; విమోచన దినమువరకు ఆయనయందు మీరు ముద్రింపబడి యున్నారు.",
-            "en": "And do not grieve the Holy Spirit of God, with whom you were sealed for the day of redemption."
+            "te": "దేవుని పరిశుద్ధాత్మను దుఃఖపరచకుడి; విమోచనదినమువరకు ఆయనయందు మీరు ముద్రింపబడి యున్నారు.",
+            "en": "And grieve not the holy Spirit of God, whereby ye are sealed unto the day of redemption."
           }
         }
       ],
@@ -1404,6 +1500,22 @@
       "verses": [
         {
           "book": {
+            "te": "ఫిలిప్పీయులకు",
+            "en": "Philippians"
+          },
+          "chapter": 2,
+          "verse": 6,
+          "ref": {
+            "te": "ఫిలిప్పీయులకు 2:6-8",
+            "en": "Philippians 2:6-8"
+          },
+          "text": {
+            "te": "ఆయన దేవుని స్వరూ పము కలిగినవాడైయుండి, దేవునితో సమానముగా ఉండుట విడిచిపెట్టకూడని భాగ్యమని యెంచుకొనలేదు గాని మనుష్యుల పోలికగా పుట్టి, దాసుని స్వరూపమును ధరించుకొని, తన్ను తానే రిక్తునిగా చేసికొనెను. మరియు, ఆయన ఆకారమందు మనుష్యుడుగా కనబడి, మరణము పొందునంతగా, అనగా సిలువమరణము పొందు నంతగా విధేయత చూపినవాడై, తన్నుతాను తగ్గించుకొనెను.",
+            "en": "Who, being in the form of God, thought it not robbery to be equal with God: But made himself of no reputation, and took upon him the form of a servant, and was made in the likeness of men: And being found in fashion as a man, he humbled himself, and became obedient unto death, even the death of the cross."
+          }
+        },
+        {
+          "book": {
             "te": "లూకా",
             "en": "Luke"
           },
@@ -1414,8 +1526,8 @@
             "en": "Luke 22:42"
           },
           "text": {
-            "te": "తండ్రీ, యీ గిన్నె నా యొద్దనుండి తొలగించుటకు నీ చిత్తమైతే తొలగించుము; అయినను నా యిష్టము కాదు, నీ చిత్తమే సిద్ధించును గాక.",
-            "en": "Father, if you are willing, take this cup from me; yet not my will, but yours be done."
+            "te": "వారి యొద్ద నుండి రాతివేత దూరము వెళ్లి మోకాళ్లూని",
+            "en": "Saying, Father, if thou be willing, remove this cup from me: nevertheless not my will, but thine, be done."
           }
         }
       ],
@@ -1536,18 +1648,34 @@
       "verses": [
         {
           "book": {
-            "te": "రోమా",
+            "te": "రోమీయులకు",
             "en": "Romans"
           },
           "chapter": 3,
-          "verse": 26,
+          "verse": 25,
           "ref": {
-            "te": "రోమా 3:26",
-            "en": "Romans 3:26"
+            "te": "రోమీయులకు 3:25-26",
+            "en": "Romans 3:25-26"
           },
           "text": {
-            "te": "ఆయన నీతిమంతుడును, యేసునందు విశ్వాసముగలవానిని నీతిమంతునిగా తీర్చువాడునై యుండుటకు...",
-            "en": "...so as to be just and the one who justifies those who have faith in Jesus."
+            "te": "పూర్వము చేయబడిన పాపములను దేవుడు తన ఓరిమివలన ఉపేక్షించినందున, ఆయన తన నీతిని కనువరచవలెనని క్రీస్తుయేసు రక్తమునందలి విశ్వాసము ద్వారా ఆయనను కరుణాధారముగా బయలుపరచెను. దేవుడిప్పటి కాలమందు తన నీతిని కనబరచునిమిత్తము, తాను నీతిమంతుడును యేసునందు విశ్వాసముగలవానిని నీతిమంతునిగా తీర్చువాడునై యుండుటకు ఆయన ఆలాగు చేసెను.",
+            "en": "Whom God hath set forth to be a propitiation through faith in his blood, to declare his righteousness for the remission of sins that are past, through the forbearance of God; To declare, I say, at this time his righteousness: that he might be just, and the justifier of him which believeth in Jesus."
+          }
+        },
+        {
+          "book": {
+            "te": "యోహాను",
+            "en": "John"
+          },
+          "chapter": 3,
+          "verse": 16,
+          "ref": {
+            "te": "యోహాను 3:16",
+            "en": "John 3:16"
+          },
+          "text": {
+            "te": "దేవుడు లోకమును ఎంతో ప్రేమించెను. కాగా ఆయన తన అద్వితీయకుమారునిగా3 పుట్టిన వానియందు విశ్వాసముంచు ప్రతివాడును నశింపక నిత్యజీవము పొందునట్లు ఆయనను అనుగ్రహించెను.",
+            "en": "For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life."
           }
         }
       ],
@@ -1678,8 +1806,24 @@
             "en": "Hebrews 13:8"
           },
           "text": {
-            "te": "యేసుక్రీస్తు నిన్న, నేడు, ఒకే రీతిగా ఉన్నాడు; అవును యుగయుగములకును అదే రీతిగా ఉండును.",
-            "en": "Jesus Christ is the same yesterday and today and forever."
+            "te": "యేసుక్రీస్తు నిన్న, నేడు, ఒక్కటేరీతిగా ఉన్నాడు; అవును యుగయుగములకును ఒక్కటే రీతిగా ఉండును.",
+            "en": "Jesus Christ the same yesterday, and to day, and for ever."
+          }
+        },
+        {
+          "book": {
+            "te": "నిర్గమకాండము",
+            "en": "Exodus"
+          },
+          "chapter": 34,
+          "verse": 6,
+          "ref": {
+            "te": "నిర్గమకాండము 34:6",
+            "en": "Exodus 34:6"
+          },
+          "text": {
+            "te": "అతనియెదుట యెహోవా అతని దాటి వెళ్లుచుయెహోవా కనికరము, దయ, దీర్ఘశాంతము, విస్తారమైన కృపాసత్యములుగల దేవుడైన యెహోవా.",
+            "en": "And the LORD passed by before him, and proclaimed, The LORD, The LORD God, merciful and gracious, longsuffering, and abundant in goodness and truth,"
           }
         }
       ],
@@ -1719,7 +1863,7 @@
         "chapter": 1,
         "verse": 4,
         "ref": {
-          "te": "ఎఫెసీ 1:4-5",
+          "te": "ఎఫెసీయులకు 1:4-5",
           "en": "Ephesians 1:4-5"
         },
         "text": {
@@ -1797,7 +1941,56 @@
           }
         ]
       },
-      "verses": [],
+      "verses": [
+        {
+          "book": {
+            "te": "ప్రకటన గ్రంథము",
+            "en": "Revelation"
+          },
+          "chapter": 13,
+          "verse": 8,
+          "ref": {
+            "te": "ప్రకటన గ్రంథము 13:8",
+            "en": "Revelation 13:8"
+          },
+          "text": {
+            "te": "భూని వాసులందరును, అనగా జగదుత్పత్తి మొదలుకొని వధింప బడియున్న గొఱ్ఱపిల్లయొక్క జీవగ్రంథమందు ఎవరి పేరు వ్రాయబడలేదో వారు, ఆ మృగమునకు నమస్కారము చేయుదురు.",
+            "en": "And all that dwell upon the earth shall worship him, whose names are not written in the book of life of the Lamb slain from the foundation of the world."
+          }
+        },
+        {
+          "book": {
+            "te": "రోమీయులకు",
+            "en": "Romans"
+          },
+          "chapter": 5,
+          "verse": 8,
+          "ref": {
+            "te": "రోమీయులకు 5:8",
+            "en": "Romans 5:8"
+          },
+          "text": {
+            "te": "అయితే దేవుడు మనయెడల తన ప్రేమను వెల్లడిపరచుచున్నాడు; ఎట్లనగా మనమింకను పాపులమై యుండగానే క్రీస్తు మనకొరకు చనిపోయెను.",
+            "en": "But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us."
+          }
+        },
+        {
+          "book": {
+            "te": "1 పేతురు",
+            "en": "1 Peter"
+          },
+          "chapter": 1,
+          "verse": 19,
+          "ref": {
+            "te": "1 పేతురు 1:19-20",
+            "en": "1 Peter 1:19-20"
+          },
+          "text": {
+            "te": "అమూల్యమైన రక్తముచేత, అనగా నిర్దోషమును నిష్కళంకమునగు గొఱ్ఱపిల్లవంటి క్రీస్తు రక్తముచేత, విమోచింపబడితిరని మీరెరుగుదురు గదా ఆయన జగత్తు పునాది వేయబడక మునుపే నియ మింపబడెను గాని తన్ను మృతులలోనుండి లేపి తనకు మహిమనిచ్చిన దేవునియెడల తన ద్వారా విశ్వాసులైన మీ నిమిత్తము, కడవరి కాలములయందు ఆయన ప్రత్యక్ష పరచబడెను. కాగా మీ విశ్వాసమును నిరీక్షణయు దేవుని యందు ఉంచబడియున్నవి.",
+            "en": "But with the precious blood of Christ, as of a lamb without blemish and without spot: Who verily was foreordained before the foundation of the world, but was manifest in these last times for you,"
+          }
+        }
+      ],
       "relatedIds": [
         "qa_0001",
         "qa_0003"
@@ -1913,7 +2106,56 @@
           }
         ]
       },
-      "verses": [],
+      "verses": [
+        {
+          "book": {
+            "te": "నిర్గమకాండము",
+            "en": "Exodus"
+          },
+          "chapter": 33,
+          "verse": 20,
+          "ref": {
+            "te": "నిర్గమకాండము 33:20",
+            "en": "Exodus 33:20"
+          },
+          "text": {
+            "te": "మరియు ఆయననీవు నా ముఖమును చూడజాలవు; ఏ నరుడును నన్ను చూచి బ్రదుకడనెను.",
+            "en": "And he said, Thou canst not see my face: for there shall no man see me, and live."
+          }
+        },
+        {
+          "book": {
+            "te": "కొలొస్సయులకు",
+            "en": "Colossians"
+          },
+          "chapter": 1,
+          "verse": 15,
+          "ref": {
+            "te": "కొలొస్సయులకు 1:15",
+            "en": "Colossians 1:15"
+          },
+          "text": {
+            "te": "ఆయన అదృశ్యదేవుని స్వరూపియై సర్వసృష్టికి ఆదిసంభూతుడై యున్నాడు.",
+            "en": "Who is the image of the invisible God, the firstborn of every creature:"
+          }
+        },
+        {
+          "book": {
+            "te": "యోహాను",
+            "en": "John"
+          },
+          "chapter": 14,
+          "verse": 9,
+          "ref": {
+            "te": "యోహాను 14:9",
+            "en": "John 14:9"
+          },
+          "text": {
+            "te": "యేసు ఫిలిప్పూ, నేనింతకాలము మీ యొద్ద ఉండినను నీవు నన్ను ఎరుగవా? నన్ను చూచిన వాడు తండ్రిని చూచియున్నాడు గనుక తండ్రిని మాకు కనుపరచుమని యేల చెప్పుచున్నావు?",
+            "en": "Jesus saith unto him, Have I been so long time with you, and yet hast thou not known me, Philip? he that hath seen me hath seen the Father; and how sayest thou then, Shew us the Father?"
+          }
+        }
+      ],
       "relatedIds": [
         "qa_0005",
         "qa_0006"
@@ -1945,13 +2187,13 @@
       },
       "keyVerse": {
         "book": {
-          "te": "రోమా",
+          "te": "రోమీయులకు",
           "en": "Romans"
         },
         "chapter": 16,
         "verse": 20,
         "ref": {
-          "te": "రోమా 16:20",
+          "te": "రోమీయులకు 16:20",
           "en": "Romans 16:20"
         },
         "text": {
@@ -2013,7 +2255,56 @@
           }
         ]
       },
-      "verses": [],
+      "verses": [
+        {
+          "book": {
+            "te": "1 యోహాను",
+            "en": "1 John"
+          },
+          "chapter": 3,
+          "verse": 8,
+          "ref": {
+            "te": "1 యోహాను 3:8",
+            "en": "1 John 3:8"
+          },
+          "text": {
+            "te": "అపవాది మొదట నుండి పాపము చేయుచున్నాడు గనుక పాపము చేయువాడు అపవాది సంబంధి; అపవాది యొక్క క్రియలను లయపరచుటకే దేవుని కుమారుడు ప్రత్యక్షమాయెను.",
+            "en": "He that committeth sin is of the devil; for the devil sinneth from the beginning. For this purpose the Son of God was manifested, that he might destroy the works of the devil."
+          }
+        },
+        {
+          "book": {
+            "te": "హెబ్రీయులకు",
+            "en": "Hebrews"
+          },
+          "chapter": 2,
+          "verse": 14,
+          "ref": {
+            "te": "హెబ్రీయులకు 2:14",
+            "en": "Hebrews 2:14"
+          },
+          "text": {
+            "te": "కాబట్టి ఆ పిల్లలు రక్తమాంస ములు గలవారైనందున ఆ ప్రకారమే మరణముయొక్క బలముగలవానిని, అనగా అపవాదిని మరణముద్వారా నశింపజేయుటకును,",
+            "en": "Forasmuch then as the children are partakers of flesh and blood, he also himself likewise took part of the same; that through death he might destroy him that had the power of death, that is, the devil;"
+          }
+        },
+        {
+          "book": {
+            "te": "ప్రకటన గ్రంథము",
+            "en": "Revelation"
+          },
+          "chapter": 20,
+          "verse": 10,
+          "ref": {
+            "te": "ప్రకటన గ్రంథము 20:10",
+            "en": "Revelation 20:10"
+          },
+          "text": {
+            "te": "వారిని మోసపరచిన అపవాది అగ్ని గంధకములుగల గుండములో పడవేయబడెను. అచ్చట ఆ క్రూరమృగమును అబద్ధ ప్రవక్తయు ఉన్నారు; వారు యుగయుగములు రాత్రింబగళ్లు బాధింపబడుదురు.",
+            "en": "And the devil that deceived them was cast into the lake of fire and brimstone, where the beast and the false prophet are, and shall be tormented day and night for ever and ever."
+          }
+        }
+      ],
       "relatedIds": [
         "qa_0003"
       ],
@@ -2049,7 +2340,7 @@
         "chapter": 22,
         "verse": 13,
         "ref": {
-          "te": "ప్రకటన 22:13",
+          "te": "ప్రకటన గ్రంథము 22:13",
           "en": "Revelation 22:13"
         },
         "text": {
@@ -2127,7 +2418,56 @@
           }
         ]
       },
-      "verses": [],
+      "verses": [
+        {
+          "book": {
+            "te": "ప్రకటన గ్రంథము",
+            "en": "Revelation"
+          },
+          "chapter": 1,
+          "verse": 8,
+          "ref": {
+            "te": "ప్రకటన గ్రంథము 1:8",
+            "en": "Revelation 1:8"
+          },
+          "text": {
+            "te": "అల్ఫాయు ఓమెగయు నేనే5. వర్తమాన భూత భవిష్యత్కాలములలో ఉండువాడను నేనే అని సర్వాధి కారియు దేవుడునగు ప్రభువు సెలవిచ్చుచున్నాడు.",
+            "en": "I am Alpha and Omega, the beginning and the ending, saith the Lord, which is, and which was, and which is to come, the Almighty."
+          }
+        },
+        {
+          "book": {
+            "te": "యెషయా",
+            "en": "Isaiah"
+          },
+          "chapter": 44,
+          "verse": 6,
+          "ref": {
+            "te": "యెషయా 44:6",
+            "en": "Isaiah 44:6"
+          },
+          "text": {
+            "te": "ఇశ్రాయేలీయుల రాజైన యెహోవా వారి విమోచకుడైన సైన్యములకధిపతియగు యెహోవా ఈలాగు సెలవిచ్చుచున్నాడు నేను మొదటివాడను కడపటివాడను నేను తప్ప ఏ దేవుడును లేడు.",
+            "en": "Thus saith the LORD the King of Israel, and his redeemer the LORD of hosts; I am the first, and I am the last; and beside me there is no God."
+          }
+        },
+        {
+          "book": {
+            "te": "కొలొస్సయులకు",
+            "en": "Colossians"
+          },
+          "chapter": 1,
+          "verse": 16,
+          "ref": {
+            "te": "కొలొస్సయులకు 1:16-17",
+            "en": "Colossians 1:16-17"
+          },
+          "text": {
+            "te": "ఏలయనగా ఆకాశమందున్నవియు భూమియందున్న వియు, దృశ్యమైనవిగాని, అదృశ్యమైనవిగాని, అవి సింహాసనములైనను ప్రభుత్వములైనను ప్రధానులైనను అధికారములైనను, సర్వమును ఆయనయందు సృజింప బడెను, సర్వమును ఆయనద్వారాను ఆయననుబట్టియు సృజింపబడెను. ఆయన అన్నిటికంటె ముందుగా ఉన్న వాడు; ఆయనే సమస్తమునకు ఆధారభూతుడు.",
+            "en": "For by him were all things created, that are in heaven, and that are in earth, visible and invisible, whether they be thrones, or dominions, or principalities, or powers: all things were created by him, and for him: And he is before all things, and by him all things consist."
+          }
+        }
+      ],
       "relatedIds": [
         "qa_0006"
       ],
@@ -2150,23 +2490,23 @@
         "en": "Why does God sometimes seem silent, and our prayers remain unanswered even when we pray with strong faith?"
       },
       "shortAnswer": {
-        "te": "దేవుడు మౌనంగా ఉన్నాడు అంటే, ఆయన మనల్ని విడిచిపెట్టాడు అని అర్థం కాదు. దేవుడు 'వద్దు' అని చెప్పడం లేదా 'వేచియుండు' అనడం కూడా ప్రార్థనకు ఒక గొప్ప జవాబే!...",
-        "en": "When God is silent, it does not mean He is absent. A 'No' or a 'Wait' from God is just as much an answer as a 'Yes.' God’s perspective is eternal, whi..."
+        "te": "దేవుడు మౌనంగా ఉన్నాడు అంటే, ఆయన మనల్ని విడిచిపెట్టాడు అని అర్థం కాదు. దేవుడు 'వద్దు' అని చెప్పడం లేదా 'వేచియుండు' అనడం కూడా ప్రార్థనకు ఒక గొప్ప జవాబే!",
+        "en": "When God is silent, it does not mean He is absent. A 'No' or a 'Wait' from God is just as much an answer as a 'Yes.' God’s perspective is eternal, while ours is temporary."
       },
       "keyVerse": {
         "book": {
-          "te": "Isaiah",
+          "te": "యెషయా",
           "en": "Isaiah"
         },
         "chapter": 55,
         "verse": 8,
         "ref": {
-          "te": "Isaiah 55:8",
+          "te": "యెషయా 55:8-9",
           "en": "Isaiah 55:8-9"
         },
         "text": {
-          "te": "“For my thoughts are not your thoughts,\nand your ways are not my ways,” says Yahweh.",
-          "en": "“For my thoughts are not your thoughts,\nand your ways are not my ways,” says Yahweh."
+          "te": "నా తలంపులు మీ తలంపులవంటిని కావు మీ త్రోవలు నా త్రోవలవంటిని కావు ఇదే యెహోవా వాక్కు ఆకాశములు భూమికిపైన ఎంత యెత్తుగా ఉన్నవో మీ మార్గములకంటె నా మార్గములు మీ తలంపులకంటె నా తలంపులు అంత యెత్తుగా ఉన్నవి.",
+          "en": "For my thoughts are not your thoughts, neither are your ways my ways, saith the LORD. For as the heavens are higher than the earth, so are my ways higher than your ways, and my thoughts than your thoughts."
         }
       },
       "answer": {
@@ -2186,34 +2526,50 @@
       "verses": [
         {
           "book": {
-            "te": "Isaiah",
-            "en": "Isaiah"
-          },
-          "chapter": 55,
-          "verse": 8,
-          "ref": {
-            "te": "Isaiah 55:8",
-            "en": "Isaiah 55:8-9"
-          },
-          "text": {
-            "te": "“For my thoughts are not your thoughts,\nand your ways are not my ways,” says Yahweh.",
-            "en": "“For my thoughts are not your thoughts,\nand your ways are not my ways,” says Yahweh."
-          }
-        },
-        {
-          "book": {
-            "te": "2 Corinthians",
+            "te": "2 కోరింథీయులకు",
             "en": "2 Corinthians"
           },
           "chapter": 12,
           "verse": 8,
           "ref": {
-            "te": "2 Corinthians 12:8",
+            "te": "2 కోరింథీయులకు 12:8-9",
             "en": "2 Corinthians 12:8-9"
           },
           "text": {
-            "te": "Concerning this thing, I begged the Lord three times that it might depart from me.",
-            "en": "Concerning this thing, I begged the Lord three times that it might depart from me."
+            "te": "అది నాయొద్దనుండి తొలగిపోవలెనని దాని విషయమై ముమ్మారు ప్రభువును వేడుకొంటిని. అందుకునా కృప నీకు చాలును, బలహీనతయందు నాశక్తి పరిపూర్ణమగుచున్నదని ఆయన నాతో చెప్పెను. కాగా క్రీస్తు శక్తి నామీద నిలిచియుండు నిమిత్తము, విశేషముగా నా బలహీనతలయందె",
+            "en": "For this thing I besought the Lord thrice, that it might depart from me. And he said unto me, My grace is sufficient for thee: for my strength is made perfect in weakness. Most gladly therefore will I rather glory in my infirmities, that the power of Christ may rest upon me."
+          }
+        },
+        {
+          "book": {
+            "te": "రోమీయులకు",
+            "en": "Romans"
+          },
+          "chapter": 8,
+          "verse": 28,
+          "ref": {
+            "te": "రోమీయులకు 8:28",
+            "en": "Romans 8:28"
+          },
+          "text": {
+            "te": "దేవుని ప్రేమించువారికి, అనగా ఆయన సంకల్పముచొప్పున పిలువబడినవారికి, మేలుకలుగుటకై సమస్తమును సమకూడి జరుగుచున్నవని యెరుగుదుము.",
+            "en": "And we know that all things work together for good to them that love God, to them who are the called according to his purpose."
+          }
+        },
+        {
+          "book": {
+            "te": "కీర్తనలు",
+            "en": "Psalms"
+          },
+          "chapter": 27,
+          "verse": 14,
+          "ref": {
+            "te": "కీర్తనలు 27:14",
+            "en": "Psalm 27:14"
+          },
+          "text": {
+            "te": "ధైర్యము తెచ్చుకొని నీ హృదయమును నిబ్బరముగా నుంచుకొనుము యెహోవాకొరకు కనిపెట్టుకొని యుండుము.",
+            "en": "Wait on the LORD: be of good courage, and he shall strengthen thine heart: wait, I say, on the LORD."
           }
         }
       ],
@@ -2237,23 +2593,23 @@
         "en": "If God is unconditionally loving and all-powerful, why is there so much suffering, pain, and disease in the world?"
       },
       "shortAnswer": {
-        "te": "ఇది మానవ చరిత్రలో అత్యంత క్లిష్టమైన ప్రశ్న. దేవుడు ఈ లోకాన్ని బాధ, మరణం ఉండేలా సృష్టించలేదు. ఇవన్నీ ఏదెను వనంలో మానవుడు చేసిన పాపం (తిరుగుబాటు) వల్ల వ...",
-        "en": "This is the oldest question in human history. God did not create the world with pain or death; these are the tragic consequences of humanity's rebelli..."
+        "te": "ఇది మానవ చరిత్రలో అత్యంత క్లిష్టమైన ప్రశ్న. దేవుడు ఈ లోకాన్ని బాధ, మరణం ఉండేలా సృష్టించలేదు.",
+        "en": "This is the oldest question in human history. God did not create the world with pain or death; these are the tragic consequences of humanity's rebellion (sin) in the Garden of Eden."
       },
       "keyVerse": {
         "book": {
-          "te": "Romans",
+          "te": "రోమీయులకు",
           "en": "Romans"
         },
         "chapter": 8,
         "verse": 18,
         "ref": {
-          "te": "Romans 8:18",
+          "te": "రోమీయులకు 8:18",
           "en": "Romans 8:18"
         },
         "text": {
-          "te": "For I consider that the sufferings of this present time are not worthy to be compared with the glory which will be revealed toward us.",
-          "en": "For I consider that the sufferings of this present time are not worthy to be compared with the glory which will be revealed toward us."
+          "te": "మనయెడల ప్రత్యక్షము కాబోవు మహిమయెదుట ఇప్పటి కాలపు శ్రమలు ఎన్నతగినవి కావని యెంచు చున్నాను.",
+          "en": "For I reckon that the sufferings of this present time are not worthy to be compared with the glory which shall be revealed in us."
         }
       },
       "answer": {
@@ -2273,50 +2629,34 @@
       "verses": [
         {
           "book": {
-            "te": "Romans",
-            "en": "Romans"
-          },
-          "chapter": 8,
-          "verse": 18,
-          "ref": {
-            "te": "Romans 8:18",
-            "en": "Romans 8:18"
-          },
-          "text": {
-            "te": "For I consider that the sufferings of this present time are not worthy to be compared with the glory which will be revealed toward us.",
-            "en": "For I consider that the sufferings of this present time are not worthy to be compared with the glory which will be revealed toward us."
-          }
-        },
-        {
-          "book": {
-            "te": "Revelation",
+            "te": "ప్రకటన గ్రంథము",
             "en": "Revelation"
           },
           "chapter": 21,
           "verse": 4,
           "ref": {
-            "te": "Revelation 21:4",
+            "te": "ప్రకటన గ్రంథము 21:4",
             "en": "Revelation 21:4"
           },
           "text": {
-            "te": "He will wipe away every tear from their eyes. Death will be no more; neither will there be mourning, nor crying, nor pain, any more. The first things have passed away.”",
-            "en": "He will wipe away every tear from their eyes. Death will be no more; neither will there be mourning, nor crying, nor pain, any more. The first things have passed away.”"
+            "te": "ఆయన వారి కన్నుల ప్రతి బాష్పబిందువును తుడిచివేయును, మరణము ఇక ఉండదు, దుఃఖమైనను ఏడ్పైనను వేదనయైనను ఇక ఉండదు, మొదటి సంగతులు గతించి పోయెనని సింహాసనములోనుండి వచ్చిన గొప్ప స్వరము చెప్పుట వింటిని.",
+            "en": "And God shall wipe away all tears from their eyes; and there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain: for the former things are passed away."
           }
         },
         {
           "book": {
-            "te": "John",
+            "te": "యోహాను",
             "en": "John"
           },
           "chapter": 16,
           "verse": 33,
           "ref": {
-            "te": "John 16:33",
+            "te": "యోహాను 16:33",
             "en": "John 16:33"
           },
           "text": {
-            "te": "I have told you these things, that in me you may have peace. In the world you have oppression; but cheer up! I have overcome the world.”",
-            "en": "I have told you these things, that in me you may have peace. In the world you have oppression; but cheer up! I have overcome the world.”"
+            "te": "నాయందు మీకు సమాధానము కలుగునట్లు ఈ మాటలు మీతో చెప్పుచున్నాను. లోకములో మీకు శ్రమ కలుగును; అయినను ధైర్యము తెచ్చుకొనుడి, నేను లోకమును జయించి యున్నాననెను.",
+            "en": "These things I have spoken unto you, that in me ye might have peace. In the world ye shall have tribulation: but be of good cheer; I have overcome the world."
           }
         }
       ],
@@ -2340,23 +2680,23 @@
         "en": "Can a truly born-again Christian lose their salvation if they fall back into severe sin?"
       },
       "shortAnswer": {
-        "te": "ఇది బైబిల్ పండితుల మధ్య ఉన్న ఒక పెద్ద సందేహం. అయితే దేవుని వాక్యం విశ్వాసి రక్షణ భద్రత గురించి చాలా స్పష్టంగా చెబుతోంది. యేసయ్య ఇలా అన్నాడు, 'నేను వాట...",
-        "en": "This is a profound theological debate. However, Scripture heavily emphasizes the eternal security of the believer. Jesus said, 'I give them eternal li..."
+        "te": "ఇది బైబిల్ పండితుల మధ్య ఉన్న ఒక పెద్ద సందేహం. అయితే దేవుని వాక్యం విశ్వాసి రక్షణ భద్రత గురించి చాలా స్పష్టంగా చెబుతోంది.",
+        "en": "This is a profound theological debate. However, Scripture heavily emphasizes the eternal security of the believer."
       },
       "keyVerse": {
         "book": {
-          "te": "John",
+          "te": "యోహాను",
           "en": "John"
         },
         "chapter": 10,
         "verse": 28,
         "ref": {
-          "te": "John 10:28",
+          "te": "యోహాను 10:28",
           "en": "John 10:28"
         },
         "text": {
-          "te": "I give eternal life to them. They will never perish, and no one will snatch them out of my hand.",
-          "en": "I give eternal life to them. They will never perish, and no one will snatch them out of my hand."
+          "te": "నేను వాటికి నిత్యజీవమునిచ్చుచున్నాను గనుక అవి ఎన్నటికిని నశింపవు, ఎవడును వాటిని నా చేతిలోనుండి అపహ రింపడు.",
+          "en": "And I give unto them eternal life; and they shall never perish, neither shall any man pluck them out of my hand."
         }
       },
       "answer": {
@@ -2376,50 +2716,34 @@
       "verses": [
         {
           "book": {
-            "te": "John",
-            "en": "John"
-          },
-          "chapter": 10,
-          "verse": 28,
-          "ref": {
-            "te": "John 10:28",
-            "en": "John 10:28"
-          },
-          "text": {
-            "te": "I give eternal life to them. They will never perish, and no one will snatch them out of my hand.",
-            "en": "I give eternal life to them. They will never perish, and no one will snatch them out of my hand."
-          }
-        },
-        {
-          "book": {
-            "te": "Ephesians",
+            "te": "ఎఫెసీయులకు",
             "en": "Ephesians"
           },
           "chapter": 2,
           "verse": 8,
           "ref": {
-            "te": "Ephesians 2:8",
+            "te": "ఎఫెసీయులకు 2:8-9",
             "en": "Ephesians 2:8-9"
           },
           "text": {
-            "te": "for by grace you have been saved through faith, and that not of yourselves; it is the gift of God,",
-            "en": "for by grace you have been saved through faith, and that not of yourselves; it is the gift of God,"
+            "te": "మీరు విశ్వాసముద్వారా కృపచేతనే రక్షింపబడియున్నారు; ఇది మీవలన కలిగినది కాదు, దేవుని వరమే. అది క్రియలవలన కలిగినదికాదు గనుక ఎవడును అతిశయపడ వీలులేదు.",
+            "en": "For by grace are ye saved through faith; and that not of yourselves: it is the gift of God: Not of works, lest any man should boast."
           }
         },
         {
           "book": {
-            "te": "Romans",
+            "te": "రోమీయులకు",
             "en": "Romans"
           },
           "chapter": 8,
           "verse": 38,
           "ref": {
-            "te": "Romans 8:38",
+            "te": "రోమీయులకు 8:38-39",
             "en": "Romans 8:38-39"
           },
           "text": {
-            "te": "For I am persuaded that neither death, nor life, nor angels, nor principalities, nor things present, nor things to come, nor powers,",
-            "en": "For I am persuaded that neither death, nor life, nor angels, nor principalities, nor things present, nor things to come, nor powers,"
+            "te": "మరణమైనను జీవమైనను దేవదూతలైనను ప్రధానులైనను ఉన్నవియైనను రాబోవున వియైనను అధికారులైనను ఎత్తయినను లోతైనను సృష్టింపబడిన మరి ఏదైనను, మన ప్రభువైన క్రీస్తు యేసునందలి దేవుని ప్రేమనుండి మనలను ఎడబాప నేరవని రూఢిగా నమ్ముచున్నాను.",
+            "en": "For I am persuaded, that neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come, Nor height, nor depth, nor any other creature, shall be able to separate us from the love of God, which is in Christ Jesus our Lord."
           }
         }
       ],
@@ -2443,23 +2767,23 @@
         "en": "What exactly is the Mark of the Beast (666), and should Christians be terrified of accidentally receiving it?"
       },
       "shortAnswer": {
-        "te": "ప్రకటన 13వ అధ్యాయంలో చెప్పబడిన క్రూరమృగపు ముద్ర అనేది మహాశ్రమల కాలంలో అంత్యక్రీస్తును ఆరాధించడానికి మరియు అతనికి లొంగిపోవడానికి ఒక గుర్తు. ఆ ముద్ర లేక...",
-        "en": "The Mark of the Beast, as described in Revelation 13, is an ultimate symbol of allegiance and worship to the Antichrist during the Great Tribulation. ..."
+        "te": "ప్రకటన 13వ అధ్యాయంలో చెప్పబడిన క్రూరమృగపు ముద్ర అనేది మహాశ్రమల కాలంలో అంత్యక్రీస్తును ఆరాధించడానికి మరియు అతనికి లొంగిపోవడానికి ఒక గుర్తు. ఆ ముద్ర లేకపోతే ఎవరూ ఏమీ కొనలేరు, అమ్మలేరు.",
+        "en": "The Mark of the Beast, as described in Revelation 13, is an ultimate symbol of allegiance and worship to the Antichrist during the Great Tribulation. It is a system of economic control, without which no one can buy or sell."
       },
       "keyVerse": {
         "book": {
-          "te": "Revelation",
+          "te": "ప్రకటన గ్రంథము",
           "en": "Revelation"
         },
         "chapter": 13,
         "verse": 16,
         "ref": {
-          "te": "Revelation 13:16",
+          "te": "ప్రకటన గ్రంథము 13:16-17",
           "en": "Revelation 13:16-17"
         },
         "text": {
-          "te": "He causes all, the small and the great, the rich and the poor, and the free and the slave, to be given marks on their right hands, or on their foreheads;",
-          "en": "He causes all, the small and the great, the rich and the poor, and the free and the slave, to be given marks on their right hands, or on their foreheads;"
+          "te": "కాగా కొద్దివారుగాని గొప్పవారుగాని, ధనికులుగాని దరిద్రులుగాని, స్వతంత్రులుగాని దాసులుగాని, అందరును తమ కుడిచేతిమీదనైనను తమ నొపటియందైనను ముద్ర వేయించుకొనునట్లును, ఆ ముద్ర, అనగా ఆ మృగము పేరైనను దాని పేరిటి సంఖ్యయైనను గలవాడు తప్ప, క్రయ విక్రయములు చేయుటకు మరి యెవనికిని అధికారము లేకుండునట్లును అది వారిని బలవంతము చేయు చున్నది.",
+          "en": "And he causeth all, both small and great, rich and poor, free and bond, to receive a mark in their right hand, or in their foreheads: And that no man might buy or sell, save he that had the mark, or the name of the beast, or the number of his name."
         }
       },
       "answer": {
@@ -2479,50 +2803,34 @@
       "verses": [
         {
           "book": {
-            "te": "Revelation",
-            "en": "Revelation"
-          },
-          "chapter": 13,
-          "verse": 16,
-          "ref": {
-            "te": "Revelation 13:16",
-            "en": "Revelation 13:16-17"
-          },
-          "text": {
-            "te": "He causes all, the small and the great, the rich and the poor, and the free and the slave, to be given marks on their right hands, or on their foreheads;",
-            "en": "He causes all, the small and the great, the rich and the poor, and the free and the slave, to be given marks on their right hands, or on their foreheads;"
-          }
-        },
-        {
-          "book": {
-            "te": "Ephesians",
+            "te": "ఎఫెసీయులకు",
             "en": "Ephesians"
           },
           "chapter": 1,
           "verse": 13,
           "ref": {
-            "te": "Ephesians 1:13",
+            "te": "ఎఫెసీయులకు 1:13-14",
             "en": "Ephesians 1:13-14"
           },
           "text": {
-            "te": "In him you also, having heard the word of the truth, the Good News of your salvation—in whom, having also believed, you were sealed with the promised Holy Spirit,",
-            "en": "In him you also, having heard the word of the truth, the Good News of your salvation—in whom, having also believed, you were sealed with the promised Holy Spirit,"
+            "te": "మీరును సత్యవాక్యమును, అనగా మీ రక్షణ సువార్తను విని, క్రీస్తునందు విశ్వాసముంచి, వాగ్దానము చేయబడిన ఆత్మచేత ముద్రింపబడితిరి. దేవుని మహిమకు కీర్తి కలుగుటకై ఆయన సంపాదించుకొనిన3 ప్రజలకు విమోచనము కలుగు నిమిత్తము ఈ ఆత్మ మన స్వాస్థ్యమునకు సంచకరువుగా ఉన్నాడు.",
+            "en": "In whom ye also trusted, after that ye heard the word of truth, the gospel of your salvation: in whom also after that ye believed, ye were sealed with that holy Spirit of promise, Which is the earnest of our inheritance until the redemption of the purchased possession, unto the praise of his glory."
           }
         },
         {
           "book": {
-            "te": "Revelation",
+            "te": "ప్రకటన గ్రంథము",
             "en": "Revelation"
           },
           "chapter": 14,
           "verse": 9,
           "ref": {
-            "te": "Revelation 14:9",
+            "te": "ప్రకటన గ్రంథము 14:9-10",
             "en": "Revelation 14:9-10"
           },
           "text": {
-            "te": "Another angel, a third, followed them, saying with a great voice, “If anyone worships the beast and his image, and receives a mark on his forehead, or on his hand,",
-            "en": "Another angel, a third, followed them, saying with a great voice, “If anyone worships the beast and his image, and receives a mark on his forehead, or on his hand,"
+            "te": "మరియు వేరొక దూత, అనగా మూడవ దూత వీరి వెంబడి వచ్చి గొప్ప స్వరముతో ఈలాగు చెప్పెను ఆ క్రూరమృగమునకు గాని దాని ప్రతిమకు గాని యెవడైనను నమస్కారముచేసి, తన నొసటియందేమి చేతి మీదనేమి ఆ ముద్ర వేయించుకొనినయెడల ఏమియు కలపబడకుండ దేవుని ఉగ్రతపాత్రలో పోయబడిన దేవుని కోపమను మద్యమును వాడు త్రాగును. పరిశుద్ధ దూతల యెదుటను గొఱ్ఱపిల్ల యెదుటను అగ్నిగంధకములచేత వాడు బాధింపబడును.",
+            "en": "And the third angel followed them, saying with a loud voice, If any man worship the beast and his image, and receive his mark in his forehead, or in his hand, The same shall drink of the wine of the wrath of God, which is poured out without mixture into the cup of his indignation; and he shall be tormented with fire and brimstone in the presence of the holy angels, and in the presence of the Lamb:"
           }
         }
       ],
@@ -2546,23 +2854,23 @@
         "en": "How should a Christian respond to a spouse or family members who constantly oppose and mock their faith?"
       },
       "shortAnswer": {
-        "te": "విశ్వాసాన్ని వ్యతిరేకించే కుటుంబ సభ్యులతో కలిసి జీవించడం అనేది ప్రతిరోజూ సిలువ మోయడం లాంటిదే. అయితే అపొస్తలుడైన పేతురు ఒక అద్భుతమైన సలహా ఇస్తున్నాడు: ...",
-        "en": "Living with family members who oppose your faith is an agonizing daily cross. However, the Apostle Peter gives clear instructions: Win them over 'with..."
+        "te": "విశ్వాసాన్ని వ్యతిరేకించే కుటుంబ సభ్యులతో కలిసి జీవించడం అనేది ప్రతిరోజూ సిలువ మోయడం లాంటిదే. అయితే అపొస్తలుడైన పేతురు ఒక అద్భుతమైన సలహా ఇస్తున్నాడు: 'మీరు ఒక్క మాట కూడా చెప్పకుండా, మీ పవిత్రమైన ప్రవర్తన ద్వారా వారిని క్రీస్తు వైపుకు నడిపించండి' అని.",
+        "en": "Living with family members who oppose your faith is an agonizing daily cross. However, the Apostle Peter gives clear instructions: Win them over 'without a word' through your pure and reverent behavior."
       },
       "keyVerse": {
         "book": {
-          "te": "1 Peter",
+          "te": "1 పేతురు",
           "en": "1 Peter"
         },
         "chapter": 3,
         "verse": 1,
         "ref": {
-          "te": "1 Peter 3:1",
+          "te": "1 పేతురు 3:1-2",
           "en": "1 Peter 3:1-2"
         },
         "text": {
-          "te": "In the same way, wives, be in subjection to your own husbands; so that, even if any don’t obey the Word, they may be won by the behavior of their wives without a word;",
-          "en": "In the same way, wives, be in subjection to your own husbands; so that, even if any don’t obey the Word, they may be won by the behavior of their wives without a word;"
+          "te": "అటువలె స్త్రీలారా, మీరు మీ స్వపురుషులకు లోబడియుండుడి; అందువలన వారిలో ఎవరైనను వాక్య మునకు అవిధేయులైతే, వారు భయముతోకూడిన మీ పవిత్రప్రవర్తన చూచి, వాక్యము లేకుండనే తమ భార్యల నడవడివలన రాబట్టబడవచ్చును.",
+          "en": "Likewise, ye wives, be in subjection to your own husbands; that, if any obey not the word, they also may without the word be won by the conversation of the wives; While they behold your chaste conversation coupled with fear."
         }
       },
       "answer": {
@@ -2582,50 +2890,34 @@
       "verses": [
         {
           "book": {
-            "te": "1 Peter",
-            "en": "1 Peter"
-          },
-          "chapter": 3,
-          "verse": 1,
-          "ref": {
-            "te": "1 Peter 3:1",
-            "en": "1 Peter 3:1-2"
-          },
-          "text": {
-            "te": "In the same way, wives, be in subjection to your own husbands; so that, even if any don’t obey the Word, they may be won by the behavior of their wives without a word;",
-            "en": "In the same way, wives, be in subjection to your own husbands; so that, even if any don’t obey the Word, they may be won by the behavior of their wives without a word;"
-          }
-        },
-        {
-          "book": {
-            "te": "Matthew",
+            "te": "మత్తయి",
             "en": "Matthew"
           },
           "chapter": 5,
           "verse": 16,
           "ref": {
-            "te": "Matthew 5:16",
+            "te": "మత్తయి 5:16",
             "en": "Matthew 5:16"
           },
           "text": {
-            "te": "Even so, let your light shine before men; that they may see your good works, and glorify your Father who is in heaven.",
-            "en": "Even so, let your light shine before men; that they may see your good works, and glorify your Father who is in heaven."
+            "te": "మనుష్యులు మీ సత్క్రియలను చూచి పరలోకమందున్న మీ తండ్రిని మహిమపరచునట్లు వారియెదుట మీ వెలుగు ప్రకాశింప నియ్యుడి.",
+            "en": "Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven."
           }
         },
         {
           "book": {
-            "te": "1 Corinthians",
+            "te": "1 కోరింథీయులకు",
             "en": "1 Corinthians"
           },
           "chapter": 7,
           "verse": 16,
           "ref": {
-            "te": "1 Corinthians 7:16",
+            "te": "1 కోరింథీయులకు 7:16",
             "en": "1 Corinthians 7:16"
           },
           "text": {
-            "te": "For how do you know, wife, whether you will save your husband? Or how do you know, husband, whether you will save your wife?",
-            "en": "For how do you know, wife, whether you will save your husband? Or how do you know, husband, whether you will save your wife?"
+            "te": "ఓ స్త్రీ, నీ భర్తను రక్షించెదవో లేదో నీకేమి తెలియును? ఓ పురుషుడా, నీ భార్యను రక్షించెదవో లేదో నీకేమి తెలియును?",
+            "en": "For what knowest thou, O wife, whether thou shalt save thy husband? or how knowest thou, O man, whether thou shalt save thy wife?"
           }
         }
       ],
@@ -2649,23 +2941,23 @@
         "en": "Is water baptism absolutely mandatory to go to heaven? What happens if a believer dies before being baptized?"
       },
       "shortAnswer": {
-        "te": "రక్షణ అనేది కేవలం యేసుక్రీస్తు నందలి విశ్వాసం ద్వారా ఉచితంగా వచ్చే బహుమానం. నీటి బాప్తిస్మంతో సహా మన క్రియల వల్ల ఎవరికీ రక్షణ రాదు. దీనికి అతిపెద్ద ఉద...",
-        "en": "Salvation is a free gift received strictly by faith in Jesus Christ, not by any human works—including the act of water baptism. The greatest proof of ..."
+        "te": "రక్షణ అనేది కేవలం యేసుక్రీస్తు నందలి విశ్వాసం ద్వారా ఉచితంగా వచ్చే బహుమానం. నీటి బాప్తిస్మంతో సహా మన క్రియల వల్ల ఎవరికీ రక్షణ రాదు.",
+        "en": "Salvation is a free gift received strictly by faith in Jesus Christ, not by any human works—including the act of water baptism. The greatest proof of this is the thief on the cross; Jesus promised him Paradise that very day, even though he was never baptized."
       },
       "keyVerse": {
         "book": {
-          "te": "Luke",
+          "te": "లూకా",
           "en": "Luke"
         },
         "chapter": 23,
         "verse": 42,
         "ref": {
-          "te": "Luke 23:42",
+          "te": "లూకా 23:42-43",
           "en": "Luke 23:42-43"
         },
         "text": {
-          "te": "He said to Jesus, “Lord, remember me when you come into your Kingdom.”",
-          "en": "He said to Jesus, “Lord, remember me when you come into your Kingdom.”"
+          "te": "ఆయనను చూచి యేసూ, నీవు నీ రాజ్యము లోనికి వచ్చునప్పుడు నన్ను జ్ఞాపకము చేసికొనుమనెను. అందు కాయన వానితోనేడు నీవు నాతోకూడ పర దైసులో ఉందువని నిశ్చయముగా నీతో చెప్పుచున్నా ననెను.",
+          "en": "And he said unto Jesus, Lord, remember me when thou comest into thy kingdom. And Jesus said unto him, Verily I say unto thee, To day shalt thou be with me in paradise."
         }
       },
       "answer": {
@@ -2685,18 +2977,50 @@
       "verses": [
         {
           "book": {
-            "te": "Luke",
-            "en": "Luke"
+            "te": "ఎఫెసీయులకు",
+            "en": "Ephesians"
           },
-          "chapter": 23,
-          "verse": 42,
+          "chapter": 2,
+          "verse": 8,
           "ref": {
-            "te": "Luke 23:42",
-            "en": "Luke 23:42-43"
+            "te": "ఎఫెసీయులకు 2:8-9",
+            "en": "Ephesians 2:8-9"
           },
           "text": {
-            "te": "He said to Jesus, “Lord, remember me when you come into your Kingdom.”",
-            "en": "He said to Jesus, “Lord, remember me when you come into your Kingdom.”"
+            "te": "మీరు విశ్వాసముద్వారా కృపచేతనే రక్షింపబడియున్నారు; ఇది మీవలన కలిగినది కాదు, దేవుని వరమే. అది క్రియలవలన కలిగినదికాదు గనుక ఎవడును అతిశయపడ వీలులేదు.",
+            "en": "For by grace are ye saved through faith; and that not of yourselves: it is the gift of God: Not of works, lest any man should boast."
+          }
+        },
+        {
+          "book": {
+            "te": "రోమీయులకు",
+            "en": "Romans"
+          },
+          "chapter": 10,
+          "verse": 9,
+          "ref": {
+            "te": "రోమీయులకు 10:9-10",
+            "en": "Romans 10:9-10"
+          },
+          "text": {
+            "te": "అదేమనగాయేసు ప్రభువని నీ నోటితో ఒప్పుకొని, దేవుడు మృతులలోనుండి ఆయ నను లేపెనని నీ హృదయ మందు విశ్వసించినయెడల, నీవు రక్షింపబడుదువు. ఏల యనగా నీతి కలుగునట్లు మనుష్యుడు హృదయములో విశ్వసించును, రక్షణ కలుగునట్లు నోటితో ఒప్పుకొనును.",
+            "en": "That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved. For with the heart man believeth unto righteousness; and with the mouth confession is made unto salvation."
+          }
+        },
+        {
+          "book": {
+            "te": "మార్కు",
+            "en": "Mark"
+          },
+          "chapter": 16,
+          "verse": 16,
+          "ref": {
+            "te": "మార్కు 16:16",
+            "en": "Mark 16:16"
+          },
+          "text": {
+            "te": "నమి్మ బాప్తిస్మము పొందినవాడు రక్షింపబడును; నమ్మని వానికి శిక్ష విధింపబడును.",
+            "en": "He that believeth and is baptized shall be saved; but he that believeth not shall be damned."
           }
         }
       ],
@@ -2720,23 +3044,23 @@
         "en": "How can I hear the voice of God clearly, and how do I know if it's His voice or just my own thoughts?"
       },
       "shortAnswer": {
-        "te": "దేవుని స్వరం అనేది ఆకాశం నుండి ఉరుములా వినిపించే శబ్దం కాదు; అది సాధారణంగా మన ఆత్మలో వినిపించే ఒక 'మెల్లనైన స్వరం'. దేవుడు మనతో మాట్లాడే అత్యంత ప్రాము...",
-        "en": "Hearing God is rarely an audible boom from the sky; it is usually a 'still small voice' in your spirit. The primary and most flawless way God speaks i..."
+        "te": "దేవుని స్వరం అనేది ఆకాశం నుండి ఉరుములా వినిపించే శబ్దం కాదు; అది సాధారణంగా మన ఆత్మలో వినిపించే ఒక 'మెల్లనైన స్వరం'. దేవుడు మనతో మాట్లాడే అత్యంత ప్రాముఖ్యమైన, పర్ఫెక్ట్ మార్గం ఆయన వాక్యమైన బైబిల్ ద్వారానే!",
+        "en": "Hearing God is rarely an audible boom from the sky; it is usually a 'still small voice' in your spirit. The primary and most flawless way God speaks is through His written Word, the Bible."
       },
       "keyVerse": {
         "book": {
-          "te": "Hebrews",
+          "te": "హెబ్రీయులకు",
           "en": "Hebrews"
         },
         "chapter": 4,
         "verse": 12,
         "ref": {
-          "te": "Hebrews 4:12",
+          "te": "హెబ్రీయులకు 4:12",
           "en": "Hebrews 4:12"
         },
         "text": {
-          "te": "For the word of God is living and active, and sharper than any two-edged sword, piercing even to the dividing of soul and spirit, of both joints and marrow, and is able to discern the thoughts and intentions of the heart.",
-          "en": "For the word of God is living and active, and sharper than any two-edged sword, piercing even to the dividing of soul and spirit, of both joints and marrow, and is able to discern the thoughts and intentions of the heart."
+          "te": "ఎందుకనగా దేవుని వాక్యము సజీవమై బలముగలదై రెండంచులుగల యెటువంటి ఖడ్గముకంటెను వాడిగా ఉండి, ప్రాణాత్మలను కీళ్లను మూలుగను విభ జించునంతమట్టుకు దూరుచు, హృదయముయొక్క తలం పులను ఆలోచనలను శోధించుచున్నది.",
+          "en": "For the word of God is quick, and powerful, and sharper than any twoedged sword, piercing even to the dividing asunder of soul and spirit, and of the joints and marrow, and is a discerner of the thoughts and intents of the heart."
         }
       },
       "answer": {
@@ -2756,18 +3080,50 @@
       "verses": [
         {
           "book": {
-            "te": "Hebrews",
-            "en": "Hebrews"
+            "te": "యోహాను",
+            "en": "John"
           },
-          "chapter": 4,
-          "verse": 12,
+          "chapter": 10,
+          "verse": 27,
           "ref": {
-            "te": "Hebrews 4:12",
-            "en": "Hebrews 4:12"
+            "te": "యోహాను 10:27",
+            "en": "John 10:27"
           },
           "text": {
-            "te": "For the word of God is living and active, and sharper than any two-edged sword, piercing even to the dividing of soul and spirit, of both joints and marrow, and is able to discern the thoughts and intentions of the heart.",
-            "en": "For the word of God is living and active, and sharper than any two-edged sword, piercing even to the dividing of soul and spirit, of both joints and marrow, and is able to discern the thoughts and intentions of the heart."
+            "te": "నా గొఱ్ఱలు నా స్వరము వినును, నేను వాటి నెరుగుదును, అవి నన్ను వెంబడించును.",
+            "en": "My sheep hear my voice, and I know them, and they follow me:"
+          }
+        },
+        {
+          "book": {
+            "te": "1 రాజులు",
+            "en": "1 Kings"
+          },
+          "chapter": 19,
+          "verse": 12,
+          "ref": {
+            "te": "1 రాజులు 19:12",
+            "en": "1 Kings 19:12"
+          },
+          "text": {
+            "te": "ఆ భూకంపమైన తరువాత మెరుపు పుట్టెను గాని ఆ మెరుపునందు యెహోవా ప్రత్యక్షము కాలేదు, మెరుపు ఆగిపోగా మిక్కిలి నిమ్మళముగా మాటలాడు ఒక స్వరము వినబడెను.",
+            "en": "And after the earthquake a fire; but the LORD was not in the fire: and after the fire a still small voice."
+          }
+        },
+        {
+          "book": {
+            "te": "1 యోహాను",
+            "en": "1 John"
+          },
+          "chapter": 4,
+          "verse": 1,
+          "ref": {
+            "te": "1 యోహాను 4:1",
+            "en": "1 John 4:1"
+          },
+          "text": {
+            "te": "ప్రియులారా, అనేకులైన అబద్ధ ప్రవక్తలు లోకము లోనికి బయలు వెళ్లియున్నారు గనుక ప్రతి ఆత్మను నమ్మక, ఆ యా ఆత్మలు దేవుని సంబంధమైనవో కావో పరీక్షించుడి.",
+            "en": "Beloved, believe not every spirit, but try the spirits whether they are of God: because many false prophets are gone out into the world."
           }
         }
       ],
@@ -2791,23 +3147,23 @@
         "en": "Is it a sin for a Christian to feel depressed, suffer from anxiety, or take medication for mental health issues?"
       },
       "shortAnswer": {
-        "te": "ఖచ్చితంగా కాదు! దురదృష్టవశాత్తూ, మానసిక ఆరోగ్యం గురించి సంఘంలో చాలా తప్పుడు అభిప్రాయాలు ఉన్నాయి. మన గుండె, ఊపిరితిత్తులు లాగానే మన మెదడు కూడా ఒక భౌతిక...",
-        "en": "Absolutely not. The church has often deeply misunderstood mental health. Your brain is a physical organ, just like your heart or your lungs. If your p..."
+        "te": "ఖచ్చితంగా కాదు! దురదృష్టవశాత్తూ, మానసిక ఆరోగ్యం గురించి సంఘంలో చాలా తప్పుడు అభిప్రాయాలు ఉన్నాయి.",
+        "en": "Absolutely not. The church has often deeply misunderstood mental health."
       },
       "keyVerse": {
         "book": {
-          "te": "1 Kings",
+          "te": "1 రాజులు",
           "en": "1 Kings"
         },
         "chapter": 19,
         "verse": 4,
         "ref": {
-          "te": "1 Kings 19:4",
+          "te": "1 రాజులు 19:4-7",
           "en": "1 Kings 19:4-7"
         },
         "text": {
-          "te": "But he himself went a day’s journey into the wilderness, and came and sat down under a juniper tree. Then he requested for himself that he might die, and said, “It is enough. Now, O Yahweh, take away my life; for I am not better than my fathers.”",
-          "en": "But he himself went a day’s journey into the wilderness, and came and sat down under a juniper tree. Then he requested for himself that he might die, and said, “It is enough. Now, O Yahweh, take away my life; for I am not better than my fathers.”"
+          "te": "తాను ఒక దినప్రయాణము అరణ్యములోనికి పోయి యొక బదరీవృక్షముక్రింద కూర్చుండి, మరణా పేక్షగలవాడైయెహోవా, నా పితరులకంటె నేను ఎక్కువవాడను కాను, ఇంతమట్టుకు చాలును, నా ప్రాణము తీసికొనుము అని ప్రార్థనచేసెను. అతడు బదరీవృక్షము క్రింద పరుండి నిద్రించుచుండగా ఒక దేవదూత వచ్చి అతని ముట్టినీవు లేచి భోజనము చేయుమని చెప్పెను. అతడు చూచినంతలో అతని తలదగ్గర నిప్పుల మీద కాల్చబడిన అప్పమును నీళ్ల బుడ్డియు కనబడెను గనుక అతడు భోజనముచేసి తిరిగి పరుండెను. ​అయితే యెహోవా దూత రెండవమారు వచ్చి అతని ముట్టినీ శక్తికి మించిన ప్రయాణము నీకు సిద్ధమై యున్నది, నీవు లేచి భోజనము చేయుమని చెప్పినప్పుడు",
+          "en": "But he himself went a day's journey into the wilderness, and came and sat down under a juniper tree: and he requested for himself that he might die; and said, It is enough; now, O LORD, take away my life; for I am not better than my fathers. And as he lay and slept under a juniper tree, behold, then an angel touched him, and said unto him, Arise and eat. And he looked, and, behold, there was a cake baken on the coals, and a cruse of water at his head. And he did eat and drink, and laid him down again. And the angel of the LORD came again the second time, and touched him, and said, Arise and eat; because the journey is too great for thee."
         }
       },
       "answer": {
@@ -2827,50 +3183,34 @@
       "verses": [
         {
           "book": {
-            "te": "1 Kings",
-            "en": "1 Kings"
-          },
-          "chapter": 19,
-          "verse": 4,
-          "ref": {
-            "te": "1 Kings 19:4",
-            "en": "1 Kings 19:4-7"
-          },
-          "text": {
-            "te": "But he himself went a day’s journey into the wilderness, and came and sat down under a juniper tree. Then he requested for himself that he might die, and said, “It is enough. Now, O Yahweh, take away my life; for I am not better than my fathers.”",
-            "en": "But he himself went a day’s journey into the wilderness, and came and sat down under a juniper tree. Then he requested for himself that he might die, and said, “It is enough. Now, O Yahweh, take away my life; for I am not better than my fathers.”"
-          }
-        },
-        {
-          "book": {
-            "te": "Psalms",
+            "te": "కీర్తనలు",
             "en": "Psalms"
           },
           "chapter": 34,
           "verse": 18,
           "ref": {
-            "te": "Psalms 34:18",
-            "en": "Psalms 34:18"
+            "te": "కీర్తనలు 34:18",
+            "en": "Psalm 34:18"
           },
           "text": {
-            "te": "Yahweh is near to those who have a broken heart,\nand saves those who have a crushed spirit.",
-            "en": "Yahweh is near to those who have a broken heart,\nand saves those who have a crushed spirit."
+            "te": "విరిగిన హృదయముగలవారికి యెహోవా ఆసన్నుడు నలిగిన మనస్సుగలవారిని ఆయన రక్షించును.",
+            "en": "The LORD is nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit."
           }
         },
         {
           "book": {
-            "te": "Matthew",
+            "te": "మత్తయి",
             "en": "Matthew"
           },
           "chapter": 9,
           "verse": 12,
           "ref": {
-            "te": "Matthew 9:12",
+            "te": "మత్తయి 9:12",
             "en": "Matthew 9:12"
           },
           "text": {
-            "te": "When Jesus heard it, he said to them,\n“Those who are healthy have no need for a physician, but those who are sick do.",
-            "en": "When Jesus heard it, he said to them,\n“Those who are healthy have no need for a physician, but those who are sick do."
+            "te": "ఆయన ఆ మాటవినిరోగులకేగాని ఆరోగ్యము గలవారికి వైద్యు డక్కరలేదు గదా.",
+            "en": "But when Jesus heard that, he said unto them, They that be whole need not a physician, but they that are sick."
           }
         }
       ],
@@ -2894,23 +3234,23 @@
         "en": "What is the 'unforgivable sin' (blasphemy against the Holy Spirit), and how do I know if I have committed it?"
       },
       "shortAnswer": {
-        "te": "చాలామంది సున్నితమైన విశ్వాసులు తాము పొరపాటున ఈ క్షమించరాని పాపం చేశామేమో అని భయపడుతుంటారు. కోపంలో ఒక మాట అనడమో, లేదా మెదడులోకి వచ్చే పిచ్చి ఆలోచనలనో ద...",
-        "en": "Many sensitive believers live in agonizing fear that they have accidentally committed the unforgivable sin. But Jesus wasn't talking about a careless ..."
+        "te": "చాలామంది సున్నితమైన విశ్వాసులు తాము పొరపాటున ఈ క్షమించరాని పాపం చేశామేమో అని భయపడుతుంటారు. కోపంలో ఒక మాట అనడమో, లేదా మెదడులోకి వచ్చే పిచ్చి ఆలోచనలనో దేవుడు 'క్షమించరాని పాపం' అనలేదు!",
+        "en": "Many sensitive believers live in agonizing fear that they have accidentally committed the unforgivable sin. But Jesus wasn't talking about a careless word spoken in anger or a struggling mind having intrusive thoughts."
       },
       "keyVerse": {
         "book": {
-          "te": "Mark",
+          "te": "మార్కు",
           "en": "Mark"
         },
         "chapter": 3,
         "verse": 28,
         "ref": {
-          "te": "Mark 3:28",
+          "te": "మార్కు 3:28-29",
           "en": "Mark 3:28-29"
         },
         "text": {
-          "te": "Most certainly I tell you, all sins of the descendants of man will be forgiven, including their blasphemies with which they may blaspheme;",
-          "en": "Most certainly I tell you, all sins of the descendants of man will be forgiven, including their blasphemies with which they may blaspheme;"
+          "te": "సమస్త పాపములును మను ష్యులు చేయు దూషణలన్నియు వారికి క్షమింపబడును గాని పరిశుద్ధాత్మ విషయము దూషణచేయువాడెప్పుడును క్షమాపణ పొందక నిత్యపాపము చేసినవాడై యుండు నని మీతో నిశ్చయముగా చెప్పుచున్నాననెను.",
+          "en": "Verily I say unto you, All sins shall be forgiven unto the sons of men, and blasphemies wherewith soever they shall blaspheme: But he that shall blaspheme against the Holy Ghost hath never forgiveness, but is in danger of eternal damnation:"
         }
       },
       "answer": {
@@ -2930,50 +3270,34 @@
       "verses": [
         {
           "book": {
-            "te": "Mark",
-            "en": "Mark"
-          },
-          "chapter": 3,
-          "verse": 28,
-          "ref": {
-            "te": "Mark 3:28",
-            "en": "Mark 3:28-29"
-          },
-          "text": {
-            "te": "Most certainly I tell you, all sins of the descendants of man will be forgiven, including their blasphemies with which they may blaspheme;",
-            "en": "Most certainly I tell you, all sins of the descendants of man will be forgiven, including their blasphemies with which they may blaspheme;"
-          }
-        },
-        {
-          "book": {
-            "te": "1 John",
+            "te": "1 యోహాను",
             "en": "1 John"
           },
           "chapter": 1,
           "verse": 9,
           "ref": {
-            "te": "1 John 1:9",
+            "te": "1 యోహాను 1:9",
             "en": "1 John 1:9"
           },
           "text": {
-            "te": "If we confess our sins, he is faithful and righteous to forgive us the sins, and to cleanse us from all unrighteousness.",
-            "en": "If we confess our sins, he is faithful and righteous to forgive us the sins, and to cleanse us from all unrighteousness."
+            "te": "మన పాపములను మనము ఒప్పుకొనిన యెడల, ఆయన నమ్మదగినవాడును నీతిమంతుడును గనుక ఆయన మన పాపములను క్షమించి సమస్త దుర్నీతినుండి మనలను పవిత్రులనుగా చేయును.",
+            "en": "If we confess our sins, he is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness."
           }
         },
         {
           "book": {
-            "te": "Ezekiel",
+            "te": "యెహెజ్కేలు",
             "en": "Ezekiel"
           },
           "chapter": 36,
           "verse": 26,
           "ref": {
-            "te": "Ezekiel 36:26",
+            "te": "యెహెజ్కేలు 36:26",
             "en": "Ezekiel 36:26"
           },
           "text": {
-            "te": "I will also give you a new heart, and I will put a new spirit within you. I will take away the stony heart out of your flesh, and I will give you a heart of flesh.",
-            "en": "I will also give you a new heart, and I will put a new spirit within you. I will take away the stony heart out of your flesh, and I will give you a heart of flesh."
+            "te": "నూతన హృదయము మీ కిచ్చెదను, నూతన స్వభావము మీకు కలుగజేసెదను, రాతిగుండె మీలోనుండి తీసివేసి మాంసపు గుండెను మీకిచ్చెదను.",
+            "en": "A new heart also will I give you, and a new spirit will I put within you: and I will take away the stony heart out of your flesh, and I will give you an heart of flesh."
           }
         }
       ],
@@ -2997,23 +3321,23 @@
         "en": "Will the Church go through the Great Tribulation, or will the Rapture happen before it?"
       },
       "shortAnswer": {
-        "te": "ఇది బైబిల్ పండితుల మధ్య ఎంతో తీవ్రమైన చర్చకు దారితీసిన అంశం. ఎక్కువమంది నమ్మే సిద్ధాంతం (Pre-Tribulation) ఏంటంటే... ఈ భూమిపై అంత్యక్రీస్తు పరిపాలన, దే...",
-        "en": "This is a topic of passionate debate among Bible scholars. The most widely held view (Pre-Tribulation) teaches that Jesus will quietly return in the c..."
+        "te": "ఇది బైబిల్ పండితుల మధ్య ఎంతో తీవ్రమైన చర్చకు దారితీసిన అంశం. ఎక్కువమంది నమ్మే సిద్ధాంతం (Pre-Tribulation) ఏంటంటే...",
+        "en": "This is a topic of passionate debate among Bible scholars. The most widely held view (Pre-Tribulation) teaches that Jesus will quietly return in the clouds to 'catch away' (Rapture) His true Church before the seven years of God's wrath and the Antichrist's reign begin."
       },
       "keyVerse": {
         "book": {
-          "te": "1 Thessalonians",
+          "te": "1 థెస్సలొనీకయులకు",
           "en": "1 Thessalonians"
         },
         "chapter": 4,
         "verse": 16,
         "ref": {
-          "te": "1 Thessalonians 4:16",
+          "te": "1 థెస్సలొనీకయులకు 4:16-17",
           "en": "1 Thessalonians 4:16-17"
         },
         "text": {
-          "te": "For the Lord himself will descend from heaven with a shout, with the voice of the archangel, and with God’s trumpet. The dead in Christ will rise first,",
-          "en": "For the Lord himself will descend from heaven with a shout, with the voice of the archangel, and with God’s trumpet. The dead in Christ will rise first,"
+          "te": "ఆర్భాటముతోను, ప్రధానదూతశబ్దముతోను, దేవుని బూరతోను పరలోకమునుండి ప్రభువు దిగివచ్చును; క్రీస్తునందుండి మృతులైన వారు మొదట లేతురు. ఆ మీదట సజీవులమై నిలిచియుండు మనము వారితోకూడ ఏకముగా ప్రభువును ఎదుర్కొనుటకు ఆకాశమండలమునకు మేఘములమీద కొనిపోబడుదుము. కాగా మనము సదాకాలము ప్రభువుతో కూడ ఉందుము.",
+          "en": "For the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trump of God: and the dead in Christ shall rise first: Then we which are alive and remain shall be caught up together with them in the clouds, to meet the Lord in the air: and so shall we ever be with the Lord."
         }
       },
       "answer": {
@@ -3033,50 +3357,34 @@
       "verses": [
         {
           "book": {
-            "te": "1 Thessalonians",
-            "en": "1 Thessalonians"
-          },
-          "chapter": 4,
-          "verse": 16,
-          "ref": {
-            "te": "1 Thessalonians 4:16",
-            "en": "1 Thessalonians 4:16-17"
-          },
-          "text": {
-            "te": "For the Lord himself will descend from heaven with a shout, with the voice of the archangel, and with God’s trumpet. The dead in Christ will rise first,",
-            "en": "For the Lord himself will descend from heaven with a shout, with the voice of the archangel, and with God’s trumpet. The dead in Christ will rise first,"
-          }
-        },
-        {
-          "book": {
-            "te": "Revelation",
+            "te": "ప్రకటన గ్రంథము",
             "en": "Revelation"
           },
           "chapter": 3,
           "verse": 10,
           "ref": {
-            "te": "Revelation 3:10",
+            "te": "ప్రకటన గ్రంథము 3:10",
             "en": "Revelation 3:10"
           },
           "text": {
-            "te": "Because you kept my command to endure, I also will keep you from the hour of testing, which is to come on the whole world, to test those who dwell on the earth.",
-            "en": "Because you kept my command to endure, I also will keep you from the hour of testing, which is to come on the whole world, to test those who dwell on the earth."
+            "te": "నీవు నా ఓర్పు విషయమైన వాక్యమును గైకొంటివి గనుక భూ నివా సులను శోధించుటకు లోకమంతటిమీదికి రాబోవు శోధన కాలములో నేనును నిన్ను కాపాడెదను.",
+            "en": "Because thou hast kept the word of my patience, I also will keep thee from the hour of temptation, which shall come upon all the world, to try them that dwell upon the earth."
           }
         },
         {
           "book": {
-            "te": "Matthew",
+            "te": "మత్తయి",
             "en": "Matthew"
           },
           "chapter": 24,
           "verse": 42,
           "ref": {
-            "te": "Matthew 24:42",
+            "te": "మత్తయి 24:42-44",
             "en": "Matthew 24:42-44"
           },
           "text": {
-            "te": "Watch therefore, for you don’t know in what hour your Lord comes.",
-            "en": "Watch therefore, for you don’t know in what hour your Lord comes."
+            "te": "కావున ఏ దినమున మీ ప్రభువు వచ్చునో మీకు తెలియదు గనుక మెలకువగా నుండుడి. ఏ జామున దొంగవచ్చునో యింటి యజ మానునికి తెలిసియుండినయెడల అతడు మెలకువగా ఉండి తన యింటికి కన్నము వేయనియ్యడని మీరెరుగుదురు. మీరనుకొనని గడియలో మనుష్యకుమారుడు వచ్చును గనుకనే మీరును సిద్ధముగా ఉండుడి.",
+            "en": "Watch therefore: for ye know not what hour your Lord doth come. But know this, that if the goodman of the house had known in what watch the thief would come, he would have watched, and would not have suffered his house to be broken up. Therefore be ye also ready: for in such an hour as ye think not the Son of man cometh."
           }
         }
       ],
@@ -3100,23 +3408,23 @@
         "en": "If Jesus is God, who was He praying to when He was on earth? Was He praying to Himself?"
       },
       "shortAnswer": {
-        "te": "త్రిత్వం (Trinity) గురించి చాలామందికి వచ్చే సాధారణమైన సందేహం ఇది. బైబిల్ ప్రకారం దేవుడు ఒక్కడే, కానీ ఆయన తండ్రి, కుమారుడు (యేసు), పరిశుద్ధాత్మ అనే మూడ...",
-        "en": "This is a very common question regarding the Trinity. The Bible teaches that there is ONE God, but He exists eternally in THREE distinct persons: the ..."
+        "te": "త్రిత్వం (Trinity) గురించి చాలామందికి వచ్చే సాధారణమైన సందేహం ఇది. బైబిల్ ప్రకారం దేవుడు ఒక్కడే, కానీ ఆయన తండ్రి, కుమారుడు (యేసు), పరిశుద్ధాత్మ అనే మూడు వేర్వేరు వ్యక్తులుగా (Persons) నిత్యత్వం నుండి ఉన్నాడు.",
+        "en": "This is a very common question regarding the Trinity. The Bible teaches that there is ONE God, but He exists eternally in THREE distinct persons: the Father, the Son (Jesus), and the Holy Spirit."
       },
       "keyVerse": {
         "book": {
-          "te": "John",
+          "te": "యోహాను",
           "en": "John"
         },
         "chapter": 17,
         "verse": 1,
         "ref": {
-          "te": "John 17:1",
+          "te": "యోహాను 17:1-5",
           "en": "John 17:1-5"
         },
         "text": {
-          "te": "Jesus said these things, and lifting up his eyes to heaven, he said,\n“Father, the time has come. Glorify your Son, that your Son may also glorify you;",
-          "en": "Jesus said these things, and lifting up his eyes to heaven, he said,\n“Father, the time has come. Glorify your Son, that your Son may also glorify you;"
+          "te": "యేసు ఈ మాటలు చెప్పి ఆకాశమువైపు కన్నులెత్తి యిట్లనెనుతండ్రీ, నా గడియ వచ్చియున్నది. నీ కుమారుడు నిన్ను మహిమపరచునట్లు నీ కుమారుని మహిమ పరచుము. నీవు నీ కుమారునికిచ్చిన వారికందరికిని ఆయన నిత్యజీవము అనుగ్రహించునట్లు సర్వశరీరులమీదను ఆయనకు అధికారమిచ్చితివి. అద్వితీయ సత్యదేవుడవైన నిన్నును, నీవు పంపిన యేసు క్రీస్తును ఎరుగుటయే నిత్య జీవము. చేయుటకు నీవు నాకిచ్చిన పని నేను సంపూర్ణముగా నెరవేర్చి భూమిమీద నిన్ను మహిమ పరచితిని. తండ్రీ, లోకము పుట్టకమునుపు నీయొద్ద నాకు ఏ మహిమయుండెనో ఆ మహిమతో నన్ను ఇప్పుడు నీయొద్ద మహిమ పరచుము.",
+          "en": "These words spake Jesus, and lifted up his eyes to heaven, and said, Father, the hour is come; glorify thy Son, that thy Son also may glorify thee: As thou hast given him power over all flesh, that he should give eternal life to as many as thou hast given him. And this is life eternal, that they might know thee the only true God, and Jesus Christ, whom thou hast sent. I have glorified thee on the earth: I have finished the work which thou gavest me to do. And now, O Father, glorify thou me with thine own self with the glory which I had with thee before the world was."
         }
       },
       "answer": {
@@ -3136,50 +3444,34 @@
       "verses": [
         {
           "book": {
-            "te": "John",
-            "en": "John"
-          },
-          "chapter": 17,
-          "verse": 1,
-          "ref": {
-            "te": "John 17:1",
-            "en": "John 17:1-5"
-          },
-          "text": {
-            "te": "Jesus said these things, and lifting up his eyes to heaven, he said,\n“Father, the time has come. Glorify your Son, that your Son may also glorify you;",
-            "en": "Jesus said these things, and lifting up his eyes to heaven, he said,\n“Father, the time has come. Glorify your Son, that your Son may also glorify you;"
-          }
-        },
-        {
-          "book": {
-            "te": "Philippians",
+            "te": "ఫిలిప్పీయులకు",
             "en": "Philippians"
           },
           "chapter": 2,
           "verse": 5,
           "ref": {
-            "te": "Philippians 2:5",
+            "te": "ఫిలిప్పీయులకు 2:5-8",
             "en": "Philippians 2:5-8"
           },
           "text": {
-            "te": "Have this in your mind, which was also in Christ Jesus,",
-            "en": "Have this in your mind, which was also in Christ Jesus,"
+            "te": "క్రీస్తుయేసునకు కలిగిన యీ మనస్సు మీరును కలిగియుండుడి. ఆయన దేవుని స్వరూ పము కలిగినవాడైయుండి, దేవునితో సమానముగా ఉండుట విడిచిపెట్టకూడని భాగ్యమని యెంచుకొనలేదు గాని మనుష్యుల పోలికగా పుట్టి, దాసుని స్వరూపమును ధరించుకొని, తన్ను తానే రిక్తునిగా చేసికొనెను. మరియు, ఆయన ఆకారమందు మనుష్యుడుగా కనబడి, మరణము పొందునంతగా, అనగా సిలువమరణము పొందు నంతగా విధేయత చూపినవాడై, తన్నుతాను తగ్గించుకొనెను.",
+            "en": "Let this mind be in you, which was also in Christ Jesus: Who, being in the form of God, thought it not robbery to be equal with God: But made himself of no reputation, and took upon him the form of a servant, and was made in the likeness of men: And being found in fashion as a man, he humbled himself, and became obedient unto death, even the death of the cross."
           }
         },
         {
           "book": {
-            "te": "Luke",
+            "te": "లూకా",
             "en": "Luke"
           },
           "chapter": 22,
           "verse": 42,
           "ref": {
-            "te": "Luke 22:42",
+            "te": "లూకా 22:42",
             "en": "Luke 22:42"
           },
           "text": {
-            "te": "saying,\n“Father, if you are willing, remove this cup from me. Nevertheless, not my will, but yours, be done.”",
-            "en": "saying,\n“Father, if you are willing, remove this cup from me. Nevertheless, not my will, but yours, be done.”"
+            "te": "వారి యొద్ద నుండి రాతివేత దూరము వెళ్లి మోకాళ్లూని",
+            "en": "Saying, Father, if thou be willing, remove this cup from me: nevertheless not my will, but thine, be done."
           }
         }
       ],
@@ -3203,23 +3495,23 @@
         "en": "What does it mean to be 'born again', and how exactly does it happen?"
       },
       "shortAnswer": {
-        "te": "యేసయ్య నీకొదేముతో 'ఒకడు క్రొత్తగా జన్మించితేనే గాని దేవుని రాజ్యమును చూడలేడు' అని చెప్పినప్పుడు, నీకొదేము అది భౌతికంగా మళ్ళీ తల్లి గర్భంలోకి వెళ్ళాలా ...",
-        "en": "When Jesus told Nicodemus 'You must be born again,' Nicodemus was confused, thinking it meant a physical rebirth. But Jesus was speaking about a spiri..."
+        "te": "యేసయ్య నీకొదేముతో 'ఒకడు క్రొత్తగా జన్మించితేనే గాని దేవుని రాజ్యమును చూడలేడు' అని చెప్పినప్పుడు, నీకొదేము అది భౌతికంగా మళ్ళీ తల్లి గర్భంలోకి వెళ్ళాలా అని కన్ఫ్యూజ్ అయ్యాడు. కానీ యేసయ్య చెప్పింది ఆత్మీయ జననం గురించి!",
+        "en": "When Jesus told Nicodemus 'You must be born again,' Nicodemus was confused, thinking it meant a physical rebirth. But Jesus was speaking about a spiritual resurrection!"
       },
       "keyVerse": {
         "book": {
-          "te": "John",
+          "te": "యోహాను",
           "en": "John"
         },
         "chapter": 3,
         "verse": 3,
         "ref": {
-          "te": "John 3:3",
+          "te": "యోహాను 3:3-7",
           "en": "John 3:3-7"
         },
         "text": {
-          "te": "Jesus answered him,\n“Most certainly, I tell you, unless one is born anew,\n\nhe can’t see God’s Kingdom.”",
-          "en": "Jesus answered him,\n“Most certainly, I tell you, unless one is born anew,\n\nhe can’t see God’s Kingdom.”"
+          "te": "అందుకు యేసు అతనితోఒకడు క్రొత్తగా జన్మించితేనే కాని అతడు దేవుని రాజ్యమును చూడలేడని నీతో నిశ్చయముగా చెప్పు చున్నాననెను. అందుకు నీకొదేముముసలివాడైన మనుష్యుడేలాగు జన్మింపగలడు? రెండవమారు తల్లి గర్బ éమందు ప్రవేశించి జన్మింపగలడా అని ఆయనను అడుగగా యేసు ఇట్లనెనుఒకడు నీటిమూలముగాను ఆత్మమూలము గాను జన్మించితేనేగాని దేవుని రాజ్యములో ప్రవేశింప లేడని నీతో నిశ్చయముగా చెప్పుచున్నాను. శరీర మూలముగా జన్మించినది శరీరమును ఆత్మమూలముగా జన్మించినది ఆత్మయునై యున్నది. మీరు క్రొత్తగా జన్మింపవలెనని నేను నీతో చెప్పినందుకు ఆశ్చర్యపడవద్దు.",
+          "en": "Jesus answered and said unto him, Verily, verily, I say unto thee, Except a man be born again, he cannot see the kingdom of God. Nicodemus saith unto him, How can a man be born when he is old? can he enter the second time into his mother's womb, and be born? Jesus answered, Verily, verily, I say unto thee, Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God. That which is born of the flesh is flesh; and that which is born of the Spirit is spirit. Marvel not that I said unto thee, Ye must be born again."
         }
       },
       "answer": {
@@ -3239,34 +3531,50 @@
       "verses": [
         {
           "book": {
-            "te": "John",
-            "en": "John"
-          },
-          "chapter": 3,
-          "verse": 3,
-          "ref": {
-            "te": "John 3:3",
-            "en": "John 3:3-7"
-          },
-          "text": {
-            "te": "Jesus answered him,\n“Most certainly, I tell you, unless one is born anew,\n\nhe can’t see God’s Kingdom.”",
-            "en": "Jesus answered him,\n“Most certainly, I tell you, unless one is born anew,\n\nhe can’t see God’s Kingdom.”"
-          }
-        },
-        {
-          "book": {
-            "te": "2 Corinthians",
+            "te": "2 కోరింథీయులకు",
             "en": "2 Corinthians"
           },
           "chapter": 5,
           "verse": 17,
           "ref": {
-            "te": "2 Corinthians 5:17",
+            "te": "2 కోరింథీయులకు 5:17",
             "en": "2 Corinthians 5:17"
           },
           "text": {
-            "te": "Therefore if anyone is in Christ, he is a new creation. The old things have passed away. Behold, all things have become new.",
-            "en": "Therefore if anyone is in Christ, he is a new creation. The old things have passed away. Behold, all things have become new."
+            "te": "కాగా ఎవడైనను క్రీస్తునందున్నయెడల వాడు నూతన సృష్టి; పాతవి గతించెను, ఇదిగో క్రొత్త వాయెను;",
+            "en": "Therefore if any man be in Christ, he is a new creature: old things are passed away; behold, all things are become new."
+          }
+        },
+        {
+          "book": {
+            "te": "తీతుకు",
+            "en": "Titus"
+          },
+          "chapter": 3,
+          "verse": 5,
+          "ref": {
+            "te": "తీతుకు 3:5",
+            "en": "Titus 3:5"
+          },
+          "text": {
+            "te": "మనము నీతిని అనుసరించి చేసిన క్రియలమూలముగా కాక, తన కనికరముచొప్పుననే పునర్జన్మసంబంధమైన స్నానము ద్వారాను, పరిశుద్ధాత్మ మనకు నూతన స్వభావము కలుగజేయుట ద్వారాను మనలను రక్షించెను.",
+            "en": "Not by works of righteousness which we have done, but according to his mercy he saved us, by the washing of regeneration, and renewing of the Holy Ghost;"
+          }
+        },
+        {
+          "book": {
+            "te": "1 పేతురు",
+            "en": "1 Peter"
+          },
+          "chapter": 1,
+          "verse": 23,
+          "ref": {
+            "te": "1 పేతురు 1:23",
+            "en": "1 Peter 1:23"
+          },
+          "text": {
+            "te": "ఏలయనగా సర్వశరీరులు గడ్డినిపోలినవారు, వారి అంద మంతయు గడ్డిపువ్వువలె ఉన్నది;",
+            "en": "Being born again, not of corruptible seed, but of incorruptible, by the word of God, which liveth and abideth for ever."
           }
         }
       ],
@@ -3290,23 +3598,23 @@
         "en": "If God knows everything, including who will go to hell, why did He create them in the first place?"
       },
       "shortAnswer": {
-        "te": "ఇది దేవుని ముందుచూపు (Foreknowledge) మరియు మానవ స్వేచ్ఛా చిత్తానికి సంబంధించిన ఒక ఆత్మీయ మర్మం. భవిష్యత్తులో ఏం జరుగుతుందో ముందే తెలియడం వేరు, ఆ భవిష్...",
-        "en": "This touches on the mystery of God's foreknowledge and human free will. Foreknowledge (knowing what will happen) is not the same as predestination (fo..."
+        "te": "ఇది దేవుని ముందుచూపు (Foreknowledge) మరియు మానవ స్వేచ్ఛా చిత్తానికి సంబంధించిన ఒక ఆత్మీయ మర్మం. భవిష్యత్తులో ఏం జరుగుతుందో ముందే తెలియడం వేరు, ఆ భవిష్యత్తును బలవంతంగా అలా జరిపించడం వేరు!",
+        "en": "This touches on the mystery of God's foreknowledge and human free will. Foreknowledge (knowing what will happen) is not the same as predestination (forcing it to happen)."
       },
       "keyVerse": {
         "book": {
-          "te": "యోహాను",
-          "en": "John"
+          "te": "2 పేతురు",
+          "en": "2 Peter"
         },
         "chapter": 3,
-        "verse": 16,
+        "verse": 9,
         "ref": {
-          "te": "యోహాను 3:16",
-          "en": "John 3:16"
+          "te": "2 పేతురు 3:9",
+          "en": "2 Peter 3:9"
         },
         "text": {
-          "te": "దేవుడు లోకమును ఎంతో ప్రేమించెను...",
-          "en": "For God so loved the world..."
+          "te": "కొందరు ఆలస్యమని యెంచుకొనునట్లు ప్రభువు తన వాగ్దానమును గూర్చి ఆలస్యము చేయువాడు కాడు గాని యెవడును నశింపవలెనని యిచ్ఛయింపక, అందరు మారుమనస్సు పొందవలెనని కోరుచు, మీ యెడల ధీర్ఘశాంతముగలవాడై యున్నాడు.",
+          "en": "The Lord is not slack concerning his promise, as some men count slackness; but is longsuffering to us-ward, not willing that any should perish, but that all should come to repentance."
         }
       },
       "answer": {
@@ -3323,7 +3631,56 @@
           }
         ]
       },
-      "verses": [],
+      "verses": [
+        {
+          "book": {
+            "te": "1 తిమోతికి",
+            "en": "1 Timothy"
+          },
+          "chapter": 2,
+          "verse": 4,
+          "ref": {
+            "te": "1 తిమోతికి 2:4",
+            "en": "1 Timothy 2:4"
+          },
+          "text": {
+            "te": "ఆయన, మనుష్యులందరు రక్షణపొంది సత్యమునుగూర్చిన అనుభవజ్ఞానముగలవారై యుండవలెనని యిచ్ఛయించు చున్నాడు.",
+            "en": "Who will have all men to be saved, and to come unto the knowledge of the truth."
+          }
+        },
+        {
+          "book": {
+            "te": "యెహెజ్కేలు",
+            "en": "Ezekiel"
+          },
+          "chapter": 33,
+          "verse": 11,
+          "ref": {
+            "te": "యెహెజ్కేలు 33:11",
+            "en": "Ezekiel 33:11"
+          },
+          "text": {
+            "te": "కాగా వారితో ఇట్లనుమునా జీవముతోడు దుర్మార్గుడు మర ణము నొందుటవలన నాకు సంతోషము లేదు; దుర్మార్గుడు తన దుర్మార్గతనుండి మరలి బ్రదుకుటవలన నాకు సంతో షము కలుగును. కాబట్టి ఇశ్రాయేలీయులారా, మనస్సు త్రిప్పుకొనుడి, మీ దుర్మార్గతనుండి మరలి మనస్సు త్రిప్పు కొనుడి, మీరెందుకు మరణము నొందుదురు? ఇదే ప్రభు వగు యెహోవా వాక్కు.",
+            "en": "Say unto them, As I live, saith the Lord GOD, I have no pleasure in the death of the wicked; but that the wicked turn from his way and live: turn ye, turn ye from your evil ways; for why will ye die, O house of Israel?"
+          }
+        },
+        {
+          "book": {
+            "te": "ద్వితీయోపదేశకాండము",
+            "en": "Deuteronomy"
+          },
+          "chapter": 30,
+          "verse": 19,
+          "ref": {
+            "te": "ద్వితీయోపదేశకాండము 30:19",
+            "en": "Deuteronomy 30:19"
+          },
+          "text": {
+            "te": "నేడు జీవమును మరణమును, ఆశీర్వాదమును శాపమును నేను నీ యెదుటను ఉంచి, భూమ్యాకాశములను మీ మీద సాక్షులుగా పిలుచుచున్నాను.",
+            "en": "I call heaven and earth to record this day against you, that I have set before you life and death, blessing and cursing: therefore choose life, that both thou and thy seed may live:"
+          }
+        }
+      ],
       "relatedIds": [],
       "shareLine": {
         "te": "ఎవరు నరకానికి వెళ్తారో దేవునికి ముందే తెలిసినప్పుడు, అసలు వాళ్ళని ఎందుకు సృష్టించాడు?",
@@ -3344,23 +3701,23 @@
         "en": "Is it a sin to stay single forever, or does God command everyone to get married?"
       },
       "shortAnswer": {
-        "te": "కచ్చితంగా పాపం కాదు! నిజానికి, అపొస్తలుడైన పౌలు పెళ్లి చేసుకోకుండా ఒంటరిగా ఉండటాన్ని ఒక గొప్ప ఆత్మీయ వరంగా చెప్పాడు! వివాహం అనేది దేవుడు నియమించిన ఒక ...",
-        "en": "No, staying single is not a sin; in fact, the Apostle Paul described singleness as a profound spiritual gift! While marriage is a beautiful, God-ordai..."
+        "te": "కచ్చితంగా పాపం కాదు! నిజానికి, అపొస్తలుడైన పౌలు పెళ్లి చేసుకోకుండా ఒంటరిగా ఉండటాన్ని ఒక గొప్ప ఆత్మీయ వరంగా చెప్పాడు!",
+        "en": "No, staying single is not a sin; in fact, the Apostle Paul described singleness as a profound spiritual gift! While marriage is a beautiful, God-ordained institution, it is meant for this temporary earth, not eternity."
       },
       "keyVerse": {
         "book": {
-          "te": "యోహాను",
-          "en": "John"
+          "te": "1 కోరింథీయులకు",
+          "en": "1 Corinthians"
         },
-        "chapter": 3,
-        "verse": 16,
+        "chapter": 7,
+        "verse": 7,
         "ref": {
-          "te": "యోహాను 3:16",
-          "en": "John 3:16"
+          "te": "1 కోరింథీయులకు 7:7-8",
+          "en": "1 Corinthians 7:7-8"
         },
         "text": {
-          "te": "దేవుడు లోకమును ఎంతో ప్రేమించెను...",
-          "en": "For God so loved the world..."
+          "te": "అయినను ఒకడొక విధమునను మరి యొకడు మరియొక విధమునను ప్రతి మనుష్యుడు తన కున్న కృపావరమును దేవునివలన పొందియున్నాడు. నావలెనుండుట వారికి మేలని పెండ్లికానివారితోను విధవరాండ్రతోను చెప్పుచున్నాను.",
+          "en": "For I would that all men were even as I myself. But every man hath his proper gift of God, one after this manner, and another after that. I say therefore to the unmarried and widows, It is good for them if they abide even as I."
         }
       },
       "answer": {
@@ -3377,7 +3734,40 @@
           }
         ]
       },
-      "verses": [],
+      "verses": [
+        {
+          "book": {
+            "te": "1 కోరింథీయులకు",
+            "en": "1 Corinthians"
+          },
+          "chapter": 7,
+          "verse": 32,
+          "ref": {
+            "te": "1 కోరింథీయులకు 7:32-33",
+            "en": "1 Corinthians 7:32-33"
+          },
+          "text": {
+            "te": "మీరు చింతలేని వారై యుండవలెనని కోరుచున్నాను. పెండ్లికానివాడు ప్రభువును ఏలాగు సంతోషపెట్టగలనని ప్రభువు విషయమైన కార్యములను గూర్చి చింతించుచున్నాడు. పెండ్లియైనవాడు భార్యను ఏలాగు సంతోషపెట్టగలనని లోకవిషయమైనవాటిని గూర్చి చింతించుచున్నాడు.",
+            "en": "But I would have you without carefulness. He that is unmarried careth for the things that belong to the Lord, how he may please the Lord: But he that is married careth for the things that are of the world, how he may please his wife."
+          }
+        },
+        {
+          "book": {
+            "te": "మత్తయి",
+            "en": "Matthew"
+          },
+          "chapter": 19,
+          "verse": 12,
+          "ref": {
+            "te": "మత్తయి 19:12",
+            "en": "Matthew 19:12"
+          },
+          "text": {
+            "te": "తల్లి గర్భమునుండి నపుంసకులుగా పుట్టినవారు గలరు, మనుష్యులవలన నపుంస కులుగా చేయబడిన నపుంసకులును గలరు, పరలోక రాజ్యమునిమిత్తము తమ్మును తామే నపుంసకులనుగా చేసి కొనిన నపుంసకులును గలరు. (ఈ మాటను) అంగీకరింప గలవాడు అంగీకరించును గాక అని వారితో చెప్పెను.",
+            "en": "For there are some eunuchs, which were so born from their mother's womb: and there are some eunuchs, which were made eunuchs of men: and there be eunuchs, which have made themselves eunuchs for the kingdom of heaven's sake. He that is able to receive it, let him receive it."
+          }
+        }
+      ],
       "relatedIds": [],
       "shareLine": {
         "te": "జీవితాంతం పెళ్లి చేసుకోకుండా ఒంటరిగా ఉండిపోవడం పాపమా? దేవుడు ప్రతి ఒక్కరినీ పెళ్లి చేసుకోమన్నాడా?",
@@ -3398,23 +3788,23 @@
         "en": "Is fasting really necessary for Christians today, or is prayer alone enough?"
       },
       "shortAnswer": {
-        "te": "యేసయ్య ఎప్పుడూ 'మీకు కుదిరితే ఉపవాసం ఉండండి' అని చెప్పలేదు, 'మీరు ఉపవాసము చేయునప్పుడు' (మత్తయి 6:16) అని చాలా స్పష్టంగా చెప్పాడు. ఉపవాసం అనేది పాతనిబం...",
-        "en": "Jesus never said, 'IF you fast,' He explicitly said, 'WHEN you fast' (Matthew 6:16). Fasting is not an outdated Old Testament ritual; it is a powerful..."
+        "te": "యేసయ్య ఎప్పుడూ 'మీకు కుదిరితే ఉపవాసం ఉండండి' అని చెప్పలేదు, 'మీరు ఉపవాసము చేయునప్పుడు' (మత్తయి 6:16) అని చాలా స్పష్టంగా చెప్పాడు. ఉపవాసం అనేది పాతనిబంధన కాలపు ఆచారం కాదు, అది ఈరోజు ప్రతి క్రైస్తవుడి చేతిలో ఉన్న ఒక అత్యంత శక్తివంతమైన ఆత్మీయ ఆయుధం!",
+        "en": "Jesus never said, 'IF you fast,' He explicitly said, 'WHEN you fast' (Matthew 6:16). Fasting is not an outdated Old Testament ritual; it is a powerful spiritual weapon for every believer today!"
       },
       "keyVerse": {
         "book": {
-          "te": "యోహాను",
-          "en": "John"
+          "te": "మత్తయి",
+          "en": "Matthew"
         },
-        "chapter": 3,
+        "chapter": 6,
         "verse": 16,
         "ref": {
-          "te": "యోహాను 3:16",
-          "en": "John 3:16"
+          "te": "మత్తయి 6:16-18",
+          "en": "Matthew 6:16-18"
         },
         "text": {
-          "te": "దేవుడు లోకమును ఎంతో ప్రేమించెను...",
-          "en": "For God so loved the world..."
+          "te": "మీరు ఉపవాసము చేయునప్పుడు వేషధారులవలె దుఃఖముఖులై యుండకుడి; తాము ఉపవాసము చేయు చున్నట్టు మనుష్యులకు కనబడవలెనని వారు తమ ముఖము లను వికారము చేసికొందురు; వారు తమ ఫలము పొంది యున్నారని నిశ్చయముగా మీతో చెప్పుచున్నాను. ఉపవాసము చేయుచున్నట్టు మనుష్యులకు కనబడవలెనని కాక, రహస్యమందున్న నీ తండ్రికే కనబడవలెనని, నీవు ఉపవాసము చేయునప్పుడు నీ తల అంటుకొని, నీ ముఖము కడుగుకొనుము. అప్పుడు రహస్యమందు చూచుచున్న నీ తండ్రి నీకు ప్రతిఫలమిచ్చును.",
+          "en": "Moreover when ye fast, be not, as the hypocrites, of a sad countenance: for they disfigure their faces, that they may appear unto men to fast. Verily I say unto you, They have their reward. But thou, when thou fastest, anoint thine head, and wash thy face; That thou appear not unto men to fast, but unto thy Father which is in secret: and thy Father, which seeth in secret, shall reward thee openly."
         }
       },
       "answer": {
@@ -3431,7 +3821,56 @@
           }
         ]
       },
-      "verses": [],
+      "verses": [
+        {
+          "book": {
+            "te": "మత్తయి",
+            "en": "Matthew"
+          },
+          "chapter": 17,
+          "verse": 21,
+          "ref": {
+            "te": "మత్తయి 17:21",
+            "en": "Matthew 17:21"
+          },
+          "text": {
+            "te": "మీకు అసాధ్యమైనది ఏదియు నుండదని నిశ్చయముగా మీతో చెప్పుచున్నానని వారితో అనెను.",
+            "en": "Howbeit this kind goeth not out but by prayer and fasting."
+          }
+        },
+        {
+          "book": {
+            "te": "యెషయా",
+            "en": "Isaiah"
+          },
+          "chapter": 58,
+          "verse": 6,
+          "ref": {
+            "te": "యెషయా 58:6",
+            "en": "Isaiah 58:6"
+          },
+          "text": {
+            "te": "దుర్మార్గులు కట్టిన కట్లను విప్పుటయు కాడిమాను మోకులు తీయుటయు బాధింపబడినవారిని విడిపించుటయు ప్రతి కాడిని విరుగగొట్టుటయు నే నేర్పరచుకొనిన ఉపవాసము గదా?",
+            "en": "Is not this the fast that I have chosen? to loose the bands of wickedness, to undo the heavy burdens, and to let the oppressed go free, and that ye break every yoke?"
+          }
+        },
+        {
+          "book": {
+            "te": "అపొస్తలుల కార్యములు",
+            "en": "Acts"
+          },
+          "chapter": 13,
+          "verse": 2,
+          "ref": {
+            "te": "అపొస్తలుల కార్యములు 13:2-3",
+            "en": "Acts 13:2-3"
+          },
+          "text": {
+            "te": "వారు ప్రభువును సేవించుచు ఉపవాసము చేయుచుండగా పరిశుద్ధాత్మనేను బర్నబాను సౌలును పిలిచిన పనికొరకు వారిని నాకు ప్రత్యేకపరచుడని వారితో చెప్పెను. అంతట వారు ఉపవాసముండి ప్రార్థనచేసి వారిమీద చేతులుంచి వారిని పంపిరి.",
+            "en": "As they ministered to the Lord, and fasted, the Holy Ghost said, Separate me Barnabas and Saul for the work whereunto I have called them. And when they had fasted and prayed, and laid their hands on them, they sent them away."
+          }
+        }
+      ],
       "relatedIds": [],
       "shareLine": {
         "te": "ఈ రోజుల్లో క్రైస్తవులు ఉపవాసం ఉండటం నిజంగా అవసరమా, లేక కేవలం ప్రార్థన సరిపోతుందా?",
@@ -3452,23 +3891,23 @@
         "en": "What happens to people who lived and died without ever hearing the name of Jesus? Do they automatically go to hell?"
       },
       "shortAnswer": {
-        "te": "బైబిల్ లో ఇది ఎంతో లోతైన మరియు క్లిష్టమైన ప్రశ్న. బైబిల్ రెండు విషయాలను చాలా స్పష్టంగా చెబుతోంది: మొదటిది, యేసుక్రీస్తు మాత్రమే రక్షణకు ఏకైక మార్గం (య...",
-        "en": "This is one of the most emotionally challenging questions in theology. The Bible makes two things perfectly clear: First, Jesus is the ONLY way to sal..."
+        "te": "బైబిల్ లో ఇది ఎంతో లోతైన మరియు క్లిష్టమైన ప్రశ్న. బైబిల్ రెండు విషయాలను చాలా స్పష్టంగా చెబుతోంది: మొదటిది, యేసుక్రీస్తు మాత్రమే రక్షణకు ఏకైక మార్గం (యోహాను 14:6).",
+        "en": "This is one of the most emotionally challenging questions in theology. The Bible makes two things perfectly clear: First, Jesus is the ONLY way to salvation (John 14:6)."
       },
       "keyVerse": {
         "book": {
-          "te": "Romans",
+          "te": "రోమీయులకు",
           "en": "Romans"
         },
         "chapter": 1,
         "verse": 19,
         "ref": {
-          "te": "Romans 1:19",
+          "te": "రోమీయులకు 1:19-20",
           "en": "Romans 1:19-20"
         },
         "text": {
-          "te": "because that which is known of God is revealed in them, for God revealed it to them.",
-          "en": "because that which is known of God is revealed in them, for God revealed it to them."
+          "te": "ఎందు కనగా దేవునిగూర్చి తెలియ శక్యమైనదేదో అది వారి మధ్య విశదమైయున్నది; దేవుడు అది వారికి విశదపర చెను. ఆయన అదృశ్య లక్షణములు, అనగా ఆయన నిత్యశక్తియు దేవత్వమును, జగదుత్పత్తి మొదలుకొని సృష్టింపబడిన వస్తువులను ఆలోచించుటవలన తేటపడుచున్నవి గనుక వారు నిరుత్తరులై యున్నారు.",
+          "en": "Because that which may be known of God is manifest in them; for God hath shewed it unto them. For the invisible things of him from the creation of the world are clearly seen, being understood by the things that are made, even his eternal power and Godhead; so that they are without excuse:"
         }
       },
       "answer": {
@@ -3488,50 +3927,34 @@
       "verses": [
         {
           "book": {
-            "te": "Romans",
-            "en": "Romans"
-          },
-          "chapter": 1,
-          "verse": 19,
-          "ref": {
-            "te": "Romans 1:19",
-            "en": "Romans 1:19-20"
-          },
-          "text": {
-            "te": "because that which is known of God is revealed in them, for God revealed it to them.",
-            "en": "because that which is known of God is revealed in them, for God revealed it to them."
-          }
-        },
-        {
-          "book": {
-            "te": "Romans",
+            "te": "రోమీయులకు",
             "en": "Romans"
           },
           "chapter": 2,
           "verse": 14,
           "ref": {
-            "te": "Romans 2:14",
+            "te": "రోమీయులకు 2:14-16",
             "en": "Romans 2:14-16"
           },
           "text": {
-            "te": "(for when Gentiles who don’t have the law do by nature the things of the law, these, not having the law, are a law to themselves,",
-            "en": "(for when Gentiles who don’t have the law do by nature the things of the law, these, not having the law, are a law to themselves,"
+            "te": "ధర్మ శాస్త్రము లేని అన్యజనులు స్వాభావికముగా ధర్మశాస్త్ర సంబంధమైన క్రియలను చేసినయెడల వారు ధర్మశాస్త్రము లేనివారైనను, తమకు తామే ధర్మశాస్త్రమైనట్టున్నారు. అట్టివారి మనస్సాక్షి కూడ సాక్ష్యమిచ్చుచుండగను, వారి తలంపులు ఒక దానిమీద ఒకటి తప్పు మోపుచు లేక తప్పులేదని చెప్పుచుండగను, ధర్మశాస్త్రసారము తమ హృదయములయందు దేవుడు నా సువార్త ప్రకారము యేసు క్రీస్తుద్వారా మను ష్యుల రహస్యములను విమర్శించు దినమందు ఈలాగు జరుగును.",
+            "en": "For when the Gentiles, which have not the law, do by nature the things contained in the law, these, having not the law, are a law unto themselves: Which shew the work of the law written in their hearts, their conscience also bearing witness, and their thoughts the mean while accusing or else excusing one another;) In the day when God shall judge the secrets of men by Jesus Christ according to my gospel."
           }
         },
         {
           "book": {
-            "te": "Genesis",
+            "te": "ఆదికాండము",
             "en": "Genesis"
           },
           "chapter": 18,
           "verse": 25,
           "ref": {
-            "te": "Genesis 18:25",
+            "te": "ఆదికాండము 18:25",
             "en": "Genesis 18:25"
           },
           "text": {
-            "te": "Be it far from you to do things like that, to kill the righteous with the wicked, so that the righteous should be like the wicked. May that be far from you. Shouldn’t the Judge of all the earth do right?”",
-            "en": "Be it far from you to do things like that, to kill the righteous with the wicked, so that the righteous should be like the wicked. May that be far from you. Shouldn’t the Judge of all the earth do right?”"
+            "te": "ఆ చొప్పున చేసి దుష్టులతో కూడ నీతి మంతులను చంపుట నీకు దూరమవునుగాక. నీతిమంతుని దుష్టు నితో సమముగా ఎంచుట నీకు దూరమవు గాక. సర్వలోకమునకు తీర్పు తీర్చువాడు న్యాయము చేయడా అని చెప్పినప్పుడు",
+            "en": "That be far from thee to do after this manner, to slay the righteous with the wicked: and that the righteous should be as the wicked, that be far from thee: Shall not the Judge of all the earth do right?"
           }
         }
       ],
