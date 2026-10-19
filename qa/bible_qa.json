@@ -3975,7 +3975,8 @@
         "ఆత్మల వివేచన",
         "Holy Spirit",
         "Discernment",
-        "Gods Voice"
+        "Gods Voice",
+        "Spiritual Warfare"
       ],
       "question": {
         "te": "పరిశుద్ధాత్మ దేవుని స్వరం మరియు సాతాను మోసపు స్వరం మధ్య తేడాను మనం ఎలా గుర్తించాలి?",
@@ -4005,15 +4006,23 @@
         "te": [
           {
             "type": "para",
-            "text": "క్రైస్తవ ఆత్మీయ పోరాటంలో అత్యంత కీలకమైన అంశం — ఆలోచనలను మరియు ప్రేరేపణలను వివేచించడం. మన హృదయంలో కలిగే తలంపు దేవుని ఆత్మ వలన కలిగిందా లేక శత్రువు తెచ్చిన మోసమా అనేది గుర్తించడానికి బైబిల్ మనకు స్పష్టమైన గీటురాయిని ఇచ్చింది."
+            "text": "క్రైస్తవ ఆత్మీయ జీవితంలో అత్యంత తీవ్రమైన యుద్ధరంగం విశ్వాసి ఆలోచనా ప్రపంచమే. అపొస్తలుడైన పౌలు 2 కొరింథీయులకు 10:5లో 'సమస్తమైన ఆలోచనలను క్రీస్తునకు లోబడునట్లు చెరపట్టుచున్నాము' అని వ్రాశాడు. మన అంతరంగంలో పుట్టే తలంపు లేదా ప్రేరేపణ పరిశుద్ధాత్మ దేవునిదా, మన స్వంత శరీర సంబంధమైనదా, లేక సాతాను తెచ్చిన వంచనా అనేది వివేచించడం ప్రతి విశ్వాసి ఆత్మీయ మనుగడకు అత్యంత ఆవశ్యకం."
           },
           {
             "type": "head",
-            "text": "1. బైబిల్ వాక్యమే అంతిమ ప్రామాణికం"
+            "text": "1. మూలభాష విశ్లేషణ — ఆత్మల వివేచన (Diakrisis Pneumaton)"
           },
           {
             "type": "para",
-            "text": "పరిశుద్ధాత్మ దేవుడు తాను స్వయంగా వ్రాయించిన లిఖిత వాక్యానికి (Holy Scriptures) విరుద్ధంగా ఎన్నడూ మాట్లాడడు. ఏదైనా స్వరం బైబిల్ బోధనకు లేదా నైతిక సూత్రాలకు విరుద్ధంగా ఉంటే, అది కచ్చితంగా దేవునిది కాదు."
+            "text": "1 కొరింథీయులకు 12:10లో పౌలు 'ఆత్మల వివేచన' (Discerning of spirits) అనే కృపావరం గురించి ప్రస్తావిస్తాడు. గ్రీకు మూలభాషలో వాడిన పదం 'డయాక్రిసిస్' (Diakrisis). దీని అర్థం నిశితంగా పరిశీలించి, కల్తీ నుండి స్వచ్ఛమైన దానిని వేరుచేసి చూడటం. శత్రువు వెలుగు దూత వేషం ధరించి వస్తాడని (2 కొరింథీ 11:14) బైబిల్ హెచ్చరిస్తున్నందున, భావోద్వేగాల ఆధారంగా కాక ఆత్మీయ ప్రమాణాల ద్వారా స్వరాలను పరీక్షించాలి."
+          },
+          {
+            "type": "head",
+            "text": "2. బైబిల్ వాక్యమే అంతిమ ప్రామాణికం (Scriptural Consistency)"
+          },
+          {
+            "type": "para",
+            "text": "పరిశుద్ధాత్మ దేవుడు తాను స్వయంగా వ్రాయించిన పరిశుద్ధ లేఖనాలకు (2 తిమోతి 3:16) వ్యతిరేకంగా ఎన్నడూ ఒక్క మాట కూడా మాట్లాడడు. ఒక ఆలోచన బైబిల్ నైతిక సూత్రాలకు, క్రీస్తు ఉపదేశాలకు భిన్నంగా ఉంటే, అది ఎంత అద్భుతంగా అనిపించినా, ఎంతటి అతీంద్రియ అనుభవంతో వచ్చినా అది సాతాను ప్రేరేపణే. ఏదేను తోటలో సాతాను దేవుని వాక్యానికి ప్రశ్నార్థకం పెట్టి వక్రీకరించాడు ('దేవుడు నిజముగా సెలవిచ్చెనా?'). పరిశుద్ధాత్మ ఎల్లప్పుడూ వాక్యాన్ని గుర్తుచేసి సత్యములోనికి నడిపిస్తాడు."
           },
           {
             "type": "verse",
@@ -4022,11 +4031,19 @@
           },
           {
             "type": "head",
-            "text": "2. ఒప్పింపు (Conviction) vs నిందారోపణ (Condemnation)"
+            "text": "3. ఒప్పింపు (Conviction) vs నిందారోపణ (Condemnation)"
           },
           {
             "type": "para",
-            "text": "పరిశుద్ధాత్మ మనలోని పాపాన్ని ఎత్తిచూపినప్పుడు, అది ప్రేమతో కూడిన ఒప్పింపుగా ఉంటుంది; అది మనల్ని యేసుక్రీస్తు సిలువ వైపు, పశ్చాత్తాపం మరియు విడుదల వైపు నడిపిస్తుంది. కానీ సాతాను తెచ్చే స్వరం 'నిందారోపణ' (Condemnation); అది 'నువ్వు దేవునికి పనికిరావు, దేవుడు నిన్ను ఎప్పటికీ ప్రేమించడు' అంటూ నిరాశ, ఆత్మహత్య వంటి చీకటి ఆలోచనల్లోకి నెట్టివేస్తుంది."
+            "text": "పరిశుద్ధాత్మ స్వరం మరియు సాతాను స్వరం మధ్య ఉన్న అతిపెద్ద వ్యత్యాసం పాపం విషయంలో వారు మాట్లాడే విధానం:"
+          },
+          {
+            "type": "point",
+            "text": "పరిశుద్ధాత్మ ఒప్పిస్తాడు (Conviction): ఇది నిర్దిష్టమైన తప్పును ప్రేమతో ఎత్తిచూపుతుంది. విశ్వాసి హృదయాన్ని క్రీస్తు సిలువ వైపు, పశ్చాత్తాపం, క్షమాపణ మరియు విడుదల వైపు నడిపిస్తుంది (యోహాను 16:8)."
+          },
+          {
+            "type": "point",
+            "text": "సాతాను నిందిస్తాడు (Condemnation): సాతాను 'సహోదరుల మీద నిందమోపువాడు' (Accuser of the brethren - ప్రకటన 12:10). అతడు వ్యక్తిత్వాన్ని ద్వేషిస్తూ, 'నువ్వు పనికిరావు, దేవుడు నిన్ను ఎప్పటికీ క్షమించడు, నీ ప్రార్థన వ్యర్థం' అంటూ నిరాశ, చీకటి మరియు ఆత్మహత్య వంటి భావనల్లోకి నెట్టివేస్తాడు."
           },
           {
             "type": "verse",
@@ -4035,33 +4052,70 @@
           },
           {
             "type": "head",
-            "text": "3. సమాధానం మరియు ఆత్మ ఫలములు"
+            "text": "4. క్రీస్తు కేంద్రికత (Christ-Centeredness)"
+          },
+          {
+            "type": "para",
+            "text": "పరిశుద్ధాత్మ యొక్క పరమ లక్ష్యం యేసుక్రీస్తును మహిమపరచడమే (యోహాను 16:14). ఒక స్వరం మిమ్మల్ని క్రీస్తును హెచ్చించేలా, స్వార్థాన్ని చంపుకునేలా ప్రేరేపిస్తే అది దేవునిది. కానీ సాతాను స్వరం మానవ అహంకారాన్ని, స్వనీతిని, వ్యక్తి పూజను లేదా ధనాశను ప్రోత్సహిస్తుంది."
+          },
+          {
+            "type": "head",
+            "text": "5. అంతరంగ సమాధానం vs గందరగోళం (Peace vs Panic)"
+          },
+          {
+            "type": "para",
+            "text": "దేవుడు గందరగోళమునకు కర్త కాడు, సమాధానమునకే కర్త (1 కొరింథీయులకు 14:33). దేవుని స్వరం మన హృదయాలను సరిచేస్తున్నప్పుడు కూడా ఒక లోతైన దైవిక సమాధానాన్ని (Shalom) ఉంచుతుంది. శత్రువు స్వరం ఆతురత, తొందరపాటు నిర్ణయాలు, భయం మరియు ఆందోళనను పుట్టిస్తుంది."
+          },
+          {
+            "type": "verse",
+            "ref": "కొలొస్సయులకు 3:15",
+            "text": "క్రీస్తు సమాధానము మీ హృదయములలో ఏలుచుండనియ్యుడి."
+          },
+          {
+            "type": "head",
+            "text": "6. విశ్వాసి అనుసరించాల్సిన 4 ఆత్మీయ పరీక్షలు"
           },
           {
             "type": "point",
-            "text": "దేవుని స్వరం వినయం, ప్రశాంతత, పరిశుద్ధత మరియు దైవిక సమాధానాన్ని తెస్తుంది."
+            "text": "వాక్య పరీక్ష: ఈ తలంపు బైబిల్ బోధనకు సంపూర్ణంగా సరిపోతుందా?"
           },
           {
             "type": "point",
-            "text": "సాతాను స్వరం ఆతురత, భయం, అహంకారం మరియు గందరగోళాన్ని సృష్టిస్తుంది."
+            "text": "క్రీస్తు పరీక్ష: ఇది నన్ను యేసులా మార్చుతుందా, క్రీస్తును నా జీవితంలో ఘనపరుస్తుందా?"
+          },
+          {
+            "type": "point",
+            "text": "ఫలముల పరీక్ష: ఈ స్వరాన్ని వెంబడిస్తే ఆత్మ ఫలములైన ప్రేమ, సంతోషం, సమాధానం కలుగుతాయా లేక శరీరకార్యాలు పుడతాయా?"
+          },
+          {
+            "type": "point",
+            "text": "విశ్వాసుల సహవాస పరీక్ష: ఆత్మీయ పరిపక్వత గల దైవజనులు, సంఘ పెద్దలు ఈ ఆలోచనతో ఏకీభవిస్తున్నారా?"
           },
           {
             "type": "key",
-            "text": "పరిశుద్ధాత్మ స్వరం ఎల్లప్పుడూ క్రీస్తును హెచ్చిస్తుంది, దేవుని వాక్యానికి సరిపోతుంది, మరియు విశ్వాసి హృదయంలో దైవిక సమాధానాన్ని స్థిరపరుస్తుంది."
+            "text": "పరిశుద్ధాత్మ స్వరం ఎల్లప్పుడూ లిఖిత వాక్యంతో ఏకీభవిస్తుంది, క్రీస్తును హెచ్చిస్తుంది, పాపాన్ని విడిపించి రక్షణ నిశ్చయతను ఇస్తుంది మరియు హృదయంలో దివ్య సమాధానాన్ని స్థిరపరుస్తుంది."
           }
         ],
         "en": [
           {
             "type": "para",
-            "text": "In the Christian spiritual journey, one of the greatest battles takes place in the mind. Discerning whether an inner impression or thought is from the Holy Spirit or a deception from the enemy is vital for spiritual victory."
+            "text": "In the Christian life, the ultimate battlefield is the mind. The Apostle Paul writes in 2 Corinthians 10:5 that we must 'bring into captivity every thought to the obedience of Christ.' Discerning whether an inner voice or impression originates from the Holy Spirit, human carnality, or demonic deception is essential for spiritual victory and perseverance."
           },
           {
             "type": "head",
-            "text": "1. Scripture is the Ultimate Standard"
+            "text": "1. Original Greek Study — Discerning of Spirits (Diakrisis Pneumaton)"
           },
           {
             "type": "para",
-            "text": "The Holy Spirit will never contradict the written Word of God which He inspired. If any thought, impression, or voice contradicts biblical doctrine, it is from the enemy, no matter how spiritual it feels."
+            "text": "In 1 Corinthians 12:10, Scripture lists 'discerning of spirits.' The Greek word used is 'Diakrisis,' which means thorough investigation to separate counterfeit from genuine truth. Because Satan disguises himself as an angel of light (2 Corinthians 11:14), believers must never rely on subjective emotions, but rigorously test every spirit against the Word of God."
+          },
+          {
+            "type": "head",
+            "text": "2. Absolute Scriptural Consistency"
+          },
+          {
+            "type": "para",
+            "text": "The Holy Spirit will never contradict the sacred Scriptures which He inspired (2 Timothy 3:16). If any thought, prophetic claim, or impression violates biblical doctrine or moral boundaries, it is demonic deception. In Genesis 3, Satan's initial tactic was casting doubt on God's Word ('Hath God said?'). The Spirit always exalts and fulfills Scripture."
           },
           {
             "type": "verse",
@@ -4070,11 +4124,19 @@
           },
           {
             "type": "head",
-            "text": "2. Conviction vs. Condemnation"
+            "text": "3. Conviction vs. Condemnation"
           },
           {
             "type": "para",
-            "text": "The Holy Spirit brings conviction—a specific, gentle, and loving exposure of sin designed to lead you to the cross and restoration. Satan brings condemnation—vague, paralyzing shame telling you that God has rejected you."
+            "text": "The operational difference between God's Spirit and Satan is most evident in how they address our sin:"
+          },
+          {
+            "type": "point",
+            "text": "The Spirit Convicts: He pinpoints specific sin with divine love, producing godly sorrow that propels the believer straight to the cross for cleansing, restoration, and freedom (John 16:8)."
+          },
+          {
+            "type": "point",
+            "text": "Satan Condemns: He is the 'accuser of our brethren' (Revelation 12:10). His voice attacks identity, inducing hopeless shame: 'You are worthless; God has abandoned you.' It drives toward spiritual isolation and despair."
           },
           {
             "type": "verse",
@@ -4083,19 +4145,48 @@
           },
           {
             "type": "head",
-            "text": "3. Fruit of Peace vs. Spirit of Fear"
+            "text": "4. Christ-Centeredness vs. Self-Exaltation"
+          },
+          {
+            "type": "para",
+            "text": "The chief mission of the Holy Spirit is to glorify Jesus Christ (John 16:14). Any impulse that humbles the flesh and magnifies Jesus comes from God. Any voice prompting pride, self-righteousness, financial greed, or the idolatry of human leaders comes from the flesh or the enemy."
+          },
+          {
+            "type": "head",
+            "text": "5. Supernatural Peace vs. Anxious Panic"
+          },
+          {
+            "type": "para",
+            "text": "God is not the author of confusion, but of peace (1 Corinthians 14:33). Even when the Spirit rebukes, He anchors the soul in transcendent peace. The enemy's hallmark is panic, frantic haste, paranoia, and mental turbulence."
+          },
+          {
+            "type": "verse",
+            "ref": "Colossians 3:15",
+            "text": "And let the peace of God rule in your hearts."
+          },
+          {
+            "type": "head",
+            "text": "6. Four Practical Tests for Every Believer"
           },
           {
             "type": "point",
-            "text": "God’s voice brings humility, clarity, holiness, and steadfast supernatural peace."
+            "text": "The Scripture Test: Does this align with the totality of biblical doctrine?"
           },
           {
             "type": "point",
-            "text": "The enemy’s voice creates panic, confusion, pride, and spiritual isolation."
+            "text": "The Christ Test: Does this exalt Jesus and make me more like Him?"
+          },
+          {
+            "type": "point",
+            "text": "The Fruit Test: Does following this yield love, joy, and peace, or fleshly strife?"
+          },
+          {
+            "type": "point",
+            "text": "The Counsel Test: Do mature, Bible-rooted elders and mentors confirm it?"
           },
           {
             "type": "key",
-            "text": "The voice of the Holy Spirit always exalts Jesus Christ, harmonizes with Scripture, and produces the fruit of supernatural peace."
+            "text": "The voice of the Holy Spirit always aligns with Scripture, magnifies the Lord Jesus, cleanses from sin through the cross, and establishes supernatural peace in the believer's soul."
           }
         ]
       }
@@ -4111,7 +4202,8 @@
         "మారుమనస్సు",
         "Repentance",
         "Salvation",
-        "New Heart"
+        "New Heart",
+        "Metanoia"
       ],
       "question": {
         "te": "ఒక విశ్వాసి నిజమైన పశ్చాత్తాపం (True Repentance) పొందాడని ఎలా తెలుస్తుంది? కేవలం ఏడవడం సరిపోతుందా?",
@@ -4141,85 +4233,135 @@
         "te": [
           {
             "type": "para",
-            "text": "క్రైస్తవ సువార్తలో మొట్టమొదటి ఆజ్ఞ 'మారుమనస్సు పొందుడి' (Repent). అయితే నేటి కాలంలో చాలామంది పశ్చాత్తాపం అంటే కేవలం ప్రార్థనలో కాసేపు ఏడవడం లేదా తప్పు చేసి దొరికిపోయినందుకు బాధపడటం అని పొరబడుతుంటారు."
+            "text": "బాప్తిస్మమిచ్చు యోహాను, ప్రభువైన యేసుక్రీస్తు మరియు అపొస్తలులు మొట్టమొదట ప్రకటించిన సువార్త సందేశం: 'మారుమనస్సు పొందుడి!' (మత్తయి 4:17). అయితే నేటి క్రైస్తవ లోకంలో పశ్చాత్తాపం గురించి తీవ్రమైన అపార్థాలు ఉన్నాయి. చాలామంది పాస్టర్ ప్రార్థన చేసినప్పుడు భావోద్వేగంతో ఏడవడం లేదా పాపం చేస్తూ పట్టుబడినందుకు సిగ్గుపడటాన్ని పశ్చాత్తాపం అనుకుంటారు. కానీ బైబిల్ ప్రమాణాలు ఎంతో విభిన్నమైనవి."
           },
           {
             "type": "head",
-            "text": "1. మెటనోయియా — మనస్సు మరియు దిశ మార్పు"
+            "text": "1. గ్రీకు మరియు హెబ్రీ మూలపదాల విశ్లేషణ (Metanoia & Shub)"
           },
           {
             "type": "para",
-            "text": "గ్రీకు మూలభాషలో పశ్చాత్తాపానికి వాడిన పదం 'మెటనోయియా' (Metanoia). దీని అర్థం మనస్సులో మరియు నడిచే దారిలో 180 డిగ్రీల సంపూర్ణ మార్పు. పాపాన్ని ప్రేమించిన హృదయం ఇకపై పాపాన్ని అసహ్యించుకుని, క్రీస్తు నీతిని ప్రేమించడం మొదలుపెడుతుంది."
+            "text": "పాత నిబంధన హెబ్రీ భాషలో పశ్చాత్తాపానికి వాడిన పదం 'షూబ్' (Shub) — అనగా వెనుకకు మళ్లుట (To turn back). క్రొత్త నిబంధన గ్రీకు భాషలో వాడిన పదం 'మెటనోయియా' (Metanoia) — అనగా మనస్సు మరియు ఆలోచనా విధానంలో సంపూర్ణ విప్లవాత్మక మార్పు. ఇది కేవలం తాత్కాలిక విచారం (Remorse / Metamelomai) కాదు; పాపము పట్ల ప్రేమను చంపుకుని, దేవుని పవిత్రతను ప్రేమించే నూతన హృదయాన్ని పొందుకోవడం."
           },
           {
             "type": "head",
-            "text": "2. పేతురు vs యూదా — పశ్చాత్తాపంలో తేడా"
+            "text": "2. బైబిల్ దృష్టాంతాలు: దైవచిత్తానుసారమైన దుఃఖం vs లౌకిక దుఃఖం"
+          },
+          {
+            "type": "point",
+            "text": "యూదా ఇస్కరియోతు: యేసును అప్పగించిన తర్వాత యూదా ఎంతో విచారపడ్డాడు, డబ్బును తిరిగి తెచ్చిచ్చాడు. కానీ అది కేవలం నేరారోపణ వలన కలిగిన లౌకిక దుఃఖం (Worldly grief). అతడు క్షమాపణ కొరకు క్రీస్తు పాదాల యొద్దకు వెళ్లక ఉరివేసుకుని చనిపోయాడు (మత్తయి 27:3-5)."
+          },
+          {
+            "type": "point",
+            "text": "పేతురు: యేసును ఎరుగనని మూడుసార్లు శపధము చేసిన పేతురు బయటకు వెళ్లి చేదుగా ఏడ్చాడు. ఆ దుఃఖం అతన్ని క్రీస్తు వైపుకు నడిపించింది, పునరుత్థానుడైన యేసును చూసి తన జీవితాన్నే సిలువ మరణం వరకు సమర్పించాడు."
+          },
+          {
+            "type": "point",
+            "text": "దావీదు మహారాజు: బత్షెబ విషయంలో పాపం చేసినప్పుడు దావీదు ఏ సాకు చెప్పకుండా 'దేవునికే విరోధముగా పాపము చేసితిని, నాలో శుద్ధహృదయము కలుగజేయుము' అని కన్నీటితో మొర్రపెట్టాడు (కీర్తన 51)."
+          },
+          {
+            "type": "head",
+            "text": "3. నిజమైన పశ్చాత్తాపం యొక్క 3 అనివార్యమైన ఆనవాళ్లు"
           },
           {
             "type": "para",
-            "text": "యూదా ఇస్కరియోతు యేసును అప్పగించిన తర్వాత తీవ్రమైన పశ్చాత్తాపం నొందాడు, కానీ అది లౌకిక దుఃఖం (Worldly sorrow); అతడు క్రీస్తు క్షమాపణను వెదకక ఆత్మహత్య చేసుకున్నాడు. పేతురు యేసును మూడుసార్లు బొంకిన తర్వాత గుండె పగిలేలా ఏడ్చాడు, కానీ క్రీస్తు వైపు తిరిగి నిజమైన పునరుద్ధరణను పొందాడు."
+            "text": "ఎవరైనా నిజంగా రక్షణార్థమైన మారుమనస్సు పొందారో లేదో ఈ మూడు అంశాల ద్వారా నిరూపితమవుతుంది:"
+          },
+          {
+            "type": "point",
+            "text": "A. మేధోపరమైన ఒప్పుకోలు (Intellectual Realization): పాపాన్ని సమర్థించుకోకుండా, పరిస్థితులపై నింద మోపకుండా, దేవుని న్యాయమైన తీర్పు ఎదుట తానొక ఘోరమైన పాపినని నిష్కపటంగా ఒప్పుకోవడం (సామెతలు 28:13)."
+          },
+          {
+            "type": "point",
+            "text": "B. భావోద్వేగపు విరక్తి (Emotional Hatred of Sin): గతంలో ఆనందించిన పాపం ఇప్పుడు హృదయానికి అసహ్యంగా, దుఃఖకరంగా మారడం (రోమీయులకు 12:9)."
+          },
+          {
+            "type": "point",
+            "text": "C. సంకల్ప మార్పు & నూతన విధేయత (Volitional Turning & Restitution): పాపపు మార్గాన్ని తక్షణమే విడిచిపెట్టి, క్రీస్తు ఆజ్ఞలకు విధేయత చూపడం. జక్కయ్య మారుమనస్సు పొందిన వెంటనే తాను అన్యాయంగా దోచుకున్నదానికి నాలుగు రెట్లు తిరిగి ఇచ్చాడు (లూకా 19:8)."
+          },
+          {
+            "type": "verse",
+            "ref": "లూకా 3:8",
+            "text": "మారుమనస్సుకు తగిన ఫలములను ఫలించుడి."
           },
           {
             "type": "head",
-            "text": "3. మారుమనస్సుకు తగిన ఫలాలు"
+            "text": "4. కన్నీళ్లు vs మార్పు చెందిన జీవితం"
           },
           {
-            "type": "point",
-            "text": "పాపాన్ని దాచకుండా దేవుని సన్నిధిలో విరిగి నలిగిన హృదయంతో ఒప్పుకోవడం."
-          },
-          {
-            "type": "point",
-            "text": "పాపపు సంబంధాలను, అలవాట్లను వెంటనే తెగతెంపులు చేసుకోవడం (జక్కయ్య మాదిరి)."
-          },
-          {
-            "type": "point",
-            "text": "క్రీస్తు వాక్యానికి విధేయత చూపించాలనే నూతన దాహం కలగడం."
+            "type": "para",
+            "text": "కన్నీళ్లు పశ్చాత్తాపానికి సహజమైన ప్రతిస్పందన కావచ్చు, కానీ కన్నీళ్లే పశ్చాత్తాపం కాదు. ఏసావు కన్నీళ్లు కారుస్తూ జ్యేష్ఠత్వపు ఆశీర్వాదం కొరకు వెదికాడు గాని మారుమనస్సు పొందలేకపోయాడు (హెబ్రీయులకు 12:17). పాపము నుండి మరలి, పరిశుద్ధతను వెంబడించడమే దేవుడు ఆమోదించే సత్యమైన పశ్చాత్తాపం."
           },
           {
             "type": "key",
-            "text": "కన్నీళ్లు పశ్చాత్తాపానికి గుర్తు కావచ్చు, కానీ పాపం నుండి మరలి క్రీస్తును వెంబడించే జీవితమే నిజమైన పశ్చాత్తాపానికి తిరుగులేని సాక్ష్యం."
+            "text": "నిజమైన పశ్చాత్తాపం అనేది కేవలం శిక్ష నుండి తప్పించుకోవాలనే భయం కాదు; ప్రేమతో మనలను విమోచించిన రక్షకునికి విరోధంగా పాపం చేశాననే పవిత్రమైన విచారం మరియు పాపాన్ని విడిచిపెట్టి క్రీస్తు వైపు తిరిగే నూతన జీవితం."
           }
         ],
         "en": [
           {
             "type": "para",
-            "text": "The first command of the Gospel preached by John the Baptist and Jesus was 'Repent!' Yet many confuse emotional weeping or regret over consequences with true biblical repentance."
+            "text": "The inaugural proclamation of John the Baptist, Jesus Christ, and the Apostles was singular: 'Repent, for the kingdom of heaven is at hand!' (Matthew 4:17). Yet modern Christianity frequently confuses emotional sorrow or remorse over getting caught with authentic biblical repentance. Scriptural standards reveal a radically deeper transformation."
           },
           {
             "type": "head",
-            "text": "1. Metanoia — A Complete Change of Mind"
+            "text": "1. Linguistic Roots — Shub (Hebrew) & Metanoia (Greek)"
           },
           {
             "type": "para",
-            "text": "In the original Greek, repentance is 'Metanoia'—a complete 180-degree transformation of mind and heart. What you once loved (sin), you now hate; and what you once neglected (God's holiness), you now pursue with all your heart."
+            "text": "In the Old Testament, the Hebrew word for repentance is 'Shub'—meaning to completely turn back from a course of rebellion. In the Greek New Testament, the word is 'Metanoia'—meaning a fundamental, revolutionary transformation of the entire mindset, heart, and will. It is sharply distinct from 'Metamelomai' (mere sorrowful regret). Metanoia is a divine miracle where you fall out of love with sin and fall in love with Christ's holiness."
           },
           {
             "type": "head",
-            "text": "2. Peter vs. Judas — Worldly Sorrow vs. Godly Grief"
+            "text": "2. Scriptural Case Studies — Godly Sorrow vs. Worldly Grief"
+          },
+          {
+            "type": "point",
+            "text": "Judas Iscariot: Felt intense remorse, returned the thirty silver coins, yet his sorrow was worldly grief centered on self and despair. Instead of fleeing to Jesus for grace, he committed suicide (Matthew 27:3-5)."
+          },
+          {
+            "type": "point",
+            "text": "Peter: After denying the Lord with curses, he went out and wept bitterly. His sorrow was godly grief that drove him back to Christ, resulting in total restoration and fearless martyrdom."
+          },
+          {
+            "type": "point",
+            "text": "King David: Confronted by Nathan, he made zero excuses. Psalm 51 stands forever as the holy blueprint of a crushed heart: 'Against thee, thee only, have I sinned... create in me a clean heart, O God.'"
+          },
+          {
+            "type": "head",
+            "text": "3. The Three Indispensable Marks of True Repentance"
           },
           {
             "type": "para",
-            "text": "Judas felt intense remorse after betraying Jesus, but it was worldly sorrow rooted in self-preservation and despair, leading to suicide. Peter also wept bitterly after denying Christ, but his sorrow led him back to the feet of Jesus in restored faith."
+            "text": "Authentic, saving repentance engages every faculty of human personhood:"
+          },
+          {
+            "type": "point",
+            "text": "A. Intellectual Conviction: Ceasing all rationalization, blaming, and minimization, seeing oneself as justly condemned before a holy God (Proverbs 28:13)."
+          },
+          {
+            "type": "point",
+            "text": "B. Emotional Renunciation: Grieving that one has grieved the heart of God. Sin becomes repulsive rather than tempting (Romans 12:9)."
+          },
+          {
+            "type": "point",
+            "text": "C. Volitional Turning and Restitution: A definitive break with sinful habits, relationships, and idolized addictions. Zacchaeus demonstrated this instantly by paying back fourfold (Luke 19:8)."
+          },
+          {
+            "type": "verse",
+            "ref": "Luke 3:8",
+            "text": "Bring forth therefore fruits worthy of repentance."
           },
           {
             "type": "head",
-            "text": "3. Fruits in Keeping with Repentance"
+            "text": "4. Tears vs. A Transformed Life"
           },
           {
-            "type": "point",
-            "text": "Honest confession of sin without making excuses or blaming others."
-          },
-          {
-            "type": "point",
-            "text": "A deliberate turning away from old sinful habits (like Zacchaeus making restitution)."
-          },
-          {
-            "type": "point",
-            "text": "A sincere hunger to walk in daily obedience to Christ."
+            "type": "para",
+            "text": "Tears often accompany repentance, but tears do not constitute repentance. Esau wept bitter tears seeking the blessing, yet found no place of repentance (Hebrews 12:17). The undeniable litmus test is not how deeply you wept at the altar, but whether you walked away from the sin and followed Jesus in holiness."
           },
           {
             "type": "key",
-            "text": "Tears may accompany repentance, but a changed life that abandons sin and clings to Jesus is the true evidence of saving faith."
+            "text": "True repentance is not the mere dread of hell; it is a brokenhearted realization of having offended a holy, loving Savior, accompanied by a decisive turning from sin to cling to Jesus Christ alone."
           }
         ]
       }
@@ -4235,7 +4377,8 @@
         "సంస్కారము",
         "Lords Supper",
         "Holy Communion",
-        "Eucharist"
+        "Eucharist",
+        "Ordinances"
       ],
       "question": {
         "te": "ప్రభువు రాత్రి భోజనం (Holy Communion) యొక్క ఆత్మీయ ప్రాముఖ్యత ఏమిటి? దీనిలో ఎవరెవరు పాలుపొందవచ్చు?",
@@ -4265,95 +4408,133 @@
         "te": [
           {
             "type": "para",
-            "text": "ప్రభువైన యేసుక్రీస్తు స్వయంగా తన శిష్యులకు నియమించిన రెండు పవిత్ర సంస్కారాలలో (Ordinances) ప్రభువు రాత్రి భోజనం ఒకటి (రెండవది బాప్తిస్మము). ఇది కేవలం ఒక ఆచారం కాదు, అత్యంత పవిత్రమైన ఆత్మీయ అనుభవం."
+            "text": "యేసుక్రీస్తు తన భూలోక పరిచర్య చివరి రాత్రి, పస్కా విందు సమయంలో తన శిష్యులకు స్వయంగా అనుగ్రహించిన రెండు ప్రధాన క్రైస్తవ సంస్కారాలలో (Ordinances) ప్రభువు రాత్రి భోజనం ఒకటి (రెండవది నీటి బాప్తిస్మము). ఇది కేవలం ఒక బాహ్య ఆచారం కాక, క్రీస్తు సంఘానికి అనుగ్రహించిన అత్యంత పవిత్రమైన నిబంధన విందు."
           },
           {
             "type": "head",
-            "text": "1. సిలువ త్యాగాన్ని ప్రకటించడం"
+            "text": "1. ప్రభువు రాత్రి భోజనం యొక్క నాలుగు ఆత్మీయ కోణాలు"
+          },
+          {
+            "type": "point",
+            "text": "A. గతాన్ని స్మరించుకొనుట (A Sacred Memorial): 'నన్ను జ్ఞాపకము చేసికొనుటకు దీనిని చేయుడి' (లూకా 22:19). విరవబడిన రొట్టె మన శాపములను తొలగించడానికి సిలువలో కొరడాలతో చీల్చబడిన క్రీస్తు పరిశుద్ధ శరీరానికి గుర్తు. ద్రాక్షారసము మన పాపక్షమాపణ కొరకు చిందించబడిన కల్వరి రక్తానికి గుర్తు."
+          },
+          {
+            "type": "point",
+            "text": "B. వర్తమాన సహవాసము (Present Communion & Unity): గ్రీకు పదం 'కొయినోనియా' (Koinonia) అనగా క్రీస్తు శరీరమైన సంఘంలో విశ్వాసులందరి మధ్య ఉండే ఐక్యత. ఒకే రొట్టెలో పాలుపంచుకోవడం ద్వారా కుల, వర్గ, ధనిక, పేద తేడాలు లేకుండా మనమందరం క్రీస్తులో ఒక్కటే అని చాటుతున్నాము (1 కొరింథీ 10:16-17)."
+          },
+          {
+            "type": "point",
+            "text": "C. సువార్త ప్రకటన (Proclamation to the World): సంఘం రొట్టెను విరిచి గిన్నెను తాగిన ప్రతిసారి — పాపుల కొరకు క్రీస్తు మరణించాడన్న సువార్తను విశ్వానికి దృశ్యరూపంలో ప్రకటిస్తుంది."
+          },
+          {
+            "type": "point",
+            "text": "D. భవిష్యత్ నిరీక్షణ (Future Expectation): 'ఆయన వచ్చువరకు' — ఇది అంతం కాదు; పరలోకంలో గొర్రెపిల్ల వివాహ మహోత్సవంలో క్రీస్తుతో కలిసి నూతన ద్రాక్షారసము తాగే ఆనందకరమైన రాకడ నిరీక్షణకు ఇది హామీ (మత్తయి 26:29)."
+          },
+          {
+            "type": "head",
+            "text": "2. దీనిలో ఎవరెవరు పాలుపొందవచ్చు? (Biblical Criteria)"
           },
           {
             "type": "para",
-            "text": "విరవబడిన రొట్టె మన పాపముల కొరకు గాయపరచబడిన యేసు శరీరాన్ని, ద్రాక్షారసము మన పాపక్షమాపణ కొరకు చిందించబడిన నిబంధన రక్తమును సూచిస్తాయి. సంఘము దీనిని ఆచరించిన ప్రతిసారి క్రీస్తు మరణమును మరియు ఆయన రాకడను ప్రకటిస్తుంది."
+            "text": "బైబిల్ ప్రకారం ప్రభువు బల్ల అందరికీ తెరిచి ఉండదు. దీనికి స్పష్టమైన ఆత్మీయ అర్హతలు ఉన్నాయి:"
+          },
+          {
+            "type": "point",
+            "text": "1. నూతన జన్మ పొందిన విశ్వాసులు (Born Again): యేసుక్రీస్తును వ్యక్తిగత రక్షకుడిగా అంగీకరించి పాపక్షమాపణ నిశ్చయత కలిగినవారు."
+          },
+          {
+            "type": "point",
+            "text": "2. విశ్వాస బాప్తిస్మము పొందినవారు: అపొస్తలుల కార్యములు 2:41-42 ప్రకారం వాక్యాన్ని అంగీకరించి బాప్తిస్మము పొందినవారే రొట్టె విరుచుటలో ఎడతెగక ఉండిరి."
+          },
+          {
+            "type": "point",
+            "text": "3. సంఘ సహవాసంలో సమాధానంతో ఉన్నవారు: తోటి సహోదరులతో లేదా భార్యాభర్తల మధ్య పగ, ఈర్ష్య పెట్టుకుని బల్లలో పాలుపొందకూడదు (మత్తయి 5:23-24)."
           },
           {
             "type": "head",
-            "text": "2. విశ్వాసుల మధ్య ఐక్యత"
+            "text": "3. అయోగ్యముగా పాలుపంచుకోవడం అంటే ఏమిటి? (తీవ్రమైన హెచ్చరిక)"
           },
           {
             "type": "para",
-            "text": "ఒకే రొట్టెలో మనమందరం పాలుపంచుకోవడం ద్వారా, విశ్వాసులమైన మనమందరం క్రీస్తు శరీరంలో ఏకమై ఉన్నామని చాటిచెబుతున్నాము."
-          },
-          {
-            "type": "verse",
-            "ref": "1 కొరింథీయులకు 10:17",
-            "text": "రొట్టె యొకటే గనుక మనమనేకులమైనను ఒకే శరీరమై యున్నాము; మనమందరము ఆ యొకటే రొట్టెలో పాలుపుచ్చుకొనుచున్నాము గదా."
+            "text": "కొరింథు సంఘంలో కొందరు దీనిని ఒక సాధారణ భోజనంగా భావించి, పవిత్రత లేకుండా తాగారు. అందుకే పౌలు తీవ్రంగా హెచ్చరించాడు: 'ఎవడైనను అయోగ్యముగా తిని తాగినయెడల అతడు ప్రభువు శరీరమునకును రక్తమునకును అపరాధియగును... ఇందువలననే మీలో అనేకులు బలహీనులును రోగులునై యున్నారు, చాలామంది నిద్రించుచున్నారు (చనిపోయారు)' (1 కొరింథీ 11:27-30)."
           },
           {
             "type": "head",
-            "text": "3. ఎవరెవరు పాలుపొందవచ్చు? (ఆత్మపరిశీలన)"
+            "text": "4. ఆత్మపరిశీలన ఆవశ్యకత"
           },
           {
-            "type": "point",
-            "text": "యేసును రక్షకుడిగా అంగీకరించి, రక్షణ మరియు బాప్తిస్మం పొందిన విశ్వాసులు."
-          },
-          {
-            "type": "point",
-            "text": "తోటి విశ్వాసులతో లేదా కుటుంబ సభ్యులతో పగ, ద్వేషం పెట్టుకోకుండా సమాధానపడినవారు."
-          },
-          {
-            "type": "point",
-            "text": "తమ్మును తాము పరీక్షించుకుని, అపవిత్రంగా కాక యోగ్యమైన హృదయంతో పాలుపొందాలి (1 కొరింథీ 11:28)."
+            "type": "para",
+            "text": "ప్రతి విశ్వాసి బల్లకు సమీపించే ముందు తన హృదయాన్ని దేవుని వెలుగులో పరీక్షించుకోవాలి (Self-examination). దాచబడిన పాపం ఉంటే సిలువ యొద్ద ఒప్పుకుని, క్షమాపణ పొంది, భయభక్తులతో బల్లలో చేయి వేయాలి."
           },
           {
             "type": "key",
-            "text": "ప్రభువు బల్ల క్రీస్తు చేసిన త్యాగానికి కృతజ్ఞతా చిహ్నం; అది పాపాలను కడిగే సాధనం కాదు, క్రీస్తు రక్తంలో కడగబడినవారు ఆయనను స్మరించుకునే పరిశుద్ధ విందు."
+            "text": "ప్రభువు బల్ల మనలను రక్షించదు; కానీ రక్షించబడిన విశ్వాసులు క్రీస్తు చేసిన త్యాగానికి కృతజ్ఞత చెల్లిస్తూ, ఆయన రాకడ కొరకు సిద్ధపడే అత్యంత పవిత్రమైన నిబంధన సంస్కారం."
           }
         ],
         "en": [
           {
             "type": "para",
-            "text": "The Lord's Supper is one of the two foundational ordinances given directly by Jesus Christ to His Church (the other being baptism). It is far more than a ritual; it is a sacred covenant meal."
+            "text": "Instituted directly by Jesus Christ during the Passover on the night of His betrayal, the Lord's Supper (along with water baptism) stands as the sacred ordinance entrusted to the Church. It is not an empty ritual, but an intensely holy covenant banquet of remembrance, communion, and proclamation."
           },
           {
             "type": "head",
-            "text": "1. A Proclamation of the Cross"
+            "text": "1. Four Scriptural Dimensions of the Lord's Supper"
+          },
+          {
+            "type": "point",
+            "text": "A. Historical Memorial: 'This do in remembrance of me' (Luke 22:19). The broken bread represents Jesus' holy, sinless body torn and bruised for our transgressions. The cup of wine represents His covenant blood shed on Calvary for the remission of sins."
+          },
+          {
+            "type": "point",
+            "text": "B. Present Communion (Koinonia): In 1 Corinthians 10:16-17, partaking of one loaf symbolizes that despite earthly divisions of race, wealth, or caste, all believers are organically knit into one body in Christ."
+          },
+          {
+            "type": "point",
+            "text": "C. Public Proclamation: Every time the Church partakes, it preaches a visible sermon to heaven, earth, and spiritual powers, declaring that Jesus died for sinners."
+          },
+          {
+            "type": "point",
+            "text": "D. Eschatological Hope: 'Till He come' (1 Corinthians 11:26). It looks forward with breathless anticipation to the Marriage Supper of the Lamb, when we shall drink it anew with Christ in His Kingdom."
+          },
+          {
+            "type": "head",
+            "text": "2. Who is Biblically Qualified to Partake?"
           },
           {
             "type": "para",
-            "text": "The broken bread represents Jesus' holy body broken for our sins, and the cup represents His precious blood shed for the remission of our sins. Whenever the church partakes, it visibly proclaims the Lord's death until He returns."
+            "text": "Scripture demonstrates that the Lord's Table is sacred, guarded by divine boundaries:"
+          },
+          {
+            "type": "point",
+            "text": "1. Born-Again Believers: Those who have trusted solely in the finished sacrifice of Christ for their justification."
+          },
+          {
+            "type": "point",
+            "text": "2. Baptized Believers: In Acts 2:41-42, those who gladly received the Word were first baptized, and then continued steadfastly in the breaking of bread."
+          },
+          {
+            "type": "point",
+            "text": "3. Believers in Relational Reconciliation: One cannot partake of Christ while harboring bitter, unrepentant hatred against a brother (Matthew 5:23-24)."
           },
           {
             "type": "head",
-            "text": "2. Fellowship and Unity in the Body"
+            "text": "3. The Peril of Partaking 'Unworthily' (1 Corinthians 11:27-30)"
           },
           {
             "type": "para",
-            "text": "By partaking of one bread and one cup, believers tangibly express their unity as one spiritual body in Christ Jesus."
-          },
-          {
-            "type": "verse",
-            "ref": "1 Corinthians 10:17",
-            "text": "For we being many are one bread, and one body: for we are all partakers of that one bread."
+            "text": "In Corinth, believers treated the Table flippantly, bringing division and selfishness. Paul gave a terrifying warning: partaking unworthily brings guilt against the body and blood of the Lord, which resulted in sickness and premature physical death for many in that church."
           },
           {
             "type": "head",
-            "text": "3. Who is Qualified? The Need for Self-Examination"
+            "text": "4. The Mandate for Self-Examination"
           },
           {
-            "type": "point",
-            "text": "Born-again, baptized believers who have placed their saving faith in Jesus Christ."
-          },
-          {
-            "type": "point",
-            "text": "Believers who are in peace with their brothers and sisters, free from harbored bitterness."
-          },
-          {
-            "type": "point",
-            "text": "Those who solemnly examine their own hearts so as not to partake in an unworthy manner (1 Corinthians 11:28)."
+            "type": "para",
+            "text": "Before eating the bread and drinking the cup, every believer must examine their heart (1 Corinthians 11:28). Unconfessed sin must be brought to the foot of the cross, relationships must be made right, and the elements must be received with holy reverential awe."
           },
           {
             "type": "key",
-            "text": "The Lord's Table does not save or forgive sin; it is a sacred memorial for those who have already been redeemed by the precious blood of the Lamb."
+            "text": "The Lord's Supper does not confer forgiveness; rather, it is a holy feast where forgiven sinners remember Calvary's immense price, examine their hearts in purity, and rejoice in the promise of Christ's imminent return."
           }
         ]
       }
@@ -4369,7 +4550,8 @@
         "పరిశుద్ధాత్మ",
         "Prayer",
         "Holy Spirit",
-        "Intercession"
+        "Intercession",
+        "Spiritual Life"
       ],
       "question": {
         "te": "పరిశుద్ధాత్మలో ప్రార్థించడం (Praying in the Holy Spirit) అంటే ఏమిటి? దైనందిన జీవితంలో దీనిని ఎలా అభ్యసించాలి?",
@@ -4399,95 +4581,127 @@
         "te": [
           {
             "type": "para",
-            "text": "చాలామందికి ప్రార్థన అనేది తమ కోరికల చిట్టాను దేవుని ముందు పెట్టడంలా అనిపిస్తుంది. కానీ బైబిల్ మనకు 'పరిశుద్ధాత్మలో ప్రార్థించుడి' అని ఆజ్ఞాపిస్తుంది. దీని నిజమైన ఆత్మీయ సత్యం ఏమిటి?"
+            "text": "క్రైస్తవ జీవితంలో ప్రార్థన అనేది ఆత్మీయ శ్వాస వంటిది. అయితే చాలామంది విశ్వాసుల ప్రార్థనలు నిస్సారంగా, అలసిపోయినట్లుగా, కేవలం శరీర సంబంధమైన అవసరాల జాబితాను దేవుని ముందు చదవడంగా మారిపోతాయి. అందుకే లేఖనాలు ఎఫెసీయులకు 6:18 మరియు యూదా 1:20లలో 'పరిశుద్ధాత్మలో ప్రార్థించుడి' అని బలమైన ఆజ్ఞను ఇస్తున్నాయి. ఈ ఆత్మీయ సత్యం యొక్క లోతులు ఇక్కడ ఉన్నాయి."
           },
           {
             "type": "head",
-            "text": "1. మన బలహీనతను గ్రహించి ఆత్మపై ఆధారపడటం"
+            "text": "1. మానవ బలహీనత — ఎలా ప్రార్థించాలో తెలియకపోవడం"
           },
           {
             "type": "para",
-            "text": "మనం ఎలా ప్రార్థించాలో, దేని కొరకు ప్రార్థించాలో మనకే సరిగ్గా తెలియదు. కానీ మనలో నివసించే పరిశుద్ధాత్మ దేవుడు మన బలహీనతలో మన పక్షాన దేవుని చిత్తప్రకారము విజ్ఞాపన చేస్తాడు."
+            "text": "మన సొంత బుద్ధితో ప్రార్థించినప్పుడు, మనం సమయోచితంగా, దైవ చిత్తానుసారంగా ప్రార్థించలేము. మనకు కేవలం మన ప్రస్తుత సమస్య మాత్రమే కనిపిస్తుంది కానీ దేవుని నిత్య సంకల్పం తెలియదు. అందుకే రోమీయులకు 8:26లో 'మనము యుక్తముగా ఏలాగు ప్రార్థన చేయవలెనో మనకు తెలియదు' అని లేఖనం కుండబద్దలు కొట్టింది."
+          },
+          {
+            "type": "head",
+            "text": "2. పరిశుద్ధాత్మ యొక్క పరమ విజ్ఞాపన (Divine Intercession)"
+          },
+          {
+            "type": "para",
+            "text": "మనలో నివసిస్తున్న పరిశుద్ధాత్మ దేవుడు మన బలహీనతను చూసి జాలిపడతాడు. ఆయన తండ్రి అయిన దేవుని హృదయాన్ని సంపూర్ణంగా ఎరిగినవాడు (1 కొరింథీ 2:10-11). అందువల్ల ఉచ్చరింపశక్యముకాని మూలుగులతో (Groanings that cannot be uttered) పరిశుద్ధుల పక్షముగా దేవుని చిత్తప్రకారము తానే విజ్ఞాపన చేస్తాడు."
           },
           {
             "type": "verse",
-            "ref": "రోమీయులకు 8:26",
-            "text": "అటువలె ఆత్మయు మన బలహీనతను చూచి సహాయము చేయుచున్నాడు. ఏలయనగా మనము యుక్తముగా ఏలాగు ప్రార్థన చేయవలెనో మనకు తెలియదు గాని, ఉచ్చరింపశక్యముకాని మూలుగులతో ఆత్మ తానే మన పక్షముగా విజ్ఞాపనము చేయుచున్నాడు."
+            "ref": "రోమీయులకు 8:26-27",
+            "text": "ఆత్మయు మన బలహీనతను చూచి సహాయము చేయుచున్నాడు... ఏలయనగా ఆయన దేవుని చిత్తప్రకారము పరిశుద్ధులకొరకు విజ్ఞాపనము చేయుచున్నాడు."
           },
           {
             "type": "head",
-            "text": "2. దేవుని వాక్యంతో ఏకీభవించే ప్రార్థన"
+            "text": "3. ఆత్మలో ప్రార్థించడం అంటే ఏమిటి? (మూడు ప్రధాన అంశాలు)"
           },
           {
-            "type": "para",
-            "text": "ఆత్మలో ప్రార్థించడం అంటే దేవుని వాగ్దానాలను ఆధారంగా చేసుకుని ప్రార్థించడం. పరిశుద్ధాత్మ మనల్ని స్వార్థపూరితమైన కోరికల నుండి తప్పించి, పరలోక రాజ్య విస్తరణ కొరకు, దేవుని చిత్తం భూమిపై నెరవేరడం కొరకు ప్రార్థించేలా చేస్తాడు."
+            "type": "point",
+            "text": "A. ఆత్మ ఆధీనంలో ప్రార్థించుట: స్వార్థపూరిత కోరికల కొరకు కాక, పరిశుద్ధాత్మ మనస్సును ఆక్రమించుకుని నడిపించేలా సమర్పించుకోవడం (యాకోబు 4:3 హెచ్చరికను దాటడం)."
+          },
+          {
+            "type": "point",
+            "text": "B. వాక్యంతో అనుసంధానమైన ప్రార్థన (Scripture-Saturated Prayer): పరిశుద్ధాత్మ ఎప్పుడూ లేఖనాల్లోని వాగ్దానాలను మన జ్ఞాపకంలోకి తెచ్చి, ఆ వాక్యాలను దేవుని సన్నిధిలో పలకడానికి కావలసిన విశ్వాసాన్ని పుట్టిస్తాడు."
+          },
+          {
+            "type": "point",
+            "text": "C. ఆత్మీయ వరములతో ప్రార్థించుట: 1 కొరింథీయులకు 14:14-15 ప్రకారం ఆత్మతో ప్రార్థించడం (అన్యభాషల ప్రార్థన) మరియు మనస్సుతోను ప్రార్థించడం."
           },
           {
             "type": "head",
-            "text": "3. దైనందిన జీవితంలో ఎలా ప్రార్థించాలి?"
+            "text": "4. దైనందిన జీవితంలో దీనిని ఎలా అభ్యసించాలి?"
           },
           {
             "type": "point",
-            "text": "ప్రార్థన మొదలుపెట్టే ముందు పరిశుద్ధాత్మను ఆహ్వానించి, 'ప్రభువా, నన్ను నీ ఆత్మతో నింపి ప్రార్థింపజేయి' అని వేడుకోండి."
+            "text": "1. ప్రార్థన మొదలుపెట్టే ముందు కాసేపు నిశ్శబ్దంగా ఉండి: 'పరిశుద్ధాత్మ దేవా, నా సొంత బుద్ధిని పక్కన పెడుతున్నాను, నీ చిత్తాన్ని నా ద్వారా ప్రార్థింపజేయి' అని హృదయాన్ని సమర్పించండి."
           },
           {
             "type": "point",
-            "text": "కేవలం మాట్లాడటమే కాక, పరిశుద్ధాత్మ హృదయంలో కలిగించే భారాన్ని వింటూ మౌనంగా కనిపెట్టండి."
+            "text": "2. బైబిల్ చదివి, ఆ వాక్యపు వెలుగులోనే మీ కుటుంబం కొరకు, సంఘం కొరకు ప్రార్థించండి."
           },
           {
             "type": "point",
-            "text": "ప్రతి సందర్భంలోనూ ఆత్మ పూర్ణులై నిరంతరం మెలకువగా ప్రార్థించండి (ఎఫెసీయులకు 6:18)."
+            "text": "3. కేవలం మాట్లాడటమే కాక, పరిశుద్ధాత్మ అంతరంగంలో పుట్టించే ఆత్మీయ భారాన్ని వింటూ కనిపెట్టండి."
           },
           {
             "type": "key",
-            "text": "ఆత్మలో ప్రార్థించడం అంటే మన ఆలోచనలకు దేవుని ఆమోదం కోరడం కాదు; దేవుని ఆలోచనలకు మన హృదయాన్ని సంపూర్ణంగా సమర్పించుకోవడం."
+            "text": "పరిశుద్ధాత్మలో ప్రార్థించడం అంటే దేవునితో మన స్వార్థపు పనులను చేయించుకోవడం కాదు; పరలోకపు తండ్రి చిత్తాన్ని ఈ భూమిపై నెరవేర్చడానికి మన హృదయాన్ని ఆత్మ దేవునికి పూర్తిగా వశపరచడం."
           }
         ],
         "en": [
           {
             "type": "para",
-            "text": "Many treat prayer simply as reciting a personal wishlist to God. But the Scriptures command us to 'pray in the Holy Spirit.' What does this deeply transformative practice truly mean?"
+            "text": "Prayer is the spiritual breath of the Christian life. Yet countless believers find their prayers dry, exhausted, and reduced to a grocery list of material wants. It is precisely for this reason that Ephesians 6:18 and Jude 1:20 command believers to 'pray in the Holy Spirit.' Understanding this profound truth revolutionizes communion with God."
           },
           {
             "type": "head",
-            "text": "1. Relying on the Spirit in Our Weakness"
+            "text": "1. The Reality of Human Inadequacy"
           },
           {
             "type": "para",
-            "text": "Left to our human intellect, we often do not know how or what to pray for according to God's eternal plans. But the indwelling Holy Spirit intercedes for believers according to the precise will of the Father."
+            "text": "Left to fallen human intellect, we are inherently incapable of praying as we ought. We see only our immediate discomforts; God sees eternity. Romans 8:26 bluntly declares: 'For we know not what we should pray for as we ought.' Humanly engineered prayers often ask amiss to satisfy earthly lusts (James 4:3)."
+          },
+          {
+            "type": "head",
+            "text": "2. The Spirit's Divine Intercession"
+          },
+          {
+            "type": "para",
+            "text": "The indwelling Holy Spirit comprehends the deep things of God (1 Corinthians 2:10-11). Seeing our human weakness, He steps in to intercede with unutterable groanings. He translates our deepest spiritual longings into perfect alignment with the sovereign will of the Father."
           },
           {
             "type": "verse",
-            "ref": "Romans 8:26",
-            "text": "Likewise the Spirit also helpeth our infirmities: for we know not what we should pray for as we ought: but the Spirit itself maketh intercession for us with groanings which cannot be uttered."
+            "ref": "Romans 8:26-27",
+            "text": "The Spirit itself maketh intercession for us with groanings which cannot be uttered... because he maketh intercession for the saints according to the will of God."
           },
           {
             "type": "head",
-            "text": "2. Praying in Harmony with God's Word"
+            "text": "3. Three Essential Pillars of Praying in the Spirit"
           },
           {
-            "type": "para",
-            "text": "To pray in the Spirit is to pray God's Word back to Him. The Spirit shifts our focus away from self-centered requests toward Christ's Kingdom, holiness, and the glory of God."
+            "type": "point",
+            "text": "A. Under the Spirit's Influence: Relinquishing self-will so the Holy Spirit governs your desires, petitions, and spiritual burden."
+          },
+          {
+            "type": "point",
+            "text": "B. Word-Anchored Prayer: The Holy Spirit authored the Bible; hence, praying in the Spirit means praying Scripture back to God with unshakable faith in His promises."
+          },
+          {
+            "type": "point",
+            "text": "C. Praying in the Spirit and with Understanding: In 1 Corinthians 14:14-15, Paul speaks of praying with the spirit (in heavenly tongues) and praying with the mind, exercising both for deep edification."
           },
           {
             "type": "head",
-            "text": "3. How to Practice This Daily"
+            "text": "4. Practical Daily Disciplines"
           },
           {
             "type": "point",
-            "text": "Before you begin praying, yield your mind to the Spirit and ask Him to guide your prayers."
+            "text": "1. Yield First: Before speaking, pause in stillness: 'Holy Spirit, take control of my thoughts; pray through me according to the Father's will.'"
           },
           {
             "type": "point",
-            "text": "Pray using Scripture, claiming God's promises in faith."
+            "text": "2. Pray the Word: Open the Psalms or Epistles, turning each biblical truth into personal petition and worship."
           },
           {
             "type": "point",
-            "text": "Pray in all seasons with perseverance, watchful in spiritual vigilance (Ephesians 6:18)."
+            "text": "3. Cultivate Spiritual Attentiveness: Practice holy listening, allowing the Spirit to birth burdens for lost souls, holiness, and the global church."
           },
           {
             "type": "key",
-            "text": "Praying in the Spirit is not about bending God's will to our desires; it is about surrendering our hearts so God's will flows through our prayers."
+            "text": "Praying in the Holy Spirit is not bending God's arm to agree with our agenda; it is abandoning our agenda so that the Holy Spirit can unleash the triumphant will of heaven on earth through our prayers."
           }
         ]
       }
@@ -4504,7 +4718,8 @@
         "Death",
         "Afterlife",
         "Heaven",
-        "Resurrection"
+        "Resurrection",
+        "Soul Sleep Debunked"
       ],
       "question": {
         "te": "క్రైస్తవుడు చనిపోయిన వెంటనే అతని ఆత్మ ఎక్కడికి వెళుతుంది? నిద్రపోతుందా లేక స్పృహతో ఉంటుందా?",
@@ -4534,23 +4749,31 @@
         "te": [
           {
             "type": "para",
-            "text": "మరణం తరువాత ఏమి జరుగుతుంది అనేది మానవజాతికి అత్యంత తీవ్రమైన ప్రశ్న. కొందరు తప్పుడు సిద్ధాంతాల ప్రకారం క్రైస్తవుడు చనిపోతే అతని ఆత్మ యేసు పునరాగమనం వరకు ఏమీ తెలియకుండా మొద్దునిద్ర పోతుందని (Soul Sleep) భావిస్తారు. కానీ లేఖనాలు దీనిని ఖండిస్తున్నాయి."
+            "text": "మనిషి మరణించిన క్షణంలో ఏమి జరుగుతుంది అనేది మానవాళి చరిత్రలో అత్యంత తీవ్రమైన ప్రశ్న. కొందరు తప్పుడు ఉపదేశకులు మరియు కొన్ని తెగలు (యెహోవా సాక్షులు, సెవెంత్ డే అడ్వెంటిస్టులు) క్రైస్తవుడు చనిపోతే అతని ఆత్మ యేసు రెండవ రాకడ వరకు సమాధిలో ఏ స్పృహ లేకుండా మొద్దునిద్ర పోతుందని (Soul Sleep) బోధిస్తారు. అయితే పరిశుద్ధ లేఖనాలు దీనిని సంపూర్ణంగా ఖండిస్తూ, మరణించిన తక్షణమే విశ్వాసి ఆత్మ క్రీస్తుతో కూడి పరలోకంలో సంపూర్ణ స్పృహతో జీవిస్తుందని చాటిచెబుతున్నాయి."
           },
           {
             "type": "head",
-            "text": "1. దేహమును విడుచుట = ప్రభువునొద్ద నివసించుట"
+            "text": "1. లేఖన సాక్ష్యం 1 — దేహమును విడుచుట = ప్రభువుతో నివసించుట"
           },
           {
             "type": "para",
-            "text": "అపొస్తలుడైన పౌలు స్పష్టంగా వ్రాశాడు — ఒక విశ్వాసి భౌతిక శరీరంలో నుండి నిష్క్రమించిన ఆ క్షణమే, అతడు పరలోకములో ప్రభువైన యేసు సన్నిధికి చేరుకుంటాడు."
+            "text": "అపొస్తలుడైన పౌలు 2 కొరింథీయులకు 5:8లో నిర్ద్వంద్వంగా ప్రకటించాడు: 'దేహమును విడిచిపెట్టి ప్రభువునొద్ద నివసించుటకు ఇష్టపడుచున్నాము' (Absent from the body is to be present with the Lord). ఇక్కడ మధ్యలో ఎలాంటి శూన్యత గానీ, నిద్రావస్థ గానీ లేదు. భౌతిక శరీరంలో శ్వాస ఆగిపోయిన మరుక్షణమే ఆత్మ క్రీస్తు సన్నిధికి చేరుకుంటుంది."
           },
           {
             "type": "head",
-            "text": "2. సిలువపై దొంగకు యేసు ఇచ్చిన వాగ్దానం"
+            "text": "2. లేఖన సాక్ష్యం 2 — పౌలు అపొస్తలుని దృఢమైన కాంక్ష"
           },
           {
             "type": "para",
-            "text": "సిలువపై మరణిస్తున్న దొంగతో యేసుక్రీస్తు మాట్లాడుతూ 'నీవు ఎన్నో శతాబ్దాల తర్వాత లేస్తావు' అని చెప్పలేదు; 'నేడే (Today) నీవు నాతోకూడ పరదైసులో ఉందువు' అని వాగ్దానం చేశాడు. ఇది ఆత్మ మరణానంతరం తక్షణమే స్పృహతో జీవిస్తుందని రుజువు చేస్తుంది."
+            "text": "ఫిలిప్పీయులకు 1:21-23లో పౌలు చెరసాలలో ఉండి వ్రాస్తూ: 'బ్రదుకుట క్రీస్తే చావైతే లాభము... దేహమును విడిచి క్రీస్తుతోకూడ నుండవలెనని కాంక్షగలవాడనై యున్నాను; అది మరి విశేషమైనది' అని అన్నాడు. ఒకవేళ మరణించిన తర్వాత ఆత్మ నిద్రపోయి ఏమీ తెలియని అచేతన స్థితిలోకి వెళ్తే, భూమిపై క్రీస్తును సేవిస్తూ బ్రతకడం కంటే అది 'మరి విశేషమైనది' ఎలా అవుతుంది? క్రీస్తును ముఖాముఖిగా చూసే సజీవ స్పృహ ఉన్నందువల్లనే పౌలు దానిని మహా లాభకరమైనదిగా వర్ణించాడు."
+          },
+          {
+            "type": "head",
+            "text": "3. లేఖన సాక్ష్యం 3 — సిలువపై దొంగకు యేసు ఇచ్చిన సత్యవాగ్దానం"
+          },
+          {
+            "type": "para",
+            "text": "యేసు పక్కన సిలువ వేయబడిన దొంగ పశ్చాత్తాపంతో 'యేసూ, నీ రాజ్యముతో వచ్చునప్పుడు నన్ను జ్ఞాపకము చేసికొనుము' అని వేడుకున్నప్పుడు, యేసు అతనితో 'వేల సంవత్సరాల తర్వాత నేను నిన్ను లేపుతాను' అని చెప్పలేదు; 'నేడే నీవు నాతోకూడ పరదైసులో ఉందువు' అని వాగ్దానం చేశాడు. ఆ రోజే ఆ దొంగ ఆత్మ క్రీస్తుతో పరదైసులో సజీవంగా ప్రవేశించింది."
           },
           {
             "type": "verse",
@@ -4559,29 +4782,33 @@
           },
           {
             "type": "head",
-            "text": "3. శరీర పునరుత్థానం"
+            "text": "4. బైబిల్ 'నిద్ర' (Sleep) అని ఎందుకు సంబోధిస్తుంది?"
+          },
+          {
+            "type": "para",
+            "text": "బైబిల్‌లో 1 థెస్సలొనీకయులకు 4:13-14లో విశ్వాసులు 'నిద్రించుచున్నారు' అని వ్రాయబడిన మాట కేవలం వారి భౌతిక శరీరము సమాధిలో విశ్రాంతి పొందుతుందన్న దానికి అలంకారిక రూపం మాత్రమే. సమాధిలో ఉండే శరీరం నిద్రపోతున్న మనిషిలా కనిపిస్తుంది. కానీ ప్రసంగి 12:7 స్పష్టం చేస్తున్నట్లు: 'మన్ను పూర్వమువలెనే భూమికి చేరును, ఆత్మ దాని దయచేసిన దేవునియొద్దకు మరల పోవును.'"
+          },
+          {
+            "type": "head",
+            "text": "5. మధ్యంతర స్థితి (Intermediate State) vs అంతిమ పునరుత్థానం"
           },
           {
             "type": "point",
-            "text": "విశ్వాసి భౌతిక శరీరము సమాధిలో విశ్రాంతి పొందుతుంది (బైబిల్ దీనిని అలంకారికంగా 'నిద్ర' అంటుంది)."
+            "text": "ప్రస్తుతం పరలోకంలో ఉన్న పరిశుద్ధులు స్పృహతో దేవుని స్తుతిస్తూ, పరలోక ఆనందాన్ని అనుభవిస్తున్నారు (ప్రకటన 6:9-10లో బలిపీఠము క్రింద ఉన్న ఆత్మలు దేవునితో మాట్లాడుతుండటం స్పష్టంగా చూడవచ్చు)."
           },
           {
             "type": "point",
-            "text": "అయితే ఆత్మ మాత్రం నిద్రపోక, పరలోకంలో క్రీస్తుతో ఆనందాన్ని అనుభవిస్తుంది (ఫిలిప్పీయులకు 1:23)."
-          },
-          {
-            "type": "point",
-            "text": "క్రీస్తు పునరాగమనంలో ఆ ఆత్మలు మహిమగల అమర దేహాన్ని ధరించుకుంటాయి (1 థెస్సలొనీక 4:14-16)."
+            "text": "యేసుక్రీస్తు రెండవ రాకడలో (మధ్యాకాశంలోనికి సంఘం కొరకు వచ్చే పునరుత్థాన దినమున), క్రీస్తుతో ఉన్న ఈ ఆత్మలు తిరిగి వచ్చి, సమాధులలోని శరీరాలను మహిమగల, క్షయముకాని అమర దేహాలుగా ధరించుకుంటాయి (1 కొరింథీయులకు 15:51-54)."
           },
           {
             "type": "key",
-            "text": "క్రైస్తవునికి మరణం అంతం కాదు, అది ఈ లోకపు శ్రమల దేహాన్ని విడిచిపెట్టి, క్షణమాత్రంలో రక్షకుడైన యేసుక్రీస్తు మహిమ ముఖాముఖిని చూసే అత్యున్నత ప్రవేశ ద్వారం."
+            "text": "క్రైస్తవునికి మరణం అనేది చీకటి అంతం కాదు; అది మంటి శరీరపు గుడారాన్ని విడిచిపెట్టి, క్షణమాత్రంలో పరలోక తండ్రి మహిమలో ప్రవేశించి, రక్షకుడైన యేసును ముఖాముఖిగా దర్శించే విజయ ద్వారం!"
           }
         ],
         "en": [
           {
             "type": "para",
-            "text": "What happens immediately when a believer dies? Some cults and false teachers claim the soul falls into an unconscious state called 'soul sleep' until the resurrection. However, Scripture overwhelmingly teaches immediate conscious communion with Christ."
+            "text": "What happens in the instant a believer draws their last breath? Few theological topics are plagued by as much confusion. Certain cults and groups (such as Jehovah's Witnesses and Seventh-day Adventists) propagate the doctrine of 'soul sleep'—asserting that the soul lies unconscious in the grave until the final resurrection. Scripture, however, definitively demolishes this error, proving that the believer immediately enters conscious, ecstatic presence with Christ."
           },
           {
             "type": "head",
@@ -4589,15 +4816,23 @@
           },
           {
             "type": "para",
-            "text": "Apostle Paul declared that for the believer, departure from this earthly vessel means immediate conscious entrance into the glorious presence of the Lord."
+            "text": "The Apostle Paul settles the matter in 2 Corinthians 5:8: 'We are confident, I say, and willing rather to be absent from the body, and to be present with the Lord.' There is no purgatory, no purgatorial waiting zone, and no unconscious blackout. The exit from the mortal body is the immediate entry into Christ's glorious presence."
           },
           {
             "type": "head",
-            "text": "2. The Promise to the Thief on the Cross"
+            "text": "2. Paul's Passionate Dilemma in Philippians"
           },
           {
             "type": "para",
-            "text": "Jesus did not tell the repentant thief that he would wait unconscious for thousands of years. He promised: 'Today you will be with me in Paradise.' This confirms immediate conscious fellowship with God upon physical death."
+            "text": "Writing from a Roman dungeon in Philippians 1:21-23, Paul writes: 'For to me to live is Christ, and to die is gain... having a desire to depart, and to be with Christ; which is far better.' If death meant slipping into thousands of years of unconscious non-existence, death would be immense loss, not gain! Living on earth serving Christ is infinitely superior to unconscious nothingness. Paul called death 'far better' precisely because it meant entering vibrant, unhindered conscious fellowship with Jesus."
+          },
+          {
+            "type": "head",
+            "text": "3. The Promise to the Thief on Calvary"
+          },
+          {
+            "type": "para",
+            "text": "When the dying criminal cried, 'Lord, remember me when thou comest into thy kingdom,' Jesus did not tell him to wait until the end of the age. He declared with sovereign authority: 'Verily I say unto thee, Today shalt thou be with me in paradise.' That very afternoon, the thief's soul was fully conscious with Jesus in Paradise."
           },
           {
             "type": "verse",
@@ -4606,23 +4841,27 @@
           },
           {
             "type": "head",
-            "text": "3. The Intermediate State and Final Resurrection"
+            "text": "4. Why Scripture Uses the Metaphor of 'Sleep'"
+          },
+          {
+            "type": "para",
+            "text": "Passages such as 1 Thessalonians 4:13-14 refer to deceased believers as 'them which are asleep in Jesus.' This is universally recognized by biblical scholars as a poetic euphemism for the physical body resting in the dust. The body sleeps awaiting resurrection; but the soul and spirit return immediately to God who gave them (Ecclesiastes 12:7)."
+          },
+          {
+            "type": "head",
+            "text": "5. The Intermediate State and Final Bodily Glorification"
           },
           {
             "type": "point",
-            "text": "The believer's physical body rests in the grave (which Scripture poetically calls 'sleep')."
+            "text": "The Intermediate State: Believers who have died are currently in heaven, conscious, rejoicing, and actively communicating with God (Revelation 6:9-11 depicts the souls of martyrs speaking loudly before the throne)."
           },
           {
             "type": "point",
-            "text": "The immaterial soul and spirit are fully conscious, rejoicing with Christ in heaven (Philippians 1:23)."
-          },
-          {
-            "type": "point",
-            "text": "At the Rapture and Resurrection, the soul is reunited with a glorified, immortal physical body (1 Thessalonians 4:14-16)."
+            "text": "The Final Glorification: At the Rapture/Resurrection, God will bring these souls with Him, and their sleeping bodies will rise from the earth, transformed into immortal, incorruptible resurrection bodies (1 Corinthians 15:52-54)."
           },
           {
             "type": "key",
-            "text": "For the believer, physical death is not the extinguishing of life; it is an instantaneous doorway into the radiant, glorious presence of Jesus Christ."
+            "text": "For the believer, physical death is not a terrifying plunge into nothingness; it is an instantaneous coronation—shedding this earthly tent to gaze upon the radiant face of Jesus Christ forever."
           }
         ]
       }
@@ -4639,7 +4878,9 @@
         "Marriage",
         "Family",
         "Submission",
-        "Love"
+        "Love",
+        "Biblical Husband",
+        "Biblical Wife"
       ],
       "question": {
         "te": "క్రైస్తవ వివాహంలో 'భార్య లోబడాలి, భర్త ప్రేమించాలి' అనే దైవిక ఆజ్ఞకు నిజమైన అర్థం ఏమిటి?",
@@ -4669,95 +4910,109 @@
         "te": [
           {
             "type": "para",
-            "text": "నేటి సమాజంలో వివాహ వ్యవస్థ తీవ్రమైన సంక్షోభంలో ఉంది. బైబిల్‌లో ఎఫెసీయులకు వ్రాసిన పత్రిక 5వ అధ్యాయంలో దేవుడు పెట్టిన కుటుంబ క్రమాన్ని చాలామంది తప్పుగా అర్థం చేసుకుంటారు."
+            "text": "నేటి ఆధునిక సమాజంలో వివాహ వ్యవస్థ అత్యంత తీవ్రమైన పతనంలో ఉంది. విడాకులు, కలహాలు, అహంకార పోరాటాలు కుటుంబాలను విచ్ఛిన్నం చేస్తున్నాయి. లౌకిక సంస్కృతి వివాహాన్ని ఒక తాత్కాలిక ఒప్పందంగా (Contract) చూస్తే, దేవుడు దానిని క్రీస్తు మరియు సంఘముల పవిత్ర బంధాన్ని చాటిచెప్పే దివ్య నిబంధనగా (Covenant) సృష్టించాడు. ఎఫెసీయులకు 5వ అధ్యాయంలో దేవుని ఆత్మ అనుగ్రహించిన కుటుంబ నియమాలను సరైన లేఖన వెలుగులో అర్థం చేసుకోవడం ఎంతో ఆవశ్యకం."
           },
           {
             "type": "head",
-            "text": "1. క్రీస్తు ప్రేమయే భర్తకు కొలబద్ద"
+            "text": "1. పునాది: క్రీస్తునందలి పరస్పర లోబడుట (Mutual Submission)"
           },
           {
             "type": "para",
-            "text": "భర్త కుటుంబానికి శిరస్సు అంటే నిరంకుశంగా అధికారం చెలాయించడం కాదు. క్రీస్తు సంఘం కోసం తన ప్రాణాలను సిలువలో ఎలా అర్పించాడో, భర్త కూడా తన భార్య క్షేమం కొరకు తన స్వార్థాన్ని, ఇష్టాలను త్యాగం చేసే సేవక-నాయకుడిగా (Servant-Leader) ఉండాలి."
+            "text": "చాలామంది ఎఫెసీ 5:22 ను మాత్రమే చూపిస్తూ భార్యల అణచివేతకు వాడుకుంటారు. కానీ పౌలు భార్యల గురించి మాట్లాడక ముందే ఎఫెసీ 5:21లో: 'క్రీస్తునందలి భయముతో ఒకనికొకడు లోబడియుండుడి' అని ఇద్దరికీ ఉమ్మడిగా పునాది వేశాడు. క్రైస్తవ గృహంలో అహంకారానికి, ఆధిపత్య పోరాటానికి తావులేదు."
           },
           {
             "type": "head",
-            "text": "2. భార్య లోబడుట అంటే అణచివేత కాదు"
+            "text": "2. భర్తకు దేవుని ఆజ్ఞ: క్రీస్తువలె ప్రాణమిచ్చి ప్రేమించుట (Agape Love)"
           },
           {
             "type": "para",
-            "text": "బైబిల్ చెప్పే విధేయత బలవంతపు బానిసత్వం కాదు; అది దేవుని క్రమాన్ని గౌరవిస్తూ, భర్తకు ప్రేమతో, విశ్వాసంతో ఇచ్చే స్వచ్ఛంద మద్దతు మరియు గౌరవం."
+            "text": "భర్త కుటుంబానికి 'శిరస్సు' (Head) అనగా పెత్తనం చెలాయించే యజమాని అని కాదు; క్రీస్తు సంఘానికి శిరస్సై ఉండి పాదాలు కడిగి సిలువలో ప్రాణమర్పించినట్లుగా, భర్త తన భార్య కొరకు స్వార్థాన్ని, సౌకర్యాలను త్యాగం చేసే 'సేవక-నాయకుడు' (Servant Leader) గా ఉండాలి."
           },
           {
-            "type": "verse",
-            "ref": "ఎఫెసీయులకు 5:21",
-            "text": "క్రీస్తునందలి భయముతో ఒకనికొకడు లోబడియుండుడి."
+            "type": "point",
+            "text": "త్యాగపూరిత ప్రేమ (Sacrificial Love): క్రీస్తు సంఘము కొరకు తన్నుతాను అప్పగించుకున్నట్లుగా భర్త తన భార్య ఆత్మీయ, మానసిక సంక్షేమం కొరకు తన స్వంత ప్రాణాన్ని సైతం అర్పించేంతగా ప్రేమించాలి."
+          },
+          {
+            "type": "point",
+            "text": "పోషించి కాపాడుకొనుట (Nourish and Cherish): భర్త తన స్వంత శరీరాన్ని ఏలాగున ప్రేమిస్తాడో, అట్లే భార్య బలహీనపడినప్పుడు కరుణతో ఆదరించాలి (ఎఫెసీ 5:28-29)."
+          },
+          {
+            "type": "point",
+            "text": "జీవకృపలో సమాన వారసురాలు: 1 పేతురు 3:7 ప్రకారం భార్య ఆత్మీయ విలువలో, రక్షణలో భర్తతో సంపూర్ణ సమానురాలు. ఆమెను అగౌరవపరిస్తే భర్త ప్రార్థనలకు ఆటంకము కలుగుతుంది."
           },
           {
             "type": "head",
-            "text": "3. ఒకే శరీర తత్వము"
+            "text": "3. భార్యకు దేవుని ఆజ్ఞ: స్వచ్ఛంద గౌరవముతో లోబడుట (Hupotasso)"
           },
           {
-            "type": "point",
-            "text": "భార్యాభర్తలు ఇద్దరూ సమానమైన ఆత్మీయ విలువ కలిగియున్నారు (గలతీయులకు 3:28)."
+            "type": "para",
+            "text": "గ్రీకు మూలభాషలో 'లోబడుట'కు వాడిన పదం 'హైపోటాస్సో' (Hupotasso). ఇది మిలటరీలో ఒక సైనికుడు క్రమాన్ని గౌరవించి తన బాధ్యతను స్వచ్ఛందంగా నిర్వర్తించడాన్ని సూచిస్తుంది. ఇది న్యూనత (Inferiority) కాదు; దేవుడు నియమించిన కుటుంబ వ్యవస్థను గౌరవిస్తూ భర్తకు ప్రేమతో ఇచ్చే ఆదరణ మరియు మద్దతు."
           },
           {
-            "type": "point",
-            "text": "భర్త తన భార్యను తన స్వంత శరీరంలాగా పోషించి కాపాడుకోవాలి (ఎఫెసీ 5:29)."
+            "type": "head",
+            "text": "4. ఏకశరీర తత్వము (One Flesh Mystery)"
           },
           {
-            "type": "point",
-            "text": "క్రైస్తవ వివాహం ఈ లోకానికి క్రీస్తు మరియు సంఘముల అద్భుతమైన ప్రేమను చాటిచెప్పే సజీవ సాక్ష్యం."
+            "type": "para",
+            "text": "మత్తయి 19:6లో యేసు సెలవిచ్చినట్లు: 'దేవుడు జతపరచినవారిని మనుష్యుడు వేరుపరచకూడదు.' క్రైస్తవ వివాహం రెండు జీవితాల కలయిక మాత్రమే కాదు; అది ఆత్మ, ప్రాణ, శరీరాలలో దేవుడు చేసే పవిత్రమైన ఏకత్వం."
           },
           {
             "type": "key",
-            "text": "భర్త క్రీస్తులా ప్రాణమిచ్చి ప్రేమించినప్పుడు, భార్య సంఘంలా హృదయపూర్వకంగా గౌరవించినప్పుడు, ఆ ఇల్లు భూమిపై పరలోకపు ఛాయగా మారుతుంది."
+            "text": "భర్త క్రీస్తువలె త్యాగంతో ప్రేమించినప్పుడు, భార్య సంఘమువలె హృదయపూర్వక గౌరవంతో లోబడినప్పుడు — ఆ వివాహం భూమిపై క్రీస్తు ప్రేమను ప్రతిబింబించే పరలోకపు గృహంగా వర్ధిల్లుతుంది."
           }
         ],
         "en": [
           {
             "type": "para",
-            "text": "Modern culture frequently distorts God's divine design for marriage. In Ephesians 5, the Holy Spirit lays down the magnificent blueprint for a thriving, God-honoring union."
+            "text": "In contemporary culture, the institution of marriage is in catastrophic crisis, plagued by selfishness, power struggles, and soaring divorce rates. While secular society views marriage as a fragile social contract, God ordained it as an unbreakable, holy covenant reflecting the transcendent union between Jesus Christ and His Church. Ephesians 5 provides heaven's timeless blueprint."
           },
           {
             "type": "head",
-            "text": "1. Sacrificial Leadership — Husbands Loving Like Christ"
+            "text": "1. The Foundational Law — Mutual Submission in the Fear of Christ"
           },
           {
             "type": "para",
-            "text": "Headship in biblical marriage is never dictatorship or dominance. A husband is called to love his wife as Christ loved the Church—laying down his own life, ego, and convenience for her spiritual flourishing and protection."
+            "text": "Many chauvinistically rip verse 22 out of context. Yet before addressing husbands or wives individually, the Holy Spirit establishes the absolute foundation in Ephesians 5:21: 'Submitting yourselves one to another in the fear of God.' In a Christ-centered home, pride and tyranny have zero biblical sanctuary."
           },
           {
             "type": "head",
-            "text": "2. Biblical Submission — Voluntary Honor, Not Inferiority"
+            "text": "2. The Husband's High Calling — Sacrificial Agape Love"
           },
           {
             "type": "para",
-            "text": "A wife's submission is a voluntary posture of respect and partnership toward her husband, mirroring the church's loving response to Christ's leadership. It does not imply inequality in worth, dignity, or intellect."
+            "text": "Biblical headship is never dictatorship or patriarchal dominance. A husband is called to lead as Christ leads: through servant-leadership, washing feet, and willingly laying down his life. A husband's authority is measured solely by how deeply he sacrifices for his wife."
           },
           {
-            "type": "verse",
-            "ref": "Ephesians 5:21",
-            "text": "Submitting yourselves one to another in the fear of God."
+            "type": "point",
+            "text": "Sacrificial Love: Loving as Christ loved the church—laying aside personal ego, convenience, and worldly ambitions for her spiritual and emotional flourishing."
+          },
+          {
+            "type": "point",
+            "text": "Nourishing and Cherishing: Just as Christ tenderly feeds and cares for His body, the husband must fiercely protect, honor, and cherish his wife as his own flesh (Ephesians 5:29)."
+          },
+          {
+            "type": "point",
+            "text": "Co-Heirs of the Grace of Life: 1 Peter 3:7 commands husbands to treat their wives with honor as equal heirs of eternal life, warning that failing to do so will hinder their prayers."
           },
           {
             "type": "head",
-            "text": "3. One Flesh and Co-Heirs of Grace"
+            "text": "3. The Wife's High Calling — Voluntary Honor and Biblical Submission"
           },
           {
-            "type": "point",
-            "text": "Both husband and wife stand on equal footing before the cross as co-heirs of eternal grace (1 Peter 3:7)."
+            "type": "para",
+            "text": "The Greek word for submission is 'Hupotasso'—a voluntary posture of yielding, alignment, and supportive respect. It denotes order, not inequality in intelligence, worth, or spiritual stature. Just as the Church gladly trusts Christ's loving leadership, a godly wife honors and supports her husband's spiritual calling."
           },
           {
-            "type": "point",
-            "text": "The husband must nourish and tenderly cherish his wife as his own flesh."
+            "type": "head",
+            "text": "4. The One Flesh Mystery"
           },
           {
-            "type": "point",
-            "text": "Christian marriage is a living sermon illustrating Christ's covenant love to an watching world."
+            "type": "para",
+            "text": "As Jesus declared in Matthew 19:6: 'What therefore God hath joined together, let not man put asunder.' Christian marriage is an indissoluble, covenantal oneness that preaches a living sermon of God's unbreakable fidelity to an unbelieving world."
           },
           {
             "type": "key",
-            "text": "When a husband loves like Christ through sacrifice, and a wife respects like the Church with glad honor, marriage becomes an oasis of heaven on earth."
+            "text": "When a husband loves like Christ on Calvary through selfless sacrifice, and a wife respects like the Church through joyful partnership, the marriage becomes an oasis of heaven on earth."
           }
         ]
       }
@@ -4774,7 +5029,9 @@
         "Garden of Eden",
         "Free Will",
         "Tree of Knowledge",
-        "Fall of Man"
+        "Fall of Man",
+        "Theodicy",
+        "Sovereignty of God"
       ],
       "question": {
         "te": "దేవుడు సర్వశక్తిమంతుడు అయితే, ఆదాము హవ్వలు పాపం చేయకుండా మంచి చెడ్డల తెలివినిచ్చు వృక్షాన్ని ఏదేను తోటలో ఎందుకు ఉంచాడు?",
@@ -4804,15 +5061,15 @@
         "te": [
           {
             "type": "para",
-            "text": "చాలామంది నాస్తికులు మరియు నూతన విశ్వాసులు అడిగే అత్యంత క్లిష్టమైన ప్రశ్న ఇది: 'దేవుడు ఆ చెట్టును తోటలో అసలు పెట్టకుండా ఉంటే మానవాళికి పాపము, మరణము వచ్చేవి కావు కదా? దేవుడు ఎందుకు ఆ చెట్టును ఉంచాడు?' దీనికి బైబిల్ ఇచ్చే లోతైన సత్యాలు ఇక్కడ ఉన్నాయి."
+            "text": "క్రైస్తవ వేదాంతంలో మరియు అపోలోజెటిక్స్ (Apologetics) లో నాస్తికులు, విమర్శకులు మరియు నూతన విశ్వాసులు తరచుగా అడిగే అత్యంత ప్రాథమికమైన ప్రశ్న ఇది: 'దేవుడు సర్వజ్ఞాని, సర్వశక్తిమంతుడైతే ఆదాము పాపం చేస్తాడని ముందే తెలుసు కదా! మరి ఆ చెట్టును ఏదేను తోటలో అసలు పెట్టకుండా ఉంటే పాపమే వచ్చేది కాదు కదా! దేవుడు ఆ చెట్టును ఎందుకు పెట్టాడు?' ఈ క్లిష్టమైన ప్రశ్నకు బైబిల్ ఇచ్చే గంభీరమైన వేదాంత సత్యాలు ఇక్కడ ఉన్నాయి."
           },
           {
             "type": "head",
-            "text": "1. నిర్బంధించిన ప్రేమ నిజమైన ప్రేమ కాదు"
+            "text": "1. నిజమైన ప్రేమకు 'స్వేచ్ఛాచిత్తము' (Free Will) తప్పనిసరి"
           },
           {
             "type": "para",
-            "text": "దేవుడు మనుష్యులను తన స్వరూపంలో, స్వేచ్ఛాచిత్తము (Free Will) కలిగిన ఆత్మీయ జీవులుగా సృష్టించాడు. ఒకవేళ ఆదాముకు అవిధేయత చూపే అవకాశమే లేకపోతే, అతని విధేయతకు ఎటువంటి విలువ ఉండదు. ఎంచుకునే స్వేచ్ఛ ఉన్నప్పుడే చూపించే ప్రేమకు, విధేయతకు అసలైన అర్థం ఉంటుంది."
+            "text": "దేవుడు మనుష్యులను రోబోలుగా లేదా ముందే ప్రోగ్రామ్ చేయబడిన యంత్రాలుగా సృష్టించలేదు. ఒక కంప్యూటర్ 'నేను నిన్ను ప్రేమిస్తున్నాను' అని చెబితే అందులో ఏ విలువా ఉండదు, ఎందుకంటే దానికి వేరే ఆప్షన్ లేదు. దేవుడు మనుష్యులను తన స్వరూపంలో, స్వేచ్ఛాచిత్తం కలిగిన నైతిక జీవులుగా సృష్టించాడు. అవిధేయత చూపే అవకాశం లేనప్పుడు, విధేయతకు ఎటువంటి నైతిక విలువా ఉండదు. తిరస్కరించే స్వేచ్ఛ ఉన్నప్పుడే, దేవుణ్ణి ఎన్నుకోవడంలో నిజమైన ప్రేమ వ్యక్తమవుతుంది."
           },
           {
             "type": "head",
@@ -4820,7 +5077,7 @@
           },
           {
             "type": "para",
-            "text": "తోటలోని ఆ చెట్టులో ఎలాంటి విషం లేదు. దేవుడు 'దీనిని తినవద్దు' అని ఒక సరిహద్దు పెట్టినప్పుడు, ఆదాము దేవుని మాటను నమ్మి సృష్టికర్త అధికారానికి లోబడతాడా లేక తన సొంత ఆలోచనతో నడుచుకుంటాడా అనే పరీక్షగా మాత్రమే ఆ చెట్టు నిలిచింది."
+            "text": "ఆదికాండము 1:31 లో దేవుడు తాను సృష్టించిన సమస్తమును చూచినప్పుడు అది 'చాలా మంచిది'గా ఉండెను. ఏదేను తోటలోని ఆ చెట్టులో ఎలాంటి విషం గానీ, మాయా శక్తులు గానీ లేవు. ఆ చెట్టు సృష్టికర్తయైన దేవుని సార్వభౌమత్వానికి, సృష్టించబడిన మానవుని పరిమితికి మధ్య ఉన్న పవిత్రమైన నైతిక సరిహద్దు (Moral Boundary). 'నేను దేవుణ్ణి, మీరు నా సృష్టి; ఏది మంచో ఏది చెడో నేనే నిర్ణయిస్తాను, నా మాటను నమ్మండి' అనే దేవుని అధికారానికి మానవుడు లోబడతాడా లేక తానే స్వయంగా దేవుడై నిర్ణయించుకుంటాడా అన్నదే ఆ పరీక్ష."
           },
           {
             "type": "verse",
@@ -4829,41 +5086,54 @@
           },
           {
             "type": "head",
-            "text": "3. క్రీస్తులో నెరవేరిన దేవుని సంపూర్ణ రక్షణ ప్రణాళిక"
+            "text": "3. జగత్తు పునాది వేయబడక మునుపే సిద్ధపరచబడిన సిలువ రక్షణ"
+          },
+          {
+            "type": "para",
+            "text": "ఆదాము పతనమవుతాడని దేవునికి ముందే తెలుసు. అయినప్పటికీ దేవుడు ఎందుకు సృష్టించాడు? ఎందుకంటే సృష్టి కంటే ముందే, క్రీస్తు అనే గొర్రెపిల్ల బలియాగము ద్వారా మానవాళికి అద్భుతమైన రక్షణను ప్రసాదించే మహోన్నత రక్షణ ప్రణాళికను త్రిత్వ దేవుడు సిద్ధపరిచాడు (1 పేతురు 1:19-20, ప్రకటన 13:8). దేవుని సంపూర్ణ ప్రేమ, అపారమైన కనికరం, మరియు పరిశుద్ధ న్యాయం కేవలం ఈ పతనమైన సృష్టికి సిలువ బలియాగాన్ని అనుగ్రహించడం ద్వారానే అత్యున్నతంగా బయలుపరచబడ్డాయి."
+          },
+          {
+            "type": "head",
+            "text": "4. మొదటి ఆదాము పతనం vs కడపటి ఆదాము విజయం"
           },
           {
             "type": "point",
-            "text": "మొదటి ఆదాము స్వేచ్ఛాచిత్తాన్ని దుర్వినియోగం చేసి అవిధేయత ద్వారా లోకంలోకి పాపాన్ని, మరణాన్ని తెచ్చాడు."
+            "text": "మొదటి ఆదాము అందమైన తోటలో, సమృద్ధి నడుమ ఉండి దేవుని ఆజ్ఞను మీరి పతనమై లోకానికి పాపాన్ని, మరణాన్ని తెచ్చాడు."
           },
           {
             "type": "point",
-            "text": "కానీ కడపటి ఆదామైన యేసుక్రీస్తు సిలువ మరణం వరకు సంపూర్ణంగా విధేయత చూపించి మనకు నిత్యజీవమును అనుగ్రహించాడు (రోమీయులకు 5:19)."
+            "text": "కడపటి ఆదామైన యేసుక్రీస్తు భయంకరమైన గెత్సేమనే తోటలో, రక్తపు చెమట కారుస్తూ 'నా చిత్తము కాదు నీ చిత్తమే సిద్ధించును గాక' అని ప్రార్థించి, కల్వరి సిలువపై సంపూర్ణ విధేయత చూపి మనకు నిత్యజీవాన్ని ఇచ్చాడు."
+          },
+          {
+            "type": "verse",
+            "ref": "రోమీయులకు 5:19",
+            "text": "ఏలయనగా ఒక మనుష్యుని అవిధేయతవలన అనేకులు పాపులుగా ఏలాగు చేయబడిరో, ఆలాగే ఒకని విధేయతవలన అనేకులు నీతిమంతులుగా చేయబడుదురు."
           },
           {
             "type": "key",
-            "text": "మంచి చెడ్డల తెలివినిచ్చు వృక్షం మానవుని స్వేచ్ఛకు మరియు దేవుని సార్వభౌమత్వానికి మధ్య ఉన్న పవిత్రమైన సరిహద్దు; ఆదాము పోగొట్టుకున్న జీవాన్ని యేసుక్రీస్తు తన సిలువ బలియాగం ద్వారా తిరిగి ఇచ్చాడు."
+            "text": "ఏదేను తోటలోని మంచి చెడ్డల తెలివినిచ్చు వృక్షం మానవునికి దేవుడిచ్చిన స్వేచ్ఛకు మరియు ప్రేమకు ప్రతీక; ఆదాము ఆ చెట్టు దగ్గర పోగొట్టుకున్న జీవాన్ని, యేసుక్రీస్తు కల్వరి సిలువ అనే చెట్టుపై తన ప్రాణాన్ని ధారపోసి మనకు తిరిగి అనుగ్రహించాడు."
           }
         ],
         "en": [
           {
             "type": "para",
-            "text": "This is one of the most frequently asked questions in Christian apologetics: 'If God knew mankind would fall, why plant the Tree of the Knowledge of Good and Evil in the first place?' Scripture reveals profound wisdom regarding God's eternal purposes."
+            "text": "This is one of the classic dilemmas in Christian theology and apologetics: 'If God is omniscient and knew man would fall, why plant the Tree of the Knowledge of Good and Evil in the first place? Wouldn't keeping it out of the Garden have prevented all sin, evil, and death?' Scripture provides profound, God-glorifying answers."
           },
           {
             "type": "head",
-            "text": "1. True Love Requires Authentic Choice (Free Will)"
+            "text": "1. True Love Requires Authentic Free Will"
           },
           {
             "type": "para",
-            "text": "God did not create pre-programmed robots forced to love Him. Authentic love and voluntary worship require the genuine possibility of rejection. Without a choice to obey or disobey, obedience would be entirely meaningless."
+            "text": "God did not create humanity as pre-programmed biological automatons or mindless robots. If a mechanical toy repeats 'I love you,' it carries zero moral worth because it possesses no alternative. God created humans in His own image with genuine volition and moral agency. Obedience is meaningless unless there is a genuine possibility of disobedience. True love can only exist where the freedom to reject God exists."
           },
           {
             "type": "head",
-            "text": "2. The Tree was Not Evil; Rebellion was the Sin"
+            "text": "2. The Tree was Not Evil — Autonomy was the Sin"
           },
           {
             "type": "para",
-            "text": "The tree itself contained no magical poison. It served as a sacred moral boundary reminding humanity that God is the Creator and Lawgiver, and that man is the creature called to trust Him."
+            "text": "Genesis 1:31 records that everything God created was 'very good.' The tree was not poisonous or demonic. Rather, it served as a sacred moral boundary. It reminded finite man that God alone is the ultimate Lawgiver and Creator who defines good and evil. The temptation was not just eating fruit, but the prideful desire to become like God—declaring autonomy from the Creator."
           },
           {
             "type": "verse",
@@ -4872,19 +5142,32 @@
           },
           {
             "type": "head",
-            "text": "3. The First Adam vs. The Last Adam"
+            "text": "3. The Eternal Redemptive Plan of the Lamb"
+          },
+          {
+            "type": "para",
+            "text": "God was never surprised by the Fall. Before the foundation of the world, the Triune God ordained the ultimate display of His glorious grace through the sacrifice of Jesus Christ (1 Peter 1:19-20; Revelation 13:8). The fulness of God's self-giving love, holy justice, and tender mercy could only be revealed through the redemption of fallen sinners."
+          },
+          {
+            "type": "head",
+            "text": "4. The First Adam vs. The Last Adam"
           },
           {
             "type": "point",
-            "text": "The first Adam abused his free will, choosing independence and plunging creation into sin and death."
+            "text": "The First Adam failed in a paradise of abundance, grasping for autonomy and plunging humanity into condemnation."
           },
           {
             "type": "point",
-            "text": "The Last Adam, Jesus Christ, walked in perfect obedience even unto death on the cross, purchasing eternal redemption (Romans 5:19)."
+            "text": "The Last Adam, Jesus Christ, triumphed in a wilderness of temptation and in the agony of Gethsemane ('Not my will, but thine, be done'), offering perfect obedience unto death on the cross."
+          },
+          {
+            "type": "verse",
+            "ref": "Romans 5:19",
+            "text": "For as by one man's disobedience many were made sinners, so by the obedience of one shall many be made righteous."
           },
           {
             "type": "key",
-            "text": "The Tree in Eden marked human freedom and trust; and the Tree of Calvary (the Cross) became the ultimate display of God's redemptive love restoring fallen humanity to eternal life."
+            "text": "The Tree of Knowledge in Eden was the symbol of human freedom and trust; and the Tree of Calvary (the Cross) became the eternal triumph where Jesus reclaimed everything Adam lost, granting us everlasting life."
           }
         ]
       }
