@@ -726,6 +726,61 @@
     "defaultShowText": true
   },
   {
+    "id": "amoled_5",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/nyelia143-cmyk/BibleQuizDatabase@main/wallpapers/dark_amoled_5.webp",
+    "category": "DARK_AMOLED",
+    "titleTe": "వాక్యపు వెలుగు",
+    "verseTe": "నీ వాక్యము నా పాదములకు దీపమును, నా త్రోవకు వెలుగునై యున్నది.",
+    "refTe": "కీర్తనలు 119:105",
+    "verseEn": "Thy word is a lamp unto my feet, and a light unto my path.",
+    "refEn": "Psalm 119:105",
+    "defaultShowText": true
+  },
+  {
+    "id": "amoled_6",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/nyelia143-cmyk/BibleQuizDatabase@main/wallpapers/dark_amoled_6.webp",
+    "category": "DARK_AMOLED",
+    "titleTe": "సిలువ శక్తి",
+    "verseTe": "సిలువను గూర్చిన వార్త, నశించుచున్న వారికి వెఱ్ఱితనము గాని రక్షింపబడుచున్న మనకు దేవుని శక్తి.",
+    "refTe": "1 కొరింథీయులకు 1:18",
+    "verseEn": "For the preaching of the cross is to them that perish foolishness; but unto us which are saved it is the power of God.",
+    "refEn": "1 Corinthians 1:18",
+    "defaultShowText": true
+  },
+  {
+    "id": "amoled_7",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/nyelia143-cmyk/BibleQuizDatabase@main/wallpapers/dark_amoled_7.webp",
+    "category": "DARK_AMOLED",
+    "titleTe": "పరిశుద్ధాత్మ శాంతి",
+    "verseTe": "సమాధానకర్తయగు దేవుడు తానే మిమ్మును సంపూర్ణముగా పరిశుద్ధపరచును గాక.",
+    "refTe": "1 థెస్సలొనీకయులకు 5:23",
+    "verseEn": "And the very God of peace sanctify you wholly.",
+    "refEn": "1 Thessalonians 5:23",
+    "defaultShowText": true
+  },
+  {
+    "id": "amoled_8",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/nyelia143-cmyk/BibleQuizDatabase@main/wallpapers/dark_amoled_8.webp",
+    "category": "DARK_AMOLED",
+    "titleTe": "జీవ కిరీటము",
+    "verseTe": "మరణము వరకు నమ్మకముగా ఉండుము, నేను నీకు జీవకిరీటమిచ్చెదను.",
+    "refTe": "ప్రకటన 2:10",
+    "verseEn": "Be thou faithful unto death, and I will give thee a crown of life.",
+    "refEn": "Revelation 2:10",
+    "defaultShowText": true
+  },
+  {
+    "id": "amoled_9",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/nyelia143-cmyk/BibleQuizDatabase@main/wallpapers/dark_amoled_9.webp",
+    "category": "DARK_AMOLED",
+    "titleTe": "యెహోవాయే నా వెలుగు",
+    "verseTe": "యెహోవా నా వెలుగును నా రక్షణయునై యున్నాడు, నేను ఎవరికి భయపడుదును?",
+    "refTe": "కీర్తనలు 27:1",
+    "verseEn": "The Lord is my light and my salvation; whom shall I fear?",
+    "refEn": "Psalm 27:1",
+    "defaultShowText": true
+  },
+  {
     "id": "eng_1",
     "imageUrl": "https://cdn.jsdelivr.net/gh/nyelia143-cmyk/BibleQuizDatabase@main/wallpapers/cross2.webp",
     "category": "ENGLISH_QUOTES",
