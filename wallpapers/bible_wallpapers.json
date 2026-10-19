@@ -639,7 +639,7 @@
   },
   {
     "id": "promise_2",
-    "imageUrl": "https://cdn.jsdelivr.net/gh/nyelia143-cmyk/BibleQuizDatabase@main/wallpapers/cross6.webp",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/nyelia143-cmyk/BibleQuizDatabase@main/wallpapers/promise_2.webp",
     "category": "PROMISES",
     "titleTe": "దేవుని అద్భుత నిరీక్షణ",
     "verseTe": "దేవుని ప్రేమించువారికి, ఆయన సంకల్పముచొప్పున పిలువబడినవారికి సమస్తమును మేలుకొరకై జరుగుచున్నవి.",
@@ -650,7 +650,7 @@
   },
   {
     "id": "promise_3",
-    "imageUrl": "https://cdn.jsdelivr.net/gh/nyelia143-cmyk/BibleQuizDatabase@main/wallpapers/b8.webp",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/nyelia143-cmyk/BibleQuizDatabase@main/wallpapers/promise_3.webp",
     "category": "PROMISES",
     "titleTe": "ఆశీర్వాదముల వర్షము",
     "verseTe": "తగిన కాలమందు వర్షము కురిపించెదను, అవి ఆశీర్వాదకరమైన వర్షములుగా ఉండును.",
@@ -661,7 +661,7 @@
   },
   {
     "id": "promise_4",
-    "imageUrl": "https://cdn.jsdelivr.net/gh/nyelia143-cmyk/BibleQuizDatabase@main/wallpapers/m6.webp",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/nyelia143-cmyk/BibleQuizDatabase@main/wallpapers/promise_4.webp",
     "category": "PROMISES",
     "titleTe": "జయమునిచ్చు దేవుడు",
     "verseTe": "మన ప్రభువైన యేసుక్రీస్తు మూలముగా మనకు జయము అనుగ్రహించుచున్న దేవునికి స్తోత్రము కలుగును గాక.",
@@ -672,13 +672,24 @@
   },
   {
     "id": "promise_5",
-    "imageUrl": "https://cdn.jsdelivr.net/gh/nyelia143-cmyk/BibleQuizDatabase@main/wallpapers/nature2.webp",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/nyelia143-cmyk/BibleQuizDatabase@main/wallpapers/promise_5.webp",
     "category": "PROMISES",
     "titleTe": "నీతిమంతుల మార్గము",
     "verseTe": "నీతిమంతుల మార్గము పట్టపగలగువరకు అంతకంతకు తేజరిల్లు ప్రకాశమానమైన వెలుగువంటిది.",
     "refTe": "సామెతలు 4:18",
     "verseEn": "The path of the just is as the shining light, that shineth more and more unto the perfect day.",
     "refEn": "Proverbs 4:18",
+    "defaultShowText": true
+  },
+  {
+    "id": "promise_6",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/nyelia143-cmyk/BibleQuizDatabase@main/wallpapers/promise_6.webp",
+    "category": "PROMISES",
+    "titleTe": "ఆశ్రయదుర్గము",
+    "verseTe": "యెహోవా నా బండ, నా కోట, నన్ను రక్షించువాడు, నా దేవుడు, నా ఆశ్రయదుర్గము.",
+    "refTe": "కీర్తనలు 18:2",
+    "verseEn": "The Lord is my rock, and my fortress, and my deliverer; my God, my strength, in whom I will trust.",
+    "refEn": "Psalm 18:2",
     "defaultShowText": true
   },
   {
