@@ -517,6 +517,39 @@
     "defaultShowText": true
   },
   {
+    "id": "morn_11",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/nyelia143-cmyk/BibleQuizDatabase@main/wallpapers/m11.webp",
+    "category": "MORNING",
+    "titleTe": "ప్రాతఃకాల నూతన కృప",
+    "verseTe": "అనుదినము ఆయన వాత్సల్యము నూతనముగా పుట్టుచున్నది; నీవు ఎంతైనా నమ్మదగినవాడవు.",
+    "refTe": "విలాపవాక్యములు 3:23",
+    "verseEn": "They are new every morning: great is thy faithfulness.",
+    "refEn": "Lamentations 3:23",
+    "defaultShowText": true
+  },
+  {
+    "id": "morn_12",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/nyelia143-cmyk/BibleQuizDatabase@main/wallpapers/m12.webp",
+    "category": "MORNING",
+    "titleTe": "ఉదయమున సంతోషము",
+    "verseTe": "సాయంకాలమున ఏడ్పు వచ్చి రాత్రి ఉండినను, ఉదయమున సంతోషము కలుగును.",
+    "refTe": "కీర్తనలు 30:5",
+    "verseEn": "Weeping may endure for a night, but joy cometh in the morning.",
+    "refEn": "Psalm 30:5",
+    "defaultShowText": true
+  },
+  {
+    "id": "morn_13",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/nyelia143-cmyk/BibleQuizDatabase@main/wallpapers/m13.webp",
+    "category": "MORNING",
+    "titleTe": "ఉదయమున నా మొర",
+    "verseTe": "యెహోవా, ఉదయమున నా మొర నీకు వినబడును; ఉదయమున నా ప్రార్థనను నీ సన్నిధిని సిద్ధముచేసి కనిపెట్టుకొందును.",
+    "refTe": "కీర్తనలు 5:3",
+    "verseEn": "My voice shalt thou hear in the morning, O Lord; in the morning will I direct my prayer unto thee.",
+    "refEn": "Psalm 5:3",
+    "defaultShowText": true
+  },
+  {
     "id": "quote_1",
     "imageUrl": "https://cdn.jsdelivr.net/gh/nyelia143-cmyk/BibleQuizDatabase@main/wallpapers/b1.webp",
     "category": "TELUGU_QUOTES",
