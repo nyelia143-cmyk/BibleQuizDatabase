@@ -5171,6 +5171,281 @@
           }
         ]
       }
+    },
+    {
+      "id": "qa_0038",
+      "categoryId": "church_baptism",
+      "order": 3,
+      "diamondCost": 0,
+      "featured": true,
+      "tags": [
+        "బాప్తిస్మము",
+        "సిలువపై దొంగ",
+        "రక్షణ",
+        "Baptism",
+        "Thief on the Cross",
+        "Salvation by Grace",
+        "Faith Alone",
+        "Sacraments"
+      ],
+      "question": {
+        "te": "బాప్తిస్మము రక్షణకు తప్పనిసరిగా అవసరమా? సిలువపై దొంగ బాప్తిస్మం పొందకుండా పరలోకానికి ఎలా వెళ్లాడు?",
+        "en": "Is water baptism strictly necessary for salvation? How did the thief on the cross enter paradise without baptism?"
+      },
+      "shortAnswer": {
+        "te": "రక్షణ అనేది కేవలం యేసుక్రీస్తుపై విశ్వాసము ద్వారా లభించే ఉచిత కృపావరం; బాప్తిస్మము రక్షణకు కారణము కాదు గానీ, రక్షించబడిన వ్యక్తి విధేయతతో బహిరంగంగా క్రీస్తుతో ఐక్యతను ప్రకటించే పవిత్ర సాక్ష్యం.",
+        "en": "Salvation is received solely by grace through faith in Jesus Christ; water baptism does not produce regeneration, but is the vital, public act of obedience testifying to the inner reality of salvation."
+      },
+      "keyVerse": {
+        "book": {
+          "te": "ఎఫెసీయులకు",
+          "en": "Ephesians"
+        },
+        "chapter": 2,
+        "verse": 8,
+        "ref": {
+          "te": "ఎఫెసీయులకు 2:8-9",
+          "en": "Ephesians 2:8-9"
+        },
+        "text": {
+          "te": "మీరు విశ్వాసముద్వారా కృపచేతనే రక్షింపబడియున్నారు; ఇది మీవలన కలిగినది కాదు, దేవుని వరమే; అది క్రియలవలన కలిగినది కాదు గనుక ఎవడును అతిశయపడవీలులేదు.",
+          "en": "For by grace are ye saved through faith; and that not of yourselves: it is the gift of God: Not of works, lest any man should boast."
+        }
+      },
+      "answer": {
+        "te": [
+          {
+            "type": "para",
+            "text": "సంఘ చరిత్రలో మరియు విశ్వాసుల మనస్సులలో తరచుగా తలెత్తే ఒక ముఖ్యమైన సందేహం ఇది: నీటి బాప్తిస్మము పొందనిదే పరలోకానికి వెళ్లలేమా? సిలువపై వ్రేలాడుతున్న దొంగ నీటి బాప్తిస్మం తీసుకోలేదు కదా, మరి యేసు అతనికి పరదైసు వాగ్దానం ఎలా ఇచ్చాడు? ఈ ప్రశ్నకు బైబిల్ ఇచ్చే సంపూర్ణ వేదాంత సత్యాలు ఇక్కడ ఉన్నాయి."
+          },
+          {
+            "type": "head",
+            "text": "1. రక్షణ కేవలం కృపవలన, విశ్వాసము ద్వారానే"
+          },
+          {
+            "type": "para",
+            "text": "పరిశుద్ధ లేఖనాల ప్రకారం పాపి నీతిమంతుడిగా తీర్చబడటానికి (Justification) ఆధారం యేసుక్రీస్తు సిలువ బలియాగమే. ఏ మానవ క్రియ గానీ, బాహ్య ఆచారము గానీ రక్షణను సంపాదించలేదు. రక్షణకు బాప్తిస్మము కారణమైతే, అది క్రియల ద్వారా రక్షణ అవుతుంది. కానీ బైబిల్ స్పష్టంగా చెబుతోంది: రక్షణ దేవుని ఉచిత వరం."
+          },
+          {
+            "type": "head",
+            "text": "2. సిలువపై దొంగ — స్వచ్ఛమైన కృపకు నిదర్శనం"
+          },
+          {
+            "type": "para",
+            "text": "లూకా 23:42-43 లో సిలువపై ఉన్న దొంగ యేసును చూసి: ప్రభువా, నీవు నీ రాజ్యముతో వచ్చునప్పుడు నన్ను జ్ఞాపకము చేసికొనుము అని వేడుకున్నాడు. యేసు అతనితో: నేడు నీవు నాతోకూడ పరదైసులో ఉందువు అని ఖచ్చితమైన వాగ్దానమిచ్చాడు. ఆ దొంగ సిలువ నుండి దిగి నీటి బాప్తిస్మం తీసుకోలేదు, కానుకలు ఇవ్వలేదు, మంచి పనులు చేయలేదు; కేవలం క్రీస్తుపై హృదయపూర్వక విశ్వాసముంచినందుకే రక్షణ పొందాడు. బాప్తిస్మము లేనిదే రక్షణ లేకపోతే ఆ దొంగ పరదైసుకు వెళ్లడం అసాధ్యమయ్యేది."
+          },
+          {
+            "type": "head",
+            "text": "3. బాప్తిస్మము యొక్క నిజమైన ప్రాముఖ్యత ఏమిటి?"
+          },
+          {
+            "type": "para",
+            "text": "బాప్తిస్మము రక్షణకు కారణం కాకపోయినా, అది రక్షించబడిన ప్రతి విశ్వాసికి ప్రభువు ఇచ్చిన ప్రాముఖ్యమైన ఆజ్ఞ. వివాహ ఉంగరం వివాహాన్ని కలిగించదు, కానీ తాను వివాహం చేసుకున్నానని లోకానికి ప్రకటించే గుర్తు. అలాగే బాప్తిస్మము అనేది అంతరంగంలో ఇప్పటికే జరిగిన నూతన జన్మకు బహిరంగ సాక్ష్యం."
+          },
+          {
+            "type": "point",
+            "text": "నీటిలో మునుగుట అనగా క్రీస్తుతో కూడా పాపము విషయమై మరణించి పాతిపెట్టబడుట."
+          },
+          {
+            "type": "point",
+            "text": "నీటిలో నుండి లేచుట అనగా క్రీస్తు పునరుత్థాన జీవములో నూతన వ్యక్తిగా జీవించుట (రోమీయులకు 6:3-4)."
+          },
+          {
+            "type": "verse",
+            "ref": "1 పేతురు 3:21",
+            "text": "బాప్తిస్మము శరీర మలమును తీసివేయుట కాదు గాని, దేవుని యెదుట నిర్దోషమైన మనస్సాక్షినిచ్చు ప్రత్యుత్తరముగా ఉండి, యేసుక్రీస్తు పునరుత్థానము ద్వారా ఇప్పుడు మిమ్మును రక్షించుచున్నది."
+          },
+          {
+            "type": "key",
+            "text": "మనం రక్షించబడేది బాప్తిస్మము వలన కాదు, క్రీస్తు నందలి విశ్వాసము వలననే; అయితే మనం రక్షించబడ్డాము గనుక ప్రభువుకు విధేయత చూపి ఆనందముతో బాప్తిస్మము పొందుతాము. అవకాశం ఉండి కూడా బాప్తిస్మాన్ని నిరాకరించడం అవిధేయత."
+          }
+        ],
+        "en": [
+          {
+            "type": "para",
+            "text": "One of the most persistent theological debates concerns the relationship between water baptism and eternal salvation: Is baptism strictly necessary to go to heaven? If so, how could the dying thief on the cross be welcomed into Paradise without being baptized? Scripture provides clear, balanced answers."
+          },
+          {
+            "type": "head",
+            "text": "1. Salvation is by Grace Alone Through Faith Alone"
+          },
+          {
+            "type": "para",
+            "text": "Scripture consistently teaches that a sinner is justified solely through faith in the finished work of Jesus Christ (Romans 3:28, 5:1; Ephesians 2:8-9). If water baptism were required to regenerate the soul, salvation would be based on human physical works rather than pure grace. Good works follow salvation; they do not produce it."
+          },
+          {
+            "type": "head",
+            "text": "2. The Thief on the Cross: Proof of Pure Grace"
+          },
+          {
+            "type": "para",
+            "text": "In Luke 23:42-43, the crucified thief repented and asked Jesus: Lord, remember me when thou comest into thy kingdom. Jesus replied with absolute authority: Verily I say unto thee, To day shalt thou be with me in paradise. The thief never stepped into baptismal waters, never joined a local church, and never performed good deeds. Yet, by genuine faith in Jesus, he was instantly granted eternal life."
+          },
+          {
+            "type": "head",
+            "text": "3. The True Biblical Purpose of Water Baptism"
+          },
+          {
+            "type": "para",
+            "text": "While baptism does not save, it is the vital, joyful first step of obedience commanded by Christ for every believer (Matthew 28:19). A wedding ring does not make two people married, but it is the outward public symbol of their covenant union. Similarly, baptism is the outward public declaration of the inward transformation that has already occurred."
+          },
+          {
+            "type": "point",
+            "text": "Immersion in water symbolizes being buried with Christ in His death to sin."
+          },
+          {
+            "type": "point",
+            "text": "Rising out of the water symbolizes walking in newness of resurrection life with Christ (Romans 6:3-4)."
+          },
+          {
+            "type": "verse",
+            "ref": "1 Peter 3:21",
+            "text": "The like figure whereunto even baptism doth also now save us (not the putting away of the filth of the flesh, but the answer of a good conscience toward God,) by the resurrection of Jesus Christ."
+          },
+          {
+            "type": "key",
+            "text": "We are not saved because we are baptized; we are baptized because we are saved! Baptism is an outward testimony of inward faith, commanded for all who have the opportunity to obey."
+          }
+        ]
+      }
+    },
+    {
+      "id": "qa_0039",
+      "categoryId": "end_times",
+      "order": 4,
+      "diamondCost": 0,
+      "featured": true,
+      "tags": [
+        "మరణం",
+        "పరదైసు",
+        "ఆత్మ",
+        "పునరుత్థానం",
+        "Death",
+        "Paradise",
+        "Soul after Death",
+        "Intermediate State",
+        "Resurrection"
+      ],
+      "question": {
+        "te": "మరణించిన వెంటనే విశ్వాసి ఆత్మ ఎక్కడికి వెళ్తుంది? పరదైసు అంటే ఏమిటి?",
+        "en": "Where does a believer’s soul go immediately after death? What is Paradise?"
+      },
+      "shortAnswer": {
+        "te": "విశ్వాసి మరణించిన మరుక్షణమే అతని ఆత్మ దేహమును విడిచి ప్రభువు సన్నిధియైన ‘పరదైసు’లోనికి సచేతనమైన ఆనందముతో చేరుతుంది; అంత్యదినమున శరీరం మహిమ శరీరముగా పునరుత్థానమవుతుంది.",
+        "en": "The moment a believer dies, their soul is immediately in the conscious, joyful presence of the Lord in Paradise, awaiting the final bodily resurrection at Christ’s return."
+      },
+      "keyVerse": {
+        "book": {
+          "te": "2 కొరింథీయులకు",
+          "en": "2 Corinthians"
+        },
+        "chapter": 5,
+        "verse": 8,
+        "ref": {
+          "te": "2 కొరింథీయులకు 5:8",
+          "en": "2 Corinthians 5:8"
+        },
+        "text": {
+          "te": "మేము ధైర్యముగలిగి యీ దేహమును విడిచిపెట్టి ప్రభువునొద్ద నివసించుటకు ఇష్టపడుచున్నాము.",
+          "en": "We are confident, I say, and willing rather to be absent from the body, and to be present with the Lord."
+        }
+      },
+      "answer": {
+        "te": [
+          {
+            "type": "para",
+            "text": "ప్రియమైన వారిని కోల్పోయినప్పుడు లేదా మరణాన్ని ఎదుర్కొంటున్నప్పుడు ప్రతి విశ్వాసి హృదయంలో కలిగే అత్యంత సున్నితమైన ప్రశ్న ఇది: కన్ను మూసిన వెంటనే నా ఆత్మ ఎక్కడికి వెళ్తుంది? ఆత్మ ఎక్కడైనా నిద్రపోతుందా (Soul Sleep) లేక దేవుని సన్నిధికి చేరుతుందా? ఈ గంభీరమైన ప్రశ్నకు పరిశుద్ధ గ్రంథం ఇస్తున్న ఆదరణకరమైన వెలుగు ఇక్కడ ఉంది."
+          },
+          {
+            "type": "head",
+            "text": "1. మరణం — దేహమును విడిచి ప్రభువు వద్దకు చేరుట"
+          },
+          {
+            "type": "para",
+            "text": "క్రైస్తవునికి మరణం అనేది జీవితపు అంతం కాదు; అది కేవలం నివాసాన్ని మార్చుకోవడమే! అపొస్తలుడైన పౌలు 2 కొరింథీయులకు 5:8 లో స్పష్టంగా ప్రకటించాడు: ‘దేహమును విడిచిపెట్టుట అనగా ప్రభువునొద్ద నివసించుట.’ అలాగే ఫిలిప్పీయులకు 1:23 లో పౌలు: ‘దేహమును విడిచిపెట్టి క్రీస్తుతోకూడ ఉండవలెనని నాకు ఆశయున్నది, అది మిక్కిలి మేలు’ అని చెప్పాడు. విశ్వాసి ప్రాణం విడిచిన మరుక్షణమే స్పృహతో కూడిన మహిమగల క్రీస్తు సన్నిధిలోకి ప్రవేశిస్తాడు."
+          },
+          {
+            "type": "head",
+            "text": "2. పరదైసు (Paradise) అంటే ఏమిటి?"
+          },
+          {
+            "type": "para",
+            "text": "‘పరదైసు’ అనే పదానికి మూలభాషలో ‘అందమైన రాజోద్యానవనం’ అని అర్థం. యేసుక్రీస్తు సిలువపై మరణిస్తున్న దొంగతో: ‘నేడు నీవు నాతోకూడ పరదైసులో ఉందువు’ (లూకా 23:43) అని చెప్పాడు. 2 కొరింథీయులకు 12:2-4 లో పౌలు పరదైసును ‘మూడవ పరలోకము’గా వర్ణించాడు. ఇది రక్షించబడిన పరిశుద్ధుల ఆత్మలు క్రీస్తుతో కూడ సంపూర్ణ శాంతిని, ఆనందాన్ని అనుభవించే నివాస స్థలం."
+          },
+          {
+            "type": "head",
+            "text": "3. అంత్యదినమున మహిమ శరీర పునరుత్థానం"
+          },
+          {
+            "type": "para",
+            "text": "మరణించిన విశ్వాసి ఆత్మ ప్రస్తుతం పరదైసులో దేవుని సన్నిధిలో ఉన్నప్పటికీ, దేవుని సంపూర్ణ రక్షణ ప్రణాళికలో దేహ పునరుత్థానం కూడా ఉంది. క్రీస్తు రెండవ రాకడలో, ప్రభువునందు నిద్రించినవారి మృతదేహాలు సమాధులనుండి అక్షయమైన, బలమైన, ఆత్మసంబంధమైన మహిమ శరీరాలుగా పునరుత్థానమవుతాయి (1 కొరింథీయులకు 15:42-44, 1 థెస్సలొనీకయులకు 4:16-17)."
+          },
+          {
+            "type": "point",
+            "text": "విశ్వాసి మరణించిన వెంటనే: ఆత్మ క్రీస్తుతో కూడా పరదైసులో ఉంటుంది."
+          },
+          {
+            "type": "point",
+            "text": "క్రీస్తు రెండవ రాకడలో: శరీరం మార్పునొంది పునరుత్థానమై ఆత్మతో తిరిగి ఏకమవుతుంది."
+          },
+          {
+            "type": "verse",
+            "ref": "ప్రకటన 14:13",
+            "text": "ఇప్పటినుండి ప్రభువునందు మృతిపొందు మృతులు ధన్యులు... వారు తమ ప్రయాసములు మాని విశ్రాంతి పొందుదురు."
+          },
+          {
+            "type": "key",
+            "text": "విశ్వాసికి మరణం శత్రువు కాదు, అది క్రీస్తు ముఖదర్శనమును పొందుకొనే విజయద్వారము; కన్ను మూసిన మరుక్షణమే క్రీస్తు అమూల్యమైన ప్రేమ ఒడిలో శాశ్వత ఆనందాన్ని పొందుకుంటాము."
+          }
+        ],
+        "en": [
+          {
+            "type": "para",
+            "text": "When facing personal mortality or mourning the departure of godly loved ones, believers rightly ask: What happens to the soul the moment physical life ceases? Is there an unconscious state like ‘soul sleep,’ or do we immediately awaken in the glorious presence of God? Scripture offers profound comfort and clarity."
+          },
+          {
+            "type": "head",
+            "text": "1. Absent from the Body, Present with the Lord"
+          },
+          {
+            "type": "para",
+            "text": "For a follower of Jesus Christ, physical death is not cessation of existence; it is simply changing earthly residence for heaven! In 2 Corinthians 5:8, the Apostle Paul proclaims: ‘We are confident, I say, and willing rather to be absent from the body, and to be present with the Lord.’ In Philippians 1:23, he affirms that departing this earthly tent to be with Christ is ‘far better.’ The believer enters conscious, radiant fellowship with Jesus immediately upon their last heartbeat."
+          },
+          {
+            "type": "head",
+            "text": "2. What is Paradise?"
+          },
+          {
+            "type": "para",
+            "text": "The term ‘Paradise’ derives from an ancient word meaning a magnificent royal garden or walled pleasure park. On the cross, Jesus promised the repentant thief: ‘To day shalt thou be with me in paradise’ (Luke 23:43). In 2 Corinthians 12:2-4, Paul identifies Paradise with the ‘third heaven’—the immediate, unhindered dwelling place of God where redeemed souls rest in perfect peace and celestial joy."
+          },
+          {
+            "type": "head",
+            "text": "3. The Ultimate Hope: Bodily Resurrection"
+          },
+          {
+            "type": "para",
+            "text": "While the disembodied soul enjoys the intermediate bliss of Paradise right now, God’s ultimate redemptive plan includes the redemption of our physical bodies. At Christ’s glorious return, the dead in Christ shall be raised imperishable, immortal, and spiritual—reunited as glorified, complete persons for all eternity (1 Corinthians 15:42-54; 1 Thessalonians 4:16)."
+          },
+          {
+            "type": "point",
+            "text": "Immediately at Death: The soul is present with Christ in Paradise."
+          },
+          {
+            "type": "point",
+            "text": "At Christ’s Return: The body is resurrected and glorified, reunited with the soul."
+          },
+          {
+            "type": "verse",
+            "ref": "Revelation 14:13",
+            "text": "Blessed are the dead which die in the Lord from henceforth: Yea, saith the Spirit, that they may rest from their labours; and their works do follow them."
+          },
+          {
+            "type": "key",
+            "text": "For the believer, physical death has lost its sting; it is the golden doorway into the warm embrace of the Savior, where tears cease and everlasting joy begins."
+          }
+        ]
+      }
     }
   ]
 }
